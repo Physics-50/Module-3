@@ -36,6 +36,6 @@ Module 3 is four weeks long. Each week, except the last week, you will have a ch
 2. [Week 2 - Hypothesis Testing Phase (part 1)](week2)
     - Checkpoint: A figure with best values for the wavelength of your laser pointer for results from two different diffraction gratings (500 lines/mm and 1000 lines/mm)
 3. Week 3 - Hypothesis Testing Phase (part 2)
-    - Checkpoint: Revisiting of the analysis for checkpoint (2), plus a measurement of the spacing of a CD.
+    - A figure with revised best values for the wavelength of your laser pointer and details of the approach taken to improve the accuracy of the results.
 4. Week 4 - Scientific Communication Phase
     - Deliverable: a scientific poster communicating your results.
