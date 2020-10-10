@@ -30,7 +30,9 @@ Figure 2: The diffraction pattern from a monochromatic light source traveling th
 The mathematical details of how the interference pattern comes about in are covered Physics 51 but the take-away is this. After passing through the single slit aperture the beam will form a central,&nbsp;spread-out bright peak and several less bright peaks on either side. The separation between the brightest peak and the next-brightest peak depends upon the frequency and wavelength of the monochromatic (single-wavelength) source as well as the size of the slit and the distance between the slit and the screen upon which you are observing the pattern. The narrower the slit the larger the distance between dark spots (minima).
 <p style="text-align: justify;">Now let's imagine the laser light passes through two slits in the slide rather than one.&nbsp; In other words, the laser beam is now incident upon an opaque slide that has <em>two</em> narrow, identical slits that the light can pass through, as shown below in figure 3.</p>
 
-<img class="size-full wp-image-1868" src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/10/double-slit.png" alt="" width="300" height="241"> Figure 3: a slide with two identical slits
+<img class="size-full wp-image-1868" src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/10/double-slit.png" alt="" width="300" height="241"> 
+
+Figure 3: a slide with two identical slits
 <p style="text-align: justify;">The light passing through two slits will now create a pattern as shown below in figure 4.</p>
 
 
