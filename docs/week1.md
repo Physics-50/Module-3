@@ -40,7 +40,7 @@ What similarities and differences do you observe between the single slit (figure
 
 The latter arrangement is Thomas Young's famous double-slit experiment and is an excellent demonstration of the wave-like properties of light. While this experiment is well known for demonstrating the wave nature of light, it also allows the experimenter to measure the wavelength and frequency of the light source, in this case a laser. These are properties of light on which many scientific experiments depend, such as LIGO (the Laser Interferometer Gravitational Wave Observatory, the facility behind the 2017 Nobel Prize in Physics) as well as everyday technology such as blu-ray players, grocery-store bar code scanners, and more.
 
-Note: below is the derivation for the interference pattern due to double slit interference. However, please don't get bogged down in the details. The takeaway (#takeaway) is further down.
+Note: below is the derivation for the interference pattern due to double slit interference. However, please don't get bogged down in the details. The [takeaway is further down] (#takeaway).
 
 Let us now work out some of the mathematical relationships between the observed diffraction patterns and the experimental parameters of our system, following the schematic diagram in figure 5 below. Once we know these relationships we can use slits with known properties to study the wavelength of light, or conversely use light with a known wavelength to study the properties of a particular set of slits.
 
