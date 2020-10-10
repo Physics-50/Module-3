@@ -11,7 +11,7 @@
 
 --------------
 
-In this module you will be studying a light interference effect called <strong>diffraction</strong>. This phenomenon will allow you to measure the wavelength of visible light (of the order $latex 10^{-6}$ meters), and optionally, to measure the spacing of tracks on a CD!
+In this module you will be studying a light interference effect called <strong>diffraction</strong>. This phenomenon will allow you to measure the wavelength of visible light (of the order $$ 10^{-6}$$ meters), and optionally, to measure the spacing of tracks on a CD!
 
 ## Background Theory
 
