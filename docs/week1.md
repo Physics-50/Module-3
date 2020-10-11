@@ -10,7 +10,7 @@
 --------------
 1. [Background Theory](#background-theory)
 2. [Summary of Key Formulae from Theory](#takeaway)
-3. [Instrumentation](#instrumentation)
+3. [Setting up your experiment](#Setting)
 4. [Exploratory Measurements](#exploratory-measurements) (and continued in Week 2)
 5. Designing the Experiment (Week 2)
 
@@ -24,10 +24,11 @@ In special relativity we treated light as individual particles of light called p
 
 Before we get into the mathematical details of how electromagnetic waves behave let us get a better visualization of what is happening by thinking about water waves. In the right half of the photo below (taken by Google Earth off the Australian coastline) we can see water waves traveling as a&nbsp;<em>plane wave</em>&nbsp;from right to left.
 
-<img class="size-full wp-image-1870" src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/10/water-diffraction-ocean.jpg" alt="" width="800" height="528"> Figure 1: A photo off the coast of Australia showing the diffraction of a wave as it passes from right to left through an aperture, or opening, in an otherwise barrier of rocks. Photo credit Google Earth.
+<img class="size-full wp-image-1870" src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/10/water-diffraction-ocean.jpg" alt="" width="500" height="330"> Figure 1: A photo off the coast of Australia showing the diffraction of a wave as it passes from right to left through an aperture, or opening, in an otherwise barrier of rocks. Photo credit Google Earth.
 
 As the wave travels it hits a barrier of rocks with an opening (aperture) that allows the wave to pass through. Notice, however, that the water coming out of this aperture is no longer a flat plane wave but rather is coming out in a circular manner traveling away from the center of the aperture. It is as though the aperture is a wave source of its own, sending waves out in <em>all</em> directions rather than just the initial right-to-left direction! The water wave&nbsp;<em>bends </em>as it passes through the aperture; this is diffraction.
-<p style="text-align: justify;">Let us now return to light. When a plane wave of light passes through an aperture it, like the water wave, bends and changes shape. In fact, if you send a single laser beam through a narrow slit and observe the light that has passed through the slit on a screen (serving as a backdrop) then you will see two main effects, as shown below in figure 2.&nbsp; First, the light spreads out over a much broader angle than the original laser beam -- even though the slit was much narrower than the original laser beam.&nbsp; This behavior is similar to what we saw for water waves in the photo above:&nbsp; a narrow aperture sends waves out in all directions, not just the original direction.&nbsp; Second, the spread-out light displays an interference pattern.&nbsp; The interference pattern comes from superposition of waves spreading out from the different spots within the narrow slit; it's difficult to observe in the water case because of some numerical values that are different between the ocean water example and the laser light example.</p>
+
+Let us now return to light. When a plane wave of light passes through an aperture it, like the water wave, bends and changes shape. In fact, if you send a single laser beam through a narrow slit and observe the light that has passed through the slit on a screen (serving as a backdrop) then you will see two main effects, as shown below in figure 2.&nbsp; First, the light spreads out over a much broader angle than the original laser beam -- even though the slit was much narrower than the original laser beam.&nbsp; This behavior is similar to what we saw for water waves in the photo above:&nbsp; a narrow aperture sends waves out in all directions, not just the original direction.&nbsp; Second, the spread-out light displays an interference pattern.&nbsp; The interference pattern comes from superposition of waves spreading out from the different spots within the narrow slit; it's difficult to observe in the water case because of some numerical values that are different between the ocean water example and the laser light example.</p>
 
 <img class="wp-image-1878 size-full" src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/10/single-slit.jpg" alt="" width="600" height="236"> 
 Figure 2: The diffraction pattern from a monochromatic light source traveling through a single slit aperture.
@@ -72,12 +73,23 @@ where&nbsp;<em>x</em> is the distance between the central maximum and the first 
 
 ## Takeaway
 
-One can use this equation to measure the the spacing between slits that are less than a tenth of a millimeter apart using nothing but a meter stick!
+One can use the above equation to measure the the spacing between slits that are less than a tenth of a millimeter apart using nothing but a meter stick!
 
-Notice how we derived this equation by measuring the distance $$ x$$ between the first antinode and the central maximum. A similar equation follows by measuring the distance $$ \chi$$ between the $$m^th$$ antinode and the central maximum.&nbsp; The only difference is that now the path difference is $$ m\lambda$$ as opposed to just $$ \lambda$$. In this case, the generalized equation is $$\frac{\chi}{L}= \frac{m\lambda}{d}. \tag{2}\label{eq:youngs}$$ Note, however, that as one proceeds further away from the central maximum, the assumption that the paths from the two slits to $$ H_i$$ are parallel to each other may begin to break down.
+Notice how we derived this equation by measuring the distance $$ x$$ between the first antinode and the central maximum. A similar equation follows by measuring the distance $$ \chi$$ between the $$m^th$$ antinode and the central maximum.&nbsp; The only difference is that now the path difference is $$ m\lambda$$ as opposed to just $$ \lambda$$. In this case, the generalized equation is 
 
-An analogous argument would allow us to derive the formula for single slit diffraction. In this case we are interested not in the interference between light passing through two slits but between light passing through different regions of the same slit. Since not all paths through the slit are the same length, we will see constructive and destructive interference. The resulting interference is very similar to the equation for double slit diffraction. Details are discussed in physics 51. Diffraction minima occur when $$\frac{\chi}{L}= \frac{m\lambda}{a} \tag{2}\label{eq:single}$$ where a is the slit width.</p>
-<p style="text-align: justify;">This week, we shall apply this theory to the study of diffraction gratings and LCD screens. Remember that our analysis, leading to equation (1), was a simplified model and deals only with the interference between light waves coming from the two slits.&nbsp; Thus equation (1) predicts the separation between the central spot and the next bright spot in figure 4, not in figure 2.&nbsp; To analyze the bright/dim pattern in figure 2 (or the broader bright/dim pattern overlaid on the narrow stripes in figure 4), additional theory would be required.
+$$\frac{\chi}{L}= \frac{m\lambda}{d}. $$ 
+
+Note, however, that as one proceeds further away from the central maximum, the assumption that the paths from the two slits to $$ H_i$$ are parallel to each other may begin to break down.
+
+An analogous argument would allow us to derive the formula for single slit diffraction. In this case we are interested not in the interference between light passing through two slits but between light passing through different regions of the same slit. Since not all paths through the slit are the same length, we will see constructive and destructive interference. The resulting interference is very similar to the equation for double slit diffraction. Details are discussed in physics 51. Diffraction minima occur when $$\frac{\chi}{L}= \frac{m\lambda}{a} \tag{2}\label{eq:single}$$ where a is the slit width.
+
+This week, we shall apply this theory to the study of diffraction gratings. Remember that our analysis, leading to equation (1), was a simplified model and deals only with the interference between light waves coming from the two slits.&nbsp; Thus equation (1) predicts the separation between the central spot and the next bright spot in figure 4, not in figure 2.&nbsp; To analyze the bright/dim pattern in figure 2 (or the broader bright/dim pattern overlaid on the narrow stripes in figure 4), additional theory would be required.
+
+## Setting up your experiment
+
+We will begin by setting up to do diffraction measurements. Find a room where you can turn out the lights and work in the dark. You will need a workspace with a vertical support such as a wall to which you can mount the grid paper we provided you with. Go ahead and mount the grid paper (e.g. tape it to a wall).</p>
+<p style="padding-left: 30px;" align="justify">We don't want the laser light shooting across the room, please make sure when you set up your laser pointer that it is directed toward the wall with the mounted grid paper and not toward yourself or family members. But NEVER check this, or the alignment of the various items, by placing your eye directly in the laser beam path.&nbsp; Even if you are sure the laser is currently off, you should <strong>never look directly down the beam path.</strong>
+
 
 ## Formulating a Hypothesis
 
