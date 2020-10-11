@@ -1,3 +1,8 @@
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    TeX: { equationNumbers: { autoNumber: "all" } }
+  });
+</script>
 # Week 1: Exploratory Phase
 
 <img src="images/exploratory-phase.png" alt="Exploratory Phase" width="400"/>
@@ -58,16 +63,18 @@ To formulate an expression for the wavelength of the monochromatic source, we zo
 Figure 6. Note: lengths not to scale. Because L &gt;&gt; x&gt;d, we make the assumption gamma ~ 0, implying that the line between Slit 1 and H_1 is parallel to the line connecting B and H_1 and also to that connecing Slit2 and H_1; alpha ~ 90 degrees.&nbsp; The supplement of alpha must also be ~90 degrees. Further geometric and trigonometric analyses yield (1).
 
 Additionally, because we know that the two superimposed waves from Slit 1 and Slit 2 are in phase when they arrive at $$ H_1$$ (and not anywhere else between $$ H_1$$ and $$ H_0$$), it must be that the difference between the path lengths $$\overline{Slit2H_1}$$&nbsp; and $$ \overline{Slit1H_1}$$ is the wavelength $$\lambda$$ of the monochromatic source. That is, $$ \lambda = \overline{Slit2A}$$. It follows, therefore, that $$ \lambda \approx d \sin \theta $$ But since, under these conditions where the screen is much further away than the slits are separated, $latex \theta \approx \beta$, we also have that $$ \tan \theta \approx \tan\beta = x / L$$. If the angle $$ \theta$$ is small then we can use the small angle approximation $$\sin \theta \approx \tan\theta$$. Equating these two tangent expressions gives us 
+
 $$\begin{equation}
 \frac{x}{L}= \frac{\lambda}{d}. 
 \end{equation}$$ 
+
 where&nbsp;<em>x</em> is the distance between the central maximum and the first bright spot, <em>L</em> is the distance between the slit and the screen, $$ \lambda $$ is the wavelength of the laser and&nbsp;<em>d</em> is the spacing between the slits.
 
 ## Takeaway
 
 One can use this equation to measure the the spacing between slits that are less than a tenth of a millimeter apart using nothing but a meter stick!
 
-Notice how we derived this equation by measuring the distance $$ x$$ between the first antinode and the central maximum. A similar equation follows by measuring the distance $$ \chi$$ between the $$m$$th antinode and the central maximum.&nbsp; The only difference is that now the path difference is $$ m\lambda$$ as opposed to just $$ \lambda$$. In this case, the generalized equation is $$\frac{\chi}{L}= \frac{m\lambda}{d}. \tag{2}\label{eq:youngs}$$ Note, however, that as one proceeds further away from the central maximum, the assumption that the paths from the two slits to $$ H_i$$ are parallel to each other may begin to break down.
+Notice how we derived this equation by measuring the distance $$ x$$ between the first antinode and the central maximum. A similar equation follows by measuring the distance $$ \chi$$ between the $$m^th$$ antinode and the central maximum.&nbsp; The only difference is that now the path difference is $$ m\lambda$$ as opposed to just $$ \lambda$$. In this case, the generalized equation is $$\frac{\chi}{L}= \frac{m\lambda}{d}. \tag{2}\label{eq:youngs}$$ Note, however, that as one proceeds further away from the central maximum, the assumption that the paths from the two slits to $$ H_i$$ are parallel to each other may begin to break down.
 
 An analogous argument would allow us to derive the formula for single slit diffraction. In this case we are interested not in the interference between light passing through two slits but between light passing through different regions of the same slit. Since not all paths through the slit are the same length, we will see constructive and destructive interference. The resulting interference is very similar to the equation for double slit diffraction. Details are discussed in physics 51. Diffraction minima occur when $$\frac{\chi}{L}= \frac{m\lambda}{a} \tag{2}\label{eq:single}$$ where a is the slit width.</p>
 <p style="text-align: justify;">This week, we shall apply this theory to the study of diffraction gratings and LCD screens. Remember that our analysis, leading to equation (1), was a simplified model and deals only with the interference between light waves coming from the two slits.&nbsp; Thus equation (1) predicts the separation between the central spot and the next bright spot in figure 4, not in figure 2.&nbsp; To analyze the bright/dim pattern in figure 2 (or the broader bright/dim pattern overlaid on the narrow stripes in figure 4), additional theory would be required.
