@@ -10,7 +10,7 @@
 --------------
 1. [Background Theory](#background-theory)
 2. [Summary of Key Formulae from Theory](#takeaway)
-3. [Setting up your experiment](#Setting)
+3. [Setting up your experiment](#Setting-up-your-experiment)
 4. [Exploratory Measurements](#exploratory-measurements) (and continued in Week 2)
 5. Designing the Experiment (Week 2)
 
@@ -88,9 +88,10 @@ This week, we shall apply this theory to the study of diffraction gratings. Reme
 ## Setting up your experiment
 
 We will begin by setting up to do diffraction measurements. Find a room where you can turn out the lights and work in the dark. You will need a workspace with a vertical support such as a wall to which you can mount the grid paper we provided you with. Go ahead and mount the grid paper (e.g. tape it to a wall).</p>
-<p style="padding-left: 30px;" align="justify">We don't want the laser light shooting across the room, please make sure when you set up your laser pointer that it is directed toward the wall with the mounted grid paper and not toward yourself or family members. But NEVER check this, or the alignment of the various items, by placing your eye directly in the laser beam path.&nbsp; Even if you are sure the laser is currently off, you should <strong>never look directly down the beam path.</strong>
 
+We don't want the laser light shooting across the room, please make sure when you set up your laser pointer that it is directed toward the wall with the mounted grid paper and not toward yourself or family members. But NEVER check this, or the alignment of the various items, by placing your eye directly in the laser beam path.&nbsp; Even if you are sure the laser is currently off, you should <strong>never look directly down the beam path.</strong>
 
+We will begin by setting up the experiment. Attach the diffraction grating to the binder clip, shown in figure 7.
 ## Formulating a Hypothesis
 
 We can now try to think of a hypothesis we can test with an experiment. As a quick check, according to the theory, which of factors will affect a measurement of $$\theta_c$$?
