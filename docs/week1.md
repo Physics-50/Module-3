@@ -91,7 +91,9 @@ We will begin by setting up to do diffraction measurements. Find a room where yo
 
 We don't want the laser light shooting across the room, please make sure when you set up your laser pointer that it is directed toward the wall with the mounted grid paper and not toward yourself or family members. But NEVER check this, or the alignment of the various items, by placing your eye directly in the laser beam path. Even if you are sure the laser is currently off, you should <strong>never look directly down the beam path.</strong>
 
-We will begin by setting up the experiment. Attach the diffraction grating to the binder clip, shown in figure 7.
+We will begin by setting up the experiment. Attach the diffraction grating to the binder clip, shown below:
+
+<img src="images/diff-grating_mount.JPG" alt="Mounting your diffraction grating" width="600"/>
 
 
 
