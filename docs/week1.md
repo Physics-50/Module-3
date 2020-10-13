@@ -112,7 +112,7 @@ Use two additional binder clips to mount the laser as shown (making sure that th
 Take note that you can position the binder clip in such a way as to keep the laser on while taking measurements (but remember to turn it off in between to conserve your batteries). Turn off your laser when inserting new components into the beam path</strong>; it is hard to make sure that stray reflections don't momentarily hit someone in the eye while inserting pieces of glass into a beam path.
 
 Position the diffraction grating between the laser and screen. 
-<img src="images/module3-configuration.JPG" alt="Experimental Set-up" width="600"/>
+<img src="images/module3-configuration.JPG" alt="Experimental Set-up" width="400"/>
 
 You will want to use the grid paper and tape measure to measure the spacing between interference maxima as well as the distance of the diffraction grating from the screen. In planning your experiment you will want to think about how to do this as accurately as possible. What are the dominant sources of error. What can you do to minimize systematic error? Even when you've done your best to reduce systematic error, some will remain. What can you do to randomize the remaining systematic error? Why is this helpful?
 
