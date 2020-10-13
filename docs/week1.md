@@ -10,7 +10,7 @@
 2. [Summary of Key Formulae from Theory](#takeaway)
 3. [Setting up your experiment](#setting-up-your-experiment)
 4. [Exploratory Measurements](#exploratory-measurements) 
-5. [Checkpoint 1] (#checkpoint-1)
+5. [Checkpoint 1](#checkpoint-1)
 
 --------------
 
