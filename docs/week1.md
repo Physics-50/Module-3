@@ -9,8 +9,8 @@
 1. [Background Theory](#background-theory)
 2. [Summary of Key Formulae from Theory](#takeaway)
 3. [Setting up your experiment](#setting-up-your-experiment)
-4. [Exploratory Measurements](#exploratory-measurements) (and continued in Week 2)
-5. Designing the Experiment (Week 2)
+4. [Exploratory Measurements](#exploratory-measurements) 
+5. [Checkpoint 1] (#checkpoint-1)
 
 --------------
 
@@ -120,6 +120,8 @@ For this module we expect you to set-up your own spreadsheet but if you start fr
  lab notebook and spreadsheet not yet assigned, above link is for module 1
 
 Think about which parameters correspond to x,L, and d in your experimental set-up, as compared to the theory above. (You will find it helpful to notice that the number of slits per mm is written on the front of the diffraction grating). <strong>Make sure you are using one of the diffraction gratings with 500 lines/mm. </strong>
+
+## Exploratory Measurements
 
 By adjusting the position of the diffraction grating collect appropriate data to plot x v.s. L or L v.s. x (you should plot whichever parameter has the greater relative uncertainty on the y-axis).
 
