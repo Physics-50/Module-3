@@ -5,8 +5,6 @@
 </script>
 # Week 1: Exploratory Phase
 
-<img src="images/exploratory-phase.png" alt="Exploratory Phase" width="400"/>
-
 --------------
 1. [Background Theory](#background-theory)
 2. [Summary of Key Formulae from Theory](#takeaway)
@@ -94,18 +92,14 @@ We don't want the laser light shooting across the room, please make sure when yo
 We will begin by setting up the experiment. Attach the diffraction grating to the binder clip, shown below:
 
 <img src="images/diff-grating_mount.JPG" alt="Mounting your diffraction grating" width="600"/>
+A diffraction grating is essentially just an array of slits placed right next to each other, with a very small slit distance <em>d</em>&nbsp;between each (on the order of one slit per micron!). Each neighboring pair of slits can be thought of as a double slit. Based on the pre-lab reading (you might want to look back to [this section](#takeaway)
+) what do you think will happen to the location of the interference maxima (antinodes) when the spacing between slits becomes very small?
 
 
+#### Miniquestion: Spacing of Interference Maxima
+[*Click here to open in a new tab*](https://docs.google.com/forms/d/e/1FAIpQLSd0DalK3dCoRR8n6thQmaJmh4ctFmaWsDRalbRIW35mO1FA_w/viewform){:target="_blank"}
 
-## Formulating a Hypothesis
-
-We can now try to think of a hypothesis we can test with an experiment. As a quick check, according to the theory, which of factors will affect a measurement of $$\theta_c$$?
-
-#### Miniquestion: Critical Angle Factors
-[*Click here to open in a new tab*](https://docs.google.com/forms/d/e/1FAIpQLSfsx8s07WCsCfoSiP2k2TAldJ-59ZFq16UpUFlPugfHGEq38w/viewform){:target="_blank"}
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfsx8s07WCsCfoSiP2k2TAldJ-59ZFq16UpUFlPugfHGEq38w/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
-</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd0DalK3dCoRR8n6thQmaJmh4ctFmaWsDRalbRIW35mO1FA_w/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 -----
 
@@ -129,7 +123,15 @@ Share your ideas and check out what others are doing at [Piazza: Instrumentation
 
 To measure the angle we will use your phone or a tablet as the tool. Please go to [phyphox.org](https://phyphox.org){:target="_blank"} (or to the app store on your device) and download the phyphox app. After downloading, find the "Inclination" tool and test that it works correctly with your phone.
 
-<img src="images/phyphox.png" alt="phyphox.org inclination tool" width="400"/>
+<img src="images/phyphox.png" alt="phyphox.org inclination tool" width="600"/>
+
+
+
+
+
+
+
+
 
 Make note of your equipment in your lab notebook (record keeping is so important) and record any other notes you think might be helpful if someone else was trying to replicate your setup. 
 
