@@ -39,10 +39,11 @@ Now let's imagine the laser light passes through two slits in the slide rather t
 **Figure 3:** a slide with two identical slits.
 
 
-<p style="text-align: justify;">The light passing through two slits will now create a pattern as shown below in figure 4.</p>
+The light passing through two slits will now create a pattern as shown below in figure 4.
 
 
-<img class="size-full wp-image-1881" src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/10/double-slit-green.jpg" alt="" width="600" height="236"> **Figure 4:** Diffraction pattern from laser light passing through a double slit.
+<img src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/10/double-slit-green.jpg" alt="" width="600" height="236"> 
+**Figure 4:** Diffraction pattern from laser light passing through a double slit.
 What similarities and differences do you observe between the single slit (figure 2) and double slit patterns?
 
 The latter arrangement is Thomas Young's famous double-slit experiment and is an excellent demonstration of the wave-like properties of light. While this experiment is well known for demonstrating the wave nature of light, it also allows the experimenter to measure the wavelength and frequency of the light source, in this case a laser. These are properties of light on which many scientific experiments depend, such as LIGO (the Laser Interferometer Gravitational Wave Observatory, the facility behind the 2017 Nobel Prize in Physics) as well as everyday technology such as blu-ray players, grocery-store bar code scanners, and more.
@@ -51,9 +52,9 @@ Note: below is the derivation for the interference pattern due to double slit in
 
 Let us now work out some of the mathematical relationships between the observed diffraction patterns and the experimental parameters of our system, following the schematic diagram in figure 5 below. Once we know these relationships we can use slits with known properties to study the wavelength of light, or conversely use light with a known wavelength to study the properties of a particular set of slits.
 
-<img class="wp-image-1859 size-full" src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/10/WavesBest2.png" alt="" width="1000" height="250"> 
+<img src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/10/WavesBest2.png" alt=" " width="600"/> 
 
-**Figure 5:** Simplified interference pattern for an electromagnetic wave propagating through a double slit. The bold dots emphasize constructive interference. Here, H_i denotes the ith antinode (a point of high intensity), x the distance $$|H_0-H_1|$$, d the slit separation distance, and L the distance from the slit plane to the background on which the interference pattern is observed. Note that the distances displayed in the figure are not to scale. In reality, d&lt;&lt; L and d&lt;x.
+Simplified interference pattern for an electromagnetic wave propagating through a double slit. The bold dots emphasize constructive interference. Here, $$H_i$$ denotes the ith antinode (a point of high intensity), $$x$$ the distance $$\vert H_0-H_1 \vert$$, $$d$$ the slit separation distance, and $$L$$ the distance from the slit plane to the background on which the interference pattern is observed. Note that the distances displayed in the figure are not to scale. In reality, $$d<<L$$ and $$d<<x$$.
 
 In figure 5, a light beam incident on a double slit is initially a plane wave moving in one direction (upwards from the bottom of the diagram). When the wave hits the barrier with the two slits, the wave essentially splits into two smaller waves that emanate from the two slits. This is called <strong>Huygen's principle</strong>. Interference between the two expanding waves causes a pattern of bright spots -- antinodes -- and dark spots -- nodes -- on the screen. $$ H_0$$ and $$ H_1$$ denote the position of the central and first non-central antinode, respectively, and we define $$ x = \lvert H_0 - H_1 \rvert $$ to be the antinode separation distance. Let $$ d $$ be the slit separation distance and $$ L $$ the distance from the slit plane to the background upon which the interference pattern is observed. While figure 5 is a schematic of a double-slit interference experiment, we can also think of it as the pattern of waves produced by dropping two stones simultaneously into a calm body of water. Here the separation distance between the two stones is analogous to the slit separation distance $$ d $$. The ripples produced by a single stone will propagate outward in concentric circles about the location where the stone contacted the water. In the figure, bold dots represent positions where wave crests are interfering constructively with each other---that is, a subset of the positions where the two waves are in phase and superpose. Notice that constructive interference happens at certain angles away from the upwards, or straight-ahead, direction, leading to the specific bright spots $$ H_i $$ on the screen.
 
