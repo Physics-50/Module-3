@@ -122,46 +122,6 @@ Think about which parameters correspond to x,L, and d in your experimental set-u
 By adjusting the position of the diffraction grating collect appropriate data to plot x v.s. L or L v.s. x (you should plot whichever parameter has the greater relative uncertainty on the y-axis).
 
 
-## Exploratory Measurements
-
-The exploratory measurements can be a fun part of the experimental process. You get to play around with your setup and make some observations! You can really let your curiosity and creativity guide you in this part of the experimental process. 
-
-For your exploratory measurements in Module 1, we would like you to do the following:
-
-+ Perform a single measurement to check that you are getting a reasonable answer
-
-+ Get an understanding of the repeatability of your measurement 
-
-+ Perform a preliminary test of your hypothesis
-
-+ Check other factors that might affect your measurement (this is where you get to play!)
-
-The steps below guide you through these four items, and provide links to important concepts (so please follow along carefully). Make sure you are recording your exploratory observations as you go so that you have a record of them (reminder: we have set up [a spreadsheet for you on Google Classroom](https://classroom.google.com/c/MTI2NjQ0NDEyMTAx/a/MTI3ODQ4MDY2NDMx/details){:target="_blank"}, use the "Exploratory Observations" tab to record your data in this section).
-
-
-#### 1 Perform a Single Measurement
-
-Usually one of the first exploratory steps is to use your equipment to take a single measurement. We want to make sure that our measurement (in this case, $$\theta_c$$) will lead to a reasonable value of the calculated quantity we are trying to obtain ($$\mu_s$$). We also want to get a sense of the resolution of our measurement device and how that will affect the uncertainty measured in the calculated quantity. 
-
-+ Place the block on the ramp and slowly raise the ramp while keeping an eye on the plane inclination measurement on the phyphox app. Record in the spreadsheet the value of the angle you observe just before slipping (in other words, perform a single measurement of $$\theta_c$$).
-
-
-+ The "Uncertainty Introduction" has information we are going to need in Ph50 about treating sources of experimental uncertainty. Please first read both the [overview on uncertainties](uncertainty-introduction#overview){:target="_blank"} and also about [resolution uncertainty](uncertainty-introduction#resolution-uncertainty){:target="_blank"} ($$\approx$$ 5 minutes).  
-
-    Then record the resolution uncertainty for the critical angle $$\delta_\mathrm{res.} \theta_c$$ in your exploratory observations spreadsheet.
-
-| $$\theta_c$$ (degrees) | $$\delta_\mathrm{res.} \theta_c $$ (degrees) |
-|:-----------------------:|:---------------------------------------------:|
- | ...            |   ... |
-
-
-+ Calculate $$\mu_s$$ from your single measurement of $$\theta_c$$ (using the relationship you derived in the [background reading](#background-reading)). 
-
-*Friendly reminder: convert the angle from degrees to radians in your Google Sheet calculation. **You also need to convert your uncertainty in the angle from degrees to radians in the same manner**.*
-
-+ Learn how to propagate uncertainties from this video of Prof. Gerbode explaining how to propagate uncertainty in $$\theta_c$$ to uncertainty in $$\mu_s$$ and answer the mini-question below
-
-[![Click on the link to get to the video](images/uncertainty-propagation-video-preview.png)](https://drive.google.com/file/d/1ilJNsVSgB_asmDdfjQwoyRdhedsSjaWO/view?usp=sharing){:target="_blank"}
 
 
 --------
