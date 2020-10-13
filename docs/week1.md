@@ -103,6 +103,13 @@ A diffraction grating is essentially just an array of slits placed right next to
 
 -----
 
+Use two additional binder clips to mount the laser as shown (making sure that the laser is pointing towards a wall/screen at all times when on):
+<img src="images/laser_mount.JPG" alt="Mounting your laser" width="600"/>
+
+Take note that you can position the binder clip in such a way as to keep the laser on while taking measurements (but remember to turn it off in between to conserve your batteries)
+
+
+
 Based on this answer, try to come up with some hypotheses you could try to test. The theory makes specific predictions, and you can use those predictions to form the basis of a hypothesis. Post some of your ideas and check out others [on the "Hypotheses" note on Piazza](https://piazza.com/class/kdyuyniyaz052s?cid=7){:target="_blank"}.
 
 **For Module 1 we will all test the same hypothesis. The hypothesis we will test is:**
