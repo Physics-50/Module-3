@@ -92,8 +92,7 @@ We don't want the laser light shooting across the room, please make sure when yo
 We will begin by setting up the experiment. Attach one of the 500 lines/mm diffraction gratings to the binder clip, as shown below:
 
 <img src="images/diff-grating_mount.JPG" alt="Mounting your diffraction grating" width="600"/>
-A diffraction grating is essentially just an array of slits placed right next to each other, with a very small slit distance <em>d</em>&nbsp;between each (on the order of one slit per micron!). Each neighboring pair of slits can be thought of as a double slit. Based on the pre-lab reading (you might want to look back to [this section](#takeaway)
-) what do you think will happen to the location of the interference maxima (antinodes) when the spacing between slits becomes very small?
+A diffraction grating is essentially just an array of slits placed right next to each other, with a very small slit distance <em>d</em>&nbsp;between each (on the order of one slit per micron!). Each neighboring pair of slits can be thought of as a double slit. 
 
 -----
 
