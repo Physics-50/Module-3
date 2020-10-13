@@ -107,7 +107,7 @@ A diffraction grating is essentially just an array of slits placed right next to
 
 
 Use two additional binder clips to mount the laser as shown (making sure that the laser is pointing towards a wall/screen at all times when on):
-<img src="images/laser_mount.JPG" alt="Mounting your laser" width="400"/>
+<img src="images/laser_mount.JPG" alt="Mounting your laser" width="300"/>
 
 Take note that you can position the binder clip in such a way as to keep the laser on while taking measurements (but remember to turn it off in between to conserve your batteries). Turn off your laser when inserting new components into the beam path</strong>; it is hard to make sure that stray reflections don't momentarily hit someone in the eye while inserting pieces of glass into a beam path.
 
