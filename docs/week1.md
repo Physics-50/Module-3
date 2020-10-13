@@ -95,14 +95,14 @@ We will begin by setting up the experiment. Attach one of the 500 lines/mm diffr
 A diffraction grating is essentially just an array of slits placed right next to each other, with a very small slit distance <em>d</em>&nbsp;between each (on the order of one slit per micron!). Each neighboring pair of slits can be thought of as a double slit. Based on the pre-lab reading (you might want to look back to [this section](#takeaway)
 ) what do you think will happen to the location of the interference maxima (antinodes) when the spacing between slits becomes very small?
 
+-----
 
 #### Miniquestion: Spacing of Interference Maxima
 [*Click here to open in a new tab*](https://docs.google.com/forms/d/e/1FAIpQLSd0DalK3dCoRR8n6thQmaJmh4ctFmaWsDRalbRIW35mO1FA_w/viewform){:target="_blank"}
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd0DalK3dCoRR8n6thQmaJmh4ctFmaWsDRalbRIW35mO1FA_w/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
------
-
+------------------------------
 Use two additional binder clips to mount the laser as shown (making sure that the laser is pointing towards a wall/screen at all times when on):
 <img src="images/laser_mount.JPG" alt="Mounting your laser" width="600"/>
 
