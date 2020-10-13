@@ -124,44 +124,25 @@ Think about which parameters correspond to x,L, and d in your experimental set-u
 
 By adjusting the position of the diffraction grating collect appropriate data to plot x v.s. L or L v.s. x (you should plot whichever parameter has the greater relative uncertainty on the y-axis).
 
+Once you have collected the appropriate data, you will make use of Matlab to perform a best fit analysis. Make sure to consider relevant sources of both resolution uncertainty and random error in determining the uncertainty of your data points. Just as we performed a weighted average in module 2, our best fit analysis should weight our data points in terms of their individual uncertainties.
 
+We need a Matlab tutorial on best fit with uncertainties
 
-
---------
-
-#### Miniquestion: Uncertainty Propagation
-*[Click here to open in a new tab](https://docs.google.com/forms/d/e/1FAIpQLSdxJPMhqDtPMvSZN0lv1p0JURr3jssV2tglvVg8tRweqEczVw/viewform){:target="_blank"}*
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdxJPMhqDtPMvSZN0lv1p0JURr3jssV2tglvVg8tRweqEczVw/viewform?embedded=true" width="640" height="303" frameborder="0" marginheight="0" marginwidth="0">Loading…
-</iframe>
-
-------------------------------
-
-After watching the video from Prof. Gerbode, let's return to your measurement of $$\mu_s$$ from $$\theta_c$$:
-
-+  Calculate the resolution uncertainty in measuring the coefficient of static friction $$\delta_\mathrm{res.} \mu_s$$ by propagating your uncertainty $$\delta_\mathrm{res.} \theta_c$$. Derive any formulas you use in your lab notebook.
-
-| $$\mu_s$$  | $$\delta_\mathrm{res.} \mu_s $$ |
-|:-----------------------:|:---------------------------------------------:|
- | ...            |   ... |
-
-
-Comment on whether your measured value is reasonable (e.g. is $$\mu_s$$ within the limits of allowable values, i.e. between 0 and infinity?  With a quick google search, is it similar to $$\mu_s$$ for similar surfaces? Is your fractional resolution uncertainty reasonably small,  (fractional resolution uncertainty $$\equiv \frac{\delta_\mathrm{res.} \mu_s}{\mu_s}<<1$$)? In other words, confirm that the uncertainty in $$\mu_s$$ less than the value of $$\mu_s$$ itself?
-
-*At this point, if your answer were to be unreasonable or you were unable to calculate the quantity you are interested in testing (in our case $$\mu_s$$), then it would be a good idea to carefully rethink your measurement. Doing this initial single measurement and check can save a lot of time, especially when the experimental setup gets more complicated as it will later in the course. If you're stuck, [post a question up on our Piazza site](https://piazza.com/class/kdyuyniyaz052s){:target="_blank"} and [come to Office Hours](https://sakai.claremont.edu/portal/site/CX_mtg_130832/page/8bb99f43-12a4-4f97-8e47-802814328a26){:target=_"blank"}*
-
-Before you submit Checkpoint 1, let's first double-check your procedure. Using the exact same procedure as you did to calculate your $$\mu_s$$  and  $$\delta_\mathrm{res.} \mu_s $$ above, complete the following miniquestion with a different measurement of $$\theta_c$$:
-
-#### Miniquestion: Calculating coefficient of static friction and resolution uncertainty
-[*Click here to open in a new tab*](https://docs.google.com/forms/d/e/1FAIpQLSePneKoMuKH7PGq0k1jKHiPh6WaRmbSR3SvevviarDiG6Yn3Q/viewform){:target="_blank"}
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSePneKoMuKH7PGq0k1jKHiPh6WaRmbSR3SvevviarDiG6Yn3Q/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
-</iframe>
+You should make use of your data, the best fit analysis and the provided theory to determine the wavelength of your laser. You will need to use the methods you have been taught in the previous units to propogate your uncertainty and determine the uncertainty in your final result.<strong>You have been provided with four diffraction gratings but for this week you only need to present results from one of the 500 line/mm diffraction gratings.</strong>
 
 -------------
 
 ## Checkpoint 1
 
+You should submit the following on Gradescope:
+
++ The plot used to determine the wavelength of your laser. This plot must include the uncertainties on your data points and include a line of best fit that has been determined with a weighted fit. As always make sure to include units on your axis labels.
+
++ The slope you obtained from your plot including the uncertainty. Please include the appropriate units.
+
++ The wavelength you have determined for your laser with uncertainty.
+
+These links are from a previous module and need to be updated:
 + [Submit the results of your single measurement on Gradescope](https://www.gradescope.com/courses/165932/assignments/605297){:target="_blank"}
 
 + And to double-check, make sure you have finished all of this week's mini-questions by [checking here](mini-questions#week-1){:target="_blank"}
