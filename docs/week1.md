@@ -89,7 +89,7 @@ We will begin by setting up to do diffraction measurements. Find a room where yo
 
 We don't want the laser light shooting across the room, please make sure when you set up your laser pointer that it is directed toward the wall with the mounted grid paper and not toward yourself or family members. But NEVER check this, or the alignment of the various items, by placing your eye directly in the laser beam path. Even if you are sure the laser is currently off, you should <strong>never look directly down the beam path.</strong>
 
-We will begin by setting up the experiment. Attach the diffraction grating to the binder clip, shown below:
+We will begin by setting up the experiment. Attach one of the 500 lines/mm diffraction gratings to the binder clip, as shown below:
 
 <img src="images/diff-grating_mount.JPG" alt="Mounting your diffraction grating" width="600"/>
 A diffraction grating is essentially just an array of slits placed right next to each other, with a very small slit distance <em>d</em>&nbsp;between each (on the order of one slit per micron!). Each neighboring pair of slits can be thought of as a double slit. Based on the pre-lab reading (you might want to look back to [this section](#takeaway)
@@ -106,15 +106,20 @@ A diffraction grating is essentially just an array of slits placed right next to
 Use two additional binder clips to mount the laser as shown (making sure that the laser is pointing towards a wall/screen at all times when on):
 <img src="images/laser_mount.JPG" alt="Mounting your laser" width="600"/>
 
-Take note that you can position the binder clip in such a way as to keep the laser on while taking measurements (but remember to turn it off in between to conserve your batteries)
+Take note that you can position the binder clip in such a way as to keep the laser on while taking measurements (but remember to turn it off in between to conserve your batteries). Turn off your laser when inserting new components into the beam path</strong>; it is hard to make sure that stray reflections don't momentarily hit someone in the eye while inserting pieces of glass into a beam path.
 
+Position the diffraction grating between the laser and screen. 
+<img src="images/module3-configuration.JPG" alt="Experimental Set-up" width="600"/>
 
+You will want to use the grid paper and tape measure to measure the spacing between interference maxima as well as the distance of the diffraction grating from the screen. In planning your experiment you will want to think about how to do this as accurately as possible. What are the dominant sources of error. What can you do to minimize systematic error? Even when you've done your best to reduce systematic error, some will remain. What can you do to randomize the remaining systematic error? Why is this helpful?
 
-Based on this answer, try to come up with some hypotheses you could try to test. The theory makes specific predictions, and you can use those predictions to form the basis of a hypothesis. Post some of your ideas and check out others [on the "Hypotheses" note on Piazza](https://piazza.com/class/kdyuyniyaz052s?cid=7){:target="_blank"}.
+For this module we expect you to set-up your own spreadsheet but if you start from the blank spreadsheet we've shared with you the sharing permissions will be set-up so that we can see your work) [assigned from Google Classroom](https://classroom.google.com/c/MTI2NjQ0NDEyMTAx/a/MTI3ODQ4MDY2NDMx/details){:target="_blank"}. Organizing your spreadsheet carefully will make your work easier.
 
-**For Module 1 we will all test the same hypothesis. The hypothesis we will test is:**
+ lab notebook and spreadsheet not yet assigned, above link is for module 1
 
-*"The coefficient of static friction between two surfaces as measured by the critical angle at which an object slips is independent of its mass."*
+Think about which parameters correspond to x,L, and d in your experimental set-up, as compared to the theory above. (You will find it helpful to notice that the number of slits per mm is written on the front of the diffraction grating). <strong>Make sure you are using one of the diffraction gratings with 500 lines/mm. </strong>
+
+By adjusting the position of the diffraction grating collect appropriate data to plot x v.s. L or L v.s. x (you should plot whichever parameter has the greater relative uncertainty on the y-axis).
 
 ## Instrumentation
 
