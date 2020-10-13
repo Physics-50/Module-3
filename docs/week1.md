@@ -36,6 +36,7 @@ The mathematical details of how the interference pattern comes about in are cove
 Now let's imagine the laser light passes through two slits in the slide rather than one.  In other words, the laser beam is now incident upon an opaque slide that has <em>two</em> narrow, identical slits that the light can pass through, as shown below in figure 3.
 
 <img class="size-full wp-image-1868" src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/10/double-slit.png" alt="" width="300" height="241"> 
+
 **Figure 3:** a slide with two identical slits.
 
 
