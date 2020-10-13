@@ -8,7 +8,7 @@
 --------------
 1. [Background Theory](#background-theory)
 2. [Summary of Key Formulae from Theory](#takeaway)
-3. [Setting up your experiment](#Setting-up-your-experiment)
+3. [Setting up your experiment](#setting-up-your-experiment)
 4. [Exploratory Measurements](#exploratory-measurements) (and continued in Week 2)
 5. Designing the Experiment (Week 2)
 
@@ -83,7 +83,7 @@ An analogous argument would allow us to derive the formula for single slit diffr
 
 This week, we shall apply this theory to the study of diffraction gratings. Remember that our analysis, leading to equation (1), was a simplified model and deals only with the interference between light waves coming from the two slits.&nbsp; Thus equation (1) predicts the separation between the central spot and the next bright spot in figure 4, not in figure 2.&nbsp; To analyze the bright/dim pattern in figure 2 (or the broader bright/dim pattern overlaid on the narrow stripes in figure 4), additional theory would be required.
 
-## Setting up your experiment
+## Setting Up Your Experiment
 
 We will begin by setting up to do diffraction measurements. Find a room where you can turn out the lights and work in the dark. You will need a workspace with a vertical support such as a wall to which you can mount the grid paper we provided you with. Go ahead and mount the grid paper (e.g. tape it to a wall).
 
