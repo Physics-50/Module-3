@@ -121,31 +121,6 @@ Think about which parameters correspond to x,L, and d in your experimental set-u
 
 By adjusting the position of the diffraction grating collect appropriate data to plot x v.s. L or L v.s. x (you should plot whichever parameter has the greater relative uncertainty on the y-axis).
 
-## Instrumentation
-
-Now that we've decided what we hypothesis we are going to test, we need to figure out what equipment and experimental tools we are going to use. For this module, we are going to make use of whatever you have on hand. 
-
-You will need a "block" and a "ramp" (e.g. a hard pencil case on a hardcover textbook) that satisfy the following requirements:
-
-+ both items need to have flat, rigid surfaces
-+ when you tilt the ramp, the block needs to slide without rolling or tipping
-+ a way to add mass to the block without changing the surfaces in contact between the block and ramp
-
-Share your ideas and check out what others are doing at [Piazza: Instrumentation for Module 1](https://piazza.com/class/kdyuyniyaz052s?cid=8){:target="_blank"}.
-
-To measure the angle we will use your phone or a tablet as the tool. Please go to [phyphox.org](https://phyphox.org){:target="_blank"} (or to the app store on your device) and download the phyphox app. After downloading, find the "Inclination" tool and test that it works correctly with your phone.
-
-<img src="images/phyphox.png" alt="phyphox.org inclination tool" width="600"/>
-
-
-
-
-
-
-
-
-
-Make note of your equipment in your lab notebook (record keeping is so important) and record any other notes you think might be helpful if someone else was trying to replicate your setup. 
 
 ## Exploratory Measurements
 
