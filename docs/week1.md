@@ -150,4 +150,4 @@ These links are from a previous module and need to be updated:
 
 
 
-When you're all finished and ready to move on, you can start [Week 2 - Exploratory Phase (part 2)](week2).
+When you're all finished and ready to move on, you can start [Week 2 - Hypothesis Testing Phase (part 1)](week2).
