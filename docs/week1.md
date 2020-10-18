@@ -22,20 +22,20 @@ In special relativity we treated light as individual particles of light called p
 
 Before we get into the mathematical details of how electromagnetic waves behave let us get a better visualization of what is happening by thinking about water waves. In the right half of the photo below (taken by Google Earth off the Australian coastline) we can see water waves traveling as a <em>plane wave</em> from right to left.
 
-<img class="size-full wp-image-1870" src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/10/water-diffraction-ocean.jpg" alt="" width="500" height="330">**Figure 1:** A photo off the coast of Australia showing the diffraction of a wave as it passes from right to left through an aperture, or opening, in an otherwise barrier of rocks. Photo credit Google Earth.
+<img src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/10/water-diffraction-ocean.jpg" alt="" width="500" height="330">**Figure 1:** A photo off the coast of Australia showing the diffraction of a wave as it passes from right to left through an aperture, or opening, in an otherwise barrier of rocks. Photo credit Google Earth.
 
 As the wave travels it hits a barrier of rocks with an opening (aperture) that allows the wave to pass through. Notice, however, that the water coming out of this aperture is no longer a flat plane wave but rather is coming out in a circular manner traveling away from the center of the aperture. It is as though the aperture is a wave source of its own, sending waves out in <em>all</em> directions rather than just the initial right-to-left direction! The water wave <em>bends </em>as it passes through the aperture; this is diffraction.
 
 Let us now return to light. When a plane wave of light passes through an aperture it, like the water wave, bends and changes shape. In fact, if you send a single laser beam through a narrow slit and observe the light that has passed through the slit on a screen (serving as a backdrop) then you will see two main effects, as shown below in figure 2.  First, the light spreads out over a much broader angle than the original laser beam -- even though the slit was much narrower than the original laser beam.  This behavior is similar to what we saw for water waves in the photo above:  a narrow aperture sends waves out in all directions, not just the original direction.  Second, the spread-out light displays an interference pattern. The interference pattern comes from superposition of waves spreading out from the different spots within the narrow slit; it's difficult to observe in the water case because of some numerical values that are different between the ocean water example and the laser light example.
 
-<img class="wp-image-1878 size-full" src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/10/single-slit.jpg" alt="" width="600" height="236"> 
+<img src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/10/single-slit.jpg" alt="" width="600" height="236"> 
 **Figure 2:** The diffraction pattern from a monochromatic light source traveling through a single slit aperture.
 
 The mathematical details of how the interference pattern comes about in are covered Physics 51 but the take-away is this. After passing through the single slit aperture the beam will form a central,spread-out bright peak and several less bright peaks on either side. The separation between the brightest peak and the next-brightest peak depends upon the frequency and wavelength of the monochromatic (single-wavelength) source as well as the size of the slit and the distance between the slit and the screen upon which you are observing the pattern. The narrower the slit the larger the distance between dark spots (minima).
 
 Now let's imagine the laser light passes through two slits in the slide rather than one.  In other words, the laser beam is now incident upon an opaque slide that has <em>two</em> narrow, identical slits that the light can pass through, as shown below in figure 3.
 
-<img class="size-full wp-image-1868" src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/10/double-slit.png" alt="" width="300" height="241"> 
+<img src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/10/double-slit.png" alt="" width="300" height="241"> 
 
 **Figure 3:** a slide with two identical slits.
 
@@ -62,10 +62,10 @@ In figure 5, a light beam incident on a double slit is initially a plane wave mo
 To formulate an expression for the wavelength of the monochromatic source, we zoom in on the light waves near the slits, as shown in Figure 6 below. Here, point $$B$$ denotes the spot halfway between the two slits, <em>i.e.</em>, the midpoint of $$ d$$. The line segments $$ \overline{BH_1}$$ and $$ \overline{BH_0}$$ represent the constructive interference paths leading from the slits to $$ H_1$$ and $$ H_0$$, respectively, as shown in Figure 1. Because $$ L\gg d$$, it follows that $$ \overline{BH_1}\gg d$$, and also that both segments $$ \overline{Slit1H_1}$$ and $$ \overline{Slit2H_1}\gg d$$. Under these extreme inequalities, we make the assumption $$ \gamma = 0^{\circ}$$, which implies that $$ \alpha = 90^{\circ}$$. (<em>Note:</em> The picture greatly exaggerates the distance $$ d$$, so it does not look like the approximation is valid. You might try re-drawing the figure with a much smaller $$ d$$ and/or much larger $$ L$$ to get a sense for why the approximation works.  In real situations $$ L$$ is often at least six orders of magnitude greater than $$ d$$. That's the difference between <em>one centimeter</em> and <em>ten kilometers</em>.) It follows that $$ \overline{Slit1H_1}\parallel\overline{BH_1}\parallel\overline{Slit2H_1}$$.
 
 
-<img class="wp-image-1865" src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/10/Waves6-2-1024x765.png" alt="" width="600"> 
+<img src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/10/Waves6-2-1024x765.png" alt="" width="600"> 
 **Figure 6.** Note: lengths not to scale. Because L &gt;&gt; x&gt;d, we make the assumption $$\gamma \approx 0$$, implying that the line between Slit 1 and $$H_1$$ is parallel to the line connecting B and $$H_1$$ and also to that connecting Slit2 and $$H_1$$; $$\alpha \approx 90^\circ$$.  The supplement of alpha must also be $$\approx 90^\circ$$. Further geometric and trigonometric analyses yield Eq.\eqref{eq:x_L}.
 
-Additionally, because we know that the two superimposed waves from Slit 1 and Slit 2 are in phase when they arrive at $$ H_1$$ (and not anywhere else between $$ H_1$$ and $$ H_0$$), it must be that the difference between the path lengths $$\overline{Slit2H_1}$$  and $$ \overline{Slit1H_1}$$ is the wavelength $$\lambda$$ of the monochromatic source. That is, $$ \lambda = \overline{Slit2A}$$. It follows, therefore, that $$ \lambda \approx d \sin \theta $$ But since, under these conditions where the screen is much further away than the slits are separated, $latex \theta \approx \beta$, we also have that $$ \tan \theta \approx \tan\beta = x / L$$. If the angle $$ \theta$$ is small then we can use the small angle approximation $$\sin \theta \approx \tan\theta$$. Equating these two tangent expressions gives us 
+Additionally, because we know that the two superimposed waves from Slit 1 and Slit 2 are in phase when they arrive at $$ H_1$$ (and not anywhere else between $$ H_1$$ and $$ H_0$$), it must be that the difference between the path lengths $$\overline{Slit2H_1}$$  and $$ \overline{Slit1H_1}$$ is the wavelength $$\lambda$$ of the monochromatic source. That is, $$ \lambda = \overline{Slit2A}$$. It follows, therefore, that $$ \lambda \approx d \sin \theta $$ But since, under these conditions where the screen is much further away than the slits are separated, $$\theta \approx \beta$$, we also have that $$ \tan \theta \approx \tan\beta = x / L$$. If the angle $$ \theta$$ is small then we can use the small angle approximation $$\sin \theta \approx \tan\theta$$. Equating these two tangent expressions gives us 
 
 \begin{equation}\label{eq:x_L}
 \frac{x}{L}= \frac{\lambda}{d}. 
@@ -112,7 +112,7 @@ A diffraction grating is essentially just an array of slits placed right next to
 Use two additional binder clips to mount the laser as shown (making sure that the laser is pointing towards a wall/screen at all times when on):
 <img src="images/laser_mount.JPG" alt="Mounting your laser" width="300"/>
 
-Take note that you can position the binder clip in such a way as to keep the laser on while taking measurements (but remember to turn it off in between to conserve your batteries). Turn off your laser when inserting new components into the beam path</strong>; it is hard to make sure that stray reflections don't momentarily hit someone in the eye while inserting pieces of glass into a beam path.
+Take note that you can position the binder clip in such a way as to keep the laser on while taking measurements (but remember to turn it off in between to conserve your batteries). **Turn off your laser when inserting new components into the beam path**; it is hard to make sure that stray reflections don't momentarily hit someone in the eye while inserting pieces of glass into a beam path.
 
 Position the diffraction grating between the laser and screen. 
 <img src="images/module3-configuration.JPG" alt="Experimental Set-up" width="150"/>
@@ -121,9 +121,13 @@ You will want to use the grid paper and tape measure to measure the spacing betw
 
 For this module we expect you to set-up your own spreadsheet but if you start from the blank spreadsheet we've shared with you the sharing permissions will be set-up so that we can see your work) [assigned from Google Classroom](https://classroom.google.com/c/MTI2NjQ0NDEyMTAx/a/MTI3ODQ4MDY2NDMx/details){:target="_blank"}. Organizing your spreadsheet carefully will make your work easier.
 
- lab notebook and spreadsheet not yet assigned, above link is for module 1
+<span style="color:red"> lab notebook and spreadsheet not yet assigned, above link is for module 1</span>
 
-Think about which parameters correspond to x,L, and d in your experimental set-up, as compared to the theory above. (You will find it helpful to notice that the number of slits per mm is written on the front of the diffraction grating). <strong>Make sure you are using one of the diffraction gratings with 500 lines/mm. </strong>
+Think about which parameters correspond to x,L, and d in your experimental set-up, as compared to the theory above. (You will find it helpful to notice that the number of slits per mm is written on the front of the diffraction grating). <strong>Make sure you are using one of the diffraction gratings with 500 lines/mm. </strong> Label each of your diffraction gratings, so you know which one you used this week.
+
+
+<span style="color:red"> add miniquesiton about what $$d$$ values are included in the kit </span>
+
 
 ## Exploratory Measurements
 

@@ -4,14 +4,14 @@
 
 [Weekly Plan](#weekly-plan)
 + [Week 1 - Exploratory Phase](week1)
-+ [Week 2 - Hypothesis Testing Phase (part 1)](week2)
-+ [Week 3 - Hypothesis Testing Phase (part 2)](week3)
++ Week 2 - Hypothesis Testing Phase (part 1)
++ Week 3 - Hypothesis Testing Phase (part 2)
 + Week 4 - Scientific Communication Phase
 
 [Background Reading](#background-reading)
 
 
-## Module 1 Overview 
+## Module 3 Overview 
 
 ### Learning Objectives
 
@@ -33,7 +33,7 @@ Module 3 is four weeks long. Each week, except the last week, you will have a ch
 
 1. [Week 1 - Exploratory Phase](week1)
     - Checkpoint: preliminary measurement of the wavelength of your laser pointer using the provided diffraction grating with 500 lines/mm
-2. [Week 2 - Hypothesis Testing Phase (part 1)](week2)
+2. Week 2 - Hypothesis Testing Phase (part 1)
     - Checkpoint: A figure with best values for the wavelength of your laser pointer for results from two different diffraction gratings (500 lines/mm and 1000 lines/mm)
 3. Week 3 - Hypothesis Testing Phase (part 2)
     - A figure with revised best values for the wavelength of your laser pointer and details of the approach taken to improve the accuracy of the results.
