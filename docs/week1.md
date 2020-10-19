@@ -126,7 +126,12 @@ For this module we expect you to set-up your own spreadsheet but if you start fr
 Think about which parameters correspond to x,L, and d in your experimental set-up, as compared to the theory above. (You will find it helpful to notice that the number of slits per mm is written on the front of the diffraction grating). <strong>Make sure you are using one of the diffraction gratings with 500 lines/mm. </strong> Label each of your diffraction gratings, so you know which one you used this week.
 
 
-<span style="color:red"> add miniquesiton about what $$d$$ values are included in the kit </span>
+#### Miniquestion: Spacing of Diffraction Gratings
+*[Click here to open in a new tab](https://docs.google.com/forms/d/e/1FAIpQLSeF85mLdADYHRDn3v3ciPKl8TPqTIbpI7X9c-1N7DUKFsP9PA/viewform){:target="_blank"}*
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeF85mLdADYHRDn3v3ciPKl8TPqTIbpI7X9c-1N7DUKFsP9PA/viewform?embedded=true" width="640" height="736" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+
 
 
 ## Exploratory Measurements
