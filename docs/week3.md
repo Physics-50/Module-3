@@ -74,11 +74,8 @@ Analogous to the argument that was made in week 1, we can generalize this formul
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScpGsKwbwDvNv5msFADlcFoWF8CY_G4U0_RSpt-ZVFbyhsycA/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
 </iframe>
 ------------------------------
-## Setting Up Your Experiment
 
-Last week you did an exploratory measurement to determine the wavelength of your laser pointer. This week your goal is to collect more data to more accurately measure the wavelength. Before you start collecting data this week, think about sources of uncertainty in the exploratory measurements you did last week. What do you believe were the most significant sources of uncertainty. What can you do to reduce these sources of uncertainty this week? Are there sources of systematic error than can be randomized? 
-
-When collecting data this week you will repeat the experiment with the two different spacings of diffraction grating that were provided and compare the results.
+With this in mind, please go back and recalculate your wavelength with uncertainty for your data.
 
 
 -------------
@@ -87,13 +84,15 @@ When collecting data this week you will repeat the experiment with the two diffe
 
 You should submit the following on Gradescope:
 
-+ A plot used to determine the wavelength of your laser for the 500 lines/mm grating. This plot must include the uncertainties on your data points and include a line of best fit that has been determined with a weighted fit. As always make sure to include units on your axis labels.
++ A plot used to determine the wavelength of your laser for one of the gratings. This plot must include the uncertainties on your data points and include a line of best fit that has been determined with a weighted fit. As always make sure to include units on your axis labels.
 
-+ A plot used to determine the wavelength of your laser for the 1000 lines/mm grating. This plot must include the uncertainties on your data points and include a line of best fit that has been determined with a weighted fit. As always make sure to include units on your axis labels.
++ In ~5 sentences tell us about what you did to reduce the uncertainty in your results, randomize systematic error and accurately estimate your uncertainty. You may attach a picture if helpful but it is not necessary to do so.
+
++ Your best estimates for the wavelength before and after applying the correction discossed in this section. 
 
 + A plot showing the wavelength you determined as a function of diffraction grating spacing for the two spacings of diffraction grating you measured. Your results should include your propogogated uncertainty in the wavelength as determined from your best fit line to the data you obtained for the position of interference maxima as a function of the separation of the diffraction grating from the screen.
 
-+ Do your answers appear to agree with each other and with the wavelength specified by the manufacturer [630-680nm](https://laserclassroom.com/product/standard-red-laser-pointer/)? If not what do you think might explain the discrepancy?
++ A link to a spreadsheet with your experimental data
 
 
 These links are from a previous module and need to be updated:
@@ -103,4 +102,5 @@ These links are from a previous module and need to be updated:
 
 
 
-When you're all finished and ready to move on, you can start [Week 2 - Hypothesis Testing Phase (part 1)](week2).
+When you're all finished and ready to move on, you can start [Week 4 - 
+Scientific Communication](week4).
