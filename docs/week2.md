@@ -42,6 +42,8 @@ You should submit the following on Gradescope:
 
 + A plot showing the wavelength you determined as a function of diffraction grating spacing for the two spacings of diffraction grating you measured. Your results should include your propogogated uncertainty in the wavelength as determined from your best fit line to the data you obtained for the position of interference maxima as a function of the separation of the diffraction grating from the screen.
 
++ A link to a spreadsheet with your experimental data
+
 + Do your measurements of the wavelength using two different diffraction gratings agree with each other and with the wavelength specified by the manufacturer [630-680nm](https://laserclassroom.com/product/standard-red-laser-pointer/)? If not what do you think might explain the discrepancy?
 
 
@@ -52,4 +54,4 @@ These links are from a previous module and need to be updated:
 
 
 
-When you're all finished and ready to move on, you can start [Week 2 - Hypothesis Testing Phase (part 1)](week2).
+When you're all finished and ready to move on, you can start [Week 3 - Hypothesis Testing Phase (part 2)](week2).
