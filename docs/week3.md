@@ -44,8 +44,8 @@ At this point we would like you to iterate on your experiment, repeating the exp
 
 <span style="color:red"> Please do not read further until you are confident in your data and have answered the above mini-question</span>
 
-In week 1, we made a geometric argument to determine the location of interference maxima for a two slit diffraction pattern. We determined that the first diffraction maxima occurs for $$\frac{x}{L}= \frac{\lambda}{d}$$ where&nbsp;<em>x</em> is the distance between the central maximum and the first bright spot, <em>L</em> is the distance between the slit and the screen, $latex \lambda $ is the wavelength of the laser and&nbsp;<em>d</em> is the spacing between the slits.</p>
-To derive this formula we made use of the small angle approximation: $latex \sin \theta \approx \tan\theta$.
+In week 1, we made a geometric argument to determine the location of interference maxima for a two slit diffraction pattern. We determined that the first diffraction maxima occurs for $$\frac{x}{L}= \frac{\lambda}{d}$$ where&nbsp;<em>x</em> is the distance between the central maximum and the first bright spot, <em>L</em> is the distance between the slit and the screen, $$ \lambda $$ is the wavelength of the laser and&nbsp;<em>d</em> is the spacing between the slits.</p>
+To derive this formula we made use of the small angle approximation: $$ \sin \theta \approx \tan\theta$$.
 we also have that $$ \tan \theta \approx \tan\beta = x / L$$. Let us return to the schematic we used in pre-lab 1 to make a more accurate approximation.
 
 [caption id="attachment_1865" align="aligncenter" width="600"]<img class="wp-image-1865" src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/10/Waves6-2-1024x765.png" alt="" width="600" height="448"> Figure 1. Note: lengths not to scale. Because L &gt;&gt; x&gt;d, we make the assumption gamma ~ 0, implying that the line between Slit 1 and H_1 is parallel to the line connecting B and H_1 and also to that connecing Slit2 and H_1; alpha ~ 90 degrees.&nbsp; The supplement of alpha must also be ~90 degrees. Further geometric and trigonometric analyses yield (1).[/caption]
