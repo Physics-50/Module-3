@@ -108,7 +108,6 @@ A diffraction grating is essentially just an array of slits placed right next to
 
 ------------------------------
 
-
 Use two additional binder clips to mount the laser as shown (making sure that the laser is pointing towards a wall/screen at all times when on):
 <img src="images/laser_mount.JPG" alt="Mounting your laser" width="300"/>
 
