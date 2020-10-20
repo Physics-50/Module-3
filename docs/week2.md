@@ -18,11 +18,14 @@ This week we will continue our investigation of the wavelength the light from th
 
 This week we will continue our investigation of the wavelength the light from the laser pointer you were shipped. The kit you received includes diffraction gratings with two different spacings.
 
+----------------------
 
 #### Miniquestion: How do the diffraction patterns from the differently spaced diffraction gratings compare
 *[Click here to open in a new tab](hhttps://docs.google.com/forms/d/e/1FAIpQLSeF85mLdADYHRDn3v3ciPKl8TPqTIbpI7X9c-1N7DUKFsP9PA/viewform?){:target="_blank"}*
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeF85mLdADYHRDn3v3ciPKl8TPqTIbpI7X9c-1N7DUKFsP9PA/viewform?embedded=true" width="640" height="736" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+------------------------------
 
 ## Setting Up Your Experiment
 
