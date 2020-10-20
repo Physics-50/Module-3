@@ -4,7 +4,7 @@
 
 [Weekly Plan](#weekly-plan)
 + [Week 1 - Exploratory Phase](week1)
-+ Week 2 - Hypothesis Testing Phase (part 1)
++ [Week 2 - Hypothesis Testing Phase (part 1)] (week2)
 + Week 3 - Hypothesis Testing Phase (part 2)
 + Week 4 - Scientific Communication Phase
 
