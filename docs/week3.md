@@ -48,12 +48,32 @@ In week 1, we made a geometric argument to determine the location of interferenc
 To derive this formula we made use of the small angle approximation: $$ \sin \theta \approx \tan\theta$$.
 we also have that $$ \tan \theta \approx \tan\beta = x / L$$. Let us return to the schematic we used in week 1 to make a more accurate approximation.
 
-<img class="wp-image-1865" src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/10/Waves6-2-1024x765.png" alt="" width="600" height="448"> Figure 1. Note: lengths not to scale. Because L &gt;&gt; x&gt;d, we make the assumption gamma ~ 0, implying that the line between Slit 1 and H_1 is parallel to the line connecting B and H_1 and also to that connecing Slit2 and H_1; alpha ~ 90 degrees.&nbsp; The supplement of alpha must also be ~90 degrees. Further geometric and trigonometric analyses yield (1).
+<img class="wp-image-1865" src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/10/Waves6-2-1024x765.png" alt="" width="400" height="299"> Figure 1. Note: lengths not to scale. Because L &gt;&gt; x&gt;d, we make the assumption gamma ~ 0, implying that the line between Slit 1 and H_1 is parallel to the line connecting B and H_1 and also to that connecing Slit2 and H_1; alpha ~ 90 degrees.&nbsp; The supplement of alpha must also be ~90 degrees. Further geometric and trigonometric analyses yield (1).
 
-In week 1 we argued that since the screen is very far away compared to the spacing between slits $$\alpha \approx 90^{\circ}$$. This approximation continues to be valid. However, if we continue to decrease our slit spacing, d then we might and should question the approximation $$ \sin \theta \approx \tan\theta$$. A quick look at Figure 1 should convince us that we can do better. Slit 1, Point A and slit 2 form a right triangle. The hypotenuse is d and we argued in last week's pre-lab that the length of the segment between point A and slit 2 is $latex \lambda$. Using the Pythagorean theorem this implies $$ \tan\theta = {\lambda}/{\sqrt{d^2-\lambda^2}}$$. Substituting this expression for $$ \tan\theta $$ into our analysis of prelab #1  gives us <strong id="youngs">Young's equation</strong>, $$\frac{x}{L}= \frac{\lambda}{d\sqrt{1 - \lambda^2/d^2}}. \tag{1}\label{eq:young}$$
+In week 1 we argued that since the screen is very far away compared to the spacing between slits $$\alpha \approx 90^{\circ}$$. This approximation continues to be valid. However, if we continue to decrease our slit spacing, d then we might and should question the approximation $$ \sin \theta \approx \tan\theta$$. A quick look at Figure 1 should convince us that we can do better. Slit 1, Point A and slit 2 form a right triangle. The hypotenuse is d and we argued in last week's pre-lab that the length of the segment between point A and slit 2 is $latex \lambda$. Using the Pythagorean theorem this implies $$ \tan\theta = {\lambda}/{\sqrt{d^2-\lambda^2}}$$. Substituting this expression for $$ \tan\theta $$ into our analysis of week 1 gives us <strong id="youngs">Young's equation</strong>, $$\frac{x}{L}= \frac{\lambda}{d\sqrt{1 - \lambda^2/d^2}}. \tag{1}\label{eq:young}$$
 
 Analogous to the argument that was made in week 1, we can generalize this formula to the mth interference maxima: $$\frac{\chi}{L}= \frac{m\lambda}{d\sqrt{1 - (m\lambda)^2/d^2}}. \tag{2}\label{eq:youngs}$$
 
+
+----------------------
+
+#### Miniquestion: How does the correction in Young's formula compare for the two diffraction gratings?
+
+*[Click here to open in a new tab](https://docs.google.com/forms/d/e/1FAIpQLSc0X_Fkrha96zmuUgdJoqBOsre-V8M98C_jpvZ7PeuGnDYbLw/viewform?){:target="_blank"}*
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc0X_Fkrha96zmuUgdJoqBOsre-V8M98C_jpvZ7PeuGnDYbLw/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
+</iframe>
+------------------------------
+
+----------------------
+
+#### Miniquestion: How does the correction in Young's formula compare for the two diffraction gratings?
+
+*[Click here to open in a new tab](https://docs.google.com/forms/d/e/1FAIpQLScpGsKwbwDvNv5msFADlcFoWF8CY_G4U0_RSpt-ZVFbyhsycA/viewform?){:target="_blank"}*
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScpGsKwbwDvNv5msFADlcFoWF8CY_G4U0_RSpt-ZVFbyhsycA/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
+</iframe>
+------------------------------
 ## Setting Up Your Experiment
 
 Last week you did an exploratory measurement to determine the wavelength of your laser pointer. This week your goal is to collect more data to more accurately measure the wavelength. Before you start collecting data this week, think about sources of uncertainty in the exploratory measurements you did last week. What do you believe were the most significant sources of uncertainty. What can you do to reduce these sources of uncertainty this week? Are there sources of systematic error than can be randomized? 
