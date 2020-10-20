@@ -24,7 +24,6 @@ This week we will continue our investigation of the wavelength the light from th
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeF85mLdADYHRDn3v3ciPKl8TPqTIbpI7X9c-1N7DUKFsP9PA/viewform?embedded=true" width="640" height="736" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
-
 ## Setting Up Your Experiment
 
 Last week you did an exploratory measurement to determine the wavelength of your laser pointer. This week your goal is to collect more data to more accurately measure the wavelength. Before you start collecting data this week, think about sources of uncertainty in the exploratory measurements you did last week. What do you believe were the most significant sources of uncertainty. What can you do to reduce these sources of uncertainty this week? Are there sources of systematic error than can be randomized? 
