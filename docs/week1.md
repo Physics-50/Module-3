@@ -156,6 +156,8 @@ You should submit the following on Gradescope:
 
 + The wavelength you have determined for your laser with uncertainty.
 
++ A link to a spreadsheet with your experimental data
+
 + An answer to the following question: Next week we will continue to collect more data to better determine the wavelength of our laser. What are a few things you might do to try if possible to both minimize sources of uncertainty and randomize sources of systemtic error?
 
 These links are from a previous module and need to be updated:
