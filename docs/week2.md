@@ -1,8 +1,3 @@
-<script type="text/x-mathjax-config">
-  MathJax.Hub.Config({
-    TeX: { equationNumbers: { autoNumber: "all" } }
-  });
-</script>
 # Week 2: Hypothesis Testing Phase
 
 --------------
