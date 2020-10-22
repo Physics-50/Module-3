@@ -35,7 +35,7 @@ The mathematical details of how the interference pattern comes about are beyond 
 Now let’s imagine the laser light passes through two slits in the slide rather than one. In other words, the laser beam is now blocked by an opaque slide that has two narrow, identical slits that the light can pass through. The light passing through two slits will now create a pattern as shown below in Figure 3.
 
 
-<img src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/10/week1-fig3.jpg" alt="" width="600" height="236"> 
+<img src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/10/week1-fig3.jpg" alt="" width="600" height="150"> 
 **Figure 3**: Diffraction pattern from laser light passing through a double slit. What similarities and differences do you observe between the single slit (Figure 2) and double slit patterns?
 
 The latter arrangement is Thomas Young’s famous double-slit experiment and is an excellent demonstration of the wave-like properties of light. While this experiment is well known for demonstrating the wave nature of light, it also allows the experimenter to measure the wavelength and frequency of the light source, in this case a laser. These are properties of light on which many scientific experiments depend, such as LIGO (the Laser Interferometer Gravitational Wave Observatory, the facility behind the 2017 Nobel Prize in Physics) as well as everyday technology such as blu-ray players, grocery-store barcode scanners, and more.
