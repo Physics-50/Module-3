@@ -1,10 +1,10 @@
 # Curve Fitting 
 
-The process of fitting a theoretical function to data is an important skill for all experimental scientists to master. In Module 3, we will be fitting our data of $$x$$ vs. $$L$$ to a straight line, and then use the fitted slope to measure the wavelength of light coming from our laser pointer. Here we will give you example MATLAB code that you can use to determine the best-fit line of your data. This code is also versatile enough for you to recycle for your future curve-fitting needs. 
+The process of fitting a theoretical function to data is an important skill for all experimental scientists to master, and in Physics 50 we are laying a foundation for this skill. In Module 3, we will be fitting our data of $$x$$ vs. $$L$$ to a straight line, and then use the fitted slope to measure the wavelength of light coming from our laser pointer. Here we will give you example MATLAB code that you can use to determine the best-fit line of your data. This code is also versatile enough for you to recycle for your future curve-fitting needs. 
 
-This "Linear Fitting Introduction" is meant to provide the bare minimum information that you will need to understand and use the curve fitting code for Ph50 Module 3. We realize that many of you are busy and overwhelmed right now with workload, so we don't expect you to go beyond this introduction.
+This "Linear Fitting Introduction" is meant to provide the bare minimum information that you will need to understand and use the curve fitting code for Ph50 Module 3. We realize that many of you are busy right now with a high workload, so we don't expect you to go beyond this introduction.
 
-But if you would like more information, please go through the commented code carefully and come to office hours to discuss. We are happy to help you understand more clearly what the code is doing! And curve fitting might be something you will return to in your upper division courses (e.g. for you future physicists or data scientists).
+But if you would like more information, please go through the commented code and come to office hours to discuss. We are happy to help you understand more clearly what the code is doing! And curve fitting might be something you will return to in your upper division courses.
 
 
 ## Linear Fitting Introduction
@@ -88,7 +88,21 @@ The first and third options are both plausible, so we would have to think carefu
 
 ### MATLAB Code
 
-Now that you understand the output of the fit, please download the file [curve_fitting_demo.m](curve_fitting_demo.m) and run the script. 
+To use the MATLAB code first make sure you have the "curve fitting toolbox" installed. In the MATLAB environment, go to "HOME"-->"Add-Ons"-->"Get Add-Ons":
+![get add ons](images/get_add_ons.png)
+
+and search for the "curve fitting toolbox":
+
+![curve fitting toolbox](images/curve_fitting_toolbox.png)
+
+If it says "Installed" you are good to go. Otherwise, click on the Curve Fitting Toolbox page and install it.
+
+Now that you have the curve fitting toolbox, please download the file [curve_fitting_demo.m](curve_fitting_demo.m) and run the script. 
+
+Every time you run the script, you will get the following warning in the command window:
+![warning](images/warning.png)
+
+This warning appears because we aren't providing the fit function with an initial guess of the slope and intercept. The function is picking an initial guess randomly. The initial guess might affect the fitting if you have many fitting parameters, but because we only have 2 fitting parameters ($$m$$ and $$b$$), **you can safely ignore this warning.**
 
 To use the script for your own data, simply replace the "import data" section of the code (lines 8-10) with your own data pasted in. You should also customize the plot (lines 14-24) by changing the axis labels and limits. Everything else should not need modification in the script if you are fitting a straight line to your data.
 
