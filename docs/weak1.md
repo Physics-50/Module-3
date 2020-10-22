@@ -85,7 +85,7 @@ Mathematically, this condition is met if $$d sin \theta = n \lambda$$, where $$n
 We can do a little more to simplify this expression. From Figure 6, we can see that $$sin \theta = x / \sqrt{(x^2 + L^2)}$$, and if we only look at the separation between the central bright spot and the first one or two bright spots around it, then $$x << L$$ so we can approximate that $$sin \theta = x / L$$. Substituting this into our constructive interference condition gives us the following expression:
 
 \begin{equation}\label{eq:sYoung} 
-xd/L = n \lambda
+**xd/L = n \lambda**
 \end{equation}
 
 **In Module 3, we will use this relationship to determine $$\lambda$$, the wavelength of the laser, by measuring $$x$$ and $$L$$ and using the quoted value of $$d$$ for the provided diffraction grating.**
