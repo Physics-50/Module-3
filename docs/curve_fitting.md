@@ -88,7 +88,21 @@ The first and third options are both plausible, so we would have to think carefu
 
 ### MATLAB Code
 
-Now that you understand the output of the fit, please download the file [curve_fitting_demo.m](curve_fitting_demo.m) and run the script. 
+To use the MATLAB code first make sure you have the "curve fitting toolbox" installed. In the MATLAB environment, go to "HOME"-->"Add-Ons"-->"Get Add-Ons":
+![get add ons](images/get_add_ons.png)
+
+and search for the "curve fitting toolbox":
+
+![curve fitting toolbox](images/curve_fitting_toolbox.png)
+
+If it says "Installed" you are good to go. Otherwise, click on the Curve Fitting Toolbox page and install it.
+
+Now that you have the curve fitting toolbox, please download the file [curve_fitting_demo.m](curve_fitting_demo.m) and run the script. 
+
+Every time you run the script, you will get the following warning in the command window:
+![warning](images/warning.png)
+
+This warning appears because we aren't providing the fit function with an initial guess of the slope and intercept. The function is picking an initial guess randomly. The initial guess might affect the fitting if you have many fitting parameters, but because we only have 2 fitting parameters ($$m$$ and $$b$$), **you can safely ignore this warning.**
 
 To use the script for your own data, simply replace the "import data" section of the code (lines 8-10) with your own data pasted in. You should also customize the plot (lines 14-24) by changing the axis labels and limits. Everything else should not need modification in the script if you are fitting a straight line to your data.
 

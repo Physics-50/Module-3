@@ -68,7 +68,7 @@ Instead of drawing out wave crests, for the diffraction grating we will think ab
 
 That means that the four green lines in Figure 6 are treated as approximately parallel to each other, and that is a very reasonable approximation, since $$L \gg x$$. So a better-scaled and ultimately more useful drawing would zoom in to just the region right above the diffraction grating, where the screen is *way* out of view and the rays that are all headed to the same position $$x$$ will indeed be parallel, as shown in Figure 7.
 
-<img src="images/week1-fig6.png" alt="" width="350" height="300"> 
+<img src="images/week1-fig7.png" alt="" width="350" height="300"> 
 **Figure 7**: Schematic of light rays emerging from a diffraction grating. All five rays shown land at the same point on the very distant screen. *This schematic is reasonably to scale.*
 
 In Figure 7, we can see that the total distance traveled by light is different along each ray coming from each slit. Relative to the rightmost ray in Figure 7, each consecutive ray is longer by an additional length $$d sin \theta$$.
