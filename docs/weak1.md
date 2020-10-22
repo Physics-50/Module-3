@@ -7,7 +7,7 @@
 
 --------------
 1. [Background Theory](#background-theory)
-2. [Summary of Key Formulae from Theory](#takeaway)
+2. [Summary of Key Formulae from Theory](#the-takeaway)
 3. [Setting up your experiment](#setting-up-your-experiment)
 4. [Exploratory Measurements](#exploratory-measurements) 
 5. [Checkpoint 1](#checkpoint-1)
@@ -68,7 +68,7 @@ Instead of drawing out wave crests, for the diffraction grating we will think ab
 
 That means that the four green lines in Figure 6 are treated as approximately parallel to each other, and that is a very reasonable approximation, since $$L \gg x$$. So a better-scaled and ultimately more useful drawing would zoom in to just the region right above the diffraction grating, where the screen is *way* out of view and the rays that are all headed to the same position $$x$$ will indeed be parallel, as shown in Figure 7.
 
-<img src="images/week1-fig6.png" alt="" width="350" height="217"> 
+<img src="images/week1-fig6.png" alt="" width="350" height="300"> 
 **Figure 7**: Schematic of light rays emerging from a diffraction grating. All five rays shown land at the same point on the very distant screen. *This schematic is reasonably to scale.*
 
 In Figure 7, we can see that the total distance traveled by light is different along each ray coming from each slit. Relative to the rightmost ray in Figure 7, each consecutive ray is longer by an additional length $$d sin \theta$$.
@@ -84,52 +84,6 @@ We can do a little more to simplify this expression. From Figure 6, we can see t
 **$$d x/L = n \lambda$$**
 
 **In Module 3, we will use this relationship to determine $$\lambda$$, the wavelength of the laser, by measuring $$x$$ and $$L$$ and using the quoted value of $$d$$ for the provided diffraction grating.**
-
-
-
-
-
-
-
-The latter arrangement is Thomas Young's famous double-slit experiment and is an excellent demonstration of the wave-like properties of light. While this experiment is well known for demonstrating the wave nature of light, it also allows the experimenter to measure the wavelength and frequency of the light source, in this case a laser. These are properties of light on which many scientific experiments depend, such as LIGO (the Laser Interferometer Gravitational Wave Observatory, the facility behind the 2017 Nobel Prize in Physics) as well as everyday technology such as blu-ray players, grocery-store bar code scanners, and more.
-
-Note: below is the derivation for the interference pattern due to double slit interference. However, please don't get bogged down in the details. The [takeaway is further down](#takeaway).
-
-Let us now work out some of the mathematical relationships between the observed diffraction patterns and the experimental parameters of our system, following the schematic diagram in figure 5 below. Once we know these relationships we can use slits with known properties to study the wavelength of light, or conversely use light with a known wavelength to study the properties of a particular set of slits.
-
-<img src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/10/WavesBest2.png" alt=" " width="600"/> 
-
-Simplified interference pattern for an electromagnetic wave propagating through a double slit. The bold dots emphasize constructive interference. Here, $$H_i$$ denotes the ith antinode (a point of high intensity), $$x$$ the distance $$\vert H_0-H_1 \vert$$, $$d$$ the slit separation distance, and $$L$$ the distance from the slit plane to the background on which the interference pattern is observed. Note that the distances displayed in the figure are not to scale. In reality, $$d<<L$$ and $$d<<x$$.
-
-In figure 5, a light beam incident on a double slit is initially a plane wave moving in one direction (upwards from the bottom of the diagram). When the wave hits the barrier with the two slits, the wave essentially splits into two smaller waves that emanate from the two slits. This is called <strong>Huygen's principle</strong>. Interference between the two expanding waves causes a pattern of bright spots -- antinodes -- and dark spots -- nodes -- on the screen. $$ H_0$$ and $$ H_1$$ denote the position of the central and first non-central antinode, respectively, and we define $$ x = \lvert H_0 - H_1 \rvert $$ to be the antinode separation distance. Let $$ d $$ be the slit separation distance and $$ L $$ the distance from the slit plane to the background upon which the interference pattern is observed. While figure 5 is a schematic of a double-slit interference experiment, we can also think of it as the pattern of waves produced by dropping two stones simultaneously into a calm body of water. Here the separation distance between the two stones is analogous to the slit separation distance $$ d $$. The ripples produced by a single stone will propagate outward in concentric circles about the location where the stone contacted the water. In the figure, bold dots represent positions where wave crests are interfering constructively with each other---that is, a subset of the positions where the two waves are in phase and superpose. Notice that constructive interference happens at certain angles away from the upwards, or straight-ahead, direction, leading to the specific bright spots $$ H_i $$ on the screen.
-
-To formulate an expression for the wavelength of the monochromatic source, we zoom in on the light waves near the slits, as shown in Figure 6 below. Here, point $$B$$ denotes the spot halfway between the two slits, <em>i.e.</em>, the midpoint of $$ d$$. The line segments $$ \overline{BH_1}$$ and $$ \overline{BH_0}$$ represent the constructive interference paths leading from the slits to $$ H_1$$ and $$ H_0$$, respectively, as shown in Figure 1. Because $$ L\gg d$$, it follows that $$ \overline{BH_1}\gg d$$, and also that both segments $$ \overline{Slit1H_1}$$ and $$ \overline{Slit2H_1}\gg d$$. Under these extreme inequalities, we make the assumption $$ \gamma = 0^{\circ}$$, which implies that $$ \alpha = 90^{\circ}$$. (<em>Note:</em> The picture greatly exaggerates the distance $$ d$$, so it does not look like the approximation is valid. You might try re-drawing the figure with a much smaller $$ d$$ and/or much larger $$ L$$ to get a sense for why the approximation works.  In real situations $$ L$$ is often at least six orders of magnitude greater than $$ d$$. That's the difference between <em>one centimeter</em> and <em>ten kilometers</em>.) It follows that $$ \overline{Slit1H_1}\parallel\overline{BH_1}\parallel\overline{Slit2H_1}$$.
-
-
-<img src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/10/Waves6-2-1024x765.png" alt="" width="600"> 
-**Figure 6.** Note: lengths not to scale. Because L &gt;&gt; x&gt;d, we make the assumption $$\gamma \approx 0$$, implying that the line between Slit 1 and $$H_1$$ is parallel to the line connecting B and $$H_1$$ and also to that connecting Slit2 and $$H_1$$; $$\alpha \approx 90^\circ$$.  The supplement of alpha must also be $$\approx 90^\circ$$. Further geometric and trigonometric analyses yield Eq.\eqref{eq:x_L}.
-
-Additionally, because we know that the two superimposed waves from Slit 1 and Slit 2 are in phase when they arrive at $$ H_1$$ (and not anywhere else between $$ H_1$$ and $$ H_0$$), it must be that the difference between the path lengths $$\overline{Slit2H_1}$$  and $$ \overline{Slit1H_1}$$ is the wavelength $$\lambda$$ of the monochromatic source. That is, $$ \lambda = \overline{Slit2A}$$. It follows, therefore, that $$ \lambda \approx d \sin \theta $$ But since, under these conditions where the screen is much further away than the slits are separated, $$\theta \approx \beta$$, we also have that $$ \tan \theta \approx \tan\beta = x / L$$. If the angle $$ \theta$$ is small then we can use the small angle approximation $$\sin \theta \approx \tan\theta$$. Equating these two tangent expressions gives us 
-
-\begin{equation}\label{eq:x_L}
-\frac{x}{L}= \frac{\lambda}{d}. 
-\end{equation}
-
-where <em>x</em> is the distance between the central maximum and the first bright spot, <em>L</em> is the distance between the slit and the screen, $$ \lambda $$ is the wavelength of the laser and <em>d</em> is the spacing between the slits.
-
-## Takeaway
-
-One can use the above equation to measure the the spacing between slits that are less than a tenth of a millimeter apart using nothing but a meter stick!
-
-Notice how we derived this equation by measuring the distance $$ x$$ between the first antinode and the central maximum. A similar equation follows by measuring the distance $$ \chi$$ between the $$m^{th}$$ antinode and the central maximum.  The only difference is that now the path difference is $$ m\lambda$$ as opposed to just $$ \lambda$$. In this case, the generalized equation is 
-
-$$\frac{\chi}{L}= \frac{m\lambda}{d}. $$ 
-
-Note, however, that as one proceeds further away from the central maximum, the assumption that the paths from the two slits to $$ H_i$$ are parallel to each other may begin to break down.
-
-An analogous argument would allow us to derive the formula for single slit diffraction. In this case we are interested not in the interference between light passing through two slits but between light passing through different regions of the same slit. Since not all paths through the slit are the same length, we will see constructive and destructive interference. The resulting interference is very similar to the equation for double slit diffraction. Details are discussed in physics 51. Diffraction minima occur when $$\frac{\chi}{L}= \frac{m\lambda}{a} \tag{2}\label{eq:single}$$ where a is the slit width.
-
-This week, we shall apply this theory to the study of diffraction gratings. Remember that our analysis, leading to equation (1), was a simplified model and deals only with the interference between light waves coming from the two slits.  Thus equation (1) predicts the separation between the central spot and the next bright spot in figure 4, not in figure 2.  To analyze the bright/dim pattern in figure 2 (or the broader bright/dim pattern overlaid on the narrow stripes in figure 4), additional theory would be required.
 
 ## Setting Up Your Experiment
 
