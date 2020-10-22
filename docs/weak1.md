@@ -58,11 +58,17 @@ In Module 3, you will be investigating the diffraction pattern caused not by two
 
 <img src="images/week1-fig5.png" alt="" width="512" height="288"> 
 **Figure 5**: Schematic of wave crests emerging from a diffraction grating. *This schematic is very much not to scale.*
+
 Instead of drawing out wave crests, for the diffraction grating we will think about the light as rays emanating in all directions from each slit, and focus on just those rays that all eventually land at a single point on the screen, as shown by the green lines in Figure 6. For simplicity, only 4 rays have been shown, from four neighboring slits. Each ray ends at the same point a distance $$x$$ from the center of the screen. We emphasize that this schematic is very, very much not to scale. In reality, the distance between the slits in the diffraction grating is six orders of magnitude smaller than the distance $$L$$ between the grating and the screen -- that’s like the difference between 1 cm and 10 km! So it therefore makes sense to use the following approximation, which is very accurate for our experiment:
+
 **We can approximate that all the rays that end at the same point on the screen are parallel to one another.**
 
-<img src="images/week1-fig6.png" alt="" width="600" height="584"> 
+<img src="images/week1-fig6.png" alt="" width="350" height="341"> 
+**Figure 6**: Schematic of light rays emerging from a diffraction grating. Only four rays have been highlighted, and all four reach the same point on the screen, a distance $$x$$ away from the center. *This schematic is very much not to scale.*
 
+That means that the four green lines in Figure 6 are treated as approximately parallel to each other, and that is a very reasonable approximation, since $$L \gg x$$. So a better-scaled and ultimately more useful drawing would zoom in to just the region right above the diffraction grating, where the screen is *way* out of view and the rays that are all headed to the same position $$x$$ will indeed be parallel, as shown in Figure 7.
+
+<img src="images/week1-fig6.png" alt="" width="350" height="217"> 
 The latter arrangement is Thomas Young's famous double-slit experiment and is an excellent demonstration of the wave-like properties of light. While this experiment is well known for demonstrating the wave nature of light, it also allows the experimenter to measure the wavelength and frequency of the light source, in this case a laser. These are properties of light on which many scientific experiments depend, such as LIGO (the Laser Interferometer Gravitational Wave Observatory, the facility behind the 2017 Nobel Prize in Physics) as well as everyday technology such as blu-ray players, grocery-store bar code scanners, and more.
 
 Note: below is the derivation for the interference pattern due to double slit interference. However, please don't get bogged down in the details. The [takeaway is further down](#takeaway).
