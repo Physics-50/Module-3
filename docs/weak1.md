@@ -24,6 +24,7 @@ Before we get into the mathematical details of how electromagnetic waves behave 
 
 
 <img src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/10/water-diffraction-ocean.jpg" alt="" width="500" height="330">
+
 **Figure 1**: A photo off the coast of Australia showing the diffraction of a wave as it passes from right to left through an aperture, or opening, in an otherwise barrier of rocks. Photo credit Google Earth.As the wave travels it hits a barrier of rocks with an opening (aperture) that allows the wave to pass through. Notice, however, that the water coming out of this aperture is no longer a flat plane wave but rather is coming out in a circular manner traveling away from the center of the aperture. It is as though the aperture is a wave source of its own, sending waves out in all directions rather than just the initial right-to-left direction! The water wave bends as it passes through the aperture; this is diffraction.
 
 As the wave travels it hits a barrier of rocks with an opening (aperture) that allows the wave to pass through. Notice, however, that the water coming out of this aperture is no longer a flat plane wave but rather is coming out in a circular manner traveling away from the center of the aperture. It is as though the aperture is a wave source of its own, sending waves out in <em>all</em> directions rather than just the initial right-to-left direction! The water wave <em>bends </em>as it passes through the aperture; this is diffraction.
