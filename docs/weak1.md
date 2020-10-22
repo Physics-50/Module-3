@@ -40,7 +40,7 @@ Now let’s imagine the laser light passes through two slits in the slide rather
 <<<<<<< HEAD
 <img src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/10/week1-fig3.jpg" alt="" width="600" height="150"> 
 =======
-<img src="images/week1-fig3.jpg" alt="" width="600" height="236"> 
+<img src="images/week1-fig3.jpg" alt="" width="508" height="56"> 
 >>>>>>> 00ff33cfb18434d6791ede6449a5dcaa1641c8d7
 **Figure 3**: Diffraction pattern from laser light passing through a double slit. What similarities and differences do you observe between the single slit (Figure 2) and double slit patterns?
 
