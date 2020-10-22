@@ -45,9 +45,20 @@ To understand the pattern of bright spots caused by two slits, we can think of l
 
 
 
-<img src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/10/double-slit-green.jpg" alt="" width="600" height="236"> 
-**Figure 4:** Diffraction pattern from laser light passing through a double slit.
-What similarities and differences do you observe between the single slit (figure 2) and double slit patterns?
+<img src="images/week1-fig4.png" alt="" width="511" height="404"> 
+**Figure 4**: Simplified schematic of light waves passing upward through a double-slit slide, leading to constructive interference at certain angles - red lines indicate angles where the two waves constructively interfere to cause bright spots where the red lines meet the screen. *This schematic is very much not to scale.*
+
+It might be helpful to think of Figure 4 as also representing the pattern of waves produced by dropping two stones simultaneously into a calm body of water. Here the separation distance between the two stones is analogous to the slit separation distance $$d$$. The ripples produced by a single stone will propagate outward in concentric semicircles about the location where the stone contacted the water. 
+
+In Figure 4, the red lines represent positions where wave crests interfere constructively with each other -- that is, the positions where the two waves are in phase and superpose. Notice that constructive interference happens at certain angles away from the upwards, or straight-ahead, direction, leading to the specific bright spots located where the red lines meet the screen in the figure. In between these maxima, there are dark spots that correspond to angles where the two wave crests perfectly cancel out, causing destructive interference.
+
+## Diffraction Gratings
+
+In Module 3, you will be investigating the diffraction pattern caused not by two slits, but by a **diffraction grating** with many, many slits, all separated by the same distance $$d$$. For such a scenario, it’s not as easy to see the angles of constructive interference by drawing the wave crests (see Figure 5 below). 
+
+
+
+
 
 The latter arrangement is Thomas Young's famous double-slit experiment and is an excellent demonstration of the wave-like properties of light. While this experiment is well known for demonstrating the wave nature of light, it also allows the experimenter to measure the wavelength and frequency of the light source, in this case a laser. These are properties of light on which many scientific experiments depend, such as LIGO (the Laser Interferometer Gravitational Wave Observatory, the facility behind the 2017 Nobel Prize in Physics) as well as everyday technology such as blu-ray players, grocery-store bar code scanners, and more.
 
