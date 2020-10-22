@@ -4,7 +4,7 @@ The process of fitting a theoretical function to data is an important skill for 
 
 This "Linear Fitting Introduction" is meant to provide the bare minimum information that you will need to understand and use the curve fitting code for Ph50 Module 3. We realize that many of you are busy right now with a high workload, so we don't expect you to go beyond this introduction.
 
-But if you would like more information, please go through the commented code and come to office hours to discuss. We are happy to help you understand more clearly what the code is doing! And curve fitting might be something you will return to in your upper division courses (e.g. for you future physicists or data scientists).
+But if you would like more information, please go through the commented code and come to office hours to discuss. We are happy to help you understand more clearly what the code is doing! And curve fitting might be something you will return to in your upper division courses.
 
 
 ## Linear Fitting Introduction
