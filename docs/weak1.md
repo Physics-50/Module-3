@@ -54,7 +54,7 @@ In Figure 4, the red lines represent positions where wave crests interfere const
 
 In Module 3, you will be investigating the diffraction pattern caused not by two slits, but by a **diffraction grating** with many, many slits, all separated by the same distance $$d$$. For such a scenario, it’s not as easy to see the angles of constructive interference by drawing the wave crests (see Figure 5 below). 
 
-![diffraction grating wave crests](images/week1-fig5.png)
+![diffraction grating wave crests](images/DiffGratWavecrests.png)
 
 **Figure 5**: Schematic of wave crests emerging from a diffraction grating. *This schematic is very much not to scale.*
 
