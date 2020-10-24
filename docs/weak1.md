@@ -78,17 +78,19 @@ In Figure 7, we can see that the total distance traveled by light is different a
 
 ## The Takeaway: 
 
-**When the extra distance $$d sin \theta$$ traveled by light on adjacent rays is equal to an integer number of wavelengths, then all the rays will interfere constructively at the point where they land on the screen, creating a bright spot.** 
+**When the extra distance $$d \sin \theta$$ traveled by light on adjacent rays is equal to an integer number of wavelengths, then all the rays will interfere constructively at the point where they land on the screen, creating a bright spot.** 
 
-Mathematically, this condition is met if $$d sin \theta = n \lambda$$, where $$n$$ is a positive integer and $$\lambda$$ is the wavelength of the light.
+Mathematically, this condition is met if $$d \sin \theta = n \lambda$$, where $$n$$ is a positive integer and $$\lambda$$ is the wavelength of the light.
 
-We can do a little more to simplify this expression. From Figure 6, we can see that $$sin \theta = x / \sqrt{(x^2 + L^2)}$$, and if we only look at the separation between the central bright spot and the first one or two bright spots around it, then $$x << L$$ so we can approximate that $$sin \theta = x / L$$. Substituting this into our constructive interference condition gives us the following expression:
+We can do a little more to simplify this expression. From Figure 6, we can see that $$\sin \theta = x / \sqrt{(x^2 + L^2)}$$, and if we only look at the separation between the central bright spot and the first one or two bright spots around it, then $$x << L$$ so we can approximate that $$\sin \theta = x / L$$. Substituting this into our constructive interference condition gives us the following expression:
 
 \begin{equation}\label{eq:sYoung} 
-\mathbf{xd/L = n \lambda}
+\mathbf{\frac{xd}{L} = n \lambda}
 \end{equation}
 
-**In Module 3, we will use this relationship to determine $$\lambda$$, the wavelength of the laser, by measuring $$x$$ and $$L$$ and using the quoted value of $$d$$ for the provided diffraction grating.**
+**In Module 3, we will use this relationship to determine $$\lambda$$, the wavelength of the laser, by measuring $$x$$ and $$L$$ and using the quoted value of $$d$$ for the provided diffraction grating:**
+
+<img src="images/module3-configuration-annotated.jpg" alt="basic setup" width="400" style="display: block; margin-left: auto; margin-right: auto; width: 80%;" />
 
 ## Setting Up Your Experiment
 
@@ -106,7 +108,7 @@ A diffraction grating is essentially just an array of slits placed right next to
 #### Miniquestion: Spacing of Interference Maxima
 *[Click here to open in a new tab](https://docs.google.com/forms/d/e/1FAIpQLSd0DalK3dCoRR8n6thQmaJmh4ctFmaWsDRalbRIW35mO1FA_w/viewform){:target="_blank"}*
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd0DalK3dCoRR8n6thQmaJmh4ctFmaWsDRalbRIW35mO1FA_w/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd0DalK3dCoRR8n6thQmaJmh4ctFmaWsDRalbRIW35mO1FA_w/viewform?embedded=true" width="640" height="400" frameborder="0" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
 ------------------------------
