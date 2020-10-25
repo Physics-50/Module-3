@@ -86,20 +86,42 @@ As in previous modules, you should perform the following exploratory measurement
 
 1. **perform a single measurement**
     + for a single $$L$$ measure $$x$$ and calculate $$\lambda$$; is your value reasonable? (e.g. is it between the value quoted on the sticker of the laser pointer 630-680 nm?)
-
+    + what are the resolution uncertainty in your measured values of $$x$$ and $$L$$? which relative (fractional) resolution uncertainty is greater $$(\delta_\mathrm{res.} x)/x$$ or $$(\delta_\mathrm{res.} L)/L$$? 
 2. **test repeatability**
-    + at a fixed $$L$$, repeat the measurement several times, fully resetting the experiment between each measurement
+    + at a fixed $$L$$, repeat the measurement of $$x$$ several times, fully resetting the experiment between each measurement
     + based on this, what is the dominant source of uncertainty: random or resolution?
 
 3. **explore other factors**
     + think of other variables you can change, make some preliminary observations of their effect
+    + are you getting the same value of $$x$$ when you measure the 1st maximum to the left of the central maximum vs the 1st maximum to the right? 
 
 #### Miniquestion: Exploring other factors
 [*Click here to open in a new tab*](https://forms.gle/NYhuVfiRRrmrzUi59){:target="_blank"}
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe3T538QpIwC2e9FGaTT_T6NgMcHjHkPpaEdel3hD0dAHzAJw/viewform?embedded=true" width="640" height="400" frameborder="0" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
-### Whole data set
+<br>
+
+## Getting a complete data set for a single diffraction grating
+
+One of the most important ideas we want you to take from Module 3, is to **think of a data set as a whole, not as individual points**. 
+
+In the exploratory analysis, you got a measurement of $$x$$ at a single value of $$L$$. By repeating that same measurement you got an idea of the uncertainty of that single measurement $$x$$. But $$L$$ provides us with an independent variable that we can control, so by varying $$L$$ and repeating the measurement, we can create a plot of $$x$$ versus $$L$$. By plotting the data and looking at the data set as a whole, we can gain confidence in our measurement. We can also fit the data to the theoretical prediction in a more robust way if we are including more data points. 
+
+Thinking back to the theoretical prediction of Eq.\eqref{eq:sYoung} for how $$x$$ and $$L$$ should be related, let's rewrite that equation in a more suggestive form for the first maximum ($$n=1$$)
+\begin{equation}
+x = \left(\frac{\lambda}{d}\right) L + 0
+\end{equation}
+where we have added zero to the right hand side. This should look familiar, it's the equation of a straight line (classic $$y=mx+b$$), where if we plotted $$x$$ versus $$L$$, we should get a slope $$m=\lambda/d$$, and an intercept $$b=0$$. There's an added power to treating the data set as a whole in this way because if our data has an intercept that isn't zero, then that would suggest a systematic effect that shifted our measured values!
+
+How do we extract a slope an intercept from our measured data? We need to perform a least squares fit (linear regression). This might be something you have done previously, but in Ph50 we need to do a **weighted fit** that gives **uncertainty estimates of the fitted parameters**, and provides the **reduced chi-squared** value so we can assess how good the fit is. We have provided a MATLAB script for you that does this type of fit. Please see this [curve fitting guide](curve-fitting){:target="_blank"} before moving on.
+
+<br>
+
+Please read the [curve fitting guide](curve-fitting){:target="_blank"} before answering the following miniquestion
+
+#### Miniquestion: 
+
 
 plotting x vs. L 
 
