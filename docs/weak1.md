@@ -130,7 +130,7 @@ Please read the [curve fitting guide](curve-fitting){:target="_blank"} before an
 
 Collect a set of data of $$x$$ vs $$L$$ for one of the 500 line/mm diffraction gratings. Once you have collected the appropriate data, make use of the MATLAB curve fitting script to perform a best fit analysis. Make sure to consider relevant sources of both resolution uncertainty and random error in determining the uncertainty of your data points. 
 
-You should make use of your data, the best fit analysis and the provided theory to determine the wavelength of your laser. You will need to use the methods you have been taught in the previous units to propagate your uncertainty and determine the uncertainty in your final result.<strong>You have been provided with four diffraction gratings but for this week you only need to present results from one of the 500 line/mm diffraction gratings.</strong> And don't forget to label each of your diffraction gratings, so you know which one you used this week.
+You should make use of your data, the best fit analysis and the provided theory to determine the wavelength of your laser. You will need to use the methods you have been taught in the previous units to propagate your uncertainty and determine the uncertainty in your final result. **You have been provided with four diffraction gratings but for this week you only need to present results from one of the 500 line/mm diffraction gratings.** And don't forget to label each of your diffraction gratings, so you know which one you used this week.
 
 -------------
 
