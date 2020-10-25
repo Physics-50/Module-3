@@ -39,10 +39,19 @@ We will begin by setting up to do diffraction measurements. Find a room where yo
 
 We don't want the laser light shooting across the room, please make sure when you set up your laser pointer that it is directed toward the wall with the mounted grid paper and not toward yourself or family members. But NEVER check this, or the alignment of the various items, by placing your eye directly in the laser beam path. Even if you are sure the laser is currently off, you should <strong>never look directly down the beam path.</strong>
 
-We will begin by setting up the experiment. Attach one of the 500 lines/mm diffraction gratings to the binder clip, as shown below:
+We will begin by setting up the experiment. Attach one of the 500 lines/mm diffraction gratings to the binder clip, as shown below. When handling the diffraction grating make sure to only touch the cardboard rim. Getting fingerprints on the region with the grating could affect your results.
 
 <img src="images/diff-grating_mount.JPG" alt="Mounting your diffraction grating" width="600"/>
 A diffraction grating is essentially just an array of slits placed right next to each other, with a very small slit distance <em>d</em> between each (on the order of one slit per micron!). Each neighboring pair of slits can be thought of as a double slit. 
+
+_____________________
+
+#### Miniquestion: Spacing of Diffraction Gratings
+*[Click here to open in a new tab](https://docs.google.com/forms/d/e/1FAIpQLScVy13Ddgurh38icYTvtZDd7mcRiIQcisnRfS6NIwLRf8om4Q/viewform?){:target="_blank"}*
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScVy13Ddgurh38icYTvtZDd7mcRiIQcisnRfS6NIwLRf8om4Q/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
+</iframe>
+
 
 -----
 
@@ -69,15 +78,6 @@ For this module we expect you to set-up your own spreadsheet but if you start fr
 <span style="color:red"> lab notebook and spreadsheet not yet assigned, above link is for module 1</span>
 
 Think about which parameters correspond to $$x$$, $$L$$, and $$d$$ in your experimental set-up, as compared to the theory above. (You will find it helpful to notice that the number of slits per mm is written on the front of the diffraction grating). <strong>Make sure you are using one of the diffraction gratings with 500 lines/mm. </strong> Label each of your diffraction gratings, so you know which one you used this week. For example, write "A" or "B" in marker on the cardboard part of the diffraction gratings to label them.
-
-
-#### Miniquestion: Spacing of Diffraction Gratings
-*[Click here to open in a new tab](https://docs.google.com/forms/d/e/1FAIpQLScVy13Ddgurh38icYTvtZDd7mcRiIQcisnRfS6NIwLRf8om4Q/viewform?){:target="_blank"}*
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScVy13Ddgurh38icYTvtZDd7mcRiIQcisnRfS6NIwLRf8om4Q/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
-</iframe>
-
-
 
 
 ## Exploratory Measurements
