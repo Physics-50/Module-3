@@ -46,7 +46,7 @@ A diffraction grating is essentially just an array of slits placed right next to
 
 _____________________
 
-#### Miniquestion: Spacing of Diffraction Gratings
+#### Miniquestion 1: Spacing of Diffraction Gratings
 *[Click here to open in a new tab](https://docs.google.com/forms/d/e/1FAIpQLScVy13Ddgurh38icYTvtZDd7mcRiIQcisnRfS6NIwLRf8om4Q/viewform?){:target="_blank"}*
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScVy13Ddgurh38icYTvtZDd7mcRiIQcisnRfS6NIwLRf8om4Q/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
@@ -55,7 +55,7 @@ _____________________
 
 -----
 
-#### Miniquestion: Spacing of Interference Maxima
+#### Miniquestion 2: Spacing of Interference Maxima
 *[Click here to open in a new tab](https://docs.google.com/forms/d/e/1FAIpQLSd0DalK3dCoRR8n6thQmaJmh4ctFmaWsDRalbRIW35mO1FA_w/viewform){:target="_blank"}*
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd0DalK3dCoRR8n6thQmaJmh4ctFmaWsDRalbRIW35mO1FA_w/viewform?embedded=true" width="640" height="400" frameborder="0" marginheight="0" marginwidth="0">Loading…
@@ -73,16 +73,14 @@ Position the diffraction grating between the laser and screen.
 
 You will want to use the grid paper and tape measure to measure the spacing between interference maxima as well as the distance of the diffraction grating from the screen. In planning your experiment you will want to think about how to do this as accurately as possible. What are the dominant sources of error. What can you do to minimize systematic error? Even when you've done your best to reduce systematic error, some will remain. What can you do to randomize the remaining systematic error? Why is this helpful?
 
-For this module we expect you to set-up your own spreadsheet but if you start from the blank spreadsheet we've shared with you the sharing permissions will be set-up so that we can see your work) [assigned from Google Classroom](https://classroom.google.com/c/MTI2NjQ0NDEyMTAx/a/MTI3ODQ4MDY2NDMx/details){:target="_blank"}. Organizing your spreadsheet carefully will make your work easier.
-
-<span style="color:red"> lab notebook and spreadsheet not yet assigned, above link is for module 1</span>
+For this module we expect you to set-up your own spreadsheet but if you start from the blank spreadsheet we've shared with you the sharing permissions will be set-up so that we can see your work) [assigned from Google Classroom](https://classroom.google.com/c/MTI2NjQ0NDEyMTAx/a/MjAyODE1ODE3OTY5/details){:target="_blank"}. Organizing your spreadsheet carefully will make your work easier.
 
 Think about which parameters correspond to $$x$$, $$L$$, and $$d$$ in your experimental set-up, as compared to the theory above. (You will find it helpful to notice that the number of slits per mm is written on the front of the diffraction grating). <strong>Make sure you are using one of the diffraction gratings with 500 lines/mm. </strong> Label each of your diffraction gratings, so you know which one you used this week. For example, write "A" or "B" in marker on the cardboard part of the diffraction gratings to label them.
 
 
 ## Exploratory Measurements
 
-As in previous modules, you should perform the following exploratory measurements
+As in previous modules, you should perform the following exploratory measurements and record them in your [data sheet assigned from Google Classroom](https://classroom.google.com/c/MTI2NjQ0NDEyMTAx/a/MjAyODE1ODE3OTY5/details){:target="_blank"}
 
 1. **perform a single measurement**
     + for a single $$L$$ measure $$x$$ and calculate $$\lambda$$; is your value reasonable? (e.g. is it between the value quoted on the sticker of the laser pointer 630-680 nm?)
@@ -95,7 +93,7 @@ As in previous modules, you should perform the following exploratory measurement
     + think of other variables you can change, make some preliminary observations of their effect
     + are you getting the same value of $$x$$ when you measure the 1st maximum to the left of the central maximum vs the 1st maximum to the right? 
 
-#### Miniquestion: Exploring other factors
+#### Miniquestion 3: Exploring other factors
 [*Click here to open in a new tab*](https://forms.gle/NYhuVfiRRrmrzUi59){:target="_blank"}
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe3T538QpIwC2e9FGaTT_T6NgMcHjHkPpaEdel3hD0dAHzAJw/viewform?embedded=true" width="640" height="400" frameborder="0" marginheight="0" marginwidth="0">Loading…
 </iframe>
@@ -120,17 +118,17 @@ How do we extract a slope an intercept from our measured data? We need to perfor
 
 Please read the [curve fitting guide](curve-fitting){:target="_blank"} before answering the following miniquestion
 
-#### Miniquestion: 
+#### Miniquestion 4: Interpreting a weighted linear fit
+[*Click here to open in a new tab*](https://forms.gle/BF8fQq5PNWF1Gh9U8){:target="_blank"}
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdTk_l5gJ2boQzujZcgNKYh55iSlxR9UZNke6sgi3Chk_dvmA/viewform?embedded=true" width="640" height="400" frameborder="0" marginheight="0" marginwidth="0">Loading…
+</iframe>
+
+<br>
 
 
-plotting x vs. L 
+### Data Collection
 
-By adjusting the position of the diffraction grating collect appropriate data to plot x v.s. L or L v.s. x (you should plot whichever parameter has the greater relative uncertainty on the y-axis).
-
-Once you have collected the appropriate data, you will make use of MATLAB to perform a best fit analysis. Make sure to consider relevant sources of both resolution uncertainty and random error in determining the uncertainty of your data points. Just as we performed a weighted average in module 2, our best fit analysis should weight our data points in terms of their individual uncertainties.
-
-Please follow 
-We need a Matlab tutorial on best fit with uncertainties
+Collect a set of data of $$x$$ vs $$L$$ for one of the 500 line/mm diffraction gratings. Once you have collected the appropriate data, make use of the MATLAB curve fitting script to perform a best fit analysis. Make sure to consider relevant sources of both resolution uncertainty and random error in determining the uncertainty of your data points. 
 
 You should make use of your data, the best fit analysis and the provided theory to determine the wavelength of your laser. You will need to use the methods you have been taught in the previous units to propagate your uncertainty and determine the uncertainty in your final result.<strong>You have been provided with four diffraction gratings but for this week you only need to present results from one of the 500 line/mm diffraction gratings.</strong> And don't forget to label each of your diffraction gratings, so you know which one you used this week.
 
@@ -151,10 +149,7 @@ You should submit the following on Gradescope:
 + An answer to the following question: Next week we will continue to collect more data to better determine the wavelength of our laser. What are a few things you might do to try if possible to both minimize sources of uncertainty and randomize sources of systemtic error?
 
 These links are from a previous module and need to be updated:
-+ [Submit the results of your single measurement on Gradescope](https://www.gradescope.com/courses/165932/assignments/605297){:target="_blank"}
++ [Submit the results of your single measurement on Gradescope](https://www.gradescope.com/courses/165932/assignments/790237/){:target="_blank"}
 
 + And to double-check, make sure you have finished all of this week's mini-questions by [checking here](mini-questions#week-1){:target="_blank"}
 
-
-
-When you're all finished and ready to move on, you can start [Week 2 - Hypothesis Testing Phase (part 1)](week2).
