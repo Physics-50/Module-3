@@ -148,7 +148,6 @@ You should submit the following on Gradescope:
 
 + An answer to the following question: Next week we will continue to collect more data to better determine the wavelength of our laser. What are a few things you might do to try if possible to both minimize sources of uncertainty and randomize sources of systemtic error?
 
-These links are from a previous module and need to be updated:
 + [Submit the results of your single measurement on Gradescope](https://www.gradescope.com/courses/165932/assignments/790237/){:target="_blank"}
 
 + And to double-check, make sure you have finished all of this week's mini-questions by [checking here](mini-questions#week-1){:target="_blank"}
