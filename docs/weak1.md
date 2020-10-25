@@ -25,10 +25,10 @@ Start by reading the [background theory for Module 3 here](background-theory){:t
 
 ## Module 3 Goal
 
-In Module 3, we will use the relationship derived in the background theory to determine $$\lambda$$, the wavelength of the laser, by measuring $$x$$ and $$L$$ and using the quoted value of $$d$$ for the provided diffraction grating.
+In Module 3, we will use the relationship derived in the background theory to determine $$\lambda$$, the wavelength of the laser, by measuring $$x$$ and $$L$$ for the first diffraction maximum ($$n=1$$), and using the quoted value of $$d$$ for the provided diffraction grating:
 
 \begin{equation}\label{eq:sYoung} 
-\mathbf{\frac{xd}{L} = n \lambda}
+\frac{xd}{L} = n \lambda
 \end{equation}
 
 <img src="images/module3-configuration-annotated.jpg" alt="basic setup" width="400" style="display: block; margin-left: auto; margin-right: auto; width: 80%;" />
