@@ -49,7 +49,7 @@ _____________________
 #### Miniquestion 1: Spacing of Diffraction Gratings
 *[Click here to open in a new tab](https://docs.google.com/forms/d/e/1FAIpQLScVy13Ddgurh38icYTvtZDd7mcRiIQcisnRfS6NIwLRf8om4Q/viewform?){:target="_blank"}*
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScVy13Ddgurh38icYTvtZDd7mcRiIQcisnRfS6NIwLRf8om4Q/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScVy13Ddgurh38icYTvtZDd7mcRiIQcisnRfS6NIwLRf8om4Q/viewform?embedded=true" width="640" height="400" frameborder="0" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
 
@@ -94,7 +94,7 @@ As in previous modules, you should perform the following exploratory measurement
     + are you getting the same value of $$x$$ when you measure the 1st maximum to the left of the central maximum vs the 1st maximum to the right? 
 
 #### Miniquestion 3: Exploring other factors
-[*Click here to open in a new tab*](https://forms.gle/NYhuVfiRRrmrzUi59){:target="_blank"}
+[*Click here to open in a new tab (recommended)*](https://forms.gle/NYhuVfiRRrmrzUi59){:target="_blank"}
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe3T538QpIwC2e9FGaTT_T6NgMcHjHkPpaEdel3hD0dAHzAJw/viewform?embedded=true" width="640" height="400" frameborder="0" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
@@ -119,7 +119,7 @@ How do we extract a slope an intercept from our measured data? We need to perfor
 Please read the [curve fitting guide](curve-fitting){:target="_blank"} before answering the following miniquestion
 
 #### Miniquestion 4: Interpreting a weighted linear fit
-[*Click here to open in a new tab*](https://forms.gle/BF8fQq5PNWF1Gh9U8){:target="_blank"}
+[*Click here to open in a new tab (recommended)*](https://forms.gle/BF8fQq5PNWF1Gh9U8){:target="_blank"}
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdTk_l5gJ2boQzujZcgNKYh55iSlxR9UZNke6sgi3Chk_dvmA/viewform?embedded=true" width="640" height="400" frameborder="0" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
