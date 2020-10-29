@@ -23,6 +23,11 @@ Last week you did an exploratory measurement to determine the wavelength of your
 
 The kit you received includes diffraction gratings with two different spacings.
 
+
+When collecting data this week we would like you to take into consideration the sources of uncertainty just discussed and do your best to minimize uncertainty and randomize systemtic error. 
+
+We expect you to collect data this week with the two different spacings of diffraction grating that were provided and compare the results.
+
 ----------------------
 
 #### Miniquestion: How do the diffraction patterns from the differently spaced diffraction gratings compare
@@ -33,10 +38,6 @@ The kit you received includes diffraction gratings with two different spacings.
 
 ------------------------------
 
-
-When collecting data this week we would like you to take into consideration the sources of uncertainty just discussed and do your best to minimize uncertainty and randomize systemtic error. 
-
-We expect you to collect data this week with the two different spacings of diffraction grating that were provided and compare the results.
 
 We would also like you to choose one source of uncertainty that you believe to be significant and systematically explore its significance. Think about how best to do this. Ultimately you will find it helpful if you are able to get results which you can present as a figure in your final deliverable.
 
