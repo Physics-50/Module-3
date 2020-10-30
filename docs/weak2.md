@@ -8,6 +8,22 @@
 
 This week we will continue our investigation of the wavelength the light from the laser pointer you were shipped. 
 
+<br>
+
+-------------------------------------
+
+
+Based on some of the answers to Checkpoint 1, we wanted to make sure everyone can calculate the wavelength and its uncertainty given a set of data of $$x$$ vs. $$L$$. Please complete the following miniquestion before you start week 2.
+
+#### Miniquestion: Calculating wavelength from slope
+[*Click here to open in a new tab*](https://forms.gle/MPYx6nPVd54jYE359){:target="_blank"}
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSct57YgYJ1rxsHAkhGfOk_QUB638pb_MYeH7vhVZU2MGQUW5w/viewform?embedded=true" width="640" height="400" frameborder="0" marginheight="0" marginwidth="0">Loading…
+</iframe>
+
+---------------------------
+
+<br>
+
 ## Setting Up Your Experiment
 
 Last week you did an exploratory measurement to determine the wavelength of your laser pointer. This week your goal is to collect more data to more accurately measure the wavelength. Before you start collecting data this week, think about sources of uncertainty in the exploratory measurements you did last week. What do you believe were the most significant sources of uncertainty. What can you do to reduce these sources of uncertainty this week? Are there sources of systematic error than can be randomized? 
