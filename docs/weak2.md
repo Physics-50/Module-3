@@ -1,7 +1,7 @@
 # Week 2
 
 --------------
-1. [Setting up your experiment](#setting-up-your-experiment)
+1. [Investigating systematic errors](#investigating-systematic-errors)
 2. [Checkpoint 2](#checkpoint-2)
 
 --------------
@@ -25,9 +25,9 @@ Based on some of the answers to Checkpoint 1, we wanted to make sure everyone ca
 <br>
 
 
-## Outline for the rest of Module 3
+## Investigating systematic errors
 
-In Week 1 you measured the wavelength of your laser. Here are a few example measurements from students in the class (see if we used yours!):
+In Week 1 you measured the wavelength of your laser using a 500 line/mm diffraction grating. Here are a few example measurements from students in the class (see if we used yours!):
 
 $$\lambda$$ (nm) | $$\delta \lambda$$ (nm) 
 ----------- | ----------------
@@ -37,7 +37,7 @@ $$\lambda$$ (nm) | $$\delta \lambda$$ (nm)
 694| 	7
 719|	8
 
-Note: All of these measured come from submissions that look reasonable on their own. We are all using the same materials, so why don't our results agree?!?!
+Note: All of these measured come from submissions that look reasonable. We are all using the same materials, so why don't our results agree?!?!
 
 This disagreement suggests there are important systematic effects in our measurement that we aren't accounting for. **For the next two weeks, we will be trying to identify sources of systematic error, and then either account for them or "randomize" them.** 
 
