@@ -49,7 +49,7 @@ Let's start by brainstorming possible sources of systematic uncertainty.
 
 ----------------------
 
-#### Miniquestion: Sources of Uncertainty
+#### Miniquestion 1: Sources of Uncertainty
 *[Click here to open in a new tab](https://docs.google.com/forms/d/e/1FAIpQLScTDcO7TOcD-Br6EJUJ-2eDNgBzZdDBPccsdrMRBBxRdxUZPg/viewform?){:target="_blank"}*
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScTDcO7TOcD-Br6EJUJ-2eDNgBzZdDBPccsdrMRBBxRdxUZPg/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
@@ -65,7 +65,7 @@ We expect you to collect data this week with the two different spacings of diffr
 
 ----------------------
 
-#### Miniquestion: How do the diffraction patterns from the differently spaced diffraction gratings compare
+#### Miniquestion 2: How do the diffraction patterns from the differently spaced diffraction gratings compare
 *[Click here to open in a new tab](https://docs.google.com/forms/d/e/1FAIpQLScOvf4fEdEk5cotRGrTle0iitt7onz0DmTOdhuNL47lh2ifqA/viewform?){:target="_blank"}*
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScOvf4fEdEk5cotRGrTle0iitt7onz0DmTOdhuNL47lh2ifqA/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
@@ -93,14 +93,12 @@ You should submit the following on Gradescope:
 
 + A link to a spreadsheet with your experimental data
 
-+ Do your measurements of the wavelength using two different diffraction gratings agree with each other and with the wavelength specified by the manufacturer [630-680nm](https://laserclassroom.com/product/standard-red-laser-pointer/)? If not what do you think might explain the discrepancy?
-
-
-These links are from a previous module and need to be updated:
-+ [Submit the results of your single measurement on Gradescope](https://www.gradescope.com/courses/165932/assignments/605297){:target="_blank"}
-
-+ And to double-check, make sure you have finished all of this week's mini-questions by [checking here](mini-questions#week-2){:target="_blank"}
++ Do your measurements of the wavelength using two different diffraction gratings agree with each other and with the wavelength specified by the manufacturer [630-680nm](https://laserclassroom.com/product/standard-red-laser-pointer/){:target="_blank"}? If not what do you think might explain the discrepancy?
 
 
 
-When you're all finished and ready to move on, you can start [Week 3 - Hypothesis Testing Phase (part 2)](week2).
+[Submit the results of your measurements on Gradescope](https://www.gradescope.com/courses/165932/assignments/809528){:target="_blank"}
+
+And to double-check, make sure you have finished all of this week's mini-questions by [checking here](mini-questions#week-2){:target="_blank"}
+
+When you're all finished and ready to move on, you can start [Week 3](week3).
