@@ -29,7 +29,7 @@ Based on some of the answers to Checkpoint 1, we wanted to make sure everyone ca
 
 In Week 1 you measured the wavelength of your laser. Here are a few example measurements from students in the class (see if we used yours!):
 
-$$\lambda$$ (nm) | $$\delta \lambda (nm) 
+$$\lambda$$ (nm) | $$\delta \lambda$$ (nm) 
 ----------- | ----------------
 658	|18
 672|	7
@@ -39,9 +39,9 @@ $$\lambda$$ (nm) | $$\delta \lambda (nm)
 
 Note: All of these measured come from submissions that look reasonable on their own. We are all using the same materials, so why don't our results agree?!?!
 
-This disagreement suggests there are important systematic effects in our measurement that we aren't accounting for. For the next two weeks, we will be trying to identify sources of systematic error, and then either account for them or "randomize" them. 
+This disagreement suggests there are important systematic effects in our measurement that we aren't accounting for. **For the next two weeks, we will be trying to identify sources of systematic error, and then either account for them or "randomize" them.** 
 
-**Usually we don't have the benefit of having our experiment repeated by 150 other people at the same time.** This process of carefully thinking about systematic errors is one that we should always undertake with any experimental measurement, like we did in our [short discussion of systematic errors from Module 1](https://physics-50.github.io/Module-1/uncertainty-introduction.html#systematic-errors){:target="_blank"} and the careful consideration we made about [possible systematic errors in Module 2, Week 3](https://physics-50.github.io/Module-2/week3){:target="_blank"}.
+Usually we don't have the benefit of having our experiment repeated by 150 other people at the same time to know that we should worry about systematic errors. This process of carefully thinking about systematic errors is one that we should always undertake with any experimental measurement, like we did in our [short discussion of systematic errors from Module 1](https://physics-50.github.io/Module-1/uncertainty-introduction.html#systematic-errors){:target="_blank"} and the careful consideration we made about [possible systematic errors in Module 2, Week 3](https://physics-50.github.io/Module-2/week3){:target="_blank"}.
 
 Your Module 3 deliverable will be a scientific poster that explains your main result (your measured value of $$\lambda$$), and also presents a secondary result: a careful study of a significant systematic effect in the measurement.
 
