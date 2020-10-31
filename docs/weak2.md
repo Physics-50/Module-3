@@ -6,14 +6,8 @@
 
 --------------
 
-This week we will continue our investigation of the wavelength the light from the laser pointer you were shipped. 
 
-<br>
-
--------------------------------------
-
-
-Based on some of the answers to Checkpoint 1, we wanted to make sure everyone can calculate the wavelength and its uncertainty given a set of data of $$x$$ vs. $$L$$. Please complete the following miniquestion before you start week 2.
+This week we will continue our investigation of the wavelength the light from the laser pointer you were shipped, but based on some of the answers to Checkpoint 1, we wanted to make sure everyone can calculate the wavelength and its uncertainty given a set of data of $$x$$ vs. $$L$$. Please complete the following miniquestion before you start week 2.
 
 #### Miniquestion: Calculating wavelength from slope
 [*Click here to open in a new tab*](https://forms.gle/MPYx6nPVd54jYE359){:target="_blank"}
