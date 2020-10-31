@@ -1,4 +1,4 @@
-# Week 3: Hypothesis Testing Phase (Part 2)
+# Week 3
 
 --------------
 1. [Experimental Iteration](#experimental-iteration)

@@ -1,4 +1,4 @@
-# Week 2: Hypothesis Testing Phase (Part 1)
+# Week 2
 
 --------------
 1. [Setting up your experiment](#setting-up-your-experiment)
@@ -24,9 +24,28 @@ Based on some of the answers to Checkpoint 1, we wanted to make sure everyone ca
 
 <br>
 
-## Setting Up Your Experiment
 
-Last week you did an exploratory measurement to determine the wavelength of your laser pointer. This week your goal is to collect more data to more accurately measure the wavelength. Before you start collecting data this week, think about sources of uncertainty in the exploratory measurements you did last week. What do you believe were the most significant sources of uncertainty. What can you do to reduce these sources of uncertainty this week? Are there sources of systematic error than can be randomized? 
+## Outline for the rest of Module 3
+
+In Week 1 you measured the wavelength of your laser. Here are a few example measurements from students in the class (see if we used yours!):
+
+$$\lambda$$ (nm) | $$\delta \lambda (nm) 
+----------- | ----------------
+658	|18
+672|	7
+683	| 4
+694| 	7
+719|	8
+
+Note: All of these measured come from submissions that look reasonable on their own. We are all using the same materials, so why don't our results agree?!?!
+
+This disagreement suggests there are important systematic effects in our measurement that we aren't accounting for. For the next two weeks, we will be trying to identify sources of systematic error, and then either account for them or "randomize" them. 
+
+**Usually we don't have the benefit of having our experiment repeated by 150 other people at the same time.** This process of carefully thinking about systematic errors is one that we should always undertake with any experimental measurement, like we did in our [short discussion of systematic errors from Module 1](https://physics-50.github.io/Module-1/uncertainty-introduction.html#systematic-errors){:target="_blank"} and the careful consideration we made about [possible systematic errors in Module 2, Week 3](https://physics-50.github.io/Module-2/week3){:target="_blank"}.
+
+Your Module 3 deliverable will be a scientific poster that explains your main result (your measured value of $$\lambda$$), and also presents a secondary result: a careful study of a significant systematic effect in the measurement.
+
+Let's start by brainstorming possible sources of systematic uncertainty.
 
 ----------------------
 
@@ -40,7 +59,7 @@ Last week you did an exploratory measurement to determine the wavelength of your
 The kit you received includes diffraction gratings with two different spacings.
 
 
-When collecting data this week we would like you to take into consideration the sources of uncertainty just discussed and do your best to minimize uncertainty and randomize systemtic error. 
+When collecting data this week we would like you to take into consideration the sources of uncertainty just discussed and do your best to minimize uncertainty and randomize systematic error. 
 
 We expect you to collect data this week with the two different spacings of diffraction grating that were provided and compare the results.
 
@@ -64,13 +83,13 @@ We would also like you to choose one source of uncertainty that you believe to b
 
 You should submit the following on Gradescope:
 
-+ Results from your exploration of one source of uncertainty. We suggest presenting these results as a figure. Most of the time this is the best way to present scientific data.
++ Results from your exploration of one source of uncertainty. We suggest presenting these results as a figure. Most of the time this is the best way to present scientific data, and it will help you prepare for our Module 3 deliverable.
 
 + A plot used to determine the wavelength of your laser for the 500 lines/mm grating. This plot must include the uncertainties on your data points and include a line of best fit that has been determined with a weighted fit. As always make sure to include units on your axis labels.
 
 + A plot used to determine the wavelength of your laser for the 1000 lines/mm grating. This plot must include the uncertainties on your data points and include a line of best fit that has been determined with a weighted fit. As always make sure to include units on your axis labels.
 
-+ A plot showing the wavelength you determined as a function of diffraction grating spacing for the two spacings of diffraction grating you measured. Your results should include your propogogated uncertainty in the wavelength as determined from your best fit line to the data you obtained for the position of interference maxima as a function of the separation of the diffraction grating from the screen.
++ A plot showing the wavelength you determined as a function of diffraction grating spacing for the two spacings of diffraction grating you measured. Your results should include your propagated uncertainty in the wavelength as determined from your best fit line to the data you obtained for the position of interference maxima as a function of the separation of the diffraction grating from the screen.
 
 + A link to a spreadsheet with your experimental data
 
