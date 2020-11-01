@@ -68,7 +68,7 @@ We expect you to collect data this week with the two different spacings of diffr
 ------------------------------
 
 
-We would also like you to choose one source of uncertainty that you believe to be significant and systematically explore its significance. Think about how best to do this. Ultimately you will find it helpful if you are able to get results which you can present as a figure in your final deliverable.
+We would like you to choose one source of uncertainty that you believe to be significant and systematically explore its significance. Think about how best to do this. Ultimately you will find it helpful if you are able to get results which you can present as a figure in your final deliverable.
 
 
 -------------
