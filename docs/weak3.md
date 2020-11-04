@@ -11,25 +11,27 @@ This week we will continue our investigation of the wavelength the light from th
 
 ## Experimental Iteration
 
-We noticed that many of your results showed significant discrepancies between the results measured with the two gratings. We would like you to spend the first half of your effort this week trying to improve your estimate of the wavelength of your laser.
+We noticed that many of your results showed significant discrepancies between the results measured with the two gratings. Please take a moment to reflect on those results.
 
 Did your results from the two differently spaced diffraction gratings agree? Did they agree with the wavelength specified by the manufacturer?
 
-By the end of this week you should have given serious consideration to possible sources of experimental error. Here are a couple of examples:
+By the end of this week you should have given serious consideration to possible sources of experimental error. Here are a few of examples:
 
-1. We provided two diffraction gratings for each diffraction grating spacing. Did you collect data from both (four diffraction gratings in total). Did the results from the gratings withthe same spacing agree? Can you use your results to estimate the contribution to the uncertainty from variations in the diffraction gratings themselves?
+1. We provided two diffraction gratings for each diffraction grating spacing. Did you collect data from both (four diffraction gratings in total). Did the results from the gratings with the same spacing agree? 
 
 2. Were you careful to ensure that your beam path was perpendicular to the laser? Hint: when the laser reaches the diffraction grating, part of the beam will be reflected. Ensuring the reflected beam retraces its path can help with aligning the diffraction grating perpendicular to the beam. 
 
 3. Were you careful to ensure your beam path was perpendicular to the screen? It can be helpful to compare the distance to the first maxima to the left and right as part of this consideration.
 
-4. Were you careful to ensure your beam path is horizontal to the floor? How can you check this?
+4. Were you careful to ensure your beam path is horizontal to the floor?
 
-5. What other sources of error can you think of?
+5. Did you collect data over a wide range of L values?
+
+6. What other sources of error can you think of?
 
 You will not be able to completely elminate any of these sources of error, but you should do your best to minimize them and once you have done so, to randomizing the remaining error. 
 
-At this point we would like you to iterate on your experiment, repeating the experiment with improved procedure in an effort to get better results. When you feel confident you have made your best effort to get a good data set in which you feel the uncertainties accurately reflect your experiment please proceed to the mini-question below.
+When you feel confident you have made your best effort to get a good data set in which you feel the uncertainties accurately reflect your experiment please proceed to the mini-question below.
 
 ----------------------
 
