@@ -7,7 +7,7 @@
 
 --------------
 
-This week we will continue our investigation of the wavelength the light from the laser pointer you were shipped. 
+This week we will continue our investigation of the wavelength the light from the laser pointer you have been working wit. 
 
 ## Experimental Iteration
 
@@ -31,7 +31,7 @@ By the end of this week you should have given serious consideration to possible 
 
 You will not be able to completely elminate any of these sources of error, but you should do your best to minimize them and once you have done so, to randomizing the remaining error. 
 
-When you feel confident you have made your best effort to get a good data set in which you feel the uncertainties accurately reflect your experiment please proceed to the mini-question below.
+When you feel confident you have made your best effort to get a good data set in which you feel the uncertainties accurately reflect your experiment please proceed to the mini-question below. If no concerns were raised with your checkpoint and you feel you already made an effort to control these potential sources of systematic error you can proceed straight to the mini-question.
 
 ----------------------
 
