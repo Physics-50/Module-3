@@ -1,4 +1,4 @@
-# Week 3
+# Week 3 - Finalizing Results
 
 --------------
 1. [Experimental Iteration](#experimental-iteration)
@@ -35,7 +35,7 @@ When you feel confident you have made your best effort to get a good data set in
 
 ----------------------
 
-#### Miniquestion: What next?
+#### Miniquestion 1: What next?
 
 *[Click here to open in a new tab](https://docs.google.com/forms/d/e/1FAIpQLSeF85mLdADYHRDn3v3ciPKl8TPqTIbpI7X9c-1N7DUKFsP9PA/viewform?){:target="_blank"}*
 
@@ -75,12 +75,16 @@ But if we hadn't made that approximation, we get
 $$\frac{n \lambda}{d} = \frac{x}{\sqrt{x^2+L^2}}.$$
 
 
-Setting $$n=1$$ for the first diffraction maximum and using the slope, $$m$$, of our $$x$$ vs. $$L$$ linear regression, $$m=x/L$$
+Setting $$n=1$$ for the first diffraction maximum and dividing the numerator and denominator on the right hand side by $$L$$ gives,
+
+$$\lambda = d \frac{x/L}{\sqrt{(x/L)^2 + 1}}.$$
+
+Then using the slope, $$m$$, of our $$x$$ vs. $$L$$ linear regression, with $$m=x/L$$
 \begin{equation} \label{eq:Young}
 \lambda = d \frac{m}{\sqrt{m^2 + 1}}
 \end{equation}
 
-In Week 3, we will recalculate our measured value of $$\lambda$$ from the correct version of Young's equation (Eq.\eqref{eq:Young}). The good news is that the slopes we measured from the $$x$$ vs. $$L$$ plots of our data are not be affected by the theory, so we only need to recalculate the measured wavelength based on data we have already collected.
+In Week 3, we will recalculate our measured value of $$\lambda$$ from the correct version of Young's equation (Eq.\eqref{eq:Young}). **The good news is that we don't have to collect any more data!** The slopes we measured from the $$x$$ vs. $$L$$ plots of our data are not be affected by the theory, so we only need to recalculate the measured wavelength based on data we have already collected.
 
 To get a sense of how significantly this would impact our different diffraction gratings, we can rearrange Eq.\eqref{eq:Young} 
 
@@ -90,7 +94,7 @@ which shows that the correct version of the theory introduces an extra factor of
 
 ----------------------
 
-#### Miniquestion: How does the correction in Young's formula compare for the two diffraction gratings?
+#### Miniquestion 2: How does the correction in Young's formula compare for the two diffraction gratings?
 
 *[Click here to open in a new tab](https://docs.google.com/forms/d/e/1FAIpQLSc0X_Fkrha96zmuUgdJoqBOsre-V8M98C_jpvZ7PeuGnDYbLw/viewform?){:target="_blank"}*
 
@@ -100,7 +104,7 @@ which shows that the correct version of the theory introduces an extra factor of
 
 ----------------------
 
-#### Miniquestion: How does the correction in Young's formula compare for the two diffraction gratings?
+#### Miniquestion 3: How does the correction in Young's formula compare for the two diffraction gratings?
 
 *[Click here to open in a new tab](https://docs.google.com/forms/d/e/1FAIpQLScpGsKwbwDvNv5msFADlcFoWF8CY_G4U0_RSpt-ZVFbyhsycA/viewform?){:target="_blank"}*
 
@@ -112,7 +116,7 @@ which shows that the correct version of the theory introduces an extra factor of
 
 With the correct version of Young's equation in mind, please go back and recalculate your wavelength with uncertainty for your data. You will need to propagate the uncertainty using the techniques we have used for Module 1 and Module 2. If you'd like a refresher, please review the [Propagation of Uncertainties](https://physics-50.github.io/Module-1/uncertainty-introduction.html#propagation-of-uncertainties){:target="_blank"} lesson from Module 1. To make sure that you have done the uncertainty propagation correctly, please answer the miniquestion below.
 
-#### Miniquestion: Wavelength uncertainty
+#### Miniquestion 4: Wavelength uncertainty
 [*Click here to open in a new tab*](https://forms.gle/PrC7jo58zqBs4MwT8){:target="_blank"}
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdzBYlwEqg1ZVvQgohJ66SRDMkmOZYcHI3KVBitTMqKf_1O3w/viewform?embedded=true" width="640" height="400" frameborder="0" marginheight="0" marginwidth="0">Loading…
 </iframe>
