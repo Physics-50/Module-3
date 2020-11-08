@@ -7,7 +7,7 @@
 
 --------------
 
-This week we will continue our investigation of the wavelength the light from the laser pointer you have been working wit. 
+This week we will continue our investigation of the wavelength the light from the laser pointer you have been working with. 
 
 ## Experimental Iteration
 
@@ -42,20 +42,51 @@ When you feel confident you have made your best effort to get a good data set in
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeF85mLdADYHRDn3v3ciPKl8TPqTIbpI7X9c-1N7DUKFsP9PA/viewform?embedded=true" width="500" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
+<br><br>
+
 ------------------------------
+
+<br><br>
 
 <span style="color:red"> Please do not read further until you are confident in your data and have answered the above mini-question</span>
 
-In week 1, we made a geometric argument to determine the location of interference maxima for a two slit diffraction pattern. We determined that the first diffraction maxima occurs for $$\frac{x}{L}= \frac{\lambda}{d}$$ where&nbsp;<em>x</em> is the distance between the central maximum and the first bright spot, <em>L</em> is the distance between the slit and the screen, $$ \lambda $$ is the wavelength of the laser and&nbsp;<em>d</em> is the spacing between the slits.</p>
-To derive this formula we made use of the small angle approximation: $$ \sin \theta \approx \tan\theta$$.
-we also have that $$ \tan \theta \approx \tan\beta = x / L$$. Let us return to the schematic we used in week 1 to make a more accurate approximation.
+<br><br>
 
-<img class="wp-image-1865" src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/10/Waves6-2-1024x765.png" alt="" width="400" height="299"> Figure 1. Note: lengths not to scale. Because L &gt;&gt; x&gt;d, we make the assumption gamma ~ 0, implying that the line between Slit 1 and H_1 is parallel to the line connecting B and H_1 and also to that connecing Slit2 and H_1; alpha ~ 90 degrees.&nbsp; The supplement of alpha must also be ~90 degrees. Further geometric and trigonometric analyses yield (1).
+------------
 
-In week 1 we argued that since the screen is very far away compared to the spacing between slits $$\alpha \approx 90^{\circ}$$. This approximation continues to be valid. However, if we continue to decrease our slit spacing, d then we might and should question the approximation $$ \sin \theta \approx \tan\theta$$. A quick look at Figure 1 should convince us that we can do better. Slit 1, Point A and slit 2 form a right triangle. The hypotenuse is d and we argued in last week's pre-lab that the length of the segment between point A and slit 2 is $latex \lambda$. Using the Pythagorean theorem this implies $$ \tan\theta = {\lambda}/{\sqrt{d^2-\lambda^2}}$$. Substituting this expression for $$ \tan\theta $$ into our analysis of week 1 gives us <strong id="youngs">Young's equation</strong>, $$\frac{x}{L}= \frac{\lambda}{d\sqrt{1 - \lambda^2/d^2}}. \tag{1}\label{eq:young}$$
+<br><br>
 
-Analogous to the argument that was made in week 1, we can generalize this formula to the mth interference maxima: $$\frac{\chi}{L}= \frac{m\lambda}{d\sqrt{1 - (m\lambda)^2/d^2}}. \tag{2}\label{eq:youngs}$$
+In the background theory of week 1, we made a geometric argument to determine the location of interference maxima for a two slit diffraction pattern:
 
+<img src="images/week1-fig6.png" alt="" width="350"> 
+
+and argued that when the extra distance $$d \sin \theta$$ traveled by light on adjacent rays is equal to an integer number of wavelengths, then all the rays will interfere constructively at the point where they land on the screen, creating a bright spot.
+
+Mathematically, this condition is met if $$d \sin \theta = n \lambda$$, where $$n$$ is a positive integer and $$\lambda$$ is the wavelength of the light.
+
+From the figure above, we determined that $$\sin \theta = x / \sqrt{(x^2 + L^2)}$$, and then made the approximation that $$x << L$$ so we could approximate that $$\sin \theta = x / L$$. We then substituted this into our constructive interference condition to give:
+
+\begin{equation}\label{eq:sYoung} 
+\frac{xd}{L} = n \lambda
+\end{equation}
+
+But if we hadn't made that approximation, we get 
+
+$$\frac{n \lambda}{d} = \frac{x}{\sqrt{x^2+L^2}}.$$
+
+
+Setting $$n=1$$ for the first diffraction maximum and using the slope, $$m$$, of our $$x$$ vs. $$L$$ linear regression, $$m=x/L$$
+\begin{equation} \label{eq:Young}
+\lambda = d \frac{m}{\sqrt{m^2 + 1}}
+\end{equation}
+
+In Week 3, we will recalculate our measured value of $$\lambda$$ from the correct version of Young's equation (Eq.\eqref{eq:Young}). The good news is that the slopes we measured from the $$x$$ vs. $$L$$ plots of our data are not be affected by the theory, so we only need to recalculate the measured wavelength based on data we have already collected.
+
+To get a sense of how significantly this would impact our different diffraction gratings, we can rearrange Eq.\eqref{eq:Young} 
+
+$$m = \frac{\lambda/d}{\sqrt{1-(\lambda/d)^2}},$$
+
+which shows that the correct version of the theory introduces an extra factor of $$\sqrt{1-(\lambda/d)^2}$$. According to this analysis, please answer the miniquestions below.
 
 ----------------------
 
@@ -77,31 +108,29 @@ Analogous to the argument that was made in week 1, we can generalize this formul
 </iframe>
 ------------------------------
 
-With this in mind, please go back and recalculate your wavelength with uncertainty for your data.
+
+
+With the correct version of Young's equation in mind, please go back and recalculate your wavelength with uncertainty for your data. You will need to propagate the uncertainty using the techniques we have used for Module 1 and Module 2. If you'd like a refresher, please review the [Propagation of Uncertainties](https://physics-50.github.io/Module-1/uncertainty-introduction.html#propagation-of-uncertainties){:target="_blank"} lesson from Module 1. To make sure that you have done the uncertainty propagation correctly, please answer the miniquestion below.
+
+#### Miniquestion: Wavelength uncertainty
+[*Click here to open in a new tab*](https://forms.gle/PrC7jo58zqBs4MwT8){:target="_blank"}
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdzBYlwEqg1ZVvQgohJ66SRDMkmOZYcHI3KVBitTMqKf_1O3w/viewform?embedded=true" width="640" height="400" frameborder="0" marginheight="0" marginwidth="0">Loading…
+</iframe>
+
 
 
 -------------
 
-## Checkpoint 2
+## Checkpoint 3 -- Sequence of Figures
 
-You should submit the following on Gradescope:
+You main task this week is to come up with a sequence of 3-5 figures that you will use for your poster. Your poster will present a main result (your best measurement of the wavelength of your laser pointer with uncertainty) and a secondary result (where you explored a significant systematic effect on the measurement). You should use the correct version of the theory from equation \eqref{eq:Young} in your poster. 
 
-+ A plot used to determine the wavelength of your laser for one of the gratings. This plot must include the uncertainties on your data points and include a line of best fit that has been determined with a weighted fit. As always make sure to include units on your axis labels.
-
-+ In ~5 sentences tell us about what you did to reduce the uncertainty in your results, randomize systematic error and accurately estimate your uncertainty. You may attach a picture if helpful but it is not necessary to do so.
-
-+ Your best estimates for the wavelength before and after applying the correction discossed in this section. 
-
-+ A plot showing the wavelength you determined as a function of diffraction grating spacing for the two spacings of diffraction grating you measured. Your results should include your propogogated uncertainty in the wavelength as determined from your best fit line to the data you obtained for the position of interference maxima as a function of the separation of the diffraction grating from the screen.
-
-+ A link to a spreadsheet with your experimental data
+In thinking of which figures to produce, you should review the discussion on [creating a sequence of figures from Module 2 Week 4](https://physics-50.github.io/Module-2/week4){:target="_blank"}. The intent of your sequence of figures and poster **is not** to take your reader on a convoluted journey of what the entire sequence of events you took your experiments. Rather, you should focus on your main and secondary results, and also the information your reader needs to understand the method and logic you used to arrive at those results. Specifically, you **should not** include any result that you derived using an incorrect theory in your sequence of figures. 
 
 
-These links are from a previous module and need to be updated:
-+ [Submit the results of your single measurement on Gradescope](https://www.gradescope.com/courses/165932/assignments/605297){:target="_blank"}
+You should submit the following [here on Gradescope](https://www.gradescope.com/courses/165932/assignments/828013){:target="_blank"}:
 
-+ And to double-check, make sure you have finished all of this week's mini-questions by [checking here](mini-questions#week-1){:target="_blank"}
-
++ A sequence of 3-5 figures with captions that summarize your results from Module 3
 
 
 When you're all finished and ready to move on, you can start [Week 4 - 
