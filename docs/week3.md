@@ -79,7 +79,7 @@ Setting $$n=1$$ for the first diffraction maximum and dividing the numerator and
 
 $$\lambda = d \frac{x/L}{\sqrt{(x/L)^2 + 1}}.$$
 
-Then using the slope, $$m$$, of our $$x$$ vs. $$L$$ linear regression, with $$m=x/L$$
+Then using the slope, $$m$$, of our $$x$$ vs. $$L$$ linear regression, with $$m=x/L$$, we arrive at **our main result:**
 \begin{equation} \label{eq:Young}
 \lambda = d \frac{m}{\sqrt{m^2 + 1}}
 \end{equation}
