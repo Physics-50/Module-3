@@ -29,9 +29,11 @@ By the end of this week you should have given serious consideration to possible 
 
 6. What other sources of error can you think of?
 
-You will not be able to completely elminate any of these sources of error, but you should do your best to minimize them and once you have done so, to randomizing the remaining error. 
+You will not be able to completely eliminate any of these sources of error, but you should do your best to minimize them and once you have done so, to randomizing the remaining error. **If you are spending more than 30 minutes on data collection this week, please proceed with the miniquestion and come to office hours to discuss.** 
 
 When you feel confident you have made your best effort to get a good data set in which you feel the uncertainties accurately reflect your experiment please proceed to the mini-question below. If no concerns were raised with your checkpoint and you feel you already made an effort to control these potential sources of systematic error you can proceed straight to the mini-question.
+
+
 
 ----------------------
 
@@ -48,7 +50,7 @@ When you feel confident you have made your best effort to get a good data set in
 
 <br><br>
 
-<span style="color:red"> Please do not read further until you are confident in your data and have answered the above mini-question</span>
+<span style="color:red"> Please do not read further until you have answered the above mini-question</span>
 
 <br><br>
 
