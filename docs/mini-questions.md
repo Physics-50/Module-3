@@ -90,7 +90,7 @@
 
 ----------------------
 
-#### Miniquestion 3: How does the correction in Young's formula compare for the two diffraction gratings?
+#### Miniquestion 3: Which grating will require a more significant correction?
 
 *[Click here to open in a new tab](https://docs.google.com/forms/d/e/1FAIpQLScpGsKwbwDvNv5msFADlcFoWF8CY_G4U0_RSpt-ZVFbyhsycA/viewform?){:target="_blank"}*
 
