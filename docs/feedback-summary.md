@@ -18,8 +18,8 @@ The mechanics of your individual figures was evaluated based on the criteria fro
 
 #### Image(s) of how the data was collected:
 + No marker to indicate sphere or marked in a way that completely obscures the sphere 
-+ Single panel (doesn’t matter if zoomed in or full beaker, marked or unmarked) 
-+ Sequence of panels shown but zoomed in to tracker so it is hard to work out what is going on (can’t see beaker). No deduction if they also provided an image of the beaker or if the pictures are clear enough/presented in a way that you can tell what is going on. If both this deduction and the no marker deduction apply, the no marker deduction is not necessary if the ball is very clearly visible in the figures
++ Only a single panel (one point in time for the falling sphere) was shown
++ Sequence of panels shown but zoomed in so it is hard to work out what is going on (can’t see beaker). 
 + View too zoomed out to make out bead & single panel 
 + Does not include any sort of figure showing the ball dropping in solution 
 
@@ -39,12 +39,12 @@ The mechanics of your individual figures was evaluated based on the criteria fro
 + Mean value and uncertainty not reported in caption 
 + Mean value and uncertainty not reported in caption or shown on plot 
 + Description of why larger spheres were not used for determining velocity in caption is unclear or not concise 
-+ No explanation of why larger spheres are excluded from determination of viscosity, but did mentioned that they are excluded 
-+Exclusion of larger spheres not even mentioned 
++ No explanation of why larger spheres are excluded from determination of viscosity
++ Exclusion of larger spheres not mentioned 
 + Data from 6mm bead not included 
 + Data from both 4.5mm and 6mm beads not included 
 + Both effects (data from 4.5/6mm beads not included) and their exclusion not mentioned 
-+ Caption includes unjustified or misleading claims (e.g. viscosity increases with sphere size, or calculated viscosity increases quadratically)  [possibly more or less depending on the severity of the claim]
++ Caption includes unjustified or misleading claims (e.g. viscosity increases with sphere size, or calculated viscosity increases quadratically)  
 + Error bars not included with data  [This is only a small deduction because it is assumed that it will also be deducted elsewhere but it is still part of the global story too.]
-+ Unconventional symbols are used in the caption/description without definition in a way that is likely to confuse the reader, e.g. V for viscosity  [This + is only a small deduction because it is assumed that it will also be deducted elsewhere but it is still part of the global story too.]
++ Unconventional symbols are used in the caption/description without definition in a way that is likely to confuse the reader, e.g. V for viscosity  [This is only a small deduction because it is assumed that it will also be deducted elsewhere but it is still part of the global story too.]
 + Caption of figure 2 is unfocused 
