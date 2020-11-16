@@ -32,4 +32,7 @@ Before you complete your poster, you should review your feedback from Deliverabl
 
 The final deliverable will be evaluated on the quality/clarity of the individual figures with captions, the cohesion and global coherence of the sequence of figures and text of the poster, how well the results were supported by the evidence provided, the accuracy and significance of the main result, and the accuracy and significance of any secondary results.
 
-Gradescope link will become active later in the week. There are no miniquestions this week.
+
+When you are ready, submit your poster as a single .pdf file [here on Gradescope](https://www.gradescope.com/courses/165932/assignments/848530){:target="_blank"}.
+
+There are no miniquestions this week.
