@@ -15,13 +15,13 @@ To help streamline the process for the poster reader, it can be helpful to forma
 
 The final deliverable in physics 50 is a poster describing your main result and a secondary result from Module 3. Because this is an opportunity for you to demonstrate what you have learned about data collection, analysis, and scientific communication in this course, we are providing little scaffolding in terms of the content of your poster. However, we have provided a [Ph 50 Poster Template](Ph50-Poster-Template.pptx) which will help you format your poster. When you open the template you will notice that we have already defined poster sections, including an introduction *that we have already written for you.* Here's how to use the template to create your poster:
 
+- Edit the poster title and your name.
 - Keep the introduction as we have written it.
 - Keep the section headings as we have written them.
 - Use the font that we have chosen. Your font sizes should also remain close to their current values (24-28 pt font in our template for body text; >36 pt for headers).
-- Add in the figures and captions you need to make your argument.
+- Add in any figures ( w/captions), equations and data tables you need to make your argument.
 - Write in full sentences throughout the poster, as we have in the introduction, throughout the poster, with one exception: The conclusions section should be formatted as a bulleted list. Each bullet point must be a complete sentence.
-
-
+- Edit the acknowledgements and add any external references you used.
 
 **The poster is a standalone explanation of your work, and unlike in the Module 2 deliverable, here any equation data or image you wish to reference must actually be present in the poster.**
 
