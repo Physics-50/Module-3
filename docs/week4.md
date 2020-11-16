@@ -20,12 +20,12 @@ The final deliverable in physics 50 is a poster describing your main result and 
 - Keep the section headings as we have written them.
 - Use the font that we have chosen. Your font sizes should also remain close to their current values (24-28 pt font in our template for body text; >36 pt for headers). 
 - Add in any figures (w/captions), equations and data tables you need to make your argument.
-- Write in full sentences throughout the poster, as we have in the introduction, throughout the poster, with one exception: The conclusions section should be formatted as a bulleted list. Each bullet point must be a complete sentence.
+- Write in full sentences throughout the poster, with one exception: The conclusions section should be formatted as a bulleted list. Each bullet point must be a complete sentence.
 - Edit the acknowledgements and add any external references you used.
 
 **The poster is a standalone explanation of your work, and unlike in the Module 2 deliverable, here any equation data or image you wish to reference must actually be present in the poster.**
 
-Before you complete your poster, you should review your feedback from Deliverable 2 and Module 3 Checkpoint 3. Please read over [this summary of the important feedback from those assignements](feedback-summary){:target="_blank"}. We also recommend reviewing the lessons on [creating a single figure](https://physics-50.github.io/Module-1/week4){:target="_blank"} and [creating a sequence of figures](https://physics-50.github.io/Module-2/week4){:target="_blank"}.
+Before you complete your poster, you should review your feedback from Deliverable 2 and Module 3 Checkpoint 3. Please read over [this summary of the important feedback from those assignments](feedback-summary){:target="_blank"}. We also recommend reviewing the lessons on [creating a single figure](https://physics-50.github.io/Module-1/week4){:target="_blank"} and [creating a sequence of figures](https://physics-50.github.io/Module-2/week4){:target="_blank"}.
 
 
 ### How your poster will be evaluated
