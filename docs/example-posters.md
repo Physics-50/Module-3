@@ -2,14 +2,14 @@
 
 Here are some example research posters that HMC physics students have made.
 
-[Gerbode Lab](posters/Gerbode.pdf){:target="_blank"}
-[Shuve Lab](posters/Shuve.pdf){:target="_blank"}
-[Lynn Lab](posters/Lynn.png){:target="_blank"}
+| Poster Link | Notes
+-------------| ------------
+[Example 1 (Prof. Gerbode)](posters/Gerbode.pdf){:target="_blank"} | Although not labeled "Introduction", "Methods", "Results", the information flows predominantly along those lines. |
 
+[Example 2 (Prof. Lynn)](posters/Lynn.png){:target="_blank"} | Follows our Ph50 standard sections. Poster is focused on one major result in Fig. 2, which is rich with information. |
 
-[Ilton Lab](posters/Ilton.pdf){:target="_blank"}
-- three short vingettes
-- no methods section (using standard tecniques that audience is already familiar with)
-- limited text (mean to be presented in person)
+[Example 3 (Prof. Shuve)](posters/Shuve.pdf){:target="_blank"} | Figure captions are short, with more information in the main text of the poster. |
+
+[Example 4 (Prof. Ilton)](posters/Ilton.pdf){:target="_blank"} | This poster contains little accompanying text and was presented verbally at a conference. This style is not appropriate for Ph50 because you will not be presenting this poster verbally.
 
 
