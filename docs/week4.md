@@ -36,6 +36,8 @@ Before you complete your poster, you should review your feedback from Deliverabl
 <iframe src="https://drive.google.com/file/d/1amkvHqnq95x_lWILiQq5-aDRmlFL4qOe/preview" width="640" height="480">
 </iframe>
 
+<br> <br>
+
 ### How your poster will be evaluated
 
 The final deliverable will be evaluated on the quality/clarity of the individual figures with captions, the cohesion and global coherence of the sequence of figures and text of the poster, how well the results were supported by the evidence provided, the accuracy and significance of the main result, and the accuracy and significance of any secondary results.
