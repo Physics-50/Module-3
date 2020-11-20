@@ -45,4 +45,6 @@ The final deliverable will be evaluated on the quality/clarity of the individual
 
 When you are ready, submit your poster as a single .pdf file [here on Gradescope](https://www.gradescope.com/courses/165932/assignments/848530){:target="_blank"}.
 
+**The deadline is Tuesday November 24, 11:55pm PT.**
+
 There are no miniquestions this week.
