@@ -1,6 +1,6 @@
 # Module 3 Webpage Repository
 
-This repository contains the files for the website (https://jlarlett.github.io/Ph174/). 
+This repository contains the files for the website (https://physics-50.github.io/Module-3/). 
 
 The markdown ".md" files in the [/docs/](https://github.com/Physics-50/Module-3/tree/master/docs) folder get converted into the pages shown on the website. If you're new to markdown, [here is a cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet). Latex can be to the documents by using double dollar signs to enclose the math "$$ .. $$".
 
