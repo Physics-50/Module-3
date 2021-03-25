@@ -1,1 +1,1 @@
-Stay tuned!  And remember module 3 week 1 is not due until April 8(check the syllabus for course dates)
+Stay tuned!  And remember module 3 week 1 is not due until April 8 (check the syllabus for course dates)
