@@ -71,7 +71,9 @@ If your laser has a push button rather than a power switch, you can position the
 Position the diffraction grating between the laser and screen. 
 <img src="images/module3-configuration.JPG" alt="Experimental Set-up" width="300"/>
 
-You will want to use the grid paper and tape measure to measure the spacing between interference maxima as well as the distance of the diffraction grating from the screen. In planning your experiment you will want to think about how to do this as accurately as possible. What are the dominant sources of error. What can you do to minimize systematic error? Even when you've done your best to reduce systematic error, some will remain. What can you do to randomize the remaining systematic error? Why is this helpful?
+You will use the tape measure to measure the spacing $$x$$ between interference maxima, as well as the distance $$L$$ of the diffraction grating from the screen. In planning your experiment you will want to think about how to do this as accurately as possible. What are the dominant sources of error? What can you do to minimize systematic error? Even when you've done your best to reduce systematic error, some will remain. What can you do to randomize the remaining systematic error?
+
+In week one, we will attempt to answer these questions.
 
 For this module we expect you to set-up your own spreadsheet but if you start from the blank spreadsheet we've shared with you the sharing permissions will be set-up so that we can see your work [assigned from Google Classroom](https://classroom.google.com/c/MTI2NjQ0NDEyMTAx/a/MjAyODE1ODE3OTY5/details){:target="_blank"}. Organizing your spreadsheet carefully will make your work easier.
 
