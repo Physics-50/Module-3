@@ -131,6 +131,7 @@ Choose one source of uncertainty that you found to be significant, and carefully
 For Checkpoint 1, you will present the results of this exploration as part of a figure with two panels:
 + panel a, containing a photo of your experimental setup, with $$x$$, $$L$$, and the parameter you varied clearly labeled.
 + panel b, a plot with $$x$$ on the vertical axis and the parameter you varied on the horizontal axis. Be sure to plot your data points with error bars, following our [figure-making guide from Module 1](https://physics-50.github.io/Module-1/week4){:target="_blank"}. It is not necessary to perform a fit to your $$x$$ data. 
+
 To reduce workload for this week, you do not need to write a caption for the figure.
 
 -------------
