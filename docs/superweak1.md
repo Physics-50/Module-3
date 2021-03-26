@@ -121,10 +121,11 @@ We are all using the same materials, so why don't our results agree?!?! Well, as
 
 Because systematic errors are so important in experimental research, we want you to do a careful study of one dominant source of systematic error in $$x$$. This study will ultimately be presented as part of a sequence of figures for your Module 3 deliverable.
 
-Choose one source of uncertainty that you found to be significant and systematically explore its effect on the measured value of $$x$$. Think about how best to do this by carefully varying the chosen parameter (eg. the angle of the laser beam, or the choice of diffraction grating). You should have about five different values of the parameter you wiggle (eg. angle or diffraction grating), and for each value of that parameter, you need to make five measurements of $$x$$ and report the average value of $$x \pm $$SEM. **Remember to reset all the other parameters that also have significant effects on $$x$$, for each measurement.** For example, if you are carefully studying the effect of choice of diffraction grating, make sure to reset both the angle of the diffraction grating and the distance $$L$$ between each of the five trials for each grating.  
+Choose one source of uncertainty that you found to be significant, and carefully explore its effect on the measured value of $$x$$. **Do not choose to study $$L$$, since we will be carefully studying that effect next week.** Think about how best to do this by carefully varying the chosen parameter (eg. the angle of the laser beam, or the choice of diffraction grating). You should have about five different values of the parameter you wiggle (eg. angle or diffraction grating), and for each value of that parameter, you need to make five measurements of $$x$$ and report the average value of $$x \pm $$SEM. **Remember to reset all the other parameters that also have significant effects on $$x$$, for each measurement.** For example, if you are carefully studying the effect of choice of diffraction grating, make sure to reset both the angle of the diffraction grating and the distance $$L$$ between each of the five trials for each grating.  
 
-For Checkpoint 1, you will present the results of this exploration as a plot with $$x$$ on the vertical axis and the parameter you varied on the horizontal axis. Be sure to plot your data points with error bars, following our [figure-making guide from Module 1](https://physics-50.github.io/Module-1/week4){:target="_blank"}. It is not necessary to perform a fit to your $$x$$ data.
-
+For Checkpoint 1, you will present the results of this exploration as part of a figure with two panels:
++ panel a, containing a photo of your experimental setup, with $$x$$, $$L$$, and the parameter you varied clearly labeled.
++ panel b, a plot with $$x$$ on the vertical axis and the parameter you varied on the horizontal axis. Be sure to plot your data points with error bars, following our [figure-making guide from Module 1](https://physics-50.github.io/Module-1/week4){:target="_blank"}. It is not necessary to perform a fit to your $$x$$ data. 
 
 -------------
 
@@ -132,7 +133,7 @@ For Checkpoint 1, you will present the results of this exploration as a plot wit
 
 You should submit the following on Gradescope:
 
-+ Results from your exploration of one source of uncertainty, presented as a figure with $$x$$ on the vertical axis, and the parameter you varied on the horizontal axis. Most of the time this is the best way to present scientific data, and it will help you prepare for our Module 3 deliverable.
++ The two panel figure described above. 
 
 + A link to a spreadsheet with your experimental data.
 
