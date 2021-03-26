@@ -87,7 +87,6 @@ Each time we measure $$x$$, we hope that we have set all the parameters perfectl
 
 Let's focus on the angle of the laser beam, which should ideally come in perpendicular to the diffraction grating. What range of angles away from perfectly perpendicular to the laser beam might we accidentally set the grating? Perhaps we might not notice if we were off by angles up to $$\pm 5^{\circ}$$. How important is this? To answer this question, set up your experiment, with $$L\approx 1~\mathrm{m}$$. To measure $$x$$, use your tape measure to determine the distance from the central bright spot to the next bright spot to the right. Take a minute or two right now, and go purposefully "wiggle" the grating so that its angle varies over this range, and take note of how much variation this causes in $$x$$.
 
-Next: introduce four other parameters to explore. Explain how to wiggle d. Suggest a range for each. 
 In addition to the angle of the diffraction grating that you just explored, we have identified several other potential sources of uncertainty in $$x$$, listed below:
 
 1. Distance from laser to diffraction grating (keeping the diffraction grating fixed in place, moving the laser). Range: $$\pm 0.5~\mathrm{cm}$$.
@@ -101,8 +100,18 @@ For each of the five (the angle of the diffraction grating, plus the four listed
 
 **The takeaway from this parameter-wiggling exercise is that the parameters that cause a larger variation in $$x$$ should be reset before each $$x$$ measurement once we start collecting data in earnest next week. The ones that don't make much difference in $$x$$ do not need to be reset.**
 
-MINIQUESTION:
-list parameters with ranges. Check all that must be reset before each measurement of $$x$$, ie. on all that cause a significant variation in $$x$$ over the range explored.
+MINIQUESTION: https://forms.gle/Smd4QfbLENgxnyy6A
+
+-----
+
+#### Miniquestion 3: Which parameters need to be reset?
+*[Click here to open in a new tab](https://docs.google.com/forms/d/e/1FAIpQLSd0DalK3dCoRR8n6thQmaJmh4ctFmaWsDRalbRIW35mO1FA_w/viewform){:target="_blank"}*
+
+<iframe src="https://forms.gle/Smd4QfbLENgxnyy6A/viewform?embedded=true" width="640" height="400" frameborder="0" marginheight="0" marginwidth="0">Loading…
+</iframe>
+
+
+-----
 
 
 ## Investigating systematic errors
@@ -126,6 +135,7 @@ Choose one source of uncertainty that you found to be significant, and carefully
 For Checkpoint 1, you will present the results of this exploration as part of a figure with two panels:
 + panel a, containing a photo of your experimental setup, with $$x$$, $$L$$, and the parameter you varied clearly labeled.
 + panel b, a plot with $$x$$ on the vertical axis and the parameter you varied on the horizontal axis. Be sure to plot your data points with error bars, following our [figure-making guide from Module 1](https://physics-50.github.io/Module-1/week4){:target="_blank"}. It is not necessary to perform a fit to your $$x$$ data. 
+**To reduce workload for this week, you do not need to write a caption for the figure.**
 
 -------------
 
@@ -133,7 +143,7 @@ For Checkpoint 1, you will present the results of this exploration as part of a 
 
 You should submit the following on Gradescope:
 
-+ The two panel figure described above. 
++ The two panel figure described above. Note that you do not need to submit a caption, just the figure with the two panels.
 
 + A link to a spreadsheet with your experimental data.
 
