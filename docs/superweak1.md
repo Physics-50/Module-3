@@ -85,13 +85,24 @@ The ultimate goal of Module 3 is to determine the wavelength of your laser by me
 
 Each time we measure $$x$$, we hope that we have set all the parameters perfectly (eg. the distance $$L$$ to the wall and the angle of the diffraction grating relative to the laser beam). However, it is impossible to set everything perfectly with zero uncertainty. If we are slightly off on any of the possible parameters, how much will that shift the value of $$x$$ that we measure?
 
-Let's focus on the angle of the laser beam, which should ideally come in perpendicular to the diffraction grating. What range of angles away from perfectly perpendicular to the laser beam might we accidentally set the grating? Perhaps we might not notice if we were off by angles up to $$\pm 5 ^{\circ}$$. How important is this? To answer this question, set up your experiment, with $$L\approx 1~m$$. To measure $$x$$, use your tape measure to determine the distance from the central bright spot to the next bright spot to the right. Take a minute or two right now, and go purposefully "wiggle" the grating so that its angle varies over this range, and take note of how much variation this causes in $$x$$.
+Let's focus on the angle of the laser beam, which should ideally come in perpendicular to the diffraction grating. What range of angles away from perfectly perpendicular to the laser beam might we accidentally set the grating? Perhaps we might not notice if we were off by angles up to $$\pm 5^{\circ}$$. How important is this? To answer this question, set up your experiment, with $$L\approx 1~\mathrm{m}$$. To measure $$x$$, use your tape measure to determine the distance from the central bright spot to the next bright spot to the right. Take a minute or two right now, and go purposefully "wiggle" the grating so that its angle varies over this range, and take note of how much variation this causes in $$x$$.
 
 Next: introduce four other parameters to explore. Explain how to wiggle d. Suggest a range for each. 
+In addition to the angle of the diffraction grating that you just explored, we have identified several other potential sources of uncertainty in $$x$$, listed below:
+
+1. Distance from laser to diffraction grating (keeping the diffraction grating fixed in place, moving the laser). Range: $$\pm 1~\mathrm{cm}$$.
+2. Vertical tilt of laser. Range: $$\pm 5^{\circ}$$.
+3. The value of the diffraction spacing $$d$$ is also a parameter we can "wiggle," in a slightly less obvious way. Each diffraction grating could have manufacturing defects that cause $$d$$ to be slightly off from the stated value. We can see how this happens in two different ways:
++ (a) There may be variation between diffraction gratings -- explore this by measuring $$x$$ for each of gratings "A", "B", "C", "D", "E."
++ (b) There may be variation within a single diffraction grating -- explore this by measuring $$x$$ at several positions on one diffraction grating. 
+4. The distance $L$ between the grating and the wall is something we will be systematically varying in Module 3, so that we can ultimately find the wavelength. But each time we set the value of $$L$$, we can only do so with some imprecision. Set $$L= 1~\mathrm{m}$$, and then vary $$L$$ over a range of $$\pm 1~\mathrm{cm}$$.
+
+For each of the five (the angle of the diffraction grating, plus the four listed above) potential sources of uncertainty listed above, wiggle the parameter over the suggested range and record the variation in $$x$$. Since this is just an exploratory wiggling of parameters, you do not need to perform repeated trials of these tests. It should take you about 15 minutes to wiggle all the parameters.
 
 MINIQUESTION:
 list parameters with ranges. How important is this source of uncertainty in x? little medium alot
 
+**The takeaway from this parameter-wiggling exercise is that the parameters that cause a larger variation in $$x$$ should be reset before each $$x$$ measurement once we start collecting data in earnest next week. The ones that don't make much difference in $$x$$ do not need to be reset.**
 
 ## Investigating systematic errors
 
