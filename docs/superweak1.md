@@ -93,8 +93,8 @@ In addition to the angle of the diffraction grating that you just explored, we h
 1. Distance from laser to diffraction grating (keeping the diffraction grating fixed in place, moving the laser). Range: $$\pm 1~\mathrm{cm}$$.
 2. Vertical tilt of laser. Range: $$\pm 5^{\circ}$$.
 3. The value of the diffraction spacing $$d$$ is also a parameter we can "wiggle," in a slightly less obvious way. Each diffraction grating could have manufacturing defects that cause $$d$$ to be slightly off from the stated value. We can see how this happens in two different ways:
-+ (a) There may be variation between diffraction gratings -- explore this by measuring $$x$$ for each of gratings "A", "B", "C", "D", "E."
-+ (b) There may be variation within a single diffraction grating -- explore this by measuring $$x$$ at several positions on one diffraction grating. 
++ There may be variation between diffraction gratings -- explore this by measuring $$x$$ for each of gratings "A", "B", "C", "D", "E."
++ There may be variation within a single diffraction grating -- explore this by measuring $$x$$ at five positions on one diffraction grating. 
 4. The distance $L$ between the grating and the wall is something we will be systematically varying in Module 3, so that we can ultimately find the wavelength. But each time we set the value of $$L$$, we can only do so with some imprecision. Set $$L= 1~\mathrm{m}$$, and then vary $$L$$ over a range of $$\pm 1~\mathrm{cm}$$.
 
 For each of the five (the angle of the diffraction grating, plus the four listed above) potential sources of uncertainty listed above, wiggle the parameter over the suggested range and record the variation in $$x$$. Since this is just an exploratory wiggling of parameters, you do not need to perform repeated trials of these tests. It should take you about 15 minutes to wiggle all the parameters.
