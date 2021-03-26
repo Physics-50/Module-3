@@ -81,30 +81,17 @@ In week one, we will attempt to answer these questions.
 
 As in previous modules, you should perform the following exploratory measurements and record them in your [data sheet assigned from Google Classroom](https://classroom.google.com/c/MTI2NjQ0NDEyMTAx/a/MjAyODE1ODE3OTY5/details){:target="_blank"}
 
-1. **perform a single measurement**
-    + for a single $$L$$ measure $$x$$ and calculate $$\lambda$$; is your value reasonable? (e.g. is it between the value quoted on the sticker of the laser pointer 630-680 nm?) **Note that this is not how we will ultimately be determining lambda. Next week, we will begin data collection in earnest. This is just a quick check.**
-    + what are the resolution uncertainty in your measured values of $$x$$ and $$L$$? which relative (fractional) resolution uncertainty is greater $$(\delta_\mathrm{res.} x)/x$$ or $$(\delta_\mathrm{res.} L)/L$$? 
-2. **test repeatability**
-    + at a fixed $$L$$, repeat the measurement of $$x$$ several times, fully resetting the experiment between each measurement
-    + based on this, what is the dominant source of uncertainty: random or resolution?
+The ultimate goal of Module 3 is to determine the wavelength of your laser by measuring $$x$$ while varying $$L$$. However, for week 1, we will focus only on getting the most accurate measurement of $$x$$. To do so, we will "wiggle" our experimental parameters to find out which ones significantly change the value of $$x$$ that we measure. This is a typical first experimental step, and it will inform our experimental procedure that we will use next week.
 
-3. **explore other factors** NOT SURE IF THIS IS STILL NEEDED, AND I DON'T KNOW WHAT THE MINIQUESTION IS ALL ABOUT
-    + think of other variables you can change, make some preliminary observations of their effect
-    + are you getting the same value of $$x$$ when you measure the 1st maximum to the left of the central maximum vs the 1st maximum to the right? 
+Each time we measure $$x$$, we hope that we have set all the parameters perfectly (eg. the distance $$L$$ to the wall and the angle of the diffraction grating relative to the laser beam). However, it is impossible to set everything perfectly with zero uncertainty. If we are slightly off on any of the possible parameters, how much will that shift the value of $$x$$ that we measure?
 
-#### Miniquestion $%&3: Exploring other factors SUGGEST REMOVING THIS
-[*Click here to open in a new tab (recommended)*](https://forms.gle/NYhuVfiRRrmrzUi59){:target="_blank"}
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe3T538QpIwC2e9FGaTT_T6NgMcHjHkPpaEdel3hD0dAHzAJw/viewform?embedded=true" width="640" height="400" frameborder="0" marginheight="0" marginwidth="0">Loading…
-</iframe>
+Let's focus on the angle of the laser beam, which should ideally come in perpendicular to the diffraction grating. What range of angles away from perfectly perpendicular to the laser beam might we accidentally set the grating? Perhaps we might not notice if we were off by angles up to $$\pm 5 ^{\circ}$$. How important is this? To answer this question, set up your experiment, with $$L\approx 1~m$$. To measure $$x$$, use your tape measure to determine the distance from the central bright spot to the next bright spot to the right. Take a minute or two right now, and go purposefully "wiggle" the grating so that its angle varies over this range, and take note of how much variation this causes in $$x$$.
 
-REPLACE WITH THIS:
+Next: introduce four other parameters to explore. Explain how to wiggle d. Suggest a range for each. 
 
-#### Miniquestion 3: Calculating wavelength from slope
-[*Click here to open in a new tab*](https://forms.gle/MPYx6nPVd54jYE359){:target="_blank"}
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSct57YgYJ1rxsHAkhGfOk_QUB638pb_MYeH7vhVZU2MGQUW5w/viewform?embedded=true" width="640" height="400" frameborder="0" marginheight="0" marginwidth="0">Loading…
-</iframe>
+MINIQUESTION:
+list parameters with ranges. How important is this source of uncertainty in x? little medium alot
 
-<br>
 
 ## Investigating systematic errors
 
@@ -126,16 +113,7 @@ Usually we don't have the benefit of having our experiment repeated by 150 other
 
 Your Module 3 deliverable will be a sequence of figures that present both your main result (your measured value of $$\lambda$$), as well as an important a secondary result: a careful study of a significant systematic effect in the measurement.
 
-Let's start by brainstorming possible sources of systematic uncertainty.
 
-----------------------
-SHOULD SOME OF WHAT IS IN THIS MINIQUESTION MOVE INTO THE MODULE ITSELF?
-#### Miniquestion 4: Sources of Uncertainty
-*[Click here to open in a new tab](https://docs.google.com/forms/d/e/1FAIpQLScTDcO7TOcD-Br6EJUJ-2eDNgBzZdDBPccsdrMRBBxRdxUZPg/viewform?){:target="_blank"}*
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScTDcO7TOcD-Br6EJUJ-2eDNgBzZdDBPccsdrMRBBxRdxUZPg/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
-</iframe>
-------------------------------
 
 I THINK WE NEED TO CUT ALL OF THE FOLLOWING:
 ********************** START CUTTING HERE ****************************
