@@ -100,8 +100,6 @@ For each of the five (the angle of the diffraction grating, plus the four listed
 
 **The takeaway from this parameter-wiggling exercise is that the parameters that cause a larger variation in $$x$$ should be reset before each $$x$$ measurement once we start collecting data in earnest next week. The ones that don't make much difference in $$x$$ do not need to be reset.**
 
-MINIQUESTION: https://forms.gle/Smd4QfbLENgxnyy6A
-
 -----
 
 #### Miniquestion 3: Which parameters need to be reset?
