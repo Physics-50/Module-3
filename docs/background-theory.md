@@ -1,6 +1,6 @@
 ## Module 3 Background Theory
 
-In special relativity we treated light as individual particles of light called photons. However, as you learned in Physics 51 (or will learn shortly!), light is often described as an electromagnetic wave – periodic fluctuations of the electric and magnetic fields that travel at the speed of light. It turns out that light can be described as both a wave and a particle. For the remainder of this section we treat light as an electromagnetic wave and not as a particle. The particle treatment is pursued at the end of Physics 51 and, if you choose to continue taking physics at Mudd, the beginning of Physics 52.
+In special relativity we treated light as individual particles of light called photons. However, as you learned in Physics 51, light is often described as an electromagnetic wave – periodic fluctuations of the electric and magnetic fields that travel at the speed of light. It turns out that light can be described as both a wave and a particle. For the remainder of this section we treat light as an electromagnetic wave and not as a particle. The particle treatment is pursued at the end of Physics 51 and, if you choose to continue taking physics at Mudd, the beginning of Physics 52.
 
 Before we get into the mathematical details of how electromagnetic waves behave let us get a better visualization of what is happening by thinking about water waves. In the right half of the photo below (taken by Google Earth off the Australian coastline) we can see water waves traveling as a plane wave from right to left.
 
