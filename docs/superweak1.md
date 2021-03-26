@@ -79,13 +79,13 @@ In week one, we will attempt to answer these questions.
 
 ## Exploratory Measurements
 
-As in previous modules, you should perform the following exploratory measurements and record them in your [data sheet assigned from Google Classroom](https://classroom.google.com/c/MTI2NjQ0NDEyMTAx/a/MjAyODE1ODE3OTY5/details){:target="_blank"}
+As in previous modules, you should perform the following exploratory measurements and record them in your [data sheet assigned from Google Classroom.](https://classroom.google.com/c/MTI2NjQ0NDEyMTAx/a/MjAyODE1ODE3OTY5/details){:target="_blank"}
 
 The ultimate goal of Module 3 is to determine the wavelength of your laser by measuring $$x$$ while varying $$L$$. However, for week 1, we will focus only on getting the most accurate measurement of $$x$$. To do so, we will "wiggle" our experimental parameters to find out which ones significantly change the value of $$x$$ that we measure. This is a typical first experimental step, and it will inform our experimental procedure that we will use next week.
 
 Each time we measure $$x$$, we hope that we have set all the parameters perfectly (eg. the distance $$L$$ to the wall and the angle of the diffraction grating relative to the laser beam). However, it is impossible to set everything perfectly with zero uncertainty. If we are slightly off on any of the possible parameters, how much will that shift the value of $$x$$ that we measure?
 
-Let's focus on the angle of the laser beam, which should ideally come in perpendicular to the diffraction grating. What range of angles away from perfectly perpendicular to the laser beam might we accidentally set the grating? Perhaps we might not notice if we were off by angles up to $$\pm 5^{\circ}$$. How important is this? To answer this question, set up your experiment, with $$L\approx 1~\mathrm{m}$$. To measure $$x$$, use your tape measure to determine the distance from the central bright spot to the next bright spot to the right. Take a minute or two right now, and go purposefully "wiggle" the grating so that its angle varies over this range, and take note of how much variation this causes in $$x$$.
+Let's focus on the angle of the laser beam, which should ideally come in perpendicular to the diffraction grating. What range of angles away from perfectly perpendicular to the laser beam might we accidentally set the grating? Perhaps we might not notice if we were off by angles up to $$\pm 5^{\circ}$$. How important is this? To answer this question, set up your experiment, with $$L= 1~\mathrm{m}$$. To measure $$x$$, use your tape measure to determine the distance from the central bright spot to the next bright spot to the right. Take a minute or two right now, and go purposefully "wiggle" the grating so that its angle varies over this range, and take note of how much variation this causes in $$x$$.
 
 In addition to the angle of the diffraction grating that you just explored, we have identified several other potential sources of uncertainty in $$x$$, listed below:
 
@@ -98,7 +98,7 @@ In addition to the angle of the diffraction grating that you just explored, we h
 
 For each of the five (the angle of the diffraction grating, plus the four listed above) potential sources of uncertainty listed above, wiggle the parameter over the suggested range and record the variation in $$x$$. Since this is just an exploratory wiggling of parameters, you do not need to perform repeated trials of these tests. It should take you about 15 minutes to wiggle all the parameters.
 
-**The takeaway from this parameter-wiggling exercise is that the parameters that cause a larger variation in $$x$$ should be reset before each $$x$$ measurement once we start collecting data in earnest next week. The ones that don't make much difference in $$x$$ do not need to be reset.**
+**The takeaway from this parameter-wiggling exercise is that the parameters that cause a larger variation in $$x$$ should be reset before each $$x$$ measurement. The ones that don't make much difference in $$x$$ do not need to be reset.**
 
 -----
 
