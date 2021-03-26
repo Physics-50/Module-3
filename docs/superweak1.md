@@ -123,7 +123,7 @@ Because systematic errors are so important in experimental research, we want you
 
 Choose one source of uncertainty that you found to be significant and systematically explore its effect on the measured value of $$x$$. Think about how best to do this by carefully varying the chosen parameter (eg. the angle of the laser beam, or the choice of diffraction grating). You should have about five different values of the parameter you wiggle (eg. angle or diffraction grating), and for each value of that parameter, you need to make five measurements of $$x$$ and report the average value of $$x \pm $$SEM. **Remember to reset all the other parameters that also have significant effects on $$x$$, for each measurement.** For example, if you are carefully studying the effect of choice of diffraction grating, make sure to reset both the angle of the diffraction grating and the distance $$L$$ between each of the five trials for each grating.  
 
-For Checkpoint 1, you will present the results of this exploration as a plot with $$x$$ on the vertical axis and the parameter you varied on the horizontal axis. Be sure to plot your data points with error bars, following our plot-making guide from Module 1. It is not necessary to perform a fit to your $$x$$ data.
+For Checkpoint 1, you will present the results of this exploration as a plot with $$x$$ on the vertical axis and the parameter you varied on the horizontal axis. Be sure to plot your data points with error bars, following our [figure-making guide from Module 1](https://physics-50.github.io/Module-1/week4){:target="_blank"}. It is not necessary to perform a fit to your $$x$$ data.
 
 
 -------------
