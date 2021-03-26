@@ -122,7 +122,7 @@ $$\lambda$$ (nm) | $$\delta \lambda$$ (nm)
 694| 	7
 719|	8
 
-We are all using the same materials, so why don't our results agree?!?! Well, as you have just seen for yourself, the value of $$x$$ can be shifted in a systematic manner if important parameters are not reset before each trial. [Recall](https://physics-50.github.io/Module-2/week3){:target="_blank"} that resetting these parameters randomizes their impact on $$x$$, which averages out the shift.
+We are all using the same materials, so why don't our results agree?!?! Well, as you have just seen for yourself, the value of $$x$$ (and therefore ultimately the wavelength, as we'll see next week) can be shifted in a systematic manner if important parameters are not reset before each trial. [Recall](https://physics-50.github.io/Module-2/week3){:target="_blank"} that resetting these parameters randomizes their impact on $$x$$, which averages out the shift.
 
 Because systematic errors are so important in experimental research, we want you to do a careful study of one dominant source of systematic error in $$x$$. This study will ultimately be presented as part of a sequence of figures for your Module 3 deliverable.
 
