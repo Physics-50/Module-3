@@ -30,10 +30,10 @@ In this module you will use the spacing between diffraction maxima to measure th
 Module 3 is four weeks long. Each week, except the last week, you will have a checkpoint due. These checkpoints will give us a chance to provide you feedback as your work towards the Module 3 deliverable: a scientific poster that effectively communicates your results including how the data was collected and analyzed. In this module you should start with Week 1, and the relevant concepts will be linked in context as you go along through this and other weeks.
 
 1. [Week 1 - Exploratory Phase](week1)
-    - Checkpoint: preliminary measurement of the wavelength of your laser pointer using the provided diffraction grating with 500 lines/mm
-2. [Week 2 - Investigating Systematic Errors](week2)
-    - Checkpoint: A figure with best values for the wavelength of your laser pointer for results from two different diffraction gratings (500 lines/mm and 1000 lines/mm), and the results from exploring a significant source of systematic error
-3. [Week 3 - Finalizing Results](week3)
-    - A draft sequence of figures with that show the results of your experiment: the value for the wavelength of your laser pointer and details of the approach taken to improve the accuracy of the results.
+    - Checkpoint: a two panel figure that showcases your results from exploring a significant source of systematic error in the experiment.
+2. [Week 2 - Data Collection](week2)
+    - Checkpoint: A figure showcasing your results from the 500 lines/mm grating
+3. [Week 3 - Further Data Collection](week3)
+    - Checkpoint: A figure that allows comparison of your results from the 500 lines/mm and 1000 lines/mm gratings.
 4. [Week 4 - Scientific Communication Phase](week4)
-    - Deliverable: a scientific poster communicating your results.
+    - Deliverable: a sequence of figures communicating your results from the module.
