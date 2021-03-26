@@ -105,12 +105,9 @@ MINIQUESTION: https://forms.gle/Smd4QfbLENgxnyy6A
 -----
 
 #### Miniquestion 3: Which parameters need to be reset?
-*[Click here to open in a new tab](https://forms.gle/Smd4QfbLENgxnyy6A){:target="_blank"}*
+*[Click here to open in a new tab](https://docs.google.com/forms/d/e/1FAIpQLSe-Bcw3iqEcmblnBnsOJOqSbfHVNrXckA4mVs9VEvzOXHvZQQ/viewform?usp=sf_link){:target="_blank"}*
 
-<iframe src="https://forms.gle/Smd4QfbLENgxnyy6A/viewform?embedded=true" width="640" height="400" frameborder="0" marginheight="0" marginwidth="0">Loading…
-</iframe>
-
-
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe-Bcw3iqEcmblnBnsOJOqSbfHVNrXckA4mVs9VEvzOXHvZQQ/viewform?embedded=true" width="640" height="737" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 -----
 
 
