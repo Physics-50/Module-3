@@ -99,10 +99,11 @@ In addition to the angle of the diffraction grating that you just explored, we h
 
 For each of the five (the angle of the diffraction grating, plus the four listed above) potential sources of uncertainty listed above, wiggle the parameter over the suggested range and record the variation in $$x$$. Since this is just an exploratory wiggling of parameters, you do not need to perform repeated trials of these tests. It should take you about 15 minutes to wiggle all the parameters.
 
-MINIQUESTION:
-list parameters with ranges. How important is this source of uncertainty in x? little medium alot
-
 **The takeaway from this parameter-wiggling exercise is that the parameters that cause a larger variation in $$x$$ should be reset before each $$x$$ measurement once we start collecting data in earnest next week. The ones that don't make much difference in $$x$$ do not need to be reset.**
+
+MINIQUESTION:
+list parameters with ranges. Check all that must be reset before each measurement of $$x$$, ie. on all that cause a significant variation in $$x$$ over the range explored.
+
 
 ## Investigating systematic errors
 
@@ -116,41 +117,13 @@ $$\lambda$$ (nm) | $$\delta \lambda$$ (nm)
 694| 	7
 719|	8
 
-We are all using the same materials, so why don't our results agree?!?!
+We are all using the same materials, so why don't our results agree?!?! Well, as you have just seen for yourself, the value of $$x$$ can be shifted in a systematic manner if important parameters are not reset before each trial. [Recall](https://physics-50.github.io/Module-2/week3){:target="_blank"} that resetting these parameters randomizes their impact on $$x$$, which averages out the shift.
 
-This disagreement suggests there are important systematic effects in our measurement that we aren't accounting for. **This week, we will be trying to identify sources of systematic error, and then either account for them or "randomize" them.** 
+Because systematic errors are so important in experimental research, we want you to do a careful study of one dominant source of systematic error in $$x$$. This study will ultimately be presented as part of a sequence of figures for your Module 3 deliverable.
 
-Usually we don't have the benefit of having our experiment repeated by 150 other people at the same time to know that we should worry about systematic errors. This process of carefully thinking about systematic errors is one that we should always undertake with any experimental measurement, like we did in our [short discussion of systematic errors from Module 1](https://physics-50.github.io/Module-1/uncertainty-introduction.html#systematic-errors){:target="_blank"} and the careful consideration we made about [possible systematic errors in Module 2, Week 3](https://physics-50.github.io/Module-2/week3){:target="_blank"}.
+Choose one source of uncertainty that you found to be significant and systematically explore its effect on the measured value of $$x$$. Think about how best to do this by carefully varying the chosen parameter (eg. the angle of the laser beam, or the choice of diffraction grating). You should have about five different values of the parameter you wiggle (eg. angle or diffraction grating), and for each value of that parameter, you need to make five measurements of $$x$$ and report the average value of $$x \pm $$SEM. **Remember to reset all the other parameters that also have significant effects on $$x$$, for each measurement.** For example, if you are carefully studying the effect of choice of diffraction grating, make sure to reset both the angle of the diffraction grating and the distance $$L$$ between each of the five trials for each grating.  
 
-Your Module 3 deliverable will be a sequence of figures that present both your main result (your measured value of $$\lambda$$), as well as an important a secondary result: a careful study of a significant systematic effect in the measurement.
-
-
-
-I THINK WE NEED TO CUT ALL OF THE FOLLOWING:
-********************** START CUTTING HERE ****************************
-The kit you received includes five diffraction gratings for each of two different spacings.
-
-When collecting data this week we would like you to take into consideration the sources of uncertainty just discussed and do your best to minimize uncertainty and randomize systematic error. 
-
-We expect you to collect data this week with the two different spacings of diffraction grating that were provided and compare the results.
-
-----------------------
-
-#### Miniquestion 4: How do the diffraction patterns from the differently spaced diffraction gratings compare
-*[Click here to open in a new tab](https://docs.google.com/forms/d/e/1FAIpQLScOvf4fEdEk5cotRGrTle0iitt7onz0DmTOdhuNL47lh2ifqA/viewform?){:target="_blank"}*
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScOvf4fEdEk5cotRGrTle0iitt7onz0DmTOdhuNL47lh2ifqA/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
-</iframe>
-
-------------------------------
-
-********************** END CUTTING HERE ****************************
-
-THE BELOW SEEMS RIGHT BUT REQUIRES MUCH MORE DETAILED INSTRUCTIONS
-
-As discussed in Miniquestion 4, there are several possible sources of systematic uncertainty that could be important in your measurements. One example is the effect of manufacturer variability in diffraction grating. Another is the effect of not having the laser beam perfectly perpendicular to the diffraction grating.
-
-Choose one source of uncertainty that you believe to be significant and systematically explore its effect on the measured value of $$x$$. Think about how best to do this by systematically varying the parameter (eg. the angle of the laser beam, or the choice of diffraction grating). You should have about five different values of the parameter you vary (eg. angle or diffraction grating), and for each value of that parameter, you need to make five measurements of $$x$$ and report the average value of $$x \pm $$SEM. **NOT SURE IF ASKING THEM TO MAKE 5 MEASUREMENTS OF x AT EACH PARAMETER VALUE WILL RESULT IN REASONABLE ERROR BARS. WE HAVEN'T YET TAUGHT THEM ABOUT RESETTING EVERYTHING.** For each value of  Ultimately you will need to present the results of this exploration as a plot with $$x$$ on the vertical axis and the parameter you varied on the horizontal axis.
+For Checkpoint 1, you will present the results of this exploration as a plot with $$x$$ on the vertical axis and the parameter you varied on the horizontal axis. Be sure to plot your data points with error bars, following our plot-making guide from Module 1. It is not necessary to perform a fit to your $$x$$ data.
 
 
 -------------
@@ -161,17 +134,7 @@ You should submit the following on Gradescope:
 
 + Results from your exploration of one source of uncertainty, presented as a figure with $$x$$ on the vertical axis, and the parameter you varied on the horizontal axis. Most of the time this is the best way to present scientific data, and it will help you prepare for our Module 3 deliverable.
 
-+ A plot used to determine the wavelength of your laser for the 500 lines/mm grating. This plot must include the uncertainties on your data points and include a line of best fit that has been determined with a weighted fit. As always make sure to include units on your axis labels.
-
-+ A plot used to determine the wavelength of your laser for the 1000 lines/mm grating. This plot must include the uncertainties on your data points and include a line of best fit that has been determined with a weighted fit. As always make sure to include units on your axis labels.
-
-+ A plot showing the wavelength you determined as a function of diffraction grating spacing for the two spacings of diffraction grating you measured. Your results should include your propagated uncertainty in the wavelength as determined from your best fit line to the data you obtained for the position of interference maxima as a function of the separation of the diffraction grating from the screen.
-
-+ A link to a spreadsheet with your experimental data
-
-+ Do your measurements of the wavelength using two different diffraction gratings agree with each other and with the wavelength specified by the manufacturer [630-680nm](https://laserclassroom.com/product/standard-red-laser-pointer/){:target="_blank"}? If not what do you think might explain the discrepancy?
-
-
++ A link to a spreadsheet with your experimental data.
 
 [Submit the results of your measurements on Gradescope](https://www.gradescope.com/courses/165932/assignments/809528){:target="_blank"}
 -------------
