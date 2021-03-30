@@ -144,6 +144,8 @@ You should submit the following on Gradescope:
 
 + A link to a spreadsheet with your experimental data.
 
++ Conclusions regarding the significance of your investigated source of experimental uncertainty 
+
 [Submit the results of your measurements on Gradescope](https://www.gradescope.com/courses/216639/assignments/1129992){:target="_blank"}
 -------------
 
