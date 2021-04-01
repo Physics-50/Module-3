@@ -56,6 +56,10 @@ In Module 3, we will use the relationship derived in the background theory to de
 
 We will begin by setting up the experiment. You may find it helpful to work in a room where you can lower or turn out the lights and work in the dark. You will need a workspace with a vertical support such as a wall to which you can mount the grid paper we provided. Go ahead and mount the grid paper (e.g. tape it to a wall).
 
+You will have received one of two types of lasers in your kit. Please watch the following brief video for some specific instructions on working with your laser:
+
+[<img src="images/laserintro.png" alt="intro" width="400"/>](https://drive.google.com/file/d/1bWfzhKvM9QrucTTUggLemnJX-6zPXe3u/view?usp=sharing){:target="_blank"} 
+
 We don't want the laser light shooting across the room, please make sure when you set up your laser pointer that it is directed toward the wall with the mounted grid paper and not toward yourself or family members. **NEVER place your eye directly in the laser beam path.** Even if you are sure the laser is currently off, you should <strong>never look directly down the beam path.</strong>
 
 We will begin by setting up the experiment. Attach one of the **500 lines/mm diffraction gratings** to the binder clip, as shown below. When handling the diffraction grating make sure to only touch the cardboard rim. Getting fingerprints on the transparent grating could affect your results.
