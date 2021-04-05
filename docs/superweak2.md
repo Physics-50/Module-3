@@ -7,7 +7,7 @@
 --------------
 
 
-This week we will continue our investigation of the wavelength the light from the laser pointer you were shipped, but based on some of the answers to Checkpoint 1, we wanted to make sure everyone can calculate the wavelength and its uncertainty given a set of data of $$x$$ vs. $$L$$. Please complete the following miniquestion before you start week 2.
+This week we will being our investigation of how the distance $$x$$ to the first bright spot depends on $$L$$, which will ultimately lead us to obtain an estimate of the wavelength $$\lambda = x/L$$. 
 
 #### Miniquestion 1: Calculating wavelength from slope
 [*Click here to open in a new tab*](https://forms.gle/MPYx6nPVd54jYE359){:target="_blank"}
@@ -15,6 +15,15 @@ This week we will continue our investigation of the wavelength the light from th
 </iframe>
 
 ---------------------------
+
+
+NOTES
+
+The kit you received includes diffraction gratings with two different spacings. This week you will collect data only for the 500 lines/mm grating spacing.
+
+
+----------------------------SECTION ON RESETTING. WHERE DOES IT GO?-------------------------
+When collecting data this week we would like you to take into consideration the sources of uncertainty you explored in Week 1 and do your best to minimize uncertainty and randomize systematic error by resetting the sensitive parameters between each trial. LINK TO DISCUSSION IN WEEK 1
 
 <br>
 
@@ -24,17 +33,14 @@ This week we will continue our investigation of the wavelength the light from th
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScTDcO7TOcD-Br6EJUJ-2eDNgBzZdDBPccsdrMRBBxRdxUZPg/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
 </iframe>
-------------------------------
 
-NOTES
+----------------------------END SECTION ON RESETTING. WHERE DOES IT GO?-------------------------
 
-The kit you received includes diffraction gratings with two different spacings. This week you will collect data only for the 500 lines/mm grating spacing.
-
-When collecting data this week we would like you to take into consideration the sources of uncertainty you explored in Week 1 and do your best to minimize uncertainty and randomize systematic error by resetting the sensitive parameters between each trial. LINK TO DISCUSSION IN WEEK 1
-
-Sanity check measurement - flashing warning -
+Sanity check measurement - flashing warning - Go back to the data you collected last week. Pick a single value of $$x$$ and $$L$$ and check whether the value of $$x/L$$ lies within the range you expect for the wavelength. RANGE
 
 Why don't we just always get lambda by measuring x, determining lambda= x/L for each measurement and then averaging those? What if there is a systematic uncertainty in L, eg. due to baseboard or the ruler not starting at zero? Then plotting a line will still give the correct slope, while the individual lambda values would each be systematically off. The line would have a non-zero intercept that would tell you about the systematic shift in L.
+
+
 
 ## Getting a complete data set for a single diffraction grating
 
