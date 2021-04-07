@@ -80,26 +80,17 @@ You should make use of your data, the best fit analysis and the provided theory 
 
 You should submit the following on Gradescope:
 
-+ The plot used to determine the wavelength of your laser. This plot must include the uncertainties on your data points and include a line of best fit that has been determined with a weighted fit. As always make sure to include units on your axis labels.
++ The plot used to determine the wavelength of your laser. This plot must include the uncertainties on your data points and include a line of best fit that has been determined with a weighted fit. As always make sure to include units on your axis labels. You will be asked to upload this plot 3 times. You should upload the same plot each time.
 
-+ The slope you obtained from your plot including the uncertainty. Please include the appropriate units.
++ A link to a spreadsheet with your experimental data
+
++ The slope you obtained from your plot including the uncertainty. 
 
 + The wavelength you have determined for your laser with uncertainty.
 
-+ A link to a spreadsheet with your experimental data
--------------
-
-## Checkpoint 2
-
-You should submit the following on Gradescope:
-
-+ A plot used to determine the wavelength of your laser for the 500 lines/mm grating. This plot must include the uncertainties on your data points and include a line of best fit that has been determined with a weighted fit. As always make sure to include units on your axis labels. You will be asked to upload this plot 3 times.
-
-+ A link to a spreadsheet with your experimental data
-
-+ Your calculated value for the wavelength of your laser and its uncertainty
-
 + A two sentence description of what you did to minimize sources of uncertainty and randomize sources of systematic error.
+
+-------------
 
 [Submit the results of your measurements on Gradescope](https://www.gradescope.com/courses/165932/assignments/809528){:target="_blank"}
 
