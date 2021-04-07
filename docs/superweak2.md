@@ -7,7 +7,7 @@
 --------------
 
 
-This week we will being our investigation of how the distance $$x$$ to the first bright spot depends on $$L$$, which will ultimately lead us to obtain an estimate of the wavelength $$\lambda = x/L$$. 
+This week we will being our investigation of how the distance $$x$$ to the first bright spot depends on $$L$$, which will ultimately lead us to obtain an estimate of the wavelength $$\lambda = x/L$$. Our approach will be to plot $$x$$ vs. $$L$$ and find the best fit line to that data. The slope of the line will equal the ratio $$\lambda/d$$ of the wavelength to the grating spacing. Let's start with a practice calculation.
 
 #### Miniquestion 1: Calculating wavelength from slope
 [*Click here to open in a new tab*](https://forms.gle/MPYx6nPVd54jYE359){:target="_blank"}
@@ -15,30 +15,9 @@ This week we will being our investigation of how the distance $$x$$ to the first
 </iframe>
 
 ---------------------------
-
-
-NOTES
-
-The kit you received includes diffraction gratings with two different spacings. This week you will collect data only for the 500 lines/mm grating spacing.
-
-
-----------------------------SECTION ON RESETTING. WHERE DOES IT GO?-------------------------
-When collecting data this week we would like you to take into consideration the sources of uncertainty you explored in Week 1 and do your best to minimize uncertainty and randomize systematic error by resetting the sensitive parameters between each trial. LINK TO DISCUSSION IN WEEK 1
-
-<br>
-
-
-#### Miniquestion 2: Sources of Uncertainty
-*[Click here to open in a new tab](https://docs.google.com/forms/d/e/1FAIpQLScTDcO7TOcD-Br6EJUJ-2eDNgBzZdDBPccsdrMRBBxRdxUZPg/viewform?){:target="_blank"}*
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScTDcO7TOcD-Br6EJUJ-2eDNgBzZdDBPccsdrMRBBxRdxUZPg/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
-</iframe>
-
-----------------------------END SECTION ON RESETTING. WHERE DOES IT GO?-------------------------
-
-Sanity check measurement - flashing warning - Go back to the data you collected last week. Pick a single value of $$x$$ and $$L$$ and check whether the value of $$x/L$$ lies within the range you expect for the wavelength. RANGE
-
 Why don't we just always get lambda by measuring x, determining lambda= x/L for each measurement and then averaging those? What if there is a systematic uncertainty in L, eg. due to baseboard or the ruler not starting at zero? Then plotting a line will still give the correct slope, while the individual lambda values would each be systematically off. The line would have a non-zero intercept that would tell you about the systematic shift in L.
+
+But, it is useful to do a very quick "back-of-the-envelope" check to make sure that your value for wavelength is roughly in the range you'd expect.  Go back to the data you collected last week. Pick a single value of $$x$$ and $$L$$ and check whether the value of $$x/L$$ lies within the range you expect for the wavelength. 
 
 
 
@@ -46,7 +25,33 @@ Why don't we just always get lambda by measuring x, determining lambda= x/L for 
 
 One of the most important ideas we want you to take from Module 3, is to **think of a data set as a whole, not as individual points**. 
 
-In the exploratory analysis, you got a measurement of $$x$$ at a single value of $$L$$. By repeating that same measurement you got an idea of the uncertainty of that single measurement $$x$$. But $$L$$ provides us with an independent variable that we can control, so by varying $$L$$ and repeating the measurement, we can create a plot of $$x$$ versus $$L$$. By plotting the data and looking at the data set as a whole, we can gain confidence in our measurement. We can also fit the data to the theoretical prediction in a more robust way if we are including more data points. 
+In the sanity check you just did, you got a measurement of $$x$$ at a single value of $$L$$. By repeating that same measurement you got an idea of the uncertainty of that single measurement $$x$$. But $$L$$ provides us with an independent variable that we can control, so by varying $$L$$ and repeating the measurement, we can create a plot of $$x$$ versus $$L$$. By plotting the data and looking at the data set as a whole, we can gain confidence in our measurement. We can also fit the data to the theoretical prediction in a more robust way if we are including more data points. 
+
+Thinking back to the theoretical prediction of Eq.\eqref{eq:sYoung} for how $$x$$ and $$L$$ should be related, let's rewrite that equation in a more suggestive form for the first maximum ($$n=1$$)
+\begin{equation}
+x = \left(\frac{\lambda}{d}\right) L + 0
+\end{equation}
+where we have added zero to the right hand side. This should look familiar, it's the equation of a straight line (classic $$y=mx+b$$), where if we plotted $$x$$ versus $$L$$, we should get a slope $$m=\lambda/d$$, and an intercept $$b=0$$. There's an added power to treating the data set as a whole in this way because if our data has an intercept that isn't zero, then that would suggest a systematic effect that shifted our measured values!
+
+RANGE
+The kit you received includes diffraction gratings with two different spacings. **This week you will collect data only for the 500 lines/mm grating spacing.**
+
+
+----------------------------SECTION ON RESETTING. WHERE DOES IT GO?-------------------------
+When collecting data this week we would like you to take into consideration the sources of uncertainty you explored in Week 1 and do your best to minimize uncertainty and randomize systematic error by resetting the sensitive parameters between each trial. Please take a moment right now to go back to [Miniquestion 3 from Week 1](https://docs.google.com/forms/d/e/1FAIpQLSe-Bcw3iqEcmblnBnsOJOqSbfHVNrXckA4mVs9VEvzOXHvZQQ/viewform){:target="_blank"} and review your answers to determine which parameters you need to reset and which you don't.
+
+
+----------------------------END SECTION ON RESETTING. WHERE DOES IT GO?-------------------------
+
+
+
+
+
+## Getting a complete data set for a single diffraction grating
+
+One of the most important ideas we want you to take from Module 3, is to **think of a data set as a whole, not as individual points**. 
+
+In the sanity check you just did, you got a measurement of $$x$$ at a single value of $$L$$. By repeating that same measurement you got an idea of the uncertainty of that single measurement $$x$$. But $$L$$ provides us with an independent variable that we can control, so by varying $$L$$ and repeating the measurement, we can create a plot of $$x$$ versus $$L$$. By plotting the data and looking at the data set as a whole, we can gain confidence in our measurement. We can also fit the data to the theoretical prediction in a more robust way if we are including more data points. 
 
 Thinking back to the theoretical prediction of Eq.\eqref{eq:sYoung} for how $$x$$ and $$L$$ should be related, let's rewrite that equation in a more suggestive form for the first maximum ($$n=1$$)
 \begin{equation}
