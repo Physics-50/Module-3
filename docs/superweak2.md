@@ -21,7 +21,7 @@ But, it is useful to do a very quick "back-of-the-envelope" check to make sure t
 
 
 
-## Getting a complete data set for a single diffraction grating
+## Why we fit a line to determine $$\lambda$$
 
 One of the most important ideas we want you to take from Module 3, is to **think of a data set as a whole, not as individual points**. 
 
@@ -33,31 +33,6 @@ x = \left(\frac{\lambda}{d}\right) L + 0
 \end{equation}
 where we have added zero to the right hand side. This should look familiar, it's the equation of a straight line (classic $$y=mx+b$$), where if we plotted $$x$$ versus $$L$$, we should get a slope $$m=\lambda/d$$, and an intercept $$b=0$$. There's an added power to treating the data set as a whole in this way because if our data has an intercept that isn't zero, then that would suggest a systematic effect that shifted our measured values!
 
-RANGE
-The kit you received includes diffraction gratings with two different spacings. **This week you will collect data only for the 500 lines/mm grating spacing.**
-
-
-----------------------------SECTION ON RESETTING. WHERE DOES IT GO?-------------------------
-When collecting data this week we would like you to take into consideration the sources of uncertainty you explored in Week 1 and do your best to minimize uncertainty and randomize systematic error by resetting the sensitive parameters between each trial. Please take a moment right now to go back to [Miniquestion 3 from Week 1](https://docs.google.com/forms/d/e/1FAIpQLSe-Bcw3iqEcmblnBnsOJOqSbfHVNrXckA4mVs9VEvzOXHvZQQ/viewform){:target="_blank"} and review your answers to determine which parameters you need to reset and which you don't.
-
-
-----------------------------END SECTION ON RESETTING. WHERE DOES IT GO?-------------------------
-
-
-
-
-
-## Getting a complete data set for a single diffraction grating
-
-One of the most important ideas we want you to take from Module 3, is to **think of a data set as a whole, not as individual points**. 
-
-In the sanity check you just did, you got a measurement of $$x$$ at a single value of $$L$$. By repeating that same measurement you got an idea of the uncertainty of that single measurement $$x$$. But $$L$$ provides us with an independent variable that we can control, so by varying $$L$$ and repeating the measurement, we can create a plot of $$x$$ versus $$L$$. By plotting the data and looking at the data set as a whole, we can gain confidence in our measurement. We can also fit the data to the theoretical prediction in a more robust way if we are including more data points. 
-
-Thinking back to the theoretical prediction of Eq.\eqref{eq:sYoung} for how $$x$$ and $$L$$ should be related, let's rewrite that equation in a more suggestive form for the first maximum ($$n=1$$)
-\begin{equation}
-x = \left(\frac{\lambda}{d}\right) L + 0
-\end{equation}
-where we have added zero to the right hand side. This should look familiar, it's the equation of a straight line (classic $$y=mx+b$$), where if we plotted $$x$$ versus $$L$$, we should get a slope $$m=\lambda/d$$, and an intercept $$b=0$$. There's an added power to treating the data set as a whole in this way because if our data has an intercept that isn't zero, then that would suggest a systematic effect that shifted our measured values!
 
 How do we extract a slope an intercept from our measured data? We need to perform a least squares fit (linear regression). This might be something you have done previously, but in Ph50 we need to do a **weighted fit** that gives **uncertainty estimates of the fitted parameters**, and provides the **reduced chi-squared** value so we can assess how good the fit is. We have provided a MATLAB script for you that does this type of fit. Please see this [curve fitting guide](curve-fitting){:target="_blank"} before moving on.
 
@@ -72,12 +47,25 @@ Please read the [curve fitting guide](curve-fitting){:target="_blank"} before an
 
 <br>
 
-
 ### Data Collection
 
 Collect a set of data of $$x$$ vs $$L$$ for one of the 500 line/mm diffraction gratings. Once you have collected the appropriate data, make use of the MATLAB curve fitting script to perform a best fit analysis. Make sure to consider relevant sources of both resolution uncertainty and random error in determining the uncertainty of your data points. 
 
 You should make use of your data, the best fit analysis and the provided theory to determine the wavelength of your laser. You will need to use the methods you have been taught in the previous units to propagate your uncertainty and determine the uncertainty in your final result. **You have been provided with four diffraction gratings but for this week you only need to present results from one of the 500 line/mm diffraction gratings. MAYBE WRONG. CHANGE!** And don't forget to label each of your diffraction gratings, so you know which one you used this week.
+
+Now we are ready to get a complete data set. 
+RANGE of L
+The kit you received includes diffraction gratings with two different spacings. **This week you will collect data only for the 500 lines/mm grating spacing.**
+
+
+----------------------------SECTION ON RESETTING. WHERE DOES IT GO?-------------------------
+When collecting data this week we would like you to take into consideration the sources of uncertainty you explored in Week 1 and do your best to minimize uncertainty and randomize systematic error by resetting the sensitive parameters between each trial. Please take a moment right now to go back to [Miniquestion 3 from Week 1](https://docs.google.com/forms/d/e/1FAIpQLSe-Bcw3iqEcmblnBnsOJOqSbfHVNrXckA4mVs9VEvzOXHvZQQ/viewform){:target="_blank"} and review your answers to determine which parameters you need to reset and which you don't.
+
+
+----------------------------END SECTION ON RESETTING. WHERE DOES IT GO?-------------------------
+
+
+
 
 -------------
 
