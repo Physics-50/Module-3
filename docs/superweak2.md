@@ -93,13 +93,13 @@ You should submit the following on Gradescope:
 
 You should submit the following on Gradescope:
 
-+ A plot used to determine the wavelength of your laser for the 500 lines/mm grating. This plot must include the uncertainties on your data points and include a line of best fit that has been determined with a weighted fit. As always make sure to include units on your axis labels.
++ A plot used to determine the wavelength of your laser for the 500 lines/mm grating. This plot must include the uncertainties on your data points and include a line of best fit that has been determined with a weighted fit. As always make sure to include units on your axis labels. You will be asked to upload this plot 3 times.
 
 + A link to a spreadsheet with your experimental data
 
-+ Do your measurements of the wavelength using two different diffraction gratings agree with each other and with the wavelength specified by the manufacturer [630-680nm](https://laserclassroom.com/product/standard-red-laser-pointer/){:target="_blank"}? If not what do you think might explain the discrepancy?
++ Your calculated value for the wavelength of your laser and its uncertainty
 
-
++ A two sentence description of what you did to minimize sources of uncertainty and randomize sources of systematic error.
 
 [Submit the results of your measurements on Gradescope](https://www.gradescope.com/courses/165932/assignments/809528){:target="_blank"}
 
