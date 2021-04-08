@@ -16,7 +16,7 @@ This week we will being our investigation of how the distance $$x$$ to the first
 </iframe>
 
 ---------------------------
-Why don't we just always get lambda by measuring $$x$$, determining $$\lambda= d \frac{x}{L}$$ for each measurement and then averaging those? What if there is a systematic uncertainty in $$L$$, eg. due to accidentally measuring to a baseboard or because your ruler didn't start at zero? Then plotting a line will still give the correct slope, while the individual $$\lambda$$ values would each be systematically off. The line would have a non-zero intercept that would tell you about the systematic shift in $$L$$, as shown in the plot below, where the fitting parameter $$b$$ shown in the legend is clearly not equal to zero.
+Why don't we just always get $$\lambda$$ by measuring $$x$$, determining $$\lambda= d \frac{x}{L}$$ for each measurement and then averaging those? What if there is a systematic uncertainty in $$L$$, eg. due to accidentally measuring to a baseboard or because your ruler didn't start at zero? Then plotting a line will still give the correct slope, while the individual $$\lambda$$ values would each be systematically off. The line would have a non-zero intercept that would tell you about the systematic shift in $$L$$, as shown in the plot below, where the fitting parameter $$b$$ shown in the legend is clearly not equal to zero.
 
 <img src="images/x_vs_L_offset.png" alt="basic setup" width="400" style="display: block; margin-left: auto; margin-right: auto; width: 80%;" />
 
