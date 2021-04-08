@@ -4,8 +4,8 @@
 
 [Weekly Plan](#weekly-plan)
 + [Week 1 - Exploratory Phase](week1)
-+ [Week 2 - Investigating Systematic Errors](week2)
-+ [Week 3 - Finalizing Results](week3)
++ [Week 2 - Data Collection](week2)
++ [Week 3 - Further Data Collection](week3)
 + [Week 4 - Scientific Communication Phase](week4)
 
 
