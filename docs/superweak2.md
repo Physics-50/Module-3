@@ -16,7 +16,7 @@ This week we will being our investigation of how the distance $$x$$ to the first
 </iframe>
 
 ---------------------------
-Why don't we just always get lambda by measuring $$x$$, determining $$\lambda= d \frac{x}{L}$$ for each measurement and then averaging those? What if there is a systematic uncertainty in $$L$$, eg. due to accidentally measuring to a baseboard or because your ruler didn't start at zero? Then plotting a line will still give the correct slope, while the individual $\lambda$ values would each be systematically off. The line would have a non-zero intercept that would tell you about the systematic shift in $$L$$, as shown in the plot below.
+Why don't we just always get lambda by measuring $$x$$, determining $$\lambda= d \frac{x}{L}$$ for each measurement and then averaging those? What if there is a systematic uncertainty in $$L$$, eg. due to accidentally measuring to a baseboard or because your ruler didn't start at zero? Then plotting a line will still give the correct slope, while the individual $$\lambda$$ values would each be systematically off. The line would have a non-zero intercept that would tell you about the systematic shift in $$L$$, as shown in the plot below.
 
 <img src="images/x_vs_L_offset.png" alt="basic setup" width="400" style="display: block; margin-left: auto; margin-right: auto; width: 80%;" />
 
@@ -29,15 +29,13 @@ One of the most important ideas we want you to take from Module 3 is to **think 
 
 In the "back-of-the-envelope" check you just did, you measured $$x$$ at a single value of $$L$$. SHARON SUGGESTS CUTTING THIS SENTENCE: By repeating that measurement of $$x$$, you can get an idea of its uncertainty. But $$L$$ provides us with an independent variable that we can control, so by measuring $$x$$ over a range of $$L$$ values, we can create a plot of $$x$$ versus $$L$$ data. By plotting the data and looking at the data set as a whole, we gain confidence in our measurement and can fit the data to the theoretical prediction in a more robust way. 
 
-Thinking back to the theoretical prediction $$\lambda = d x/L$$, let's rewrite that equation in a more suggestive form
+Thinking back to the theoretical prediction $$\lambda = d \frac{x}{L}$$, let's rewrite that equation in a more suggestive form
 \begin{equation}
 x = \left(\frac{\lambda}{d}\right) L + 0
 \end{equation}
 where we have added zero to the right hand side. This should look familiar, it's the equation of a straight line (classic "$$y=mx+b$$"), where if we plotted $$x$$ versus $$L$$, we should get a slope $$m=\lambda/d$$, and an intercept $$b=0$$. There's an added power to treating the data set as a whole in this way because if our data has an intercept that isn't zero, then that would suggest a systematic error that shifted our measured values!
 
 How do we extract a slope and intercept from our measured data? You have previously fit a horizontal line, but now you will fit a line with a nonzero slope. To understand this fitting process, you now need to carefully read the [curve fitting guide](curve-fitting){:target="_blank"}. In it you will find a MATLAB script that includes a linear fit with both an intercept and a slope.
-
-<br>
 
 Please read the [curve fitting guide](curve-fitting){:target="_blank"} before answering the following miniquestion
 
@@ -57,9 +55,13 @@ When collecting data this week we would like you to take into consideration the 
 To collect your complete $$x$$ vs. $$L$$ dataset, make sure to do the following:
 
 + Choose five values of $$L$$ ranging from about 30 cm to about 1 m, if you space allows it.
+
 + Collect 5 measurements of $$x$$ for each $$L$$ value, being sure to reset all the sensitive parameters between each measurement of $$x$$. If you found in Week 1 that $$x$$ depended senstively on which diffraction grating you used, then you should switch diffraction gratings between measurements, being sure to **only use the 500 line/mm diffraction gratings.** 
+
 + For each $$L$$ value, compute the mean $$x\pm$$SEM. I'M PURPOSELY LEAVING OFF RESOLUTION UNCERTAINTY HERE BUT THAT MAY BE A MISTAKE. LET'S DISCUSS.
+
 + Enter your $$x$$ and $$L$$ data into the MATLAB curve fitting script from the [curve fitting guide](curve-fitting){:target="_blank"} and run the code to perform a best fit analysis.
+
 + You should make use of your data, the best fit analysis and the provided theory to determine the wavelength of your laser. You will need to use the methods you have been taught in the previous units to propagate your uncertainty and determine the uncertainty in your final result. 
 
 
