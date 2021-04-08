@@ -54,7 +54,7 @@ When collecting data this week we would like you to take into consideration the 
 
 To collect your complete $$x$$ vs. $$L$$ dataset, make sure to do the following:
 
-+ Choose five values of $$L$$ ranging from about 30 cm to about 1 m, if you space allows it.
++ Choose five values of $$L$$ ranging from about 30 cm to about 1 m, if your space allows it.
 
 + Collect 5 measurements of $$x$$ for each $$L$$ value, being sure to reset all the sensitive parameters between each measurement of $$x$$. If you found in Week 1 that $$x$$ depended senstively on which diffraction grating you used, then you should switch diffraction gratings between measurements, being sure to **only use the 500 line/mm diffraction gratings.** 
 
