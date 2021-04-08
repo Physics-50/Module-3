@@ -37,7 +37,7 @@ where we have added zero to the right hand side. This should look familiar, it's
 
 How do we extract a slope and intercept from our measured data? You have previously fit a horizontal line, but now you will fit a line with a nonzero slope. To understand this fitting process, you now need to carefully read the [curve fitting guide](curve-fitting){:target="_blank"}. In it you will find a MATLAB script that includes a linear fit with both an intercept and a slope.
 
-Please read the [curve fitting guide](curve-fitting){:target="_blank"} before answering the following miniquestion
+Please read the [curve fitting guide](curve-fitting){:target="_blank"} before answering the following miniquestion.
 
 #### Miniquestion 2: Interpreting a weighted linear fit
 [*Click here to open in a new tab (recommended)*](https://forms.gle/BF8fQq5PNWF1Gh9U8){:target="_blank"}
@@ -58,9 +58,9 @@ To collect your complete $$x$$ vs. $$L$$ dataset, make sure to do the following:
 
 + Collect five measurements of $$x$$ for each $$L$$ value, being sure to reset all the parameters you determined you needed to in  [Miniquestion 3 from Week 1](https://docs.google.com/forms/d/e/1FAIpQLSe-Bcw3iqEcmblnBnsOJOqSbfHVNrXckA4mVs9VEvzOXHvZQQ/viewform){:target="_blank"} between each measurement of $$x$$. If you found in Week 1 that $$x$$ depended sensitively on which diffraction grating you used, then you should switch diffraction gratings between measurements, being sure to **only use the 500 line/mm diffraction gratings.** 
 
-+ For each $$L$$ value, compute the mean $$x\pm$$SEM. I'M PURPOSELY LEAVING OFF RESOLUTION UNCERTAINTY HERE BUT THAT MAY BE A MISTAKE. LET'S DISCUSS.
++ For each $$L$$ value, compute the mean $$x\pm$$ and the random uncertainty as measured by the SEM. Then combine the random uncertainty with your resolution uncertainty in $$x$$ to determine your total uncertainty in x, $$\delta x$$.
 
-+ Enter your $$x\pm$$SEM and $$L$$ data into the MATLAB curve fitting script called "curve_fitting_demo.m" from the [curve fitting guide](curve-fitting){:target="_blank"} and run the code to perform a best fit analysis.
++ Enter your $$x\pm \delta x$$ and $$L$$ data into the MATLAB curve fitting script called "curve_fitting_demo.m" from the [curve fitting guide](curve-fitting){:target="_blank"} and run the code to perform a best fit analysis.
 
 + You should make use of your data, the best fit analysis and the provided theory to determine the wavelength of your laser. You will need to use the methods you have been taught in the previous units to propagate your uncertainty and determine the uncertainty in your final result. 
 
