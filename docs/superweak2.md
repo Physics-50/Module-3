@@ -1,9 +1,9 @@
 # Week 2
 
 --------------
-1. [Overview of Week 2](#Overview-of-Week-2)
-2. [Why we measure $$x$$ over a range of $$L$$ values](#Why-we-measure-$$x$$-over-a-range-of-$$L$$ values)
-3. [Data Collection](#Data-Collection)
+1. [Overview of Week 2](#overview-of-week-2)
+2. [Why we measure $$x$$ over a range of $$L$$ values](#why-we-measure-$$x$$-over-a-range-of-$$L$$-values)
+3. [Data Collection](#data-collection)
 4. [Checkpoint 2](#checkpoint-2)
 
 --------------
