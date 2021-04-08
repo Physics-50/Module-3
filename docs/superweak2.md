@@ -1,8 +1,9 @@
 # Week 2
 
 --------------
-1. [Investigating systematic errors](#investigating-systematic-errors)
-2. [Checkpoint 2](#checkpoint-2)
+1. [Why we measure $$x$$ over a range of $$L$$ values](#Why-we-measure-$$x$$-over-a-range-of-$$L$$ values)
+2. [Data Collection](#Data-Collection)
+3. [Checkpoint 2](#checkpoint-2)
 
 --------------
 
@@ -17,7 +18,7 @@ This week we will being our investigation of how the distance $$x$$ to the first
 ---------------------------
 Why don't we just always get lambda by measuring $$x$$, determining $$\lambda= d x/L$$ for each measurement and then averaging those? What if there is a systematic uncertainty in $$L$$, eg. due to accidentally measuring to a baseboard or because your ruler didn't start at zero? Then plotting a line will still give the correct slope, while the individual $\lambda$ values would each be systematically off. The line would have a non-zero intercept that would tell you about the systematic shift in $L$, as shown in the plot below.
 
-INSERT PLOT HERE
+<img src="images/x_vs_L_offset.png" alt="basic setup" width="400" style="display: block; margin-left: auto; margin-right: auto; width: 80%;" />
 
 Nevertheless, it is useful to do a very quick "back-of-the-envelope" check to make sure that your value for wavelength is roughly in the range you'd expect (600-700 nm).  Go back to the data you collected last week. Pick a single value of $$x$$ and $$L$$ and check whether the value of $$d x/L$$ lies within the range you expect for the wavelength. 
 
