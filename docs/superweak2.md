@@ -56,7 +56,7 @@ To collect your complete $$x$$ vs. $$L$$ dataset, make sure to do the following:
 
 + Choose five values of $$L$$ ranging from about 30 cm to about 1 m, if your space allows it.
 
-+ Collect five measurements of $$x$$ for each $$L$$ value, being sure to reset all the sensitive parameters between each measurement of $$x$$. If you found in Week 1 that $$x$$ depended senstively on which diffraction grating you used, then you should switch diffraction gratings between measurements, being sure to **only use the 500 line/mm diffraction gratings.** 
++ Collect five measurements of $$x$$ for each $$L$$ value, being sure to reset all the parameters you determined you needed to in  [Miniquestion 3 from Week 1](https://docs.google.com/forms/d/e/1FAIpQLSe-Bcw3iqEcmblnBnsOJOqSbfHVNrXckA4mVs9VEvzOXHvZQQ/viewform){:target="_blank"} between each measurement of $$x$$. If you found in Week 1 that $$x$$ depended sensitively on which diffraction grating you used, then you should switch diffraction gratings between measurements, being sure to **only use the 500 line/mm diffraction gratings.** 
 
 + For each $$L$$ value, compute the mean $$x\pm$$SEM. I'M PURPOSELY LEAVING OFF RESOLUTION UNCERTAINTY HERE BUT THAT MAY BE A MISTAKE. LET'S DISCUSS.
 
