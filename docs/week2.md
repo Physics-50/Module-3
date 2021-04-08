@@ -96,6 +96,8 @@ You should submit the following on Gradescope:
 ## Grading rubric
 The tentative rubric that will be used to evaluate this deliverable is provided below. Please keep in mind that these rubric items are subject to change as we can never foresee all the issues that may arise. This is meant to give you a sense of how it will be graded. You can click on the rubric to enlarge it.
 
+The checkpoint will be graded out of 15 points.
+
 [![Results Rubric](images/m3-r2a.png)](images/m3-r2a.png){:target="_blank"}
 
 [![Results Rubric](images/m3-r2b.png)](images/m3-r2b.png){:target="_blank"}
