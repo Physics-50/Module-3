@@ -88,7 +88,7 @@ You should submit the following on Gradescope:
 
 -------------
 
-[Submit the results of your measurements on Gradescope](https://www.gradescope.com/courses/165932/assignments/809528){:target="_blank"}
+[Submit Checkpoint 2 on Gradescope](https://www.gradescope.com/courses/165932/assignments/809528){:target="_blank"}
 
 And to double-check, make sure you have finished all of this week's mini-questions by [checking here](mini-questions#week-2){:target="_blank"}
 
