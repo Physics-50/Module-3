@@ -77,7 +77,9 @@ You should submit the following on Gradescope:
 
 + The plot used to determine the wavelength of your laser. This plot must include the uncertainties on your data points and include a line of best fit that has been determined with a weighted fit. As always, make sure to include units on your axis labels. You will be asked to upload this plot 3 times. You should upload the same plot each time. You do not need to write a caption.
 
-+ A link to a spreadsheet with your experimental data,.
++ A link to a spreadsheet with your experimental data.
+
++ A sample calculation of wavelength and uncertainty, instructions for which are provided in the checkpoint instructions on Gradescope.
 
 + The slope you obtained from your plot, including the uncertainty. 
 
