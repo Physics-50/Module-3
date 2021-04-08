@@ -1,12 +1,14 @@
 # Week 2
 
 --------------
-1. [Why we measure $$x$$ over a range of $$L$$ values](#Why-we-measure-$$x$$-over-a-range-of-$$L$$ values)
-2. [Data Collection](#Data-Collection)
-3. [Checkpoint 2](#checkpoint-2)
+1. [Overview of Week 2](#Overview-of-Week-2)
+2. [Why we measure $$x$$ over a range of $$L$$ values](#Why-we-measure-$$x$$-over-a-range-of-$$L$$ values)
+3. [Data Collection](#Data-Collection)
+4. [Checkpoint 2](#checkpoint-2)
 
 --------------
 
+## Overview of Week 2
 
 This week we will being our investigation of how the distance $$x$$ to the first bright spot depends on $$L$$, which will ultimately lead us to obtain an estimate of the wavelength $$\lambda = d \frac{x}{L}$$. Our approach will be to plot $$x$$ vs. $$L$$ and find the best fit line to that data. The slope of the line will equal the ratio $$\lambda/d$$ of the wavelength to the grating spacing. Let's start with a practice calculation.
 
