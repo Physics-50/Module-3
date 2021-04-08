@@ -78,8 +78,7 @@ You should submit the following on Gradescope:
 
 + The wavelength you have determined for your laser, with uncertainty.
 
-+ A two sentence description of what you did to minimize sources of uncertainty and randomize sources of systematic error.
-
++ A list of the parameters you reset between each $$x$$ measurement.
 -------------
 
 [Submit the results of your measurements on Gradescope](https://www.gradescope.com/courses/165932/assignments/809528){:target="_blank"}
