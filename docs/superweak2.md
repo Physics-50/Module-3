@@ -75,7 +75,7 @@ To collect your complete $$x$$ vs. $$L$$ dataset, make sure to do the following:
 
 You should submit the following on Gradescope:
 
-+ The plot used to determine the wavelength of your laser. This plot must include the uncertainties on your data points and include a line of best fit that has been determined with a weighted fit. As always, make sure to include units on your axis labels. You will be asked to upload this plot 3 times. You should upload the same plot each time. you do not need to write a caption.
++ The plot used to determine the wavelength of your laser. This plot must include the uncertainties on your data points and include a line of best fit that has been determined with a weighted fit. As always, make sure to include units on your axis labels. You will be asked to upload this plot 3 times. You should upload the same plot each time. You do not need to write a caption.
 
 + A link to a spreadsheet with your experimental data
 
