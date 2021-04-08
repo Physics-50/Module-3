@@ -8,7 +8,7 @@
 --------------
 
 
-This week we will being our investigation of how the distance $$x$$ to the first bright spot depends on $$L$$, which will ultimately lead us to obtain an estimate of the wavelength $$\lambda = d x/L$$. Our approach will be to plot $$x$$ vs. $$L$$ and find the best fit line to that data. The slope of the line will equal the ratio $$\lambda/d$$ of the wavelength to the grating spacing. Let's start with a practice calculation.
+This week we will being our investigation of how the distance $$x$$ to the first bright spot depends on $$L$$, which will ultimately lead us to obtain an estimate of the wavelength $$\lambda = d \frac{x}{L}$$. Our approach will be to plot $$x$$ vs. $$L$$ and find the best fit line to that data. The slope of the line will equal the ratio $$\lambda/d$$ of the wavelength to the grating spacing. Let's start with a practice calculation.
 
 #### Miniquestion 1: Calculating wavelength from slope
 [*Click here to open in a new tab*](https://forms.gle/MPYx6nPVd54jYE359){:target="_blank"}
@@ -16,11 +16,11 @@ This week we will being our investigation of how the distance $$x$$ to the first
 </iframe>
 
 ---------------------------
-Why don't we just always get lambda by measuring $$x$$, determining $$\lambda= d x/L$$ for each measurement and then averaging those? What if there is a systematic uncertainty in $$L$$, eg. due to accidentally measuring to a baseboard or because your ruler didn't start at zero? Then plotting a line will still give the correct slope, while the individual $\lambda$ values would each be systematically off. The line would have a non-zero intercept that would tell you about the systematic shift in $L$, as shown in the plot below.
+Why don't we just always get lambda by measuring $$x$$, determining $$\lambda= d \frac{x}{L}$$ for each measurement and then averaging those? What if there is a systematic uncertainty in $$L$$, eg. due to accidentally measuring to a baseboard or because your ruler didn't start at zero? Then plotting a line will still give the correct slope, while the individual $\lambda$ values would each be systematically off. The line would have a non-zero intercept that would tell you about the systematic shift in $$L$$, as shown in the plot below.
 
 <img src="images/x_vs_L_offset.png" alt="basic setup" width="400" style="display: block; margin-left: auto; margin-right: auto; width: 80%;" />
 
-Nevertheless, it is useful to do a very quick "back-of-the-envelope" check to make sure that your value for wavelength is roughly in the range you'd expect (600-700 nm).  Go back to the data you collected last week. Pick a single value of $$x$$ and $$L$$ and check whether the value of $$d x/L$$ lies within the range you expect for the wavelength. 
+Nevertheless, it is useful to do a very quick "back-of-the-envelope" check to make sure that your value for wavelength is roughly in the range you'd expect (600-700 nm).  Go back to the data you collected last week. Pick a single value of $$x$$ and $$L$$ and check whether the value of $$d \frac{x}{L}$$ lies within the range you expect for the wavelength. 
 
 
 ## Why we measure $$x$$ over a range of $$L$$ values
