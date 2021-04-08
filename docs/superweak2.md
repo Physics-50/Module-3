@@ -60,7 +60,7 @@ To collect your complete $$x$$ vs. $$L$$ dataset, make sure to do the following:
 
 + For each $$L$$ value, compute the mean $$x\pm$$SEM. I'M PURPOSELY LEAVING OFF RESOLUTION UNCERTAINTY HERE BUT THAT MAY BE A MISTAKE. LET'S DISCUSS.
 
-+ Enter your $$x\pm$$SEM and $$L$$ data into the MATLAB curve fitting script from the [curve fitting guide](curve-fitting){:target="_blank"} and run the code to perform a best fit analysis.
++ Enter your $$x\pm$$SEM and $$L$$ data into the MATLAB curve fitting script called "curve_fitting_demo.m" from the [curve fitting guide](curve-fitting){:target="_blank"} and run the code to perform a best fit analysis.
 
 + You should make use of your data, the best fit analysis and the provided theory to determine the wavelength of your laser. You will need to use the methods you have been taught in the previous units to propagate your uncertainty and determine the uncertainty in your final result. 
 
