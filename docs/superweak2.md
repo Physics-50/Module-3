@@ -27,7 +27,7 @@ Nevertheless, it is useful to do a very quick "back-of-the-envelope" check to ma
 
 One of the most important ideas we want you to take from Module 3 is to think of a data set as a whole, not as individual points. 
 
-In the "back-of-the-envelope" check you just did, you measured $$x$$ at a single value of $$L$$. But $$L$$ provides us with an independent variable that we can control, so by measuring $$x$$ over a range of $$L$$ values, we can create a plot of $$x$$ versus $$L$$ data. Plotting the data and looking at the data set as a whole gives us confidence in our ability to determine $$\lamda$$, since it allows us to fit the data to the theoretical prediction in a more robust way. 
+In the "back-of-the-envelope" check you just did, you measured $$x$$ at a single value of $$L$$. But $$L$$ provides us with an independent variable that we can control, so by measuring $$x$$ over a range of $$L$$ values, we can create a plot of $$x$$ versus $$L$$ data. Plotting the data and looking at the data set as a whole gives us confidence in our ability to determine $$\lambda$$, since it allows us to fit the data to the theoretical prediction in a more robust way. 
 
 Thinking back to the theoretical prediction $$\lambda = d \frac{x}{L}$$, let's rewrite that equation in a more suggestive form
 \begin{equation}
@@ -64,7 +64,7 @@ To collect your complete $$x$$ vs. $$L$$ dataset, make sure to do the following:
 
 + You should make use of your data, the best fit analysis and the provided theory to determine the wavelength of your laser. You will need to use the methods you have been taught in the previous units to propagate your uncertainty and determine the uncertainty in your final result. 
 
-
++
 
 
 -------------
