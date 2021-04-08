@@ -87,7 +87,6 @@ You should submit the following on Gradescope:
 
 + A list of the parameters you reset between each $$x$$ measurement.
 
-
 -------------
 
 ## Grading rubric
