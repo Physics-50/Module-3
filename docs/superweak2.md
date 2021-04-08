@@ -48,7 +48,7 @@ Please read the [curve fitting guide](curve-fitting){:target="_blank"} before an
 
 <br>
 
-### Data Collection
+## Data Collection
 
 **This week you will collect data only for the 500 lines/mm grating spacing.**
 
