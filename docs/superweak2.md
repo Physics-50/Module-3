@@ -92,6 +92,16 @@ You should submit the following on Gradescope:
 
 [Submit Checkpoint 2 on Gradescope](https://www.gradescope.com/courses/165932/assignments/1156997){:target="_blank"}
 
+
+## Grading rubric
+The tentative rubric that will be used to evaluate this deliverable is provided below. Please keep in mind that these rubric items are subject to change as we can never foresee all the issues that may arise. This is meant to give you a sense of how it will be graded. You can click on the rubric to enlarge it.
+
+[![Results Rubric](images/m3-r2a.png)](images/m3-r2a.png){:target="_blank"}
+
+[![Results Rubric](images/m3-r2b.png)](images/m3-r2b.png){:target="_blank"}
+
+## Mini-questions:
+
 And to double-check, make sure you have finished all of this week's mini-questions by [checking here](mini-questions#week-2){:target="_blank"}
 
 When you're all finished and ready to move on, you can start [Week 3](week3).
