@@ -82,6 +82,8 @@ You should submit the following on Gradescope:
 + The wavelength you have determined for your laser, with uncertainty.
 
 + A list of the parameters you reset between each $$x$$ measurement.
+
+
 -------------
 
 [Submit the results of your measurements on Gradescope](https://www.gradescope.com/courses/165932/assignments/809528){:target="_blank"}
