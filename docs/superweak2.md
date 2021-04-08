@@ -79,7 +79,7 @@ You should submit the following on Gradescope:
 
 + A link to a spreadsheet with your experimental data,.
 
-+ The slope you obtained from your plot including the uncertainty. 
++ The slope you obtained from your plot, including the uncertainty. 
 
 + The wavelength you have determined for your laser, with uncertainty.
 
