@@ -56,7 +56,7 @@ It may be that you have done very careful experimental work and your results sti
 
 ## Grading rubric
 
-This checkpoint will be graded out of 16 points. 
+This checkpoint will be graded out of 14 points. 
 
 + The grading rubric for the first three questions (results for the 1000 lines/mm grating) will be analogous to those for checkpoint #2. Please come talk to office hours and ask question if there is anything you are unsure about. 
 
