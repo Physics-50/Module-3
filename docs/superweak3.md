@@ -44,8 +44,6 @@ You should submit the following on Gradescope:
 
 + A link to a spreadsheet with your experimental data.
 
-+ A sample calculation of wavelength and uncertainty, instructions for which are provided in the checkpoint instructions on Gradescope.
-
 + The slope you obtained from your plot, including the uncertainty. 
 
 + The wavelength you have determined for your laser, with uncertainty.
