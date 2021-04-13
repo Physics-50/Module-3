@@ -13,7 +13,7 @@ This week you will continue your investigation of the wavelength of your laser. 
 
 In module 1 we gave you a rule of thumb for resolution uncertainty, namely "one half of the smallest digit you can measure". This rule of thumb is useful but it is not absolute. For situations such as a digital scale it is a very good rule of thumb, but there are situations where in practice our resolution uncertainty might be larger or smaller. In particular, for a ruler that rule-of-thumb estimate works best if we are measuring an object with a sharp edge.
 
-What about when you are trying to measure the dstance to the center of the red spots on the wall from your laser? This is not a nice object with a sharp edge, but a red blob that is bigger than your rule-of-thumb "resolution uncertainty"! In this case, it is okay to **estimate the resolution uncertainty as ~1/4 to 1/2 the width of the bright spot**. i.e. the resolution uncertainty is a gauge of how accurately you can do the measurement. 
+What about when you are trying to measure the distance to the center of the red spots on the wall from your laser? This is not a nice object with a sharp edge, but a red blob that is bigger than your rule-of-thumb "resolution uncertainty"! In this case, it is okay to **estimate the resolution uncertainty as ~1/4 to 1/2 the width of the bright spot**. i.e. the resolution uncertainty is a gauge of how accurately you can do the measurement. 
 
 ## Data collection
 
