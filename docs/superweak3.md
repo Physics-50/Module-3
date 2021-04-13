@@ -52,7 +52,7 @@ You should submit the following on Gradescope:
 
 + A reflection. Your reflection must address the following:
     -  Considering both your results and their uncertainties, do your calculated results appear to be in agreement?
-    -   If your results are not in agreement why do you think that might be?
+    -   If your results are not in agreement why do you think that might be? Did you make a reasonable effort to reset appropriate parameters? If not, what do you feel might require more careful experimentation? If you did are you confident that your experimental uncertainties accurately reflect the uncertainties of this experiment? If so and if the results show significant disagreement compared to their uncertainties what might that mean?
 
 ## Grading rubric
 
@@ -62,4 +62,4 @@ This checkpoint will be graded out of 16 points.
 
 + Question 4 (comparison of results from two different grating spacings) will be graded on both your results and figure mechanics
 
-+ Question 5 (reflection). Your reflection does not need to be more than a few sentences but should address both of the points raised in the instructions.
++ Question 5 (reflection). Your reflection does not need to be more than a few sentences but should address the points raised in the instructions.
