@@ -9,6 +9,13 @@ This week you will continue your investigation of the wavelength of your laser. 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScOvf4fEdEk5cotRGrTle0iitt7onz0DmTOdhuNL47lh2ifqA/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
+## Resolution Uncertainty
+
+In module 1 we gave you a rule of thumb for resolution uncertainty, namely "one half of the smallest digit you can measure". This rule of thumb is useful but it is not absolute. For situations such as a digital scale it is a very good rule of thumb, but there are situations where in practice our resolution uncertainty might be larger or smaller. Imagine I have a meter stick that I know to to be 1 meter long but that doesn't have any gradations. I'm fairly confident I could use that meter stick even without gradations to get an estimate of the dimensions of my desk with an uncertainty of $<$ 0.5m.
+
+What about in the case where you are trying to measure something such as the red blobs on the wall from your laser that are significantly larger than the resolution of your ruler. It is okay to make a reasonable estimate of the resolution uncertainty as ~1/4 to 1/2 the width of the bright spot. i.e. the resolution uncertainty is a gauge of how accurately you can do the measurement. 
+
+## Data collection
 
 With this in mind please go ahead and collect an analogous to the data you collected last week but now using the 1000 line/mm grating(s). This will give you the necessary data to complete this week's checkpoint.
 
