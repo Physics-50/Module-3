@@ -1,6 +1,6 @@
 # Week 3
 
-This week we will continue our investigation of the wavelength of our lasers. We would like you to follow an identical procedure to last week. However, instead of making use of the 500 lines/mm gratings you should now collect data with the 1000 lines/mm gratings. Take a moment to reflect on expectations before diving into the experiment. How will the diffraction pattern change when the 1000 lines/mm grating is used?
+This week you will continue your investigation of the wavelength of your laser. We would like you to follow an identical procedure to last week. However, instead of making use of the 500 lines/mm gratings you should now collect data with the 1000 lines/mm gratings. Take a moment to reflect on expectations before diving into the experiment. How will the diffraction pattern change when the 1000 lines/mm grating is used?
 
 
 #### Miniquestion 1: How do the diffraction patterns from the differently spaced diffraction gratings compare
