@@ -11,9 +11,9 @@ This week you will continue your investigation of the wavelength of your laser. 
 
 ## Resolution Uncertainty
 
-In module 1 we gave you a rule of thumb for resolution uncertainty, namely "one half of the smallest digit you can measure". This rule of thumb is useful but it is not absolute. For situations such as a digital scale it is a very good rule of thumb, but there are situations where in practice our resolution uncertainty might be larger or smaller. Imagine I have a meter stick that I know to to be 1 meter long but that doesn't have any gradations. I'm fairly confident I could use that meter stick even without gradations to get an estimate of the dimensions of my desk with an uncertainty of $<$ 0.5m.
+In module 1 we gave you a rule of thumb for resolution uncertainty, namely "one half of the smallest digit you can measure". This rule of thumb is useful but it is not absolute. For situations such as a digital scale it is a very good rule of thumb, but there are situations where in practice our resolution uncertainty might be larger or smaller. In particular, that rule-of-thumb estimate works best if we are measuring an object with a sharp edge.
 
-What about in the case where you are trying to measure something such as the red blobs on the wall from your laser that are significantly larger than the resolution of your ruler. It is okay to make a reasonable estimate of the resolution uncertainty as ~1/4 to 1/2 the width of the bright spot. i.e. the resolution uncertainty is a gauge of how accurately you can do the measurement. 
+What about when you are trying to measure the dstance to the center of the red spots on the wall from your laser? This is not a nice object with a sharp edge, but a red blob that is bigger than your rule-of-thumb "resolution uncertainty"! In this case, it is okay to **estimate the resolution uncertainty as ~1/4 to 1/2 the width of the bright spot**. i.e. the resolution uncertainty is a gauge of how accurately you can do the measurement. 
 
 ## Data collection
 
@@ -23,7 +23,7 @@ As a reminder (repeat of last week's instructions):
 
 To collect your complete $$x$$ vs. $$L$$ dataset, make sure to do the following:
 
-+ Choose five values of $$L$$. Last week we recommended a range of L values from about 30 cm to about 1 m. You may find this more difficult when working with the 1000 line/mm gratings as the x values will be larger. You should still choose five L values over as wide a range as you can in the space you have available. A range of L values from 15cm to 0.5m will give you a similar range of x values to last week.
++ Choose five values of $$L$$. Last week we recommended a range of L values from about 30 cm to about 1 m. You may find this more difficult when working with the 1000 line/mm gratings as the $$x$$ values will be larger. You should still choose five L values over as wide a range as you can in the space you have available. A range of $$L$$ values from 15 cm to 0.5 m will give you a similar range of $$x$$ values to last week.
 
 + Collect five measurements of $$x$$ for each $$L$$ value, being sure to reset all the parameters you determined you needed to in  [Miniquestion 3 from Week 1](https://docs.google.com/forms/d/e/1FAIpQLSe-Bcw3iqEcmblnBnsOJOqSbfHVNrXckA4mVs9VEvzOXHvZQQ/viewform){:target="_blank"} between each measurement of $$x$$. If you found in Week 1 that $$x$$ depended sensitively on which diffraction grating you used, then you should switch diffraction gratings between measurements, being sure to **only use the 1000 line/mm diffraction gratings.** 
 
