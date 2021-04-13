@@ -16,7 +16,7 @@ As a reminder (repeat of last week's instructions):
 
 To collect your complete $$x$$ vs. $$L$$ dataset, make sure to do the following:
 
-+ Choose five values of $$L$$ ranging from about 30 cm to about 1 m, if your space allows it.
++ Choose five values of $$L$$. Last week we recommended a range of L values from about 30 cm to about 1 m. You may find this more difficult when working with the 1000 line/mm gratings as the x values will be larger. You should still choose five L values over as wide a range as you can in the space you have available. A range of L values from 15cm to 0.5m will give you a similar range of x values to last week.
 
 + Collect five measurements of $$x$$ for each $$L$$ value, being sure to reset all the parameters you determined you needed to in  [Miniquestion 3 from Week 1](https://docs.google.com/forms/d/e/1FAIpQLSe-Bcw3iqEcmblnBnsOJOqSbfHVNrXckA4mVs9VEvzOXHvZQQ/viewform){:target="_blank"} between each measurement of $$x$$. If you found in Week 1 that $$x$$ depended sensitively on which diffraction grating you used, then you should switch diffraction gratings between measurements, being sure to **only use the 1000 line/mm diffraction gratings.** 
 
