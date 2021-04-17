@@ -70,3 +70,8 @@ This checkpoint will be graded out of 14 points.
 + Question 4 (comparison of results from two different grating spacings) will be graded on both your results and figure mechanics
 
 + Question 5 (agreement of results). We are only looking for a single sentence indicating whether your wavelengths are in agreement.
+
+
+## Mini-questions:
+
+And to double-check, make sure you have finished all of this week's mini-questions by [checking here](mini-questions#week-3){:target="_blank"}
