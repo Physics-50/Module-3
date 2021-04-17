@@ -2,8 +2,8 @@
 
 --------------
 1. [Experimental Iteration](#experimental-iteration)
-2. [Setting up your experiment](#setting-up-your-experiment)
-3. [Checkpoint 3](#checkpoint-3)
+2. [Setting up your experiment](#week-4-tasks)
+3. [Checkpoint 3](#deliverable)
 
 --------------
 
@@ -131,14 +131,14 @@ With the correct version of Young's equation in mind, please go back and recalcu
 
 
 -------------
-## This weeks tasks
+## Week 4 tasks
 
 You have two tasks this week:
 1. Redo your analysis with the corrected theory. You should be able to accomplish this by just changing a few formulae in your spreadsheet (note that both the formula for the wavelength and its uncertainty will require correction. You will need to use the calculus-based method of the previous modules to propogate the uncertainty from the slope of the x v.s. L plot to determine the uncertainty in wavelength with the revised theory). This does not require collecting any new data. Once you have recalculated the wavelength with uncertainty for the two differently spaced diffraction gratings you should regenerate the plot of wavelength v.s. diffraction grating spacing from last week and fit a horizontal line as we did in module 2 to generate your estimated wavelength with uncertainty from the plot.
 
 2. Your second task is to prepare a sequence of 3 figures with captions to submit for your deliverable. These figures will come directly from the work you have done in the preceeding 3 weeks.
 
-## Checkpoint 3 -- Sequence of Figures
+## <a name="deliverable">Deliverable -- Sequence of Figures
 
 Your module 3 deliverable will consist of 2 figures. Each of these figures must include a caption following the guidelines provided for modules 1 and 2. The following should be submitted on Gradescope:
 
