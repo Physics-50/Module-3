@@ -2,8 +2,8 @@
 
 --------------
 1. [Experimental Iteration](#experimental-iteration)
-2. [Setting up your experiment](#week-4-tasks)
-3. [Checkpoint 3](#deliverable)
+2. [Week 4 Tasks](#week-4-tasks)
+3. [Deliverable - Sequence of Figures](#deliverable)
 
 --------------
 
