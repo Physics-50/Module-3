@@ -148,6 +148,8 @@ Your module 3 deliverable will consist of 2 figures. Each of these figures must 
 
 + Figure 2: Figure 2 will also be a multi-panel figure. Panel (a) will showcase how you determined the wavelength. Namely, panel (a) should consist of a plot of x v.s. L and the caption should convey how this is helpful for determining the wavelength. It is sufficient to provide a single example plot of x. v.s. L for one of the diffraction gratings (just as we only provided one example plot for how the terminal velocity was determined in module 2). Panel (b) will show your plot of wavelength v.s. diffraction grating spacing. For this plot you should make use of the revised theory to calculate your wavelength and uncertainty from your results for the two grating spacings. Your plot should include a horizontal line fit to the two data points as well as dashed horizontal lines indicating the uncertainty of the fit (analogous to the plot you were asked to prepare for the module 2 deliverable). Your caption should include your primary result (estimated wavelength quoted with uncertainty using appropriate significant figures).
 
+## Mini-questions:
 
+And to double-check, make sure you have finished all of this week's mini-questions by [checking here](mini-questions#week-4){:target="_blank"}
 
 
