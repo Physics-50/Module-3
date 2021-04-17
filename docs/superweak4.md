@@ -1,4 +1,4 @@
-# Week 4 - Finalizing and Communicating Results
+# Week 4: Finalizing and Communicating Results
 
 --------------
 1. [Experimental Iteration](#experimental-iteration)
@@ -9,8 +9,8 @@
 
 Please note that you have two weeks to prepare your deliverable. Remaining deadlines are as follows:
 
-Week 4 mini-questions: due Tuesday, April  27  (1pm)
-Module 3 deliverable: due Thursday, May 6 (1pm)
++ Week 4 mini-questions: due Tuesday, April  27  (1pm)
++ Module 3 deliverable: due Thursday, May 6 (1pm)
 
 This week we will take another look at your analysis leading to the estimated wavelength of your laser and provide advice for communicating your results through a sequence of figures.
 
@@ -134,22 +134,20 @@ With the correct version of Young's equation in mind, please go back and recalcu
 ## This weeks tasks
 
 You have two tasks this week:
-1. Redo your analysis with the corrected theory. You should be able to accomplish this by just changing a few formulae in your spreadsheet. This does not require collecting any new data. Once you have recalculated the wavelength with uncertainty for the two differently spaced diffraction gratings you should regenerate the plot of wavelength v.s. diffraction grating spacing from last week and fit a horizontal line as we did in module 2 to generate your estimated wavelength with uncertainty from the plot.
+1. Redo your analysis with the corrected theory. You should be able to accomplish this by just changing a few formulae in your spreadsheet (note that both the formula for the wavelength and its uncertainty will require correction. You will need to use the calculus-based method of the previous modules to propogate the uncertainty from the slope of the x v.s. L plot to determine the uncertainty in wavelength with the revised theory). This does not require collecting any new data. Once you have recalculated the wavelength with uncertainty for the two differently spaced diffraction gratings you should regenerate the plot of wavelength v.s. diffraction grating spacing from last week and fit a horizontal line as we did in module 2 to generate your estimated wavelength with uncertainty from the plot.
 
 2. Your second task is to prepare a sequence of 3 figures with captions to submit for your deliverable. These figures will come directly from the work you have done in the preceeding 3 weeks.
 
 ## Checkpoint 3 -- Sequence of Figures
 
-Your module 3 deliverable will consist of 3 figures. Each of these figures must include a caption following the guidelines provided for modules 2 and 3.
+Your module 3 deliverable will consist of 2 figures. Each of these figures must include a caption following the guidelines provided for modules 1 and 2. The following should be submitted on Gradescope:
 
-+ Figure 1: This figure will showcase your experimental set-up, a visual representation 
-You main task this week is to come up with a sequence of 3figures that you will use for your deliverable. Your poster will present a main result (your best measurement of the wavelength of your laser pointer with uncertainty) and a secondary result (where you explored a significant systematic effect on the measurement). You should use the correct version of the theory from equation \eqref{eq:Young} in your poster. 
++ Practice calculation: the practice calculation on Gradescope will ask you to calculate the wavelength and propogated uncertainty for sample data.
 
-In thinking of which figures to produce, you should review the discussion on [creating a sequence of figures from Module 2 Week 4](https://physics-50.github.io/Module-2/week4){:target="_blank"}. The intent of your sequence of figures and poster **is not** to take your reader on a convoluted journey of the entire sequence of events you pursued over the course of your experiments. Rather, you should focus on your main and secondary results, and also the information your reader needs to understand the method and logic you used to arrive at those results. Specifically, you **should not** include any result that you derived using an incorrect theory in your sequence of figures. 
++ Figure 1: This will be a multi-panel figure. The first panel will showcase your experimental set-up, with the parameter you varied during the week 1 exploratory phase clearly labelled. Depending on the parameter you varied you may find you can showcase both the experimental set-up and parameter varied with a single photograph or you may find you need more than one image. Either is acceptable. Figure 1 will also include the experimental results from your week 1 exploratory measurements. Figure 1 is analogous to what was requested for the week 1 checkpoint but should now include a caption. If any issues were raised with your week 1 checkpoint we encourage you to speak to us and make appropriate corrections before submitting your deliverable.
+
++ Figure 2: Figure 2 will also be a multi-panel figure. Panel (a) will showcase how you determined the wavelength. Namely, panel (a) should consist of a plot of x v.s. L and the caption should convey how this is helpful for determining the wavelength. It is sufficient to provide a single example plot of x. v.s. L for one of the diffraction gratings (just as we only provided one example plot for how the terminal velocity was determined in module 2). Panel (b) will show your plot of wavelength v.s. diffraction grating spacing. For this plot you should make use of the revised theory to calculate your wavelength and uncertainty from your results for the two grating spacings. Your plot should include a horizontal line fit to the two data points as well as dashed horizontal lines indicating the uncertainty of the fit (analogous to the plot you were asked to prepare for the module 2 deliverable). Your caption should include your primary result (estimated wavelength quoted with uncertainty using appropriate significant figures).
 
 
-You should submit the following on Gradescope
-
-+ A sequence of 3 figures with captions that summarize your results from Module 3
 
 
