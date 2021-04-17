@@ -148,10 +148,8 @@ You main task this week is to come up with a sequence of 3figures that you will 
 In thinking of which figures to produce, you should review the discussion on [creating a sequence of figures from Module 2 Week 4](https://physics-50.github.io/Module-2/week4){:target="_blank"}. The intent of your sequence of figures and poster **is not** to take your reader on a convoluted journey of the entire sequence of events you pursued over the course of your experiments. Rather, you should focus on your main and secondary results, and also the information your reader needs to understand the method and logic you used to arrive at those results. Specifically, you **should not** include any result that you derived using an incorrect theory in your sequence of figures. 
 
 
-You should submit the following [here on Gradescope](https://www.gradescope.com/courses/165932/assignments/828013){:target="_blank"}:
+You should submit the following on Gradescope
 
-+ A sequence of 3-5 figures with captions that summarize your results from Module 3
++ A sequence of 3 figures with captions that summarize your results from Module 3
 
 
-When you're all finished and ready to move on, you can start [Week 4 - 
-Scientific Communication](week4).
