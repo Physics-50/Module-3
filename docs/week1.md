@@ -159,3 +159,7 @@ The tentative rubric that will be used to evaluate this deliverable is provided 
 [![Results Rubric](images/m3-r1.png)](images/m3-r1.png){:target="_blank"}
 
 When you're ready, please move on to [Week 2](week2).
+
+## Mini-questions:
+
+And to double-check, make sure you have finished all of this week's mini-questions by [checking here](mini-questions#week-1){:target="_blank"}
