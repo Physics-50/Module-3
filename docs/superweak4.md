@@ -24,19 +24,17 @@ By now you should have given serious consideration to possible sources of experi
 
 1. We provided five diffraction gratings for each diffraction grating spacing. In week 1 did you look at the x values for several gratings? Did you either find the difference to be negligible or randomize across gratings in weeks 2 & 3?
 
-2. Were you careful to ensure that your beam path was perpendicular to the laser? Hint: when the laser reaches the diffraction grating, part of the beam will be reflected. Ensuring the reflected beam retraces its path can help with aligning the diffraction grating perpendicular to the beam. 
+2. Were you careful to ensure your beam path was perpendicular to the screen? It can be helpful to compare the distance to the first maxima to the left and right as part of this consideration.
 
-3. Were you careful to ensure your beam path was perpendicular to the screen? It can be helpful to compare the distance to the first maxima to the left and right as part of this consideration.
+3. Were you careful to ensure your beam path is horizontal?
 
-4. Were you careful to ensure your beam path is horizontal to the floor?
+4. Did you collect data over a wide range of L values?
 
-5. Did you collect data over a wide range of L values?
-
-6. What other sources of error can you think of?
+5. What other sources of error can you think of?
 
 You will not be able to completely eliminate any of these sources of error, but you should have done your best to minimize them and having done so, to randomizing the remaining error. 
 
-When you feel confident you have made your best effort to get a good data set in which you feel the uncertainties accurately reflect your experiment please proceed to the mini-question below. If no concerns were raised with your checkpoint and you feel you already made an effort to control these potential sources of systematic error you can proceed straight to the mini-question. **If you are spending more than 30 minutes on data collection this week, please proceed with the miniquestion and come to office hours to discuss.** 
+When you feel confident you have made your best effort to get a good data set in which you feel the uncertainties accurately reflect your experiment please proceed to the mini-question below. **Most students should not need to collect any new data this week. If no concerns were raised with your checkpoint and you feel you already made an effort to control these potential sources of systematic error you can proceed straight to the mini-question.** If you are spending more than 30 minutes on data collection this week, please proceed with the miniquestion and come to office hours to discuss.
 
 
 
@@ -153,7 +151,7 @@ Your module 3 deliverable will consist of 2 figures. Each of these figures must 
 
 + Practice calculation: the practice calculation on Gradescope will ask you to calculate the wavelength and propogated uncertainty for sample data.
 
-+ Figure 1: This will be a multi-panel figure. The first panel will showcase your experimental set-up, with the parameter you varied during the week 1 exploratory phase clearly labelled. Depending on the parameter you varied you may find you can showcase both the experimental set-up and parameter varied with a single photograph or you may find you need more than one image. Either is acceptable. Figure 1 will also include the experimental results from your week 1 exploratory measurements. Figure 1 is analogous to what was requested for the week 1 checkpoint but should now include a caption. If any issues were raised with your week 1 checkpoint we encourage you to speak to us and make appropriate corrections before submitting your deliverable.
++ Figure 1: This will be a multi-panel figure. The first panel will showcase your experimental set-up, with the parameter you varied during the week 1 exploratory phase clearly labelled. Depending on the parameter you varied you may find you can showcase both the experimental set-up and parameter varied with a single photograph or you may find you need more than one image. Either is acceptable. Figure 1 will also include the experimental results from your week 1 exploratory measurements. Figure 1 is analogous to what was requested for the week 1 checkpoint but should now include a caption. If any issues were raised with your week 1 checkpoint we encourage you to speak to us and make appropriate corrections before submitting your deliverable. Since resetting parameters such as the position/angle of the diffraction grating were an important part of the experimental procedure for this experiment, this should be mentioned in your caption as part of the experimental procedure.
 
 + Figure 2: Figure 2 will also be a multi-panel figure. Panel (a) will showcase how you determined the wavelength. Namely, panel (a) should consist of a plot of x v.s. L and the caption should convey how this is helpful for determining the wavelength. It is sufficient to provide a single example plot of x. v.s. L for one of the diffraction gratings (just as we only provided one example plot for how the terminal velocity was determined in module 2). Panel (b) will show your plot of wavelength v.s. diffraction grating spacing. For this plot you should make use of the revised theory to calculate your wavelength and uncertainty from your results for the two grating spacings. Your plot should include a horizontal line fit to the two data points as well as dashed horizontal lines indicating the uncertainty of the fit (analogous to the plot you were asked to prepare for the module 2 deliverable). Your caption should include your primary result (estimated wavelength quoted with uncertainty using appropriate significant figures).
 
