@@ -16,7 +16,7 @@ This week we will take another look at your analysis leading to the estimated wa
 
 ## Experimental Iteration
 
-We noticed that many of your results showed significant discrepancies between the results measured with the two gratings. Please take a moment to reflect on those results.
+We noticed that many of your results showed significant discrepancies between the results measured with the two gratings. Please take a moment to reflect on those results. As a scientist, you must often track down the source of seemingly contradictory  results: was the experiment flawed, or does the theory need to be modified?
 
 Did your results from the two differently spaced diffraction gratings agree? Did they agree with the wavelength specified by the manufacturer?
 
@@ -32,10 +32,7 @@ By now you should have given serious consideration to possible sources of experi
 
 5. What other sources of error can you think of?
 
-You will not be able to completely eliminate any of these sources of error, but you should have done your best to minimize them and having done so, to randomizing the remaining error. 
-
-When you feel confident you have made your best effort to get a good data set in which you feel the uncertainties accurately reflect your experiment please proceed to the mini-question below. **Most students should not need to collect any new data this week. If no concerns were raised with your checkpoint and you feel you already made an effort to control these potential sources of systematic error you can proceed straight to the mini-question.** If you are spending more than 30 minutes on data collection this week, please proceed with the miniquestion and come to office hours to discuss.
-
+**Most students should not need to collect any new data this week. If no concerns were raised with your checkpoint and you feel you already made an effort to control these potential sources of systematic error you can proceed straight to the mini-question.** However, if issues were raised with your checkpoints we encourage you to check in with us in office hours.
 
 
 ----------------------
