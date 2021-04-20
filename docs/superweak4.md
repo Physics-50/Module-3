@@ -151,7 +151,7 @@ Your module 3 deliverable will consist of 2 figures. Each of these figures must 
 
 + Practice calculation: the practice calculation on Gradescope will ask you to calculate the wavelength and propagated uncertainty for sample data.
 
-+ Figure 1: Figure 1 is equivalent tothe figure you submittedfor week 1, but with a caption.  If any issues were raised with your week 1 checkpoint we encourage you to speak to us and make appropriate corrections before submitting your deliverable. Since resetting parameters such as the position/angle of the diffraction grating were an important part of the experimental procedure for this experiment, this should be mentioned in your caption as part of the experimental procedure.
++ Figure 1: Figure 1 is equivalent to the figure you submittedfor week 1, but with a caption. If any issues were raised with your week 1 checkpoint we encourage you to speak to us and make appropriate corrections before submitting your deliverable. Since resetting parameters such as the position/angle of the diffraction grating were an important part of the experimental procedure for this experiment, this should be mentioned in your caption as part of the experimental procedure.
 
 + Figure 2: Figure 2 will also be a multi-panel figure. 
     -Panel (a) will showcase how you determined the wavelength. Namely, panel (a):  **Provide a single example plot of x v.s. L for one of the diffraction gratings** (just as we only provided one example plot for how the terminal velocity was determined in module 2). 
