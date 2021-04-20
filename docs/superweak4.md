@@ -132,9 +132,9 @@ With the correct version of Young's equation in mind, please go back and recalcu
 ## Week 4 tasks
 
 You have two tasks this week:
-1. Redo your analysis with the corrected theory. You should be able to accomplish this by just changing a few formulae in your spreadsheet (note that both the formula for the wavelength and its uncertainty will require correction. You will need to use the calculus-based method of the previous modules to propogate the uncertainty from the slope of the x v.s. L plot to determine the uncertainty in wavelength with the revised theory (see mini-question 4). This does not require collecting any new data. Once you have recalculated the wavelength with uncertainty for the two differently spaced diffraction gratings you should regenerate the plot of wavelength v.s. diffraction grating spacing from last week and fit a horizontal line as we did in module 2 to generate your estimated wavelength with uncertainty from the plot.
+1. Redo your analysis with the corrected theory. You should be able to accomplish this by just changing a few formulae in your spreadsheet (note that both the formula for the wavelength and its uncertainty will require correction. You will need to use the calculus-based method of the previous modules to propagate the uncertainty from the slope of the x v.s. L plot to determine the uncertainty in wavelength with the revised theory (see mini-question 4). This does not require collecting any new data. Once you have recalculated the wavelength with uncertainty for the two differently spaced diffraction gratings you should regenerate the plot of wavelength v.s. diffraction grating spacing from last week and fit a horizontal line as we did in module 2 to generate your estimated wavelength with uncertainty from the plot.
 
-2. Your second task is to prepare a sequence of 3 figures with captions to submit for your deliverable. These figures will come directly from the work you have done in the preceeding 3 weeks.
+2. Your second task is to prepare a sequence of 2 figures with captions to submit for your deliverable. These figures will come directly from the work you have done in the preceeding 3 weeks.
 
 #### Formatting tips
 
@@ -149,11 +149,13 @@ You have two tasks this week:
 
 Your module 3 deliverable will consist of 2 figures. Each of these figures must include a caption following the guidelines provided for modules 1 and 2. We encourage you to refer back to the figure preparation guide from [module 1](https://physics-50.github.io/Module-1/week4){:target="_blank"}. The following should be submitted on Gradescope:
 
-+ Practice calculation: the practice calculation on Gradescope will ask you to calculate the wavelength and propogated uncertainty for sample data.
++ Practice calculation: the practice calculation on Gradescope will ask you to calculate the wavelength and propagated uncertainty for sample data.
 
 + Figure 1: Figure 1 is equivalent tothe figure you submittedfor week 1, but with a caption.  If any issues were raised with your week 1 checkpoint we encourage you to speak to us and make appropriate corrections before submitting your deliverable. Since resetting parameters such as the position/angle of the diffraction grating were an important part of the experimental procedure for this experiment, this should be mentioned in your caption as part of the experimental procedure.
 
-+ Figure 2: Figure 2 will also be a multi-panel figure. Panel (a) will showcase how you determined the wavelength. Namely, panel (a):  **Provide a single example plot of x v.s. L for one of the diffraction gratings** (just as we only provided one example plot for how the terminal velocity was determined in module 2). Panel (b): plot of wavelength v.s. diffraction grating spacing. For this plot you should make use of the revised theory to calculate your wavelength and uncertainty from your results for the two grating spacings. Your plot should include a horizontal line fit to the two data points as well as dashed horizontal lines indicating the uncertainty of the fit (analogous to the plot you were asked to prepare for the module 2 deliverable). Your caption should include your primary result (estimated wavelength quoted with uncertainty using appropriate significant figures).
++ Figure 2: Figure 2 will also be a multi-panel figure. 
+    -Panel (a) will showcase how you determined the wavelength. Namely, panel (a):  **Provide a single example plot of x v.s. L for one of the diffraction gratings** (just as we only provided one example plot for how the terminal velocity was determined in module 2). 
+    -Panel (b): plot of wavelength v.s. diffraction grating spacing. For this plot you should make use of the revised theory to calculate your wavelength and uncertainty from your results for the two grating spacings. Your plot should include a horizontal line fit to the two data points as well as dashed horizontal lines indicating the uncertainty of the fit (analogous to the plot you were asked to prepare for the module 2 deliverable). Your caption should include your primary result (estimated wavelength quoted with uncertainty using appropriate significant figures).
 
 Please note that you will need to upload each figure three times.
 
