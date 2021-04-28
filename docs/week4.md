@@ -86,7 +86,7 @@ Then using the slope, $$m$$, of our $$x$$ vs. $$L$$ linear regression, with $$m=
 \lambda = d \frac{m}{\sqrt{m^2 + 1}}
 \end{equation}
 
-In Week 3, we will recalculate our measured value of $$\lambda$$ from the correct version of Young's equation (Eq.\eqref{eq:Young}). **The good news is that we don't have to collect any more data!** The slopes we measured from the $$x$$ vs. $$L$$ plots of our data are not affected by the theory, so we only need to recalculate the measured wavelength based on data we have already collected.
+This week we will recalculate our measured value of $$\lambda$$ from the correct version of Young's equation (Eq.\eqref{eq:Young}). **The good news is that we don't have to collect any more data!** The slopes we measured from the $$x$$ vs. $$L$$ plots of our data are not affected by the theory, so we only need to recalculate the measured wavelength based on data we have already collected.
 
 To get a sense of how significantly this would impact our different diffraction gratings, we can rearrange Eq.\eqref{eq:Young} 
 
