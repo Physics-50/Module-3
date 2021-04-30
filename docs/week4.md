@@ -144,7 +144,7 @@ You have two tasks this week:
 
 ## <a name="deliverable">Deliverable -- Sequence of Figures
 
-Your module 3 deliverable will consist of 2 figures. Each of these figures must include a caption following the guidelines provided for modules 1 and 2. We encourage you to refer back to the figure preparation guide from [module 1](https://physics-50.github.io/Module-1/week4){:target="_blank"}. The following should be submitted on Gradescope:
+Your module 3 deliverable will consist of 2 figures. Each of these figures must include a caption following the guidelines provided for modules 1 and 2. We encourage you to refer back to the figure preparation guide from [module 1](https://physics-50.github.io/Module-1/week4){:target="_blank"}. Note that if the perspective of your picture of your experimental set-up makes it difficult to accurately define a reasonable scale bar (i.e. the length would be different at different depths of the picture), you can as an alternative use something in the picture to provide a length scale. For example, if the caption indicates the length of the laser or the spacing of the grid marks this would be sufficient to convey the length scale to the reader. The following should be submitted on Gradescope:
 
 + Practice calculation: the practice calculation on Gradescope will ask you to calculate the wavelength and propagated uncertainty for sample data.
 
