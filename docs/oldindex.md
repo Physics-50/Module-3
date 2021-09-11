@@ -1,5 +1,3 @@
-# Module 3
-
 [Module 3 Overview](#module-3-overview)
 
 [Weekly Plan](#weekly-plan)
