@@ -70,9 +70,9 @@ In the example data above, we had 11 data points and two fitting parameters ($$m
 
 **The value of $$\chi_\nu^2$$ is important because it can tell us how good our fit is (or sometimes, how well we estimated the uncertainty in our data).** If the uncertainties we use are an accurate representation of the uncertainty in our data, we would expect *on average* each data point to be approximately one error bar away from the line, namely, $$\chi_\nu^2 \approx 1$$. In the example above, the value $$\chi_\nu^2 = 0.78$$ supports the idea that the linear fit is a good model of the data.
 
-Let’s look at two examples where our reduced chi-squared value is significantly different than 1. First, here’s an example where $$\chi_\nu^2$$ is small:
+Let’s look at two examples where the reduced $$\chi_\nu^2$$ value is significantly different from 1. First, here’s an example where $$\chi_\nu^2$$ is small:
 ![overfit example](images/linear_fit_small_chi2.jpg)
-In this example, each data point is much closer than 1 error bar to the fitted line. There are a few ways that a $$\chi_\nu^2 <<1$$ can occur:
+In this example, each data point is much closer than 1 error bar to the fitted line. There are a few ways that a $$\chi_\nu^2 \ll 1$$ can occur:
 
 + perhaps we have too many free parameters in the fitting function, but we only have 2 ($$m$$ and $$b$$) so that’s not our issue here;
 + perhaps it was just a random coincidence that the values lined up, but we have many data points lining up so that’s probably not it either;
@@ -80,41 +80,41 @@ In this example, each data point is much closer than 1 error bar to the fitted l
 
 The third option seems most likely in this case. So **if our data looked like this, we should double-check our error bar calculation.**
 
-Finally, let’s take a look at an example where the data points are typically much further away than 1 error bar away from the fitted line:
+Finally, let’s take a look at an example where the data points are typically much farther away than 1 error bar away from the fitted line:
 ![underfit example](images/linear_fit_large_chi2.jpg)
 
 
-This large reduced chi-squared value tells us that:
+This large reduced $$\chi_\nu^2$$ value tells us that:
 
 + perhaps our model (fitting function) isn’t right;
 + perhaps there’s a coincidence occurring, but we have many data points not falling on the line so that’s probably not the issue;
-+ perhaps we underestimated our error bars;
++ perhaps we underestimated uncertainties.
 
 The first and third options are both plausible, so we would have to think carefully about how to proceed. If we are sure about our data and reasonably confident in our uncertainty estimate, maybe we need to re-think the theoretical model we are using!
 
 ### MATLAB Code
 
-To use the MATLAB code first make sure you have the “curve fitting toolbox” installed. In the MATLAB environment, go to “HOME”-->“Add-Ons”-->“Get Add-Ons”:
+To use the MATLAB code first make sure you have the “curve fitting toolbox” and the “statistics and machine learning toolbox” installed. In the MATLAB environment, go to “HOME”-->“Add-Ons”-->“Get Add-Ons”:
 ![get add ons](images/get_add_ons.png)
 
-and search for the “curve fitting toolbox”:
+and search for the “curve fitting toolbox” and/or “statistics and machine learning toolbox”:
 
 ![curve fitting toolbox](images/curve_fitting_toolbox.png)
 
-If it says “Installed” you are good to go. Otherwise, click on the Curve Fitting Toolbox page and install it.
+If it says that both are “Installed” you are good to go. Otherwise, click to install whichever are missing.
 
-Now that you have the curve fitting toolbox, please download the file [curve_fitting_demo.m](curve_fitting_demo.m) and run the script.
+Now download the file [fitting_demo.m](fitting_demo.m) and run the script.
 
 Every time you run the script, you will get the following warning in the command window:
 ![warning](images/warning.png)
 
 This warning appears because we aren’t providing the fit function with an initial guess of the slope and intercept. The function is picking an initial guess randomly. The initial guess might affect the fitting if you have many fitting parameters, but because we only have 2 fitting parameters $$(m,b)$$, **you can safely ignore this warning.**
 
-To use the script for your own data, simply replace the “import data” section of the code (lines 8-10) with your own data pasted in. You should also customize the plot (lines 14-24) by changing the axis labels and limits. Everything else should not need modification in the script if you are fitting a straight line to your data.
+To use the script for your own data, simply replace the “import data” section of the code (lines 8--10) with your own data pasted in. You should also customize the plot (lines 14--24) by changing the axis labels and limits. Everything else should not need modification in the script if you are fitting a straight line to your data.
 
 #### Optional
 
-In the future (i.e. not needed in Ph50), if you’d like to fit a different function to your data, you can change line 27 of the code to a different function. You could, for example, fit to a quadratic by replacing line 27 with:
+In the future (i.e., not needed in Ph50), if you’d like to fit a different function to your data, you can change line 27 of the code to a different function. You could, for example, fit to a quadratic by replacing line 27 with:
 
 ``` MATLAB
 fit_func = @(a,b,c,x) a*x.^2 + b*x + c;  
@@ -122,11 +122,11 @@ fit_func = @(a,b,c,x) a*x.^2 + b*x + c;
 
 As a fun check, you could try fitting your Module 2 data to a constant function by replacing line 27 with:
 ``` MATLAB
-fit_func = @(b,x) b*x.^0;   % here, y = b (constant function);
+fit_func = @(b,x) b + x.*0; % here, y = b (constant function);
                             % 1 free fit parameter “b”;
                             % need to “trick” MATLAB into thinking this is
                             % a function of x (otherwise the “fit” function below throws an error)
-                            % x.^0 creates a vector of ones the size of x
-                            % the .^ is an element-by-element exponentiation
+                            % x.*0 creates a vector of zeros the size of x
+                            % the .* is an element-by-element multiplication
 
 ```
