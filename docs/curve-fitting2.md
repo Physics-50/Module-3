@@ -28,7 +28,7 @@ Suppose we are fitting a set of $$n$$ data points: $$\{(x_1,y_1), (x_2,y_2), \do
 
 If you look at that sum, each term is the squared difference in height, on an x vs. y plot, between the actual measured value $$y_i$$, and the predicted value $$mx_i +b$$ from the linear fit. So by tweaking the values of the parameters $$m$$ and $$b$$, this type of fitting minimizes the difference between the measured values and predicted values.
 
-For example if we have three data points $$(x_1,y_1)$$, $$(x_2,y_2)$$, $$(x_3,y_3)$$, an unweighted fit to those data points would minimize the total squared distance between the data and the fitted line.
+For example if we have three data points $$(x_1,y_1)$$, $$(x_2,y_2)$$, $$(x_3,y_3)$$, an unweighted fit to the data points would minimize the total squared distance between the data and the fitted line.
 
 ![unweighted fit](images/unweighted_fit.jpg)
 
@@ -39,37 +39,36 @@ One shortcoming of the unweighted least squares fit of Eq.\eqref{eq:unweighted} 
 For example, let’s look at those same three data points, but where each $$y_i$$ has a corresponding uncertainty $$\delta y_i$$. In this example, let’s make the uncertainty in the third data point much larger than the other two:
 ![why weighted fitting?](images/why_weighted_least_squares.jpg)
 
-An unweighted fit (blue, solid line) treats all three of those data points equally. Although this fit line is “close” to all three data points, it doesn’t account for the fact that some data points are more reliable than others. That’s because the unweighted fit doesn’t take into account the extra information we have about the uncertainty in the data.
+An unweighted fit (blue, solid line) treats all three of the data points equally. Although this fit line is “close” to all three data points, it doesn’t account for the fact that some data points are more reliable than others. That’s because the unweighted fit doesn’t take into account the extra information we have about the uncertainty in the data.
 
-**When the error bars aren’t all the same, we want to use a weighted least squares fit.** In a weighted least squares fit, the minimization is performed in a slightly different way than Eq. \eqref{eq:unweighted}. The difference between data and the fit line is divided by the uncertainty (error bar) for each point. In the fit we determine the values of $$m$$ and $$b$$ that minimize the quantity
+**When the error bars aren’t all the same, we want to use a weighted least squares fit.** In a weighted least squares fit, the minimization is performed in a slightly different way than Eq. \eqref{eq:unweighted}. The difference between the data and the fit line is divided by the uncertainty (error bar) for each point. In the fit we determine the values of $$m$$ and $$b$$ that minimize the quantity
 \begin{equation}\label{eq:weighted}
 \chi^2 = \underset{m,b}{\mathrm{min}} \sum_{i=1}^{n} \left(\frac{y_i - (mx_i+b)}{\delta y_i}\right)^2
 \end{equation}
 
-Here, $$\chi$$ is the Greek letter “chi” (pronounced like [“Kai”](https://www.marketplace.org/2020/10/01/canadas-tourist-driven-pne-pivots-to-hosting-film-production/){:target=“_blank”}). The form of Eq.\eqref{eq:weighted} is similar to the equation we used to calculate our weighted average in Module 2.   
+Here, $$\chi$$ is the Greek letter “chi” (pronounced like [“Kai”](https://www.marketplace.org/2020/10/01/canadas-tourist-driven-pne-pivots-to-hosting-film-production/){:target=“_blank”}). The form of Eq. \eqref{eq:weighted} is similar to the equation we used to calculate the weighted average in Module 2.   
 
-Performing a weighted least squares fit on our example data above, we get the red dashed line. When we do a weighted least-squares fit, we expect to find that **each data point is about one error bar away, on average, from the fitted line.**
+Performing a weighted least-squares fit on the example data above, we get the red dashed line. When we do a weighted least-squares fit, we expect to find that **each data point is about one error bar away, on average, from the fitted line.**
 
 #### 2. Uncertainties in the fitted slope and intercept
 
-For Module 3, we are giving you a weighted curve fitting script for MATLAB that provides an estimate of the uncertainty in the fitted slope and intercept. The uncertainty in the slope and intercept are determined from the error bars and from how scattered the data is about the fit line. Here’s an example of the output of the script on some sample data:
+For Module 3, we are giving you a weighted curve-fitting script for MATLAB that provides an estimate of the uncertainty in the fitted slope and intercept. The uncertainty in the slope and intercept are determined from the error bars and from how scattered the data is about the fit line. Here’s an example of the output of the script on some sample data:
 ![linear fit example](images/linear_fit_intermediate_chi2.jpg)
 
 In the legend, there is some important information about the fit. The best-fit slope and intercept are provided, along with their uncertainties.
 
 
+#### 3. Using reduced $$\chi_\nu^2$$ (“chi-squared”) to determine how good your fit is
 
-#### 3. Using reduced chi-squared, $$\chi_\nu^2$$, to determine how good your fit is
-
-Also reported in the legend is the “reduced chi-squared”, $$\chi_\nu^2$$, which is a normalized version of $$\chi^2$$ from Eq.\eqref{eq:weighted}. The reduced chi-squared calculated by
+Also reported in the legend is the “reduced chi-squared”, $$\chi_\nu^2$$, which is a normalized version of $$\chi^2$$ from Eq. \eqref{eq:weighted}. The reduced $$\chi_\nu^2$$ calculated by
 
 \begin{equation}
 \chi_\nu^2 = \frac{\chi^2}{\textrm{# data points - # fitting parameters}}.
 \end{equation}
 
-In our example data above, we had 11 data points and two fitting parameters ($$m$$ and $$b$$). Roughly speaking, the reduced chi-squared value tells us on average how many error bars away each data point is from the fitted line. So our $$\chi_\nu^2 = 0.78$$ in our example means that on average each data point is just within its error bar of the fitted line. Looking at the data and fit above, although there are a couple of data points that are farther away from the line than their error bars, on average they fall within their error bar of the fitted line.
+In the example data above, we had 11 data points and two fitting parameters ($$m$$ and $$b$$). Roughly speaking, the reduced $$\chi_\nu^2$$ value tells us on average how many error bars away each data point is from the fitted line. The value $$\chi_\nu^2 = 0.78$$ in our example means that on average each data point is just within its uncertainty (error bar) of the fitted line. Looking at the data and fit above, although there are a couple of data points that are farther away from the line than their error bars, on average they fall within their error bar of the fitted line.
 
-**The value of $$\chi_\nu^2$$ is important because it can tell us how good our fit is (or sometimes, how well we estimated our error bars).** If our error bars are an accurate representation of the uncertainty in our data, we would expect *on average* each data point to be approximately one error bar away from the line, namely, $$\chi_\nu^2 \approx 1$$. In our example above, our value of $$\chi_\nu^2 = 0.78$$ supports the idea that our linear fit is a good model of the data.
+**The value of $$\chi_\nu^2$$ is important because it can tell us how good our fit is (or sometimes, how well we estimated the uncertainty in our data).** If the uncertainties we use are an accurate representation of the uncertainty in our data, we would expect *on average* each data point to be approximately one error bar away from the line, namely, $$\chi_\nu^2 \approx 1$$. In the example above, the value $$\chi_\nu^2 = 0.78$$ supports the idea that the linear fit is a good model of the data.
 
 Let’s look at two examples where our reduced chi-squared value is significantly different than 1. First, here’s an example where $$\chi_\nu^2$$ is small:
 ![overfit example](images/linear_fit_small_chi2.jpg)
