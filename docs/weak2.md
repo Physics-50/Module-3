@@ -59,7 +59,7 @@ To collect your complete $$x$$ vs. $$L$$ dataset, make sure to do the following:
 
 + For each $$L$$ value, compute the mean value of $$x$$ from your five trials and the random uncertainty as measured by the SEM. Then combine the random uncertainty with your resolution uncertainty in $$x$$ according to the [method for combining independent sources of uncertainty from Module 1](https://physics-50.github.io/Module-1/uncertainty-introduction#combining-uncertainties){:target="_blank"} to determine your total uncertainty in $$x$$, which we call $$\delta x$$.
 
-+ Enter your $$x\pm \delta x$$ and $$L$$ data into the MATLAB curve fitting script called "curve_fitting_demo.m" from the [curve fitting guide](curve-fitting){:target="_blank"} and run the code to perform a best fit analysis.
++ Enter your $$x\pm \delta x$$ and $$L$$ data into the MATLAB curve fitting script from module 2 and run the code to perform a best fit analysis.
 
 + You should make use of your data, the best fit analysis and the provided theory to determine the wavelength of your laser. You will need to use the methods you have been taught in the previous units to propagate your uncertainty and determine the uncertainty in your final result. 
 
@@ -70,13 +70,24 @@ To collect your complete $$x$$ vs. $$L$$ dataset, make sure to do the following:
 
 ## Checkpoint 2
 
+Checkpoint 2 will take place in two parts:
+
+
+**Part 1: Practice calculation**
+*You may resubmit Module 3, checkpoint 2, Part 1 as many times as you like until you get the correct answer (it is auto-graded and will give you an immediate response). For this part **only** it is also okay to "save" your responses to the individual questions.*
+
+Part 1 is a practice calculation, please complete the problem on Gradescope.
+
+**Part 2: Post-lab analysis**
+
+For part 2 our usual rules apply:
+**Reminder:** Please prepare your assignment in a separate document, enter all entries in a single sitting without using the "save" button and then make use of the "submit" button to submit your work. You may not resubmit your work once it has been submitted (and saving in Gradescope is equivalent to submitting).
+
 You should submit the following on Gradescope:
 
 + The plot used to determine the wavelength of your laser. This plot must include the uncertainties on your data points and include a line of best fit that has been determined with a weighted fit. As always, make sure to include units on your axis labels. You will be asked to upload this plot 3 times. You should upload the same plot each time. You do not need to write a caption.
 
 + A link to a spreadsheet with your experimental data.
-
-+ A sample calculation of wavelength and uncertainty, instructions for which are provided in the checkpoint instructions on Gradescope.
 
 + The slope you obtained from your plot, including the uncertainty. 
 
@@ -84,19 +95,10 @@ You should submit the following on Gradescope:
 
 + A list of the parameters you reset between each $$x$$ measurement.
 
--------------
-
-## Grading rubric
-The tentative rubric that will be used to evaluate this deliverable is provided below. Please keep in mind that these rubric items are subject to change as we can never foresee all the issues that may arise. This is meant to give you a sense of how it will be graded. You can click on the rubric to enlarge it.
-
-The checkpoint will be graded out of 15 points.
-
-[![Results Rubric](images/m3-r2a.png)](images/m3-r2a.png){:target="_blank"}
-
-[![Results Rubric](images/m3-r2b.png)](images/m3-r2b.png){:target="_blank"}
+------------
 
 ## Mini-questions:
 
 And to double-check, make sure you have finished all of this week's mini-questions by [checking here](mini-questions#week-2){:target="_blank"}
 
-When you're all finished and ready to move on, you can start [Week 3](week3).
+
