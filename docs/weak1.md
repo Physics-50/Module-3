@@ -74,26 +74,24 @@ Mount the grid paper to the vertical support at the end of your optical rail (in
 
 Near the center of the rail, between the laser and the screen, attach another post holder, and use it to mount a diffraction grating, shown in figure 2.
 
+**When handling the diffraction grating make sure to only touch the cardboard rim. Getting fingerprints on the transparent grating could affect your results.**
+
 {: .center}
 ![alt text](https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/10/Diffraction-grating.jpg){: width="400px;"}
 
 
 {: .mycap}
-**Figure 2** ---  Diffraction grating.
+**Figure 2** ---  Diffraction grating. A diffraction grating is essentially just an array of slits placed right next to each other, with a very small slit distance <em>d</em> between each (on the order of one slit per micron!). Each neighboring pair of slits can be thought of as a double slit. 
 
 A diffraction grating is essentially just an array of slits placed right next to each other, with a very small slit distance $$d$$ between each (on the order of one slit per micron!). Each neighboring pair of slits can be thought of as a double slit. Based on the pre-lab reading (you might want to look back to equation 1) what do you think will happen to the location of the interference maxima (antinodes) when the spacing between slits becomes very small?
 
-We will begin by setting up the experiment. Attach one of the **500 lines/mm diffraction gratings** to the binder clip, as shown below. When handling the diffraction grating make sure to only touch the cardboard rim. Getting fingerprints on the transparent grating could affect your results.
+Slide the diffraction grating along the rail so it is very close to the screen; turn on the laser. You should see three or more dots on the screen. Slowly pull the grating away from the screen until the three dots take up most of the screen. Do not pull the grating back too far, as we want to be sure that the diffracted spots are hitting the screen and not flying across the room (we wish to mitigate the risk of a laser beam striking an eye of a fellow lab-mate!).
 
-<img src="images/diff-grating_mount.JPG" alt="Mounting your diffraction grating" width="600"/>
-A diffraction grating is essentially just an array of slits placed right next to each other, with a very small slit distance <em>d</em> between each (on the order of one slit per micron!). Each neighboring pair of slits can be thought of as a double slit. 
+You need not take any quantitative measurements yet; simply note qualitative observations. 
 
-Use two additional binder clips to mount the laser as shown (making sure that the laser is pointing towards a wall/screen at all times when on):
-<img src="images/laser_mount.JPG" alt="Mounting your laser" width="300"/>
+When working with lasers make sure to **turn off your laser when inserting new components into the beam path**; it is hard to make sure that stray reflections don't momentarily hit someone in the eye while inserting pieces of glass or metal into a beam path.
 
-If your laser has a push button rather than a power switch, you can position the binder clip in such a way as to keep the laser on while taking measurements (but remember to turn it off in between to conserve your batteries). **Turn off your laser when inserting new components into the beam path**; it is hard to make sure that stray reflections don't momentarily hit someone in the eye while inserting pieces of glass or metal into a beam path.
-
-Label each of your diffraction gratings, so you know which one you used this week. For example, write "A", "B", "C", "D", "E" in marker on the cardboard part of the diffraction gratings to label them. Position diffraction grating "A" between the laser and screen, as shown in the experimental setup photo below.
+Your diffraction gratings have been labelled  "A", "B", "C", "D", "E" (in marker on the cardboard part of the diffraction gratings).  You have two such sets of diffraction gratings with different slit spacing. This week we will only be working with the 500 line/mm spacing gratings.  Position diffraction grating "A" between the laser and screen, as shown in the experimental setup photo below.
 
 <img src="images/module3-configuration.JPG" alt="Experimental Set-up" width="300"/>
 
