@@ -35,11 +35,8 @@ Thinking back to the theoretical prediction $$\lambda = d \frac{x}{L}$$, let's r
 \begin{equation}
 x = \left(\frac{\lambda}{d}\right) L + 0
 \end{equation}
-where we have added zero to the right hand side. This should look familiar, it's the equation of a straight line (classic "$$y=mx+b$$"). That is, if we plotted $$x$$ versus $$L$$, we'd get a slope $$m=\lambda/d$$, and an intercept $$b=0$$. There's an added power to treating the data set as a whole in this way because if our data has an intercept that isn't zero, then that would suggest a systematic error that shifted our measured values!
+where we have added zero to the right hand side. This should look familiar, it's the equation of a straight line (classic "$$y=mx+b$$"). That is, if we plotted $$x$$ versus $$L$$, we'd get a slope $$m=\lambda/d$$, and an intercept $$b=0$$. There's an added power to treating the data set as a whole in this way because if our data has an intercept that isn't zero, then that would suggest a systematic error that shifted our measured values! You will make use of the MATLAB script provided in module 2 to extract a slope and intercept to your measured data. Make sure to change the axes labels to appropriate labels for the experiment.
 
-How do we extract a slope and intercept from our measured data? You have previously fit a horizontal line, but now you will fit a line with a nonzero slope. To understand this fitting process, you now need to carefully read the [curve fitting guide](curve-fitting){:target="_blank"}. In it you will find a MATLAB script that includes a linear fit with both an intercept and a slope.
-
-Please read the [curve fitting guide](curve-fitting){:target="_blank"} before answering the following miniquestion.
 
 #### Miniquestion 2: Interpreting a weighted linear fit
 [*Click here to open in a new tab (recommended)*](https://forms.gle/BF8fQq5PNWF1Gh9U8){:target="_blank"}
