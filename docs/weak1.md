@@ -174,15 +174,9 @@ You should submit the following on Gradescope:
 
 + Conclusions regarding the significance of your investigated source of experimental uncertainty. Remember, as a rule of thumb, if the parameter we varied were **not** significant we would expect the data points to be about one error bar away from the mean on average. Does your data show significantly greater variation than this?
 
-[Submit the results of your measurements on Gradescope](https://www.gradescope.com/courses/216639/assignments/1129992){:target="_blank"}
+
 -------------
 
-## Grading rubric
-The tentative rubric that will be used to evaluate this deliverable is provided below. Please keep in mind that these rubric items are subject to change as we can never foresee all the issues that may arise. This is meant to give you a sense of how it will be graded. You can click on the rubric to enlarge it.
-
-[![Results Rubric](images/m3-r1.png)](images/m3-r1.png){:target="_blank"}
-
-When you're ready, please move on to [Week 2](week2).
 
 ## Mini-questions:
 
