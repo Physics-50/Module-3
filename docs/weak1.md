@@ -101,7 +101,7 @@ In week one, we will attempt to answer these questions.
 
 ## Exploratory Measurements
 
-As in previous modules, you should perform the following exploratory measurements and record them in your [data sheet assigned from Google Classroom.](https://classroom.google.com/u/0/w/MjUxNTgyMzY1MDM5/tc/MjUxNTgyMzY1MDQ3){:target="_blank"}
+As in previous modules, you should perform the following exploratory measurements and record them in your data sheet assigned from Google Classroom.
 
 The ultimate goal of Module 3 is to determine the wavelength of your laser by measuring $$x$$ while varying $$L$$. However, for week 1, we will focus only on getting the most accurate measurement of $$x$$. To do so, we will "wiggle" our experimental parameters to find out which ones significantly change the value of $$x$$ that we measure. This is a typical first experimental step, and it will inform our experimental procedure that we will use next week.
 
