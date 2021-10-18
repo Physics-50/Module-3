@@ -23,6 +23,9 @@
 <br>
 
 #### Miniquestion 3: Which parameters need to be reset?
+
+**This mini-question cannot be answered until you are in lab. therefore for this question only, you should not answer the question before lab. You will only receive credit for this question if you answer it during your lab period.**
+
 *[Click here to open in a new tab](https://docs.google.com/forms/d/e/1FAIpQLSe-Bcw3iqEcmblnBnsOJOqSbfHVNrXckA4mVs9VEvzOXHvZQQ/viewform?usp=sf_link){:target="_blank"}*
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe-Bcw3iqEcmblnBnsOJOqSbfHVNrXckA4mVs9VEvzOXHvZQQ/viewform?embedded=true" width="640" height="737" frameborder="0" marginheight="0" marginwidth="0">Loading…
