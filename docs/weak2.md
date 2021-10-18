@@ -5,6 +5,7 @@
 2. [Why we measure $$x$$ over a range of $$L$$ values](#why-we-measure-x-over-a-range-of-l-values)
 3. [Data Collection](#data-collection)
 4. [Checkpoint 2](#checkpoint-2)
+5. [Mini-questions](#miniquestions)
 
 --------------
 
@@ -97,7 +98,7 @@ You should submit the following on Gradescope:
 
 ------------
 
-## Mini-questions:
+## Miniquestions:
 
 And to double-check, make sure you have finished all of this week's mini-questions by [checking here](mini-questions#week-2){:target="_blank"}
 
