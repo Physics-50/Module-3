@@ -67,11 +67,21 @@ Attach the red laser to the laser holder mount, shown below in figure 1, and att
 
 {: .mycap}
 **Figure 1** --- Laser holder, both with and without laser itself mounted. When adjusting a piece of the apparatus, be sure to loosen the relevant set screw before making adjustments, and then re-tighten it firmly afterwards.
-[caption id="attachment_1899" align="aligncenter" width="700"]
 
 **NEVER place your eye directly in the laser beam path.** Even if you are sure the laser is currently off, you should **never look directly down the beam path.**
 
 Mount the grid paper to the vertical support at the end of your optical rail (in the direction the laser is pointing, i.e. towards the wall).
+
+Near the center of the rail, between the laser and the screen, attach another post holder, and use it to mount a diffraction grating, shown in figure 2.
+
+{: .center}
+![alt text](https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/10/Diffraction-grating.jpg){: width="400px;"}
+
+
+{: .mycap}
+**Figure 2** ---  Diffraction grating.
+
+A diffraction grating is essentially just an array of slits placed right next to each other, with a very small slit distance $$d$$ between each (on the order of one slit per micron!). Each neighboring pair of slits can be thought of as a double slit. Based on the pre-lab reading (you might want to look back to equation 1) what do you think will happen to the location of the interference maxima (antinodes) when the spacing between slits becomes very small?
 
 We will begin by setting up the experiment. Attach one of the **500 lines/mm diffraction gratings** to the binder clip, as shown below. When handling the diffraction grating make sure to only touch the cardboard rim. Getting fingerprints on the transparent grating could affect your results.
 
