@@ -31,7 +31,6 @@ In Module 3, we will use the relationship derived in the background theory to de
 \frac{xd}{L} = n \lambda
 \end{equation}
 
-<img src="images/module3-configuration-annotated.jpg" alt="basic setup" width="400" style="display: block; margin-left: auto; margin-right: auto; width: 80%;" />
 
 
 #### Miniquestion 1: Spacing of Diffraction Gratings
@@ -54,13 +53,25 @@ In Module 3, we will use the relationship derived in the background theory to de
 
 ## Setting Up Your Experiment
 
-We will begin by setting up the experiment. You may find it helpful to work in a room where you can lower or turn out the lights and work in the dark. You will need a workspace with a vertical support such as a wall to which you can mount the grid paper we provided. Go ahead and mount the grid paper (e.g. tape it to a wall).
+We will begin by setting up the experiment. It is easier to see the diffraction pattern in the dark so your instructor will turn off the lights for most of this module. You will find a lamp at your bench that you can use to illuminate your workspace as needed. Your instructor may leave the lights on initially to make it easier to see while you are getting organized, if so please let your instructor know when you are ready to collect data and we will turn off the lights. 
 
-You will have received one of two types of lasers in your kit. Please watch the following brief video for some specific instructions on working with your laser:
+We will begin by setting up an optical rail. 
 
-[<img src="images/laserintro.png" alt="intro" width="400"/>](https://drive.google.com/file/d/1bWfzhKvM9QrucTTUggLemnJX-6zPXe3u/view?usp=sharing){:target="_blank"} 
 
-We don't want the laser light shooting across the room, please make sure when you set up your laser pointer that it is directed toward the wall with the mounted grid paper and not toward yourself or family members. **NEVER place your eye directly in the laser beam path.** Even if you are sure the laser is currently off, you should <strong>never look directly down the beam path.</strong>
+Attach the red laser to the laser holder mount, shown below in figure 1, and attach it to a post holder placed on the optical rail with the laser facing the screen (we don't want the laser light shooting across the room, please make sure when you set up your laser pointer that it is aimed at the wall, away from your classmates). When adjusting the laser, the post, or the entire mount, be sure to loosen the relevant set-screw and then re-tighten it by hand once you achieve the desired positioning.
+
+
+{: .center}
+![alt text](https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/10/Laser-holder-web.png){: width="400px;"}
+
+
+{: .mycap}
+**Figure 1** --- Laser holder, both with and without laser itself mounted. When adjusting a piece of the apparatus, be sure to loosen the relevant set screw before making adjustments, and then re-tighten it firmly afterwards.
+[caption id="attachment_1899" align="aligncenter" width="700"]
+
+**NEVER place your eye directly in the laser beam path.** Even if you are sure the laser is currently off, you should **never look directly down the beam path.**
+
+Mount the grid paper to the vertical support at the end of your optical rail (in the direction the laser is pointing, i.e. towards the wall).
 
 We will begin by setting up the experiment. Attach one of the **500 lines/mm diffraction gratings** to the binder clip, as shown below. When handling the diffraction grating make sure to only touch the cardboard rim. Getting fingerprints on the transparent grating could affect your results.
 
