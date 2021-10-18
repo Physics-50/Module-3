@@ -10,7 +10,7 @@
 
 --------------
 
-In this module you will be studying a light interference effect called <strong>diffraction</strong>. This phenomenon will allow you to measure the wavelength of visible light ($$ <10^{-6}$$ meters).
+In this module you will be studying a light interference effect called <strong>diffraction</strong>. This phenomenon will allow you to measure the wavelength of visible light ($$ \lambda < 10^{-6} \,\mathrm{m} = 1\,\mathrm{\mu m}$$).
 
 ## Background Theory
 
@@ -69,11 +69,11 @@ Attach the red laser to the laser holder mount, shown below in figure 1, and att
 {: .mycap}
 **Figure 1** --- Laser holder, both with and without laser itself mounted. When adjusting a piece of the apparatus, be sure to loosen the relevant set screw before making adjustments, and then re-tighten it firmly afterwards.
 
-**NEVER place your eye directly in the laser beam path.** Even if you are sure the laser is currently off, you should **never look directly down the beam path.**
+**NEVER place your eye directly in the path of any laser beam.** Even if you are sure the laser is currently off, you should **never look directly down the beam path.**
 
 Mount the grid paper to the vertical support at the end of your optical rail (in the direction the laser is pointing, i.e. towards the wall).
 
-Near the center of the rail, between the laser and the screen, attach another post holder, and use it to mount a diffraction grating, shown in figure 2.
+Near the center of the rail, between the laser and the screen, attach another post holder, and use it to mount a diffraction grating, shown in Fig. 2.
 
 **When handling the diffraction grating make sure to only touch the cardboard rim. Getting fingerprints on the transparent grating could affect your results.**
 
@@ -82,20 +82,20 @@ Near the center of the rail, between the laser and the screen, attach another po
 
 
 {: .mycap}
-**Figure 2** ---  Diffraction grating. A diffraction grating is essentially just an array of slits placed right next to each other, with a very small slit distance <em>d</em> between each (on the order of one slit per micron!). Each neighboring pair of slits can be thought of as a double slit. 
+**Figure 2** ---  Diffraction grating. A diffraction grating is essentially just an array of slits placed right next to each other, with a very small slit distance <em>d</em> between each (on the order of one slit per micron). Each neighboring pair of slits can be thought of as a double slit.
 
-A diffraction grating is essentially just an array of slits placed right next to each other, with a very small slit distance $$d$$ between each (on the order of one slit per micron!). Each neighboring pair of slits can be thought of as a double slit. Based on the pre-lab reading (you might want to look back to equation 1) what do you think will happen to the location of the interference maxima (antinodes) when the spacing between slits becomes very small?
+A diffraction grating is essentially just an array of slits placed right next to each other, with a very small slit distance $$d$$ between each (on the order of one slit per micron). Each neighboring pair of slits can be thought of as a double slit. Based on the pre-lab reading (you might want to look back to Eq. 1) what do you think will happen to the location of the interference maxima (antinodes) when the spacing between slits becomes very small?
 
-Slide the diffraction grating along the rail so it is very close to the screen; turn on the laser. You should see three or more dots on the screen. Slowly pull the grating away from the screen until the three dots take up most of the screen. Do not pull the grating back too far, as we want to be sure that the diffracted spots are hitting the screen and not flying across the room (we wish to mitigate the risk of a laser beam striking an eye of a fellow lab-mate!).
+Slide the diffraction grating along the rail so it is very close to the screen; turn on the laser. You should see three or more dots on the screen. Slowly pull the grating away from the screen until the three dots take up most of the screen. Do not pull the grating back too far, as we want to be sure that the diffracted spots are hitting the screen and not flying across the room (we need to mitigate the risk of a laser beam striking an eye of a fellow lab-mate!).
 
 You need not take any quantitative measurements yet; simply note qualitative observations. 
 
 When working with lasers make sure to **turn off your laser when inserting new components into the beam path**; it is hard to make sure that stray reflections don't momentarily hit someone in the eye while inserting pieces of glass or metal into a beam path.
 
-Your diffraction gratings have been labelled  "A", "B", "C", "D", "E" (in marker on the cardboard part of the diffraction gratings).  You have two such sets of diffraction gratings with different slit spacing. This week we will only be working with the 500 line/mm spacing gratings.  Position diffraction grating "A" between the laser and screen.
+Your diffraction gratings have been labelled  "A", "B", "C", "D", "E" (in marker on the cardboard part of the diffraction gratings).  You have two such sets of diffraction gratings with different slit spacing. This week we will only be working with gratings with the 500 line/mm spacing.  Position diffraction grating "A" between the laser and screen.
 
 
-You will use a ruler to measure the spacing $$x$$ between interference maxima, as well as the distance $$L$$ of the diffraction grating from the screen. In planning your experiment you will want to think about how to do this as accurately as possible. What are the dominant sources of error? What can you do to minimize systematic error? Even when you've done your best to reduce systematic error, some will remain. What can you do to randomize the remaining systematic error?
+You will use a ruler to measure the spacing $$x$$ between interference maxima, as well as the distance $$L$$ of the diffraction grating from the screen. In planning your experiment think about how to do this as accurately as possible. What are the dominant sources of error? What can you do to minimize systematic error? Even when you've done your best to reduce systematic error, some will remain. What can you do to randomize the remaining systematic error?
 
 In week one, we will attempt to answer these questions.
 
@@ -119,7 +119,7 @@ In addition to the angle of the diffraction grating that you just explored, we h
 + There may be variation within a single diffraction grating -- explore this by measuring $$x$$ at five positions on one diffraction grating. 
 4. The distance $$L$$ between the grating and the wall is something we will be systematically varying in Module 3, so that we can ultimately find the wavelength. But each time we set the value of $$L$$, we can only do so with some imprecision. Set $$L= 1~\mathrm{m}$$, and then vary $$L$$ over a range of $$\pm 0.5~\mathrm{cm}$$.
 
-For each of the five (the angle of the diffraction grating, plus the four listed above) potential sources of uncertainty listed above, wiggle the parameter over the suggested range and record the variation in $$x$$. Since this is just an exploratory wiggling of parameters, you do not need to perform repeated trials of these tests. It should take you about 15 minutes to wiggle all the parameters.
+For each of the five potential sources of uncertainty listed above (the angle of the diffraction grating, plus the four listed above), wiggle the parameter over the suggested range and record the variation in $$x$$. Since this is just an exploratory wiggling of parameters, you do not need to perform repeated trials of these tests. It should take you about 15 minutes to wiggle all the parameters.
 
 **The takeaway from this parameter-wiggling exercise is that the parameters that cause a larger variation in $$x$$ should be reset before each $$x$$ measurement. The ones that don't make much difference in $$x$$ do not need to be reset.**
 
@@ -152,17 +152,18 @@ We are all using the same materials, so why don't our results agree?!?! Well, as
 
 Because systematic errors are so important in experimental research, we want you to do a careful study of one dominant source of systematic error in $$x$$. This study will ultimately be presented as part of a sequence of figures for your Module 3 deliverable.
 
-Choose one source of uncertainty that you found to be significant, and carefully explore its effect on the measured value of $$x$$. **Do not choose to study $$L$$, since we will be studying that effect next week.** Think about how best to do this by carefully varying the chosen parameter (eg. the angle of the diffraction grating, or the choice of diffraction grating). **You should have about five (no less) different values of the parameter you wiggle (eg. angle of diffraction grating), and for each value of that parameter, you need to make five measurements of $$x$$** and report the average value of $$x \pm $$SEM (as an error bar on each data point).
+Choose one source of uncertainty that you found to be significant, and carefully explore its effect on the measured value of $$x$$. **Do not choose to study $$L$$, since we will be studying that effect next week.** Think about how best to do this by carefully varying the chosen parameter (e.g., the angle of the diffraction grating, or the choice of diffraction grating). **You should have about five (no less) different values of the parameter you wiggle (e.g., angle of diffraction grating), and for each value of that parameter, you need to make five measurements of $$x$$** and report the average value of $$x \pm \text{SEM}$$ (as an error bar on each data point).
 
-**When setting up your experiment, make sure the range over which you vary the parameter is of significance to the experiment. For example, if you are varying the angle of the diffraction grating, you will gain more useful information by focusing on the effect at small angles ($$\lesssim$$ 5$$^{\circ}$$).**
+When setting up your experiment, **make sure the range over which you vary the parameter is of significance to the experiment**. For example, if you are varying the angle of the diffraction grating, you will gain more useful information by focusing on the effect at small angles ($$\lesssim 5^{\circ}$$).
 
  **Remember to reset all the other parameters that also have significant effects on $$x$$, for each measurement.** For example, if you are carefully studying the effect of choice of diffraction grating, make sure to reset both the angle of the diffraction grating and the distance $$L$$ between each of the five trials for each grating.  
 
-This investigation will be part of your final deliverable, which will be evaluated partially based on the strength of your conclusions that you are able to support with evidence from your data. Make sure you select a significant source of systematic error as indicated by your preliminary experiment in which you "wiggled parameters".
+This investigation will be part of your final deliverable, which will be evaluated partially based on the strength of the conclusions that you are able to support with evidence from your data. Make sure you select a significant source of systematic error as indicated by your preliminary experiment in which you "wiggled parameters".
 
 For Checkpoint 1, you will present the results of this exploration as part of a figure with two panels:
-+ panel a, containing a photo of your experimental setup, with $$x$$, $$L$$, and the parameter you varied clearly labeled. Depending on the parameter you varied you may find it works well to showcase this with a single photo or with two photos, one focused on the experimental set-up and one on the parameter you varied. Either choice is acceptable.
-+ panel b, a plot with $$x$$ on the vertical axis and the parameter you varied on the horizontal axis. Be sure to plot your data points with error bars, following our [figure-making guide from Module 1](https://physics-50.github.io/Module-1/week4){:target="_blank"}. It is not necessary to perform a fit to your $$x$$ data. 
+
++ Panel (a), containing a photo of your experimental setup, with $$x$$, $$L$$, and the parameter you varied clearly labeled. Depending on the parameter you varied you may find it works well to showcase this with a single photo or with two photos, one focused on the experimental set-up and one on the parameter you varied. Either choice is acceptable.
++ Panel (b), a plot with $$x$$ on the vertical axis and the parameter you varied on the horizontal axis. Be sure to plot your data points with error bars, following our [figure-making guide from Module 1](https://physics-50.github.io/Module-1/week4){:target="_blank"}. It is not necessary to perform a fit to your $$x$$ data. 
 
 To reduce workload for this week, you do not need to write a caption for the figure.
 

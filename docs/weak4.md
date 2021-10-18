@@ -9,8 +9,8 @@
 
 Please note that you have two weeks to prepare your deliverable. Remaining deadlines are as follows:
 
-+ Week 4 mini-questions: due Thursday, April  29  (1pm)
-+ Module 3 deliverable: due Thursday, May 6 (1pm)
++ Week 4 mini-questions: due Thursday, April  29  (1 pm)
++ Module 3 deliverable: due Thursday, May 6 (1 pm)
 
 This week we will take another look at your analysis leading to the estimated wavelength of your laser and provide advice for communicating your results through a sequence of figures.
 
