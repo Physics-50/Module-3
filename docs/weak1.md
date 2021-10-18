@@ -90,7 +90,7 @@ Slide the diffraction grating along the rail so it is very close to the screen; 
 
 You need not take any quantitative measurements yet; simply note qualitative observations. 
 
-When working with lasers make sure to **turn off your laser when inserting new components into the beam path**; it is hard to make sure that stray reflections don't momentarily hit someone in the eye while inserting pieces of glass or metal into a beam path.
+Make sure to **turn off your laser when inserting new components into the beam path**; it is hard to make sure that stray reflections don't momentarily hit someone in the eye while inserting pieces of glass or metal into a beam path.
 
 Your diffraction gratings have been labelled  "A", "B", "C", "D", "E" (in marker on the cardboard part of the diffraction gratings).  You have two such sets of diffraction gratings with different slit spacing. This week we will only be working with gratings with the 500 line/mm spacing.  Position diffraction grating "A" between the laser and screen.
 
