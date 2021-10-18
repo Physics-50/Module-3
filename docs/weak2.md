@@ -77,7 +77,7 @@ Checkpoint 2 will take place in two parts:
 **Part 1: Practice calculation**
 *You may resubmit Module 3, checkpoint 2, Part 1 as many times as you like until you get the correct answer (it is auto-graded and will give you an immediate response). For this part **only** it is also okay to "save" your responses to the individual questions.*
 
-Part 1 is a practice calculation, please complete the problem on Gradescope.
+Part 1 is a practice calculation, please complete the problem on Gradescope. You are welcome to complete this practice calculation before your time in lab to be better prepared to complete the analysis in class.
 
 **Part 2: Post-lab analysis**
 
