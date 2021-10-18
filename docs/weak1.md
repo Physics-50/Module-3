@@ -6,6 +6,7 @@
 3. [Setting up your experiment](#setting-up-your-experiment)
 4. [Exploratory Measurements](#exploratory-measurements) 
 5. [Checkpoint 1](#checkpoint-1)
+6. [Mini-questions](#miniquestions)
 
 --------------
 
@@ -181,6 +182,6 @@ You should submit the following on Gradescope:
 -------------
 
 
-## Mini-questions:
+## Miniquestions:
 
 And to double-check, make sure you have finished all of this week's mini-questions by [checking here](mini-questions#week-1){:target="_blank"}
