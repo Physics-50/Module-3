@@ -2,7 +2,7 @@
 
 --------------
 1. [Background Theory](#background-theory)
-2. [Summary of Key Formulae from Theory](#the-takeaway)
+2. [Summary of Key Formulae from Theory](#module-3-goal)
 3. [Setting up your experiment](#setting-up-your-experiment)
 4. [Exploratory Measurements](#exploratory-measurements) 
 5. [Checkpoint 1](#checkpoint-1)
