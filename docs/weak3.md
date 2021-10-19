@@ -1,6 +1,6 @@
 # Week 3
 
-This week you will continue your investigation of the wavelength of your laser. We would like you to follow an identical procedure to last week. However, instead of making use of the 500 lines/mm gratings you should now collect data with the 1000 lines/mm gratings. Take a moment to reflect on expectations before diving into the experiment. How will the diffraction pattern change when the 1000 lines/mm grating is used?
+This week you will continue your investigation of the wavelength of your laser. We would like you to follow an identical procedure to last week. However, instead of making use of the 500 lines/mm gratings you should now collect data with the 1000 lines/mm gratings. Take a moment to reflect on expectations before diving into the experiment. How will the diffraction pattern change when the 1000 lines/mm grating is used? 
 
 
 #### Miniquestion 1: How do the diffraction patterns from the differently spaced diffraction gratings compare
@@ -17,26 +17,26 @@ What about when you are trying to measure the distance to the center of the red 
 
 ## Data collection
 
-With this in mind please go ahead and collect an analogous to the data you collected last week but now using the 1000 line/mm grating(s). This will give you the necessary data to complete this week's checkpoint.
+With this in mind please go ahead and collect a set of data analogous to the data you collected last week but now using the 1000 line/mm grating(s). This will give you the necessary data to complete this week's checkpoint.
 
 As a reminder (repeat of last week's instructions):
 
 To collect your complete $$x$$ vs. $$L$$ dataset, make sure to do the following:
 
-+ Choose five values of $$L$$. Last week we recommended a range of L values from about 30 cm to about 1 m. You may find this more difficult when working with the 1000 line/mm gratings as the $$x$$ values will be larger. You should still choose five L values over as wide a range as you can in the space you have available. A range of $$L$$ values from 15 cm to 0.5 m will give you a similar range of $$x$$ values to last week.
++ Choose five values of $$L$$. Last week we recommended a range of $$L$$ values from about 30 cm to about 1 m. You may find this more difficult when working with the 1000 line/mm gratings as the $$x$$ values will be larger. You should still choose five $$L$$ values over as wide a range as you can in the space you have available. A range of $$L$$ values from 15 cm to 0.5 m will give you a similar range of $$x$$ values to last week.
 
 + Collect five measurements of $$x$$ for each $$L$$ value, being sure to reset all the parameters you determined you needed to in  [Miniquestion 3 from Week 1](https://docs.google.com/forms/d/e/1FAIpQLSe-Bcw3iqEcmblnBnsOJOqSbfHVNrXckA4mVs9VEvzOXHvZQQ/viewform){:target="_blank"} between each measurement of $$x$$. If you found in Week 1 that $$x$$ depended sensitively on which diffraction grating you used, then you should switch diffraction gratings between measurements, being sure to **only use the 1000 line/mm diffraction gratings.** 
 
 + For each $$L$$ value, compute the mean value of $$x$$ from your five trials and the random uncertainty as measured by the SEM. Then combine the random uncertainty with your resolution uncertainty in $$x$$ according to the [method for combining independent sources of uncertainty from Module 1](https://physics-50.github.io/Module-1/uncertainty-introduction#combining-uncertainties){:target="_blank"} to determine your total uncertainty in $$x$$, which we call $$\delta x$$.
 
-+ Enter your $$x\pm \delta x$$ and $$L$$ data into the MATLAB curve fitting script called "curve_fitting_demo.m" from the [curve fitting guide](curve-fitting){:target="_blank"} and run the code to perform a best fit analysis.
++ Enter your $$x\pm \delta x$$ and $$L$$ data into the MATLAB curve fitting script called "curve_fitting.m" from the [curve fitting guide](curve-fitting){:target="_blank"} and run the code to perform a best fit analysis.
 
 + You should make use of your data, the best fit analysis and the provided theory to determine the wavelength of your laser. You will need to use the methods you have been taught in the previous units to propagate your uncertainty and determine the uncertainty in your final result. 
 
 -----------------------------------
 ## Comparison of results from 500 lines/mm and 1000 lines/mm gratings
 
-After you have collected and analyzed your data for the 1000 lines/mm grating we would like you to compare these results with the results you obtained last week using the 500 lines/mm grating. Using MATLAB please prepare a plot of the calculated wavelength vs. grating spacing. This plot will consist of two data points with uncertainty. The two data points will be your estimated wavelength (with uncertainty) from your cummulative results for the 500 line/mm and 1000 lines/mm gratings. You can use the MATLAB script from the module 1 deliverable, with appropriate modifications to the axis labels.
+After you have collected and analyzed your data for the 1000 lines/mm grating we would like you to compare these results with the results you obtained last week using the 500 lines/mm grating. Using MATLAB please prepare a plot of the calculated wavelength vs. grating spacing. This plot will consist of two data points with uncertainty. The two data points will be your estimated wavelength (with uncertainty) from your cumulative results for the 500 line/mm and 1000 lines/mm gratings. You can use the MATLAB script from the module 1 deliverable, with appropriate modifications to the axis labels.
 
 
 -------------
