@@ -9,8 +9,8 @@
 
 Please note that you have two weeks to prepare your deliverable. Remaining deadlines are as follows:
 
-+ Week 4 mini-questions: due Thursday, April  29  (1 pm)
-+ Module 3 deliverable: due Thursday, May 6 (1 pm)
++ Week 4 mini-questions: due Thursday, April  29  (1 pm) ?
++ Module 3 deliverable: due Thursday, May 6 (1 pm) ?
 
 This week we will take another look at your analysis leading to the estimated wavelength of your laser and provide advice for communicating your results through a sequence of figures.
 
@@ -66,7 +66,7 @@ and argued that when the extra distance $$d \sin \theta$$ traveled by light on a
 
 Mathematically, this condition is met if $$d \sin \theta = n \lambda$$, where $$n$$ is a positive integer and $$\lambda$$ is the wavelength of the light.
 
-From the figure above, we determined that $$\sin \theta = x / \sqrt{(x^2 + L^2)}$$, and then made the approximation that $$x << L$$ so we could approximate that $$\sin \theta = x / L$$. We then substituted this into our constructive interference condition to give:
+From the figure above, we determined that $$\sin \theta = x / \sqrt{(x^2 + L^2)}$$, and then made the approximation that $$x \ll L$$ so we could approximate that $$\sin \theta = x / L$$. We then substituted this into our constructive interference condition to give:
 
 \begin{equation}\label{eq:sYoung} 
 \frac{xd}{L} = n \lambda
@@ -81,14 +81,14 @@ Setting $$n=1$$ for the first diffraction maximum and dividing the numerator and
 
 $$\lambda = d \frac{x/L}{\sqrt{(x/L)^2 + 1}}.$$
 
-Then using the slope, $$m$$, of our $$x$$ vs. $$L$$ linear regression, with $$m=x/L$$, we arrive at **our main result:**
+Then using the slope, $$m$$, of our $$x$$ vs. $$L$$ linear regression, with $$m=x/L$$, we arrive at **the main result:**
 \begin{equation} \label{eq:Young}
 \lambda = d \frac{m}{\sqrt{m^2 + 1}}
 \end{equation}
 
-This week we will recalculate our measured value of $$\lambda$$ from the correct version of Young's equation (Eq.\eqref{eq:Young}). **The good news is that we don't have to collect any more data!** The slopes we measured from the $$x$$ vs. $$L$$ plots of our data are not affected by the theory, so we only need to recalculate the measured wavelength based on data we have already collected.
+This week we will recalculate the measured value of $$\lambda$$ from the correct version of Young's equation (Eq.\eqref{eq:Young}). **The good news is that we don't have to collect any more data!** The slopes we measured from the $$x$$ vs. $$L$$ plots of our data are not affected by the theory, so we only need to recalculate the measured wavelength based on data we have already collected.
 
-To get a sense of how significantly this would impact our different diffraction gratings, we can rearrange Eq.\eqref{eq:Young} 
+To get a sense of how significantly this would impact the different diffraction gratings, we can rearrange Eq.\eqref{eq:Young} 
 
 $$m = \frac{\lambda/d}{\sqrt{1-(\lambda/d)^2}},$$
 
@@ -131,7 +131,7 @@ With the correct version of Young's equation in mind, please go back and recalcu
 You have two tasks this week:
 1. Redo your analysis with the corrected theory. You should be able to accomplish this by just changing a few formulae in your spreadsheet (note that both the formula for the wavelength and its uncertainty will require correction. You will need to use the calculus-based method of the previous modules to propagate the uncertainty from the slope of the x v.s. L plot to determine the uncertainty in wavelength with the revised theory (see mini-question 4). This does not require collecting any new data. Once you have recalculated the wavelength with uncertainty for the two differently spaced diffraction gratings you should regenerate the plot of wavelength v.s. diffraction grating spacing from last week and fit a horizontal line as we did in module 2 to generate your estimated wavelength with uncertainty from the plot.
 
-2. Your second task is to prepare a sequence of 2 figures with captions to submit for your deliverable. These figures will come directly from the work you have done in the preceeding 3 weeks.
+2. Your second task is to prepare a sequence of 2 figures with captions to submit for your deliverable. These figures will come directly from the work you have done in the preceding 3 weeks.
 
 #### Formatting tips
 
@@ -148,13 +148,13 @@ Your module 3 deliverable will consist of 2 figures. Each of these figures must 
 
 + Practice calculation: the practice calculation on Gradescope will ask you to calculate the wavelength and propagated uncertainty for sample data.
 
-+ Figure 1: Figure 1 is equivalent to the figure you submittedfor week 1, but with a caption. If any issues were raised with your week 1 checkpoint we encourage you to speak to us and make appropriate corrections before submitting your deliverable. Since resetting parameters such as the position/angle of the diffraction grating were an important part of the experimental procedure for this experiment, this should be mentioned in your caption as part of the experimental procedure.
++ Figure 1: Figure 1 is equivalent to the figure you submitted for week 1, but with a caption. If any issues were raised with your week 1 checkpoint we encourage you to speak to us and make appropriate corrections before submitting your deliverable. Since resetting parameters such as the position/angle of the diffraction grating were an important part of the experimental procedure for this experiment, this should be mentioned in your caption as part of the experimental procedure.
 
 + Figure 2: Figure 2 will also be a multi-panel figure. 
-    -Panel (a) will showcase how you determined the wavelength. Namely, panel (a):  **Provide a single example plot of x v.s. L for one of the diffraction grating spacings** (just as we only provided one example plot for how the terminal velocity was determined in module 2). This plot can come directly from one of your previous checkpoints figures.
-    -Panel (b): plot of wavelength v.s. diffraction grating spacing. For this plot you should make use of the revised theory to calculate your wavelength and uncertainty from your results for the two grating spacings. Your plot should include a horizontal line fit to the two data points as well as dashed horizontal lines indicating the uncertainty of the fit (analogous to the plot you were asked to prepare for the module 2 deliverable). Your caption should include your primary result (estimated wavelength quoted with uncertainty using appropriate significant figures).
+    - Panel (a) will showcase how you determined the wavelength. Namely, panel (a):  **Provide a single example plot of $$x$$ vs. $$L$$ for one of the diffraction grating spacings** (just as we only provided one example plot for how the terminal velocity was determined in module 2). This plot can come directly from one of your previous checkpoints figures.
+    - Panel (b): plot of wavelength vs. diffraction grating spacing. For this plot you should make use of the revised theory to calculate your wavelength and uncertainty from your results for the two grating spacings. Your plot should include a horizontal line fit to the two data points as well as dashed horizontal lines indicating the uncertainty of the fit (analogous to the plot you were asked to prepare for the module 2 deliverable). Your caption should include your primary result (estimated wavelength quoted with uncertainty using appropriate significant figures).
 
-Please note that you will need to upload each figure three times.
+**Please note that you will need to upload each figure three times.**
 
 ## Mini-questions:
 
