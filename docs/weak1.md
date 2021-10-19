@@ -6,7 +6,7 @@
 3. [Setting up your experiment](#setting-up-your-experiment)
 4. [Exploratory Measurements](#exploratory-measurements) 
 5. [Checkpoint 1](#checkpoint-1)
-6. [Mini-questions](#miniquestions)
+6. [Mini-questions](#mini-questions)
 
 --------------
 
@@ -34,7 +34,7 @@ In Module 3, we will use the relationship derived in the background theory to de
 
 
 
-#### Miniquestion 1: Spacing of Diffraction Gratings
+#### Mini-question 1: Spacing of Diffraction Gratings
 *[Click here to open in a new tab](https://docs.google.com/forms/d/e/1FAIpQLScVy13Ddgurh38icYTvtZDd7mcRiIQcisnRfS6NIwLRf8om4Q/viewform?){:target="_blank"}*
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScVy13Ddgurh38icYTvtZDd7mcRiIQcisnRfS6NIwLRf8om4Q/viewform?embedded=true" width="640" height="400" frameborder="0" marginheight="0" marginwidth="0">Loading…
@@ -43,7 +43,7 @@ In Module 3, we will use the relationship derived in the background theory to de
 
 -----
 
-#### Miniquestion 2: Spacing of Interference Maxima
+#### Mini-question 2: Spacing of Interference Maxima
 *[Click here to open in a new tab](https://docs.google.com/forms/d/e/1FAIpQLSd0DalK3dCoRR8n6thQmaJmh4ctFmaWsDRalbRIW35mO1FA_w/viewform){:target="_blank"}*
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd0DalK3dCoRR8n6thQmaJmh4ctFmaWsDRalbRIW35mO1FA_w/viewform?embedded=true" width="640" height="400" frameborder="0" marginheight="0" marginwidth="0">Loading…
@@ -125,7 +125,7 @@ For each of the five potential sources of uncertainty listed above (the angle of
 
 -----
 
-#### Miniquestion 3: Which parameters need to be reset?
+#### Mini-question 3: Which parameters need to be reset?
 
 **This mini-question cannot be answered until you are in lab. therefore for this question only, you should not answer the question before lab. You will only receive credit for this question if you answer it during your lab period.**
 
@@ -183,6 +183,6 @@ You should submit the following on Gradescope:
 -------------
 
 
-## Miniquestions:
+## Mini-questions:
 
 And to double-check, make sure you have finished all of this week's mini-questions by [checking here](mini-questions#week-1){:target="_blank"}
