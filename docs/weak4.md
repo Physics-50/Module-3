@@ -22,13 +22,13 @@ Did your results from the two differently spaced diffraction gratings agree? Did
 
 By now you should have given serious consideration to possible sources of experimental error. Here are a few of examples:
 
-1. We provided five diffraction gratings for each diffraction grating spacing. In week 1 did you look at the x values for several gratings? Did you either find the difference to be negligible or randomize across gratings in weeks 2 & 3?
+1. We provided five diffraction gratings for each diffraction grating spacing. In week 1 did you look at the $$x$$ values for several gratings? Did you either find the difference to be negligible or randomize across gratings in weeks 2 and 3?
 
 2. Were you careful to ensure your beam path was perpendicular to the screen? It can be helpful to compare the distance to the first maxima to the left and right as part of this consideration.
 
 3. Were you careful to ensure your beam path is horizontal?
 
-4. Did you collect data over a wide range of L values?
+4. Did you collect data over a wide range of $$L$$ values?
 
 5. What other sources of error can you think of?
 
@@ -60,7 +60,9 @@ By now you should have given serious consideration to possible sources of experi
 
 In the background theory of week 1, we made a geometric argument to determine the location of interference maxima for a two slit diffraction pattern:
 
-<img src="images/week1-fig6.png" alt="" width="350"> 
+<p class="center" markdown="0">
+  <img src="images/week1-fig6.png" alt="" width="350"> 
+</p>
 
 and argued that when the extra distance $$d \sin \theta$$ traveled by light on adjacent rays is equal to an integer number of wavelengths, then all the rays will interfere constructively at the point where they land on the screen, creating a bright spot.
 
@@ -74,23 +76,22 @@ From the figure above, we determined that $$\sin \theta = x / \sqrt{(x^2 + L^2)}
 
 But if we hadn't made that approximation, we get 
 
-$$\frac{n \lambda}{d} = \frac{x}{\sqrt{x^2+L^2}}.$$
-
+$$\frac{n \lambda}{d} = \frac{x}{\sqrt{x^2+L^2}}$$
 
 Setting $$n=1$$ for the first diffraction maximum and dividing the numerator and denominator on the right hand side by $$L$$ gives,
 
-$$\lambda = d \frac{x/L}{\sqrt{(x/L)^2 + 1}}.$$
+$$\lambda = d \frac{x/L}{\sqrt{(x/L)^2 + 1}}$$
 
 Then using the slope, $$m$$, of our $$x$$ vs. $$L$$ linear regression, with $$m=x/L$$, we arrive at **the main result:**
 \begin{equation} \label{eq:Young}
 \lambda = d \frac{m}{\sqrt{m^2 + 1}}
 \end{equation}
 
-This week we will recalculate the measured value of $$\lambda$$ from the correct version of Young's equation (Eq.\eqref{eq:Young}). **The good news is that we don't have to collect any more data!** The slopes we measured from the $$x$$ vs. $$L$$ plots of our data are not affected by the theory, so we only need to recalculate the measured wavelength based on data we have already collected.
+This week we will recalculate the measured value of $$\lambda$$ from the correct version of Young's equation (Eq. \eqref{eq:Young}). **The good news is that we don't have to collect any more data!** The slopes we measured from the $$x$$ vs. $$L$$ plots of our data are not affected by the theory, so we only need to recalculate the measured wavelength based on data we have already collected.
 
-To get a sense of how significantly this would impact the different diffraction gratings, we can rearrange Eq.\eqref{eq:Young} 
+To get a sense of how significantly this would impact the different diffraction gratings, we can rearrange Eq. \eqref{eq:Young} 
 
-$$m = \frac{\lambda/d}{\sqrt{1-(\lambda/d)^2}},$$
+$$m = \frac{\lambda/d}{\sqrt{1-(\lambda/d)^2}}$$
 
 which shows that the correct version of the theory introduces an extra factor of $$\sqrt{1-(\lambda/d)^2}$$. According to this analysis, please answer the miniquestions below.
 
@@ -159,5 +160,4 @@ Your module 3 deliverable will consist of 2 figures. Each of these figures must 
 ## Mini-questions:
 
 And to double-check, make sure you have finished all of this week's mini-questions by [checking here](mini-questions#week-4){:target="_blank"}
-
 
