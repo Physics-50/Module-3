@@ -11,7 +11,7 @@
 
 ## Overview of Week 2
 
-This week we will being our investigation of how the distance $$x$$ to the first bright spot depends on $$L$$, the distance between the grating and the screen and will ultimately lead us to obtain an estimate of the wavelength $$\lambda = d \frac{x}{L}$$. Our approach will be to plot $$x$$ vs. $$L$$ and to find the best fit line to that data. Based on the [background theory](background-theory){:target="_blank"} presented last week, the slope of the line will equal the ratio $$\lambda/d$$ of the wavelength to the grating spacing. Let's start with a practice calculation.
+This week we will being our investigation of how the distance $$x$$ to the first bright spot depends on $$L$$, the distance between the grating and the screen. This will lead us to obtain an estimate of the wavelength $$\lambda = d \frac{x}{L}$$; our approach will be to plot $$x$$ vs. $$L$$ and find the best fit line to that data. Based on the [background theory](background-theory){:target="_blank"} presented last week, the slope of the line will equal the ratio $$\lambda/d$$ of the wavelength to the grating spacing. Let's start with a practice calculation.
 
 #### Miniquestion 1: Calculating wavelength from slope
 [*Click here to open in a new tab*](https://forms.gle/MPYx6nPVd54jYE359){:target="_blank"}
@@ -19,11 +19,11 @@ This week we will being our investigation of how the distance $$x$$ to the first
 </iframe>
 
 ---------------------------
-Why don't we just always get $$\lambda$$ by measuring $$x$$, determining $$\lambda= d \frac{x}{L}$$ for each measurement and then averaging those? Consider this: what if there is a systematic uncertainty in $$L$$, e.g., due to accidentally measuring to a baseboard or because your ruler didn't start at zero? Then plotting a line will still give the correct slope, while the individual $$\lambda$$ values would each be systematically off. The line would have a non-zero intercept that would tell you about the systematic shift in $$L$$, as shown in the plot below, where the fitting parameter $$b$$ shown in the legend is clearly not equal to zero.
+Why don't we just get $$\lambda$$ by measuring $$x$$, determining $$\lambda= d \frac{x}{L}$$ for each measurement, and then averaging those? Consider this: what if there is a systematic uncertainty in $$L$$, e.g., because you accidentally measured to one edge of a postholder or because your ruler didn't start at zero? Then the $$\lambda$$ values calculated from your individual trials would each be systematically off. However, plotting a line will still give the correct slope.  In this case the line will have a non-zero intercept that tells you about the systematic shift in $$L$$, as shown in the plot below, where the fitting parameter $$b$$ shown in the legend is clearly not equal to zero.
 
 <img src="images/x_vs_L_offset.png" alt="basic setup" width="400" style="display: block; margin-left: auto; margin-right: auto; width: 80%;" />
 
-Nevertheless, it is useful to do a very quick "back-of-the-envelope" check to make sure that your value for wavelength is roughly in the range you'd expect (600-700 nm).  Go back to the data you collected last week. Pick a single value of $$x$$ and $$L$$ and check whether the value of $$d \frac{x}{L}$$ lies within the range you expect for the wavelength. (Hint: the wavelength of red light ranges from 620nm-700nm.) 
+Still, before starting this longer program of measurements, t is useful to do a very quick "back-of-the-envelope" check to make sure that your value for wavelength will be roughly in the range you'd expect (600-700 nm).  Go back to the data you collected last week. Pick a single value of $$x$$ and $$L$$ and check whether the value of $$d \frac{x}{L}$$ lies within the range you expect for the wavelength. (Hint: the wavelength of red light ranges from 620nm-700nm.) 
 
 
 ## Why we measure $$x$$ over a range of $$L$$ values
