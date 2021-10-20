@@ -54,12 +54,12 @@ In Module 3, we will use the relationship derived in the background theory to de
 
 ## Setting Up Your Experiment
 
-We will begin by setting up the experiment. It is easier to see the diffraction pattern in the dark so your instructor will turn off the lights for most of this module. You will find a lamp at your bench that you can use to illuminate your workspace as needed. Your instructor may leave the lights on initially to make it easier to see while you are getting organized, if so please let your instructor know when you are ready to collect data and we will turn off the lights. 
+We will begin by setting up the experiment. It is easier to see the diffraction pattern in the dark, so most of this module will be conducted with the room lights off. You will find a lamp at your bench that you can use to illuminate your workspace as needed. Though everyone will probably want the lights on when first setting up the apparatus, anyone who is ready to start taking data can turn off the room lights after notifying the rest of the class. 
 
 We will begin by setting up an optical rail. 
 
 
-Attach the red laser to the laser holder mount, shown below in figure 1, and attach it to a post holder placed on the optical rail with the laser facing the screen (we don't want the laser light shooting across the room, please make sure when you set up your laser pointer that it is aimed at the wall, away from your classmates). When adjusting the laser, the post, or the entire mount, be sure to loosen the relevant set-screw and then re-tighten it by hand once you achieve the desired positioning.
+Attach the red laser to the laser holder mount, shown below in Figure 1, and attach it to a post holder placed on the optical rail with the laser facing the screen (we don't want the laser light shooting across the room; please make sure when you set up your laser pointer that it is aimed at the wall, away from your classmates). When adjusting the laser, the post, or the entire mount, be sure to loosen the relevant set screw and then re-tighten it by hand once you achieve the desired positioning.
 
 
 {: .center}
@@ -71,7 +71,7 @@ Attach the red laser to the laser holder mount, shown below in figure 1, and att
 
 **NEVER place your eye directly in the path of any laser beam.** Even if you are sure the laser is currently off, you should **never look directly down the beam path.**
 
-Mount the grid paper to the vertical support at the end of your optical rail (in the direction the laser is pointing, i.e. towards the wall).
+Mount the grid paper "screen" to the vertical support at the end of your optical rail (in the direction the laser is pointing, i.e., near the wall).
 
 Near the center of the rail, between the laser and the screen, attach another post holder, and use it to mount a diffraction grating, shown in Fig. 2.
 
