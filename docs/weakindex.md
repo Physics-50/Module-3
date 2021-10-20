@@ -11,7 +11,7 @@
 
 ### Learning Objectives
 
-1. Use a weighted fit of a data set to draw conclusions
+1. Perform a weighted fit to a data set and use it to draw conclusions
 
 2. Minimize and account for several sources of error in an experiment
 
@@ -26,7 +26,7 @@ In this module you will use the spacing between diffraction maxima to measure th
 Module 3 is four weeks long. Each week, except the last week, you will have a checkpoint due. These checkpoints will give us a chance to provide you feedback as your work towards the Module 3 deliverable: a series of figures that effectively communicates your results and key details of how the data was collected and analyzed. 
 
 1. [Week 1 - Exploratory Phase](week1)
-    - Checkpoint: a two panel figure that showcases your results from exploring a significant source of systematic error in the experiment.
+    - Checkpoint: a two-panel figure that showcases your results from exploring a significant source of systematic error in the experiment.
 2. [Week 2 - Data Collection](week2)
     - Checkpoint: A figure showcasing your results from the 500 lines/mm grating
 3. [Week 3 - Further Data Collection](week3)
