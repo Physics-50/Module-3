@@ -11,13 +11,13 @@
 
 ## Overview of Week 2
 
-This week we will being our investigation of how the distance $$x$$ to the first bright spot depends on $$L$$, the distance between the grating and the screen. This will lead us to obtain an estimate of the wavelength of your laser; we will do this roughly first with a single data point, but ultimately our approach will be to plot $$x$$ vs. $$L$$ and find the best fit line to that data.
+This week we will investigate how the distance $$x$$ to the first non-central bright spot depends on $$L$$, the distance between the grating and the screen. This will lead you to a determination of the wavelength of your laser; we will do this roughly first with a single data point, but ultimately our approach will be to plot $$x$$ vs. $$L$$ and find the best fit line to that data.
 
-Using one or more 500-line/mm gratings, you will take data carefully (including repeated trials) for $$x$$ as a function of $$L$$ over a large range of the $$L$$ values accessible with your apparatus.  You will plot $$x$$ vs. $$L$$ to check for systematic errors and to find a value for $$\lambda$$, the wavelength of your laser, based on the slope of your data set.
+Using one or more 500-line/mm grating(s), you will take data carefully (including repeated trials) for $$x$$ as a function of $$L$$ over a large range of the $$L$$ values accessible with your apparatus.  You will plot $$x$$ vs. $$L$$ to check for systematic errors and to find a value for $$\lambda$$, the wavelength of your laser, based on the slope of your data set.
 
-Before starting this longer program of measurements, it is useful to do a very quick "back-of-the-envelope" check to make sure that your value for wavelength will be roughly in the range you'd expect (600-700 nm).  From the [background theory](background-theory){:target="_blank"} presented last week, we can solve for $$\lambda$$ in terms of known and measured quantities to find $$\lambda = d \frac{x}{L}$$.  Go back to the data you collected last week. Pick a single value of $$x$$ and $$L$$ and check whether the value of $$d \frac{x}{L}$$ lies within the range you expect for the wavelength. (Hint: the wavelength of red light ranges from 620nm-700nm.) 
+Before starting this longer program of measurements, it is useful to do a very quick "back-of-the-envelope" check to make sure that your value for wavelength will be roughly in the range you'd expect (620-700 nm for red light).  From the [background theory](background-theory){:target="_blank"} presented last week, we can solve for $$\lambda$$ in terms of known and measured quantities to find $$\lambda = d \frac{x}{L}$$.  Go back to the data you collected last week. Pick a single value of $$x$$ and $$L$$ and check whether the value of $$d \frac{x}{L}$$ lies within the range you expect for the wavelength.
 
-Why don't we just continue this approach over multiple trials?  That is, why not analyze multiple data points by measuring $$x$$ each time, determining $$\lambda= d \frac{x}{L}$$ for each measurement, and then averaging those? In the next section we will argue that we can do better by taking a more holistic approach.   
+Why don't we just continue this approach over multiple trials to get a more reliable result?  That is, why not analyze multiple data points by measuring $$x$$ each time, determining $$\lambda= d \frac{x}{L}$$ for each measurement, and then averaging those? In the next section we argue that we can do better by taking a more holistic approach.   
 
 ## Why we measure $$x$$ over a range of $$L$$ values
 
@@ -67,7 +67,7 @@ To collect your complete $$x$$ vs. $$L$$ dataset, make sure to do the following:
 
 + Enter your $$x\pm \delta x$$ and $$L$$ data into the MATLAB curve fitting script from Module 2 and run the code to perform a best-fit analysis.  Be sure to change the axis labels in the code to reflect the data in this experiment.
 
-+ You should make use of your data, the best fit analysis and the provided theory to determine the wavelength of your laser. You will need to use the methods you have been taught in the previous units to propagate your uncertainty and determine the uncertainty in your final result. 
++ You should make use of your data, the best-fit analysis and the provided theory to determine the wavelength of your laser. You will need to use the methods you have been taught in previous modules to propagate your uncertainty and determine the uncertainty in your final result. 
 
 
 
