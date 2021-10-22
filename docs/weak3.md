@@ -55,7 +55,7 @@ You should submit the following on Gradescope:
 
 + The wavelength you have determined for your laser, with uncertainty.
 
-+ A plot of calculated wavelength v.s. diffraction grating spacing (two data points, with uncertainty). This plot will combine your data from this week and from checkpoint #2 (wavelength determined using the 500 lines/mm grating(s))
++ A plot of calculated wavelength vs. diffraction grating spacing (two data points, with uncertainty). This plot will combine your data from this week and from checkpoint #2 (wavelength determined using the 500 lines/mm grating(s))
 
 + A response to the brief questions on Gradescope regarding your results
 

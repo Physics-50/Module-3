@@ -24,11 +24,11 @@ The mechanics of your individual figures was evaluated based on the criteria fro
 + Does not include any sort of figure showing the ball dropping in solution 
 
 #### Demonstration of how terminal velocity was extracted from the figure
-+ Does not include a plot of displacement v.s. t for determining terminal velocity
++ Does not include a plot of displacement vs. t for determining terminal velocity
 + No indication of region of data from which v was determined 
 + Region indicated but not in a clear way (e.g all points highlighted instead of end points, or text does not indicated what highlighted points are or isn’t clear) 
 + Caption of figure 1 is unfocused 
-+ Displacement v.s. Time graph doesn’t show enough data points to see the expected clear linear trend 
++ Displacement vs. Time graph doesn’t show enough data points to see the expected clear linear trend 
 + Caption includes misleading claims or statements 
 
 #### Figure 2
