@@ -10,7 +10,7 @@
 
 --------------
 
-In this module you will be studying a light interference effect called <strong>diffraction</strong>. This phenomenon will allow you to measure the wavelength of visible light ($$ \lambda < 10^{-6} \,\mathrm{m} = 1\,\mathrm{\mu m}$$).
+In this module you will be studying a light interference effect called <strong>diffraction</strong>. This phenomenon will allow you to measure the wavelength of visible light ($$400\mathrm{ nm} \lesssim \lambda < 10^{-6} \lesssim 750\mathrm{ nm}$$).
 
 ## Background Theory
 
