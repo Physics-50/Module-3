@@ -1,5 +1,11 @@
 # Week 3
 
+1. [Data Collection](#data-collection)
+2. [Background on LCD Screens](#background-on-lcd-screens)
+3. [Checkpoint 3](#checkpoint-3)
+
+
+
 This week you will continue your investigation of the wavelength of your laser. We would like you to follow an identical procedure to last week. However, instead of making use of the 500 lines/mm gratings you should now collect data with the 1000 lines/mm gratings. Take a moment to reflect on expectations before diving into the experiment. How will the diffraction pattern change when the 1000 lines/mm grating is used? 
 
 
@@ -41,6 +47,20 @@ After you have collected and analyzed your data for the 1000 lines/mm grating we
 
 
 -------------
+
+## Background on LCD screens
+
+How does what we've learned in this module apply to an LCD screen? We can think of a liquid crystal display, or LCD, as being a two-dimensional diffraction grating.
+
+To get a sense of what the diffraction pattern of a two-dimensional grating would look like, mount one of the 500 line/mm gratings on the optical rail and then mount a second grating, rotated at $$90^o$$.
+
+A liquid crystal display consists of a two-dimensional grid of small 'boxes' called pixels (originally short for picture elements) that, together, display an image on a screen. These pixels are themselves composed of three 'sub-pixels' with colors red, green, and blue.&nbsp; If you look at your computer screen through a camera, you might be able to <em>see</em>&nbsp;the pixelated nature of the screen. Some common arrangements of pixels and sub-pixels in different devices are shown in Figure 1. Voltage is applied across a pixel in a particular manner that can control the colors and their relative intensities that turn on in that pixel.&nbsp;</p>
+
+
+[caption id="attachment_1891" align="aligncenter" width="224"]<img class="size-full wp-image-1891" src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/10/LCD-pixels.jpg" alt="" width="224" height="224"> Figure 1: LCD sub-pixel layouts for various types of screens.[/caption]
+<p style="text-align: justify;">You can think of the screen as a grid of windows with either red, green or blue glass, illuminated by a bright light from behind. Some mechanism -- perhaps a person adjusting the window shade -- determines how much light passes through each individual window. If you stand far enough away, an adjacent set of red, green, and blue windows is too small for you to see each color separately; instead you see a splotch of color made up of whatever red, green, and blue light is getting through that set of windows.&nbsp; Again, if you stand far enough away, the individual splotches blend together and you see a color picture made up of dots the size of each individual window. Your computer screen, and <em>any</em> LCD screen --such as the one on your phone-- for that matter, operate in a similar way, only the "windows" or pixels are on the order of tens to hundreds of micrometers wide. The more pixels a screen has per unit area, the greater the resolution of the screen, since there is more room for 'perfecting' the image on small scales.</p>
+<p style="text-align: justify;">Thus, you can think of the LCD as a two-dimensional grid of slits, where the distance between center of the 'slits' is the center-to-center pixel spacing, and is closely related to the resolution of the LCD screen.</p>
+<p style="text-align: justify;">The diffracting nature of LCD screens is manifest when one shines a laser on them. If we set up a screen to observe the laser light reflected off an LCD screen, we observe a bunch of bright dots, creating a rectangular grid, with uniform spacing between maxima. By measuring the distance between these maxima and given the laser wavelength (determined in lab last week!), one can determine the distance between the pixels, and thus deduce the resolution of the screen, by employing equation (\ref{eq:simplified_young}
 
 ## Checkpoint 3
 
