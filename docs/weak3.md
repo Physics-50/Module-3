@@ -52,7 +52,7 @@ After you have collected and analyzed your data for the 1000 lines/mm grating we
 
 How does what we've learned in this module apply to an LCD screen? We can think of a liquid crystal display, or LCD, as being a two-dimensional diffraction grating.
 
-To get a sense of what the diffraction pattern of a two-dimensional grating would look like, mount one of the 500 line/mm gratings on the optical rail and then mount a second grating, rotated at $$90^o$$.
+To get a sense of what the diffraction pattern of a two-dimensional grating would look like, mount one of the 500 line/mm gratings on the optical rail and then mount a second grating, rotated at 90°.
 
 A liquid crystal display consists of a two-dimensional grid of small 'boxes' called pixels (originally short for picture elements) that, together, display an image on a screen. These pixels are themselves composed of three 'sub-pixels' with colors red, green, and blue. If you look at your computer screen through a camera, you might be able to see the pixelated nature of the screen. Some common arrangements of pixels and sub-pixels in different devices are shown in Figure 1. Voltage is applied across a pixel in a particular manner that can control the colors and their relative intensities that turn on in that pixel.
 
