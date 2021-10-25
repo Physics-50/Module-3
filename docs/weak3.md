@@ -37,14 +37,14 @@ To collect your complete $$x$$ vs. $$L$$ dataset, make sure to do the following:
 -----------------------------------
 ## Comparison of results from 500 lines/mm and 1000 lines/mm gratings
 
-After you have collected and analyzed your data for the 1000 lines/mm grating we would like you to compare these results with the results you obtained last week using the 500 lines/mm grating. Using MATLAB please prepare a plot of the calculated wavelength vs. grating spacing. This plot will consist of two data points with uncertainty. The two data points will be your estimated wavelength (with uncertainty) from your cumulative results for the 500 line/mm and 1000 lines/mm gratings. You can use the MATLAB script from the module 1 deliverable, with appropriate modifications to the axis labels.
+After you have collected and analyzed your data for the 1000 lines/mm grating we would like you to compare these results with the results you obtained last week using the 500 lines/mm grating. Using MATLAB please prepare a plot of the calculated wavelength vs. grating spacing. This plot will consist of two data points with uncertainty. The two data points will be your estimated wavelength (with uncertainty) from your cumulative results for the 500 line/mm and 1000 lines/mm gratings. You can use the MATLAB script from the module 1 deliverable, with appropriate modifications to the axis labels. However, you may want to remove the horizontal line of best fit from your plot.
 
 
 -------------
 
 ## Checkpoint 3
 
-If you had any issues with Checkpoint 2 we recommend coming to office hours before completing your checkpoint this week as it is very similar.
+If you had any issues with Checkpoint 2 we recommend speaking to an instructor before completing your checkpoint this week as it is very similar.
 
 You should submit the following on Gradescope:
 
@@ -56,12 +56,14 @@ You should submit the following on Gradescope:
 
 + The wavelength you have determined for your laser, with uncertainty.
 
-+ A plot of calculated wavelength vs. diffraction grating spacing (two data points, with uncertainty). This plot will combine your data from this week and from checkpoint #2 (wavelength determined using the 500 lines/mm grating(s))
++ A plot of calculated wavelength vs. diffraction grating spacing (two data points, with uncertainty). This plot will combine your data from this week and from checkpoint #2 (wavelength determined using the 500 lines/mm grating(s)). This plot will be graded on both your results and figure mechanics.
 
 + A response to the brief questions on Gradescope regarding your results
 
 It may be that you have done very careful experimental work and your results still are not in agreement. We will explore this more next week.
 
+
+<!--
 ## Grading rubric
 
 This checkpoint will be graded out of 14 points. 
@@ -71,6 +73,8 @@ This checkpoint will be graded out of 14 points.
 + Question 4 (comparison of results from two different grating spacings) will be graded on both your results and figure mechanics
 
 + Question 5 (agreement of results). We are only looking for a single sentence indicating whether your wavelengths are in agreement.
+
+-->
 
 
 ## Mini-questions:
