@@ -38,11 +38,11 @@ Let's start with a practice calculation.
 
 ---------------------------
 
-There's an added power to treating the data set as a whole in this way because if our data has an intercept that isn't zero, then that would suggest a systematic error that shifted our measured values!  Consider this: what if there is a systematic uncertainty in $$L$$, e.g., because you accidentally measured to one edge of a postholder or because your ruler didn't start at zero? Then a set of $$\lambda$$ values calculated from your individual trials would be systematically off. However, plotting a line will still give the correct slope.  In this case the line will have a non-zero intercept that tells you about the systematic shift in $$L$$, as shown in the plot below, where the fitting parameter $$b$$ shown in the legend is clearly not equal to zero.
+There's an added power to treating the data set as a whole in this way because if our data has an intercept that isn't zero, then that would suggest a systematic error that shifted our measured values!  Consider this: what if there is a systematic uncertainty in $$L$$, e.g., because you accidentally measured to one edge of a post holder or because your ruler didn't start at zero? Then a set of $$\lambda$$ values calculated from your individual trials would be systematically off. However, plotting a line will still give the correct slope.  In this case the line will have a non-zero intercept that tells you about the systematic shift in $$L$$, as shown in the plot below, where the fitting parameter $$b$$ shown in the legend is clearly not equal to zero.
 
 <img src="images/x_vs_L_offset.png" alt="basic setup" width="400" style="display: block; margin-left: auto; margin-right: auto; width: 80%;" />
 
-To graph your data and perform a weighted linear fit, you will make use of the [MATLAB script provided in Module 2](https://physics-50.github.io/Module-2/curve-fitting).  Make sure to change the axis labels to make them appropriate for this experiment.  You may also want to review the curve fitting guide to reinforce your understanding of how to interpret fit parameters, chi-squared values, and other aspects of your result.
+To graph your data and perform a weighted linear fit, you will make use of the [MATLAB script provided in Module 2](https://physics-50.github.io/Module-2/curve-fitting).  Make sure to change the axis labels to make them appropriate for this experiment.  You may also want to review the curve fitting guide to reinforce your understanding of how to interpret fit parameters, $$ \chi^2 $$ values, and other aspects of your result.
 
 #### Miniquestion 2: Interpreting a weighted linear fit
 [*Click here to open in a new tab (recommended)*](https://forms.gle/BF8fQq5PNWF1Gh9U8){:target="_blank"}
