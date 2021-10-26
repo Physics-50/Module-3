@@ -32,6 +32,7 @@ In Module 3, we will use the relationship derived in the background theory to de
 \frac{xd}{L} = n \lambda
 \end{equation}
 
+The variables $$x$$, $$L$$, and $$d$$ were defined in the previously mentioned [background theory](background-theory){:target="_blank"}, please make sure you understand this formula and the relevant variables before proceeding.
 
 
 #### Mini-question 1: Spacing of Diffraction Gratings
