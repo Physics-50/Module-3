@@ -96,7 +96,7 @@ Make sure to **turn off your laser when inserting new components into the beam p
 Your diffraction gratings have been labelled  "A", "B", "C", "D", "E" (in marker on the cardboard part of the diffraction gratings).  You have two such sets of diffraction gratings with different slit spacing. This week we will only be working with the 500 line/mm set of gratings.  Position diffraction grating "A" between the laser and screen.
 
 
-You will use a ruler to measure the spacing $$x$$ between interference maxima, as well as the distance $$L$$ of the diffraction grating from the screen. In planning your experiment think about how to do this as accurately as possible. What are the dominant sources of error? What can you do to minimize systematic error? Even when you've done your best to reduce systematic error, some will remain. What can you do to randomize the remaining systematic error?
+You will use a ruler to measure the distance $$x$$ between the central laser spot and the first interference maximum, as well as the distance $$L$$ of the diffraction grating from the screen. In planning your experiment think about how to do this as accurately as possible. What are the dominant sources of error? What can you do to minimize systematic error? Even when you've done your best to reduce systematic error, some will remain. What can you do to randomize the remaining systematic error?
 
 In week one, we will attempt to answer these questions.
 
