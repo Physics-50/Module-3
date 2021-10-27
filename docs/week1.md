@@ -10,7 +10,7 @@
 
 --------------
 
-In this module you will be studying a light interference effect called <strong>diffraction</strong>. This phenomenon will allow you to measure the wavelength of visible light ($$400\mathrm{ nm} \lesssim \lambda \lesssim 750\mathrm{ nm}$$, where $$1\mathrm{ nm} = 10^{-9}\mathrm{ m}$$).
+In this module you will be studying a light interference effect called <strong>diffraction</strong>. This phenomenon will allow you to measure the wavelength of visible light ($$400\text{ nm} \lesssim \lambda \lesssim 750\text{ nm}$$, where $$1\text{ nm} = 10^{-9}\text{ m}$$).
 
 ## Background Theory
 
@@ -18,11 +18,8 @@ In this module you will be studying a light interference effect called <strong>d
 Start by reading the [background theory for Module 3 here](background-theory){:target="_blank"}.
 
 
-<br>
-
 **Before moving on, make sure you have read through the background theory at the link above!**
 
-<br> 
 
 ## Module 3 Goal
 
