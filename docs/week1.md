@@ -29,7 +29,7 @@ In Module 3, we will use the relationship derived in the background theory to de
 \frac{xd}{L} = n \lambda
 \end{equation}
 
-The variables $$x$$, $$L$$, and $$d$$ were defined in the previously mentioned [background theory](background-theory){:target="_blank"}, please make sure you understand this formula and the relevant variables before proceeding.
+The variables $$x$$, $$L$$, and $$d$$ were defined in the previously mentioned [background theory](background-theory){:target="_blank"}; please make sure you understand this formula and the relevant variables before proceeding.
 
 
 #### Mini-question 1: Spacing of Diffraction Gratings
@@ -57,7 +57,7 @@ We will begin by setting up the experiment. It is easier to see the diffraction 
 We will begin by setting up an optical rail. 
 
 
-Attach the red laser to the laser holder mount, shown below in Figure 1, and attach it to a post holder placed on the optical rail with the laser facing the screen (we don't want the laser light shooting across the room; please make sure when you set up your laser pointer that it is aimed at the wall, away from your classmates). When adjusting the laser, the post, or the entire mount, be sure to loosen the relevant set screw and then re-tighten it by hand once you achieve the desired positioning.
+Attach the red laser to the laser holder mount, shown below in Figure 1, and attach it to a post holder placed on the optical rail with the laser facing the screen. (We don't want the laser light shooting across the room; please make sure when you set up your laser pointer that it is aimed at the wall, away from your classmates.) When adjusting the laser, the post, or the entire mount, be sure to loosen the relevant set screw and then re-tighten it by hand once you achieve the desired positioning.
 
 
 {: .center}
@@ -153,7 +153,7 @@ Choose one source of uncertainty that you found to be significant, and carefully
 
 When setting up your experiment, **make sure the range over which you vary the parameter is relevant to the experiment**. For example, if you are varying the angle of the diffraction grating, you will gain more useful information by focusing on the effect at small angles ($$\lesssim 5^{\circ}$$).
 
-As you set up to perform careful measurements, you may find it difficult to locate the maxima as precisely as you would like. You will collect additional measurements of these maxima in the coming weeks so it is worth investing the effort to determine a method that will allow you to perform the measurement precisely. Reducing the intensity of your diffraction maxima will reduce their spot size and may help with performing more precise measurements. One way to reduce the intensity of light is with two polarizers. [Click here for more information about polarizers](polarizers). Net effect of a polarizer: Only light polarized along the polarizer's axis will be transmitted. By adding a second polarizer and rotating the axis of its polarization you can control how much light gets through! **Remember to turn off the laser when inserting components into the beam path of your laser.** Speak to your instructor if you would like to reduce the intensity of your beam but aren't sure how to make use of the polarizers.
+As you set up to perform careful measurements, you may find it difficult to locate the maxima as precisely as you would like. You will collect additional measurements of these maxima in the coming weeks so it is worth investing the effort to determine a method that will allow you to perform the measurement precisely. Reducing the intensity of your diffraction maxima will reduce their spot size and may help with performing more precise measurements. One way to reduce the intensity of light is with two polarizers. [Click here for more information about polarizers](polarizers). Net effect of a polarizer: Only light polarized along the polarizer's axis will be transmitted. By adding a second polarizer and rotating the axis of its polarization you can control how much light gets through the pair! **Remember to turn off the laser when inserting components into the beam path of your laser.** Speak to your instructor if you would like to reduce the intensity of your beam but aren't sure how to make use of the polarizers.
 
  **Remember to reset all the other parameters that also have significant effects on $$x$$, for each measurement.** For example, if you are carefully studying the effect of choice of diffraction grating, make sure to reset both the angle of the diffraction grating and the distance $$L$$ between each of the five trials for each grating.  
 
