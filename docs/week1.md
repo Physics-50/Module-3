@@ -116,11 +116,13 @@ In addition to the angle of the diffraction grating that you just explored, we h
 + There may be variation within a single diffraction grating -- explore this by measuring $$x$$ at five positions on one diffraction grating. 
 4. The distance $$L$$ between the grating and the screen is something we will be systematically varying in Module 3, so that we can ultimately find the wavelength. But each time we set the value of $$L$$, we can only do so with some imprecision. Set $$L= 60~\mathrm{cm}$$, and then vary $$L$$ over a range of $$\pm 0.5~\mathrm{cm}$$.
 
-For each of the five potential sources of uncertainty listed above (the angle of the diffraction grating, plus the four listed above), wiggle the parameter over the suggested range and record the variation in $$x$$. Since this is just an exploratory wiggling of parameters, you do not need to perform repeated trials of these tests. You only need to collect 3 data points - one at either end of the suggested range and one in the middle. It should take you about 15 minutes to wiggle all the parameters.
+For each of the five potential sources of uncertainty listed above (the angle of the diffraction grating, plus the four listed above). For the parameters with a suggested range, wiggle the parameter over the suggested range and record the variation in $$x$$. Since this is just an exploratory wiggling of parameters, you do not need to perform repeated trials of these tests. You only need to collect 3 data points - one at either end of the suggested range and one in the middle. It should take you about 15 minutes to wiggle all the parameters.
 
 **The takeaway from this parameter-wiggling exercise is that the parameters that cause a larger variation in $$x$$ should be reset before each $$x$$ measurement. The ones that don't make much difference in $$x$$ do not need to be reset.**
 
 -----
+
+In this mini-question the gratings are referred to as A,B,C,D,E on your actual set-up they are labelled G01,G02,G03,G04,G05. Apologies for any confusion that might cause.
 
 #### Mini-question 3: Which parameters need to be reset?
 
