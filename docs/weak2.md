@@ -71,7 +71,6 @@ To collect your complete $$x$$ vs. $$L$$ dataset, make sure to do the following:
 
 
 
-
 -------------
 
 ## Checkpoint 2
