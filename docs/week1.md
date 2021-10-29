@@ -109,14 +109,14 @@ Let's focus on the angle of the laser beam, which should ideally come in perpend
 
 In addition to the angle of the diffraction grating that you just explored, we have identified several other potential sources of uncertainty in $$x$$, listed below:
 
-1. Distance from laser to diffraction grating (keeping the diffraction grating fixed in place, moving the laser). Range: $$\pm 0.5~\mathrm{cm}$$.
-2. Vertical tilt of laser. Range: $$\pm 5^{\circ}$$.
+1. Distance from laser to diffraction grating (keeping the diffraction grating fixed in place, moving the laser). Range: ±0.5 cm.
+2. Vertical tilt of laser. Range: ±5°.
 3. The value of the diffraction spacing $$d$$ is also a parameter we can "wiggle," in a slightly less obvious way. Each diffraction grating could have manufacturing defects that cause $$d$$ to be slightly off from the stated value. We can see how this happens in two different ways:
-+ There may be variation between diffraction gratings -- explore this by measuring $$x$$ for several of the 500 line/mm gratings. The gratings will be labelled with your station number (e.g. S01) and a grating number (e.g. G01).
-+ There may be variation within a single diffraction grating -- explore this by measuring $$x$$ at three-five positions on one diffraction grating. You do not have to do this for all the diffraction gratings, just choose one.
-4. The distance $$L$$ between the grating and the screen is something we will be systematically varying in Module 3, so that we can ultimately find the wavelength. But each time we set the value of $$L$$, we can only do so with some imprecision. Set $$L= 60~\mathrm{cm}$$, and then vary $$L$$ over a range of $$\pm 0.5~\mathrm{cm}$$.
+   + There may be variation between diffraction gratings --- explore this by measuring $$x$$ for several of the 500 line/mm gratings. The gratings will be labelled with your station number (e.g. S01) and a grating number (e.g. G01).
+   + There may be variation within a single diffraction grating --- explore this by measuring $$x$$ at three to five positions on one diffraction grating. You do not have to do this for all the diffraction gratings, just choose one.
+4. The distance $$L$$ between the grating and the screen is something we will be systematically varying in Module 3, so that we can ultimately find the wavelength. But each time we set the value of $$L$$, we can only do so with some imprecision. Set <em>L</em> = 60 cm and then vary <em>L</em> over a range of ±0.5 cm.
 
-For each of the five potential sources of uncertainty listed above (the angle of the diffraction grating, plus the four listed above). For the parameters with a suggested range, wiggle the parameter over the suggested range and record the variation in $$x$$. Since this is just an exploratory wiggling of parameters, you do not need to perform repeated trials of these tests. You only need to collect 3 data points - one at either end of the suggested range and one in the middle. It should take you about 15 minutes to wiggle all the parameters.
+For each of the five potential sources of uncertainty listed above (the angle of the diffraction grating, plus the four listed above). For the parameters with a suggested range, wiggle the parameter over the suggested range and record the variation in $$x$$. Since this is just an exploratory wiggling of parameters, you do not need to perform repeated trials of these tests. You only need to collect 3 data points --- one at either end of the suggested range and one in the middle. It should take you about 15 minutes to wiggle all the parameters.
 
 **The takeaway from this parameter-wiggling exercise is that the parameters that cause a larger variation in $$x$$ should be reset before each $$x$$ measurement. The ones that don't make much difference in $$x$$ do not need to be reset.**
 
