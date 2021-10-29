@@ -164,7 +164,7 @@ This investigation will be part of your final deliverable, which will be evaluat
 For Checkpoint 1, you will present the results of this exploration as part of a figure with two panels:
 
 + Panel (a), containing a photo of your experimental setup, with $$x$$, $$L$$, and the parameter you varied clearly labeled. Depending on the parameter you varied you may find it works well to showcase this with a single photo or with two photos, one focused on the experimental setup and one on the parameter you varied. Either choice is acceptable.
-+ Panel (b), a plot with $$x$$ on the vertical axis and the parameter you varied on the horizontal axis. Be sure to plot your data points with error bars, following our [figure-making guide from Module 1](https://physics-50.github.io/Module-1/week4){:target="_blank"}. It is not necessary to perform a fit to your $$x$$ data. 
++ Panel (b), a plot with $$x$$ on the vertical axis and the parameter you varied on the horizontal axis. Be sure to plot your data points with error bars, following our [figure-making guide from Module 1](https://physics-50.github.io/Module-1/week4){:target="_blank"}. It is not necessary to perform a fit to your $$x$$ data.  This plot should be prepared in MATLAB.
 
 To reduce workload for this week, you do not need to write a caption for the figure.
 
