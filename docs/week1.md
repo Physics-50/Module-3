@@ -178,7 +178,7 @@ You should submit the following on Gradescope:
 
 + The two-panel figure described above. Note that you do not need to submit a caption, just the figure with the two panels.
 
-+ A link to a spreadsheet with your experimental data. Reminder: all calculations, including your calculation of the speed of sound and appropriate uncertainties, should be included (in the form of evaluated formulas) in your spreadsheet.
++ A link to a spreadsheet with your experimental data. Reminder: all calculations, including all calculations and appropriate uncertainties, should be included (in the form of evaluated formulas) in your spreadsheet.
 
 + Conclusions regarding the significance of your investigated source of experimental uncertainty. Remember, as a rule of thumb, if the parameter we varied were **not** significant we would expect the data points to be about one error bar away from the mean on average. Does your data show significantly greater variation than this?
 
