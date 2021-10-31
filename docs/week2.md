@@ -61,7 +61,7 @@ To collect your complete $$x$$ vs. $$L$$ dataset, make sure to do the following:
 
 + Choose five values of $$L$$ ranging from about 30 cm to as large a value of $$ L $$ as you can while keeping the first diffraction maximum on the provided screen (this should be greater than 1 m).
 
-+ Collect five measurements of $$x$$ for each $$L$$ value, being sure to reset all the parameters you determined you needed to in  [Miniquestion 3 from Week 1](https://docs.google.com/forms/d/e/1FAIpQLSe-Bcw3iqEcmblnBnsOJOqSbfHVNrXckA4mVs9VEvzOXHvZQQ/viewform){:target="_blank"} between each measurement of $$x$$. If you found in Week 1 that $$x$$ depended sensitively on which diffraction grating you used, then you should switch diffraction gratings between measurements, being sure to **only use the 500 line/mm diffraction gratings.** 
++ Collect five measurements of $$x$$ for each $$L$$ value, being sure to reset all the parameters you determined you needed to in  [Miniquestion 3 from Week 1](https://docs.google.com/forms/d/e/1FAIpQLSe-Bcw3iqEcmblnBnsOJOqSbfHVNrXckA4mVs9VEvzOXHvZQQ/viewform){:target="_blank"} between each measurement of $$x$$. Be sure to **only use the 500 line/mm diffraction gratings.** 
 
 + For each $$L$$ value, compute the mean value of $$x$$ from your five trials and the random uncertainty as measured by the SEM.
 
