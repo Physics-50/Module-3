@@ -32,7 +32,7 @@ To collect your complete $$x$$ vs. $$L$$ dataset, make sure to do the following:
 
 + Choose five values of $$L$$. Last week we recommended a range of $$L$$ values from about 30 cm to about 1 m. You may find this more difficult when working with the 1000 lines/mm gratings as the $$x$$ values will be larger. You should still choose five $$L$$ values over as wide a range as you can in the space you have available. A range of $$L$$ values from 15 cm to 0.5 m will give you a similar range of $$x$$ values to last week.
 
-+ Collect five measurements of $$x$$ for each $$L$$ value, being sure to reset all the parameters you determined you needed to in  [Miniquestion 3 from Week 1](https://docs.google.com/forms/d/e/1FAIpQLSe-Bcw3iqEcmblnBnsOJOqSbfHVNrXckA4mVs9VEvzOXHvZQQ/viewform){:target="_blank"} between each measurement of $$x$$. If you found in Week 1 that $$x$$ depended sensitively on which diffraction grating you used, then you should switch diffraction gratings between measurements, being sure to **only use the 1000 line/mm diffraction gratings.** 
++ Collect five measurements of $$x$$ for each $$L$$ value, being sure to reset all the parameters you determined you needed to in  [Miniquestion 3 from Week 1](https://docs.google.com/forms/d/e/1FAIpQLSe-Bcw3iqEcmblnBnsOJOqSbfHVNrXckA4mVs9VEvzOXHvZQQ/viewform){:target="_blank"} between each measurement of $$x$$. Be sure to **only use the 1000 line/mm diffraction gratings.** 
 
 + For each $$L$$ value, compute the mean value of $$x$$ from your five trials and the random uncertainty as measured by the SEM. Then combine the random uncertainty with your resolution uncertainty in $$x$$ according to the [method for combining independent sources of uncertainty from Module 1](https://physics-50.github.io/Module-1/uncertainty-introduction#combining-uncertainties){:target="_blank"} to determine the total uncertainty in $$x$$, which we call $$\delta x$$.
 
@@ -76,11 +76,11 @@ You should submit the following on Gradescope:
 
 + The slope you obtained from your plot, including the uncertainty. 
 
-+ The wavelength you have determined for your laser, with uncertainty.
++ The wavelength you have determined for your laser, with uncertainty from both the 500 line/mm gratings (last week's data) and 1000 line/mm gratings (this week's data).
 
-+ A plot of calculated wavelength vs. diffraction grating spacing (two data points, with uncertainty). This plot will combine your data from this week and from checkpoint #2 (wavelength determined using the 500 lines/mm grating(s)). This plot will be graded on both your results and figure mechanics.
++ An answer to the question: Would you feel comfortable using these two wavelength values ? If not what do you think might be going on and what are you going to do about it?
 
-+ A response to the brief questions on Gradescope regarding your results
++ An estimate of the pixel spacing for the LCD screen.
 
 It may be that you have done very careful experimental work and your results still are not in agreement. We will explore this more next week.
 
