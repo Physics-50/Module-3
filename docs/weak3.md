@@ -68,9 +68,29 @@ Thus, you can think of the LCD as a two-dimensional grid of slits, where the dis
 The diffracting nature of LCD screens is manifest when one shines a laser on them. If we set up a screen to observe the laser light reflected off an LCD screen, we observe a bunch of bright dots, creating a rectangular grid, with uniform spacing between maxima. By measuring the distance between these maxima and given the laser wavelength (determined in lab last week!), one can determine the distance between the pixels, and thus deduce the resolution of the screen, by employing equation (\ref{eq:simplified_young}
 
 ## Diffraction from an LCD
-If we wanted to work this out very precisely we would follow the full procedure of this module, collecting a careful set of data and plotting $$x$$ v.s. $$L$$ to accurately determine the pixel spacing, d (making use of the laser wavelength to do this calculation). **We do not expect you to do this. This is just an estimate. You only need to measure $$x$$ one time at a single $$L$$ value and estimate the pixel spacing from there.
+
+Each station should have an LCD panel in an acrylic case that is fastened to an optical post and mounted on the optical rail as shown in the figure below.
+
+
+<img class="wp-image-1949 size-full" src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/10/LCD-holder-web.jpg" alt="" width="700" height="533"> The LCD panel mounted in a protective acrylic case. The HDMI cable that you will use to connect your computer as well as the power cable are attached. Please do not attempt to unplug either of these cables from the acrylic box. The LCD should be oriented so that the laser shines through it in a direction going from left to right in this figure.
+
+One of the goals for this exploration is to dissect (please do not take this literally!) the LCD panel,i.e. to deduce portions of its internal structure and to better understand how it works.
+
+In terms of deducing the internal structure, it would be nice to be able to 'look' inside. This is not so easy since the features of the LCD panel are quite small. However, humanity overcame this issue years ago when Hans and Zacharias Janssen invented the microscope. Below is a photo taken of our LCD screen via the eyepiece of a microscope. You are encouraged to observe the LCD screen under the microscope (through the eyepiece) in the rear of the lab. 
+
+<img class="wp-image-1953 size-medium" src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/10/LCD-microscope-300x230.jpg" alt="" width="300" height="230"> Figure 4: A photo of our LCD panel taken under a microscope.
+
+**Note: the LCD that is pre-placed in the microscope is the same as those that are on your optical rail. Please do not disassemble your own LCD or its housing, and please do not touch the LCD screen.**
+
+The LCD has structure that looks like a two-dimensional array of windows, or two-dimensional array of slits. In other words, it has a diffraction grating-like structure. It makes sense, then, that if we shine a laser through, there ought to be some sort of diffraction pattern.
+
+Go ahead and mount the LCD on your optical rail and shine your laser through the LCD. You will see a bunch of bright dots, creating a rectangular grid, with uniform spacing between maxima. By measuring the distance between these maxima and given the laser wavelength (determined in lab this module!), one can determine the distance between the pixels, and thus deduce the resolution of the screen, by employing equation (\ref{eq:simplified_young}
+
+If we wanted to work this out very precisely we would follow the full procedure of this module, collecting a careful set of data and plotting $$x$$ v.s. $$L$$ to accurately determine the pixel spacing, d (making use of the laser wavelength to do this calculation). **We do not expect you to do this. This is just an estimate. You only need to measure $$x$$ one time at a single $$L$$ value and estimate the pixel spacing from there.** You should do take a measurement in both the horizontal and vertical direction, but only need to take one measurement in each direction. Note that a pixel spacing is the separation between a repeating unit. i.e. it would be for example the distance from the center of one of the red rectangles that you see to the center of the next red rectangle. 
 
 Once you have this data you are done with the required data collection for this module. However, we encourage you to take a moment to further explore the LCD panel. Some things you might wis
+
+-------------------------------
 
 ## Checkpoint 3
 
