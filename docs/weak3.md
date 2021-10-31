@@ -45,7 +45,7 @@ To collect your complete $$x$$ vs. $$L$$ dataset, make sure to do the following:
 
 ## Comparison of results from 500 lines/mm and 1000 lines/mm gratings
 
-After you have collected and analyzed your data for the 1000 lines/mm grating we would like you to compare these results with the results you obtained last week using the 500 lines/mm grating. Using MATLAB please prepare a plot of the calculated wavelength vs. grating spacing. This plot will consist of two data points with uncertainty. The two data points will be your estimated wavelength (with uncertainty) from your cumulative results for the 500 line/mm and 1000 lines/mm gratings. You can use the MATLAB script from the module 1 deliverable, with appropriate modifications to the axis labels. However, you may want to remove the horizontal line of best fit from your plot.
+After you have collected and analyzed your data for the 1000 lines/mm grating we would like you to compare these results with the results you obtained last week using the 500 lines/mm grating. You will be asked to answer a question about your results on the checkpoint.
 
 
 -------------
