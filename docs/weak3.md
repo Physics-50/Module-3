@@ -72,8 +72,7 @@ The diffracting nature of LCD screens is manifest when one shines a laser on the
 
 Each station should have an LCD panel in an acrylic case that is fastened to an optical post and mounted on the optical rail as shown in the figure below.
 
-
-<img class="wp-image-1949 size-full" src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/10/LCD.png" alt="" width="800" height="533"> 
+[![LCD](images/LCD.png)](images/LCD.png){:target="_blank"}
 
 The LCD panel is mounted in a protective acrylic case. The HDMI cable that you will use to connect your computer as well as the power cable are attached. Please do not attempt to unplug either of these cables from the acrylic box. The LCD should be oriented so that the laser shines through it in a direction going from left to right in the above figure.
 
