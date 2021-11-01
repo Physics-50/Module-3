@@ -93,6 +93,10 @@ In lab this week you will need to collect the following data:
 
 + 5 measurements of $$x$$ at each of 5 different $$L$$ values (25 data points total), all measured with 1000 line/mm gratings.
 + a single measurement of $$x$$ in both the horizontal and vertical direction, each measured at a single $$L$$ value, from the LCD panel
+
+
+
+
 -------------------------------
 
 ## Checkpoint 3
