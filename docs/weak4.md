@@ -7,10 +7,7 @@
 
 --------------
 
-Please note that you have two weeks to prepare your deliverable. Remaining deadlines are as follows:
-
-+ Week 4 mini-questions: due Thursday, April  29  (1 pm) ?
-+ Module 3 deliverable: due Thursday, May 6 (1 pm) ?
+You are not required to attend lab this week but are welcome and encouraged to do so to ask questions of your instructor (help is also available through office hours). If substantial issues were raised with any of your checkpoints you can also use this time to collect additional data as needed.
 
 This week we will take another look at your analysis leading to the estimated wavelength of your laser and provide advice for communicating your results through a sequence of figures.
 
@@ -32,7 +29,7 @@ By now you should have given serious consideration to possible sources of experi
 
 5. What other sources of error can you think of?
 
-**Most students should not need to collect any new data this week. If no concerns were raised with your checkpoint and you feel you already made an effort to control these potential sources of systematic error you can proceed straight to the mini-question.** However, if issues were raised with your checkpoints we encourage you to check in with us in office hours.
+**Most students should not need to collect any new data this week. If no concerns were raised with your checkpoint and you feel you already made an effort to control these potential sources of systematic error you can proceed straight to the mini-question.** However, if issues were raised with your checkpoints we encourage you to check in with us in office hours and/or talk to us during the week 4 lab period.
 
 
 ----------------------
