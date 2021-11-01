@@ -113,7 +113,7 @@ You should submit the following on Gradescope:
 
 + An answer to the question: Would you feel comfortable using these two wavelength values ? If not what do you think might be going on and what are you going to do about it?
 
-+ An estimate of the pixel spacing for the LCD screen. You will need to exercise judgement in deciding what to use for the wavelength of the laser in your calculation of the pixel spacing. You do not need to estimate the uncertainty.
++ An estimate of the pixel spacing for the LCD screen. You will need to exercise judgement in deciding what to use for the wavelength of the laser in your calculation of the pixel spacing. You do not need to estimate the uncertainty. 
 
 It may be that you have done very careful experimental work and your results still are not in agreement. We will explore this more next week.
 
