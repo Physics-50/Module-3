@@ -2,7 +2,7 @@
 
 1. [Data Collection](#data-collection)
 2. [Background on LCD Screens](#background-on-lcd-screens)
-3. [Diffraction from an LCD](#diffraction-from-an-LCD)
+3. [Diffraction from an LCD](#in-lab-instructions-diffraction-from-an-LCD)
 3. [Checkpoint 3](#checkpoint-3)
 
 
@@ -66,9 +66,9 @@ You can think of the screen as a grid of windows with either red, green or blue 
 
 Thus, you can think of the LCD as a two-dimensional grid of slits, where the distance between center of the 'slits' is the center-to-center pixel spacing, and is closely related to the resolution of the LCD screen.
 
-The diffracting nature of LCD screens is manifest when one shines a laser on them. If we set up a screen to observe the laser light reflected off an LCD screen, we observe a bunch of bright dots, creating a rectangular grid, with uniform spacing between maxima. By measuring the distance between these maxima and given the laser wavelength (determined in lab last week!), one can determine the distance between the pixels, and thus deduce the resolution of the screen, by employing equation (\ref{eq:simplified_young}
+The diffracting nature of LCD screens is manifest when one shines a laser on them. If we set up a screen to observe the laser light reflected off an LCD screen, we observe a bunch of bright dots, creating a rectangular grid, with uniform spacing between maxima. By measuring the distance between these maxima and given the laser wavelength (determined in lab last week!), one can determine the distance between the pixels, and thus deduce the resolution of the screen, by employing the same equation you made use of to determine the wavelength of your laser with the diffraction gratings.
 
-## Diffraction from an LCD
+## In Lab Instructions Diffraction from an LCD
 
 Each station should have an LCD panel in an acrylic case that is fastened to an optical post and mounted on the optical rail as shown in the figure below.
 
