@@ -1,6 +1,6 @@
 ## Further Explorations of an LCD: Liquid Crystals and Light Polarization
 
-In this exploration you will continue to investigate the phenomenon of light polarization as well as the physics of liquid crystal displays (LCDs). 
+In this exploration you will continue to investigate the phenomenon of light polarization as well as the physics of liquid crystal displays (LCDs). This is for enrichment, there are no grades associated with this part of the lab.
 
 
 ## Display your computer screen on the LCD
