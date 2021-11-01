@@ -5,7 +5,7 @@ In this exploration you will continue to investigate the phenomenon of light pol
 
 ## Display your computer screen on the LCD
 
-This section will involve playing around with the LCD panel. Your first goal is to display an image on the panel by connecting your computer to the LCD and using a polarizer to modulate the intensity of a light source. Each station should have an LCD panel in an acrylic case that is fastened to an optical post and mounted on the optical rail as shown below in figure 1.
+This section will involve playing around with the LCD panel. Your first goal is to display an image on the panel by connecting your computer to the LCD and using a polarizer to modulate the intensity of a light source. Each station should have an LCD panel in an acrylic case that is fastened to an optical post and mounted on the optical rail.
 
  The HDMI cable that you will use to connect your computer as well as the power cable are attached. Please do not attempt to unplug either of these cables from the acrylic box.
 
