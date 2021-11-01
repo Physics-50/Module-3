@@ -2,7 +2,7 @@
 
 1. [Data Collection](#data-collection)
 2. [Background on LCD Screens](#background-on-lcd-screens)
-3. [Diffraction from an LCD](#in-lab-instructions-diffraction-from-an-LCD)
+3. [Diffraction from an LCD](#in-lab-instructions-diffraction-from-an-lcd)
 4. [Week 3 Summary of Data to be Collected](#week-3-summary-of-data-to-be-collected)
 5. [Checkpoint 3](#checkpoint-3)
 
