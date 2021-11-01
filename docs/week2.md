@@ -59,7 +59,7 @@ When collecting data this week we would like you to take into consideration the 
 
 To collect your complete $$x$$ vs. $$L$$ dataset, make sure to do the following:
 
-+ Choose five values of $$L$$ ranging from about 30 cm to as large a value of $$ L $$ as you can while keeping the first diffraction maximum on the provided screen (this should be greater than 1 m).
++ Choose five values of $$L$$ ranging from about 15 cm to as large a value of $$ L $$ as you can while keeping the first diffraction maximum on the provided screen (this should be about 60 cm).
 
 + Collect five measurements of $$x$$ for each $$L$$ value, being sure to reset all the parameters you determined you needed to in  [Miniquestion 3 from Week 1](https://docs.google.com/forms/d/e/1FAIpQLSe-Bcw3iqEcmblnBnsOJOqSbfHVNrXckA4mVs9VEvzOXHvZQQ/viewform){:target="_blank"} between each measurement of $$x$$. Be sure to **only use the 500 line/mm diffraction gratings.** 
 
