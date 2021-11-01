@@ -85,14 +85,14 @@ Go ahead and mount the LCD on your optical rail and shine your laser through the
 
 If we wanted to work this out very precisely we would follow the full procedure of this module, collecting a careful set of data and plotting $$x$$ v.s. $$L$$ to accurately determine the pixel spacing, d (making use of the laser wavelength to do this calculation). **We do not expect you to do this. This is just an estimate. You only need to measure $$x$$ one time at a single $$L$$ value and estimate the pixel spacing from there.** You should do take a measurement in both the horizontal and vertical direction, but only need to take one measurement in each direction. Note that pixel spacing is the separation between a repeating unit. i.e. it would be for example the distance from the center of one of the red rectangles that you see to the center of the next red rectangle. 
 
-This measurement, namely two measurements to allow you to estimate the pixel spacing in the x and y directions are the only data you need to collect with the LCD. You are encouraged to use remaining time to further explore the LCD panel. Before exploring you will find it helpful to [learn more about how LCDs work here](lcd-inner-workings). Once you have an idea how LCDs work, You can find some [suggestions for further exploration here](LCD){:target="_blank"}. Alternatively, you might find it interesting to take a look at your phone screen. By shining a laser at your phone and looking at the diffraction pattern of the reflected light you can probe the pixel structure of your phone. How does the pattern differ from that of the LCD screen from the projector? How does the pixel resolution compare?
+This measurement, namely two measurements to allow you to estimate the pixel spacing in the x and y directions are the only data you need to collect with the LCD. This is intended to be a quick estimate, you do not need to estimate the uncertainty. You are encouraged to use remaining time to further explore the LCD panel. Before exploring you will find it helpful to [learn more about how LCDs work here](lcd-inner-workings). Once you have an idea how LCDs work, You can find some [suggestions for further exploration here](LCD){:target="_blank"}. Alternatively, you might find it interesting to take a look at your phone screen. By shining a laser at your phone and looking at the diffraction pattern of the reflected light you can probe the pixel structure of your phone. How does the pattern differ from that of the LCD screen from the projector? How does the pixel resolution compare?
 
 ## Summary of Data to be Collected
 
 In lab this week you will need to collect the following data:
 
 + 5 measurements of $$x$$ at each of 5 different $$L$$ values (25 data points total), all measured with 1000 line/mm gratings.
-+ a single measurement of $$x$$ in both the horizontal and vertical direction, each measured at a single $$L$$ value, from the LCD panel
++ a single measurement of $$x$$ in both the horizontal and vertical direction, each measured at a single $$L$$ value, from the LCD panel. You do not need to estimate the uncertainty.
 
 
 
@@ -113,7 +113,7 @@ You should submit the following on Gradescope:
 
 + An answer to the question: Would you feel comfortable using these two wavelength values ? If not what do you think might be going on and what are you going to do about it?
 
-+ An estimate of the pixel spacing for the LCD screen. You will need to exercise judgement in deciding what to use for the wavelength of the laser in your calculation of the pixel spacing.
++ An estimate of the pixel spacing for the LCD screen. You will need to exercise judgement in deciding what to use for the wavelength of the laser in your calculation of the pixel spacing. You do not need to estimate the uncertainty.
 
 It may be that you have done very careful experimental work and your results still are not in agreement. We will explore this more next week.
 
