@@ -3,7 +3,8 @@
 1. [Data Collection](#data-collection)
 2. [Background on LCD Screens](#background-on-lcd-screens)
 3. [Diffraction from an LCD](#in-lab-instructions-diffraction-from-an-LCD)
-3. [Checkpoint 3](#checkpoint-3)
+4. [Week 3 Summary of Data to be Collected](#week-3-summary-of-data-to-be-collected)
+5. [Checkpoint 3](#checkpoint-3)
 
 
 
@@ -86,7 +87,13 @@ If we wanted to work this out very precisely we would follow the full procedure 
 
 This measurement, namely two measurements to allow you to estimate the pixel spacing in the x and y directions are the only data you need to collect with the LCD. You are encouraged to use remaining time to further explore the LCD panel. Before exploring you will find it helpful to [learn more about how LCDs work here](lcd-inner-workings). Once you have an idea how LCDs work, You can find some [suggestions for further exploration here](LCD){:target="_blank"}. Alternatively, you might find it interesting to take a look at your phone screen. By shining a laser at your phone and looking at the diffraction pattern of the reflected light you can probe the pixel structure of your phone. How does the pattern differ from that of the LCD screen from the projector? How does the pixel resolution compare?
 
+## Summary of Data to be Collected
 
+In lab this week you will need to collect the following data:
+
++ 5 measurements of $$x$$ at each of 5 different $$L$$ values (25 data points total), all measured with 1000 line/mm gratings.
+
++ a single measurement of $$x$$ in both the horizontal and vertical direction, each measured at a single $$L$$ value, from the LCD panel
 -------------------------------
 
 ## Checkpoint 3
