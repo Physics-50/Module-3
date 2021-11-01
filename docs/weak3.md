@@ -97,8 +97,6 @@ In lab this week you will need to collect the following data:
 
 
 
--------------------------------
-
 ## Checkpoint 3
 
 If you had any issues with Checkpoint 2 we recommend speaking to an instructor before completing your checkpoint this week as it is very similar.
