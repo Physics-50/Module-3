@@ -7,7 +7,7 @@
 
 
 
-This week you will continue your investigation of the wavelength of your laser. We would like you to follow an identical procedure to last week. However, instead of using of the 500 lines/mm gratings you should now collect data with the 1000 lines/mm gratings. Take a moment to reflect on expectations before diving into the experiment. How will the diffraction pattern change when the 1000 lines/mm grating is used? 
+This week you will continue your investigation of the wavelength of your laser. We would like you to follow an identical procedure to last week. However, instead of using the 500 lines/mm gratings you should now collect data with the 1000 lines/mm gratings. Take a moment to reflect on expectations before diving into the experiment. How will the diffraction pattern change when the 1000 lines/mm grating is used? 
 
 
 #### Miniquestion 1: Comparing diffraction patterns from differently spaced gratings
@@ -16,16 +16,9 @@ This week you will continue your investigation of the wavelength of your laser. 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScOvf4fEdEk5cotRGrTle0iitt7onz0DmTOdhuNL47lh2ifqA/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
-<!--## Resolution Uncertainty
-
-In Module 1 we gave you a rule of thumb for resolution uncertainty, namely "one half of the smallest digit you can measure". This rule of thumb is useful but it is not absolute. For situations such as a digital scale it is a very good rule of thumb, but there are situations where in practice our resolution uncertainty might be larger or smaller. In particular, for a ruler that rule-of-thumb estimate works best if we are measuring an object with a sharp edge.
-
-What about when you are trying to measure the distance to the center of the red spots on the wall from your laser? This is not a nice object with a sharp edge, but a red blob that is bigger than your rule-of-thumb "resolution uncertainty"! In this case, it is okay to **estimate the resolution uncertainty as ~1/4 to 1/2 the width of the bright spot**. i.e. the resolution uncertainty is a gauge of how accurately you can do the measurement. 
--->
-
 ## Data collection
 
-With this in mind please go ahead and collect a set of data analogous to the data you collected last week but now using the 1000 line/mm grating(s). This will give you the necessary data to complete this week's checkpoint.
+With this in mind please go ahead and collect a set of data analogous to the data you collected last week but now using the 1000 line/mm grating(s). This will give you the necessary data to complete this week's checkpoint. You should expect to spend the majority of your time in lab this week on this task.
 
 As a reminder (repeat of last week's instructions):
 
