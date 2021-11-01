@@ -90,7 +90,7 @@ Go ahead and mount the LCD on your optical rail and shine your laser through the
 
 If we wanted to work this out very precisely we would follow the full procedure of this module, collecting a careful set of data and plotting $$x$$ v.s. $$L$$ to accurately determine the pixel spacing, d (making use of the laser wavelength to do this calculation). **We do not expect you to do this. This is just an estimate. You only need to measure $$x$$ one time at a single $$L$$ value and estimate the pixel spacing from there.** You should do take a measurement in both the horizontal and vertical direction, but only need to take one measurement in each direction. Note that a pixel spacing is the separation between a repeating unit. i.e. it would be for example the distance from the center of one of the red rectangles that you see to the center of the next red rectangle. 
 
-Once you have this data you are done with the required data collection for this module. However, we encourage you to take a moment to further explore the LCD panel. Some things you might wis
+Once you have this data you are done with the required data collection for this module. However, we encourage you to take a moment to further explore the LCD panel. Before exploring you will find it helpful to [learn more about how LCDs work here](lcd-inner-workings). You can find some [suggestions for further exploration here](LCD){:target="_blank"}.
 
 -------------------------------
 
