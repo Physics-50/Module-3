@@ -73,13 +73,15 @@ The diffracting nature of LCD screens is manifest when one shines a laser on the
 Each station should have an LCD panel in an acrylic case that is fastened to an optical post and mounted on the optical rail as shown in the figure below.
 
 
-<img class="wp-image-1949 size-full" src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/10/LCD.png" alt="" width="700" height="533"> The LCD panel mounted in a protective acrylic case. The HDMI cable that you will use to connect your computer as well as the power cable are attached. Please do not attempt to unplug either of these cables from the acrylic box. The LCD should be oriented so that the laser shines through it in a direction going from left to right in this figure.
+<img class="wp-image-1949 size-full" src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/10/LCD.png" alt="" width="800" height="533"> 
+
+The LCD panel is mounted in a protective acrylic case. The HDMI cable that you will use to connect your computer as well as the power cable are attached. Please do not attempt to unplug either of these cables from the acrylic box. The LCD should be oriented so that the laser shines through it in a direction going from left to right in the above figure.
 
 One of the goals for this exploration is to dissect (please do not take this literally!) the LCD panel,i.e. to deduce portions of its internal structure and to better understand how it works.
 
 In terms of deducing the internal structure, it would be nice to be able to 'look' inside. This is not so easy since the features of the LCD panel are quite small. However, humanity overcame this issue years ago when Hans and Zacharias Janssen invented the microscope. Below is a photo taken of our LCD screen via the eyepiece of a microscope. You are encouraged to observe the LCD screen under the microscope (through the eyepiece) in the rear of the lab. 
 
-<img class="wp-image-1953 size-medium" src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/10/LCD-microscope-300x230.jpg" alt="" width="300" height="230"> Figure 4: A photo of our LCD panel taken under a microscope.
+<img class="wp-image-1953 size-medium" src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/10/LCD-microscope-300x230.jpg" alt="" width="300" height="230"> 
 
 **Note: the LCD that is pre-placed in the microscope is the same as those that are on your optical rail. Please do not disassemble your own LCD or its housing, and please do not touch the LCD screen.**
 
