@@ -13,7 +13,7 @@ This week we will take another look at your analysis leading to the estimated wa
 
 ## Experimental Iteration
 
-We noticed that many of your results showed significant discrepancies between the results measured with the two gratings. Please take a moment to reflect on those results. As a scientist, you must often track down the source of seemingly contradictory  results: was the experiment flawed, or does the theory need to be modified?
+We noticed that many of your results showed significant discrepancies between the results measured with the two gratings and between the values you reported and the manufacturer's specifications (written on the laser). Please take a moment to reflect on those results. As a scientist, you must often track down the source of seemingly contradictory  results: was the experiment flawed, or does the theory need to be modified?
 
 Did your results from the two differently spaced diffraction gratings agree? Did they agree with the wavelength specified by the manufacturer?
 
