@@ -74,7 +74,6 @@ You have two tasks this week:
 
 Your module 3 deliverable will consist of 2 figures. Each of these figures must include a caption following the guidelines provided for modules 1 and 2. We encourage you to refer back to the figure preparation guide from [module 1](https://physics-50.github.io/Module-1/week4){:target="_blank"}. Note that if the perspective of your picture of your experimental set-up makes it difficult to accurately define a reasonable scale bar (i.e. the length would be different at different depths of the picture), you can as an alternative use something in the picture to provide a length scale. For example, if the caption indicates the length of the laser or the spacing of the grid marks this would be sufficient to convey the length scale to the reader. The following should be submitted on Gradescope:
 
-+ Practice calculation: the practice calculation on Gradescope will ask you to calculate the wavelength and propagated uncertainty for sample data.
 
 + Figure 1: Figure 1 is equivalent to the figure you submitted for week 1, but with a caption. If any issues were raised with your week 1 checkpoint or even if they weren't but you feel you could present your results better (we do not use the same rubric for the checkpoints and deliverable) we encourage you to speak to us and make appropriate corrections before submitting your deliverable. Since resetting parameters such as the position/angle of the diffraction grating were an important part of the experimental procedure for this experiment, this should be mentioned in your caption as part of the experimental procedure.
 
@@ -83,7 +82,7 @@ Your module 3 deliverable will consist of 2 figures. Each of these figures must 
     - Panel (b): plot of wavelength vs. diffraction grating spacing. This plot should be prepared after resolving any issues with your initial results. Your plot should include a horizontal line fit to the two data points as well as dashed horizontal lines indicating the uncertainty of the fit. You will need to add these to the MATLAB script. Your caption should include your primary result (estimated wavelength quoted with uncertainty using appropriate significant figures).
   + In all cases make sure your figure captions include sufficient details to stand alone (while respecting the concision expected for a caption). A HMC sophomore who has not taken physics 50 should be able to look at your figure with caption and have a clear idea of what you did.
 
-**Please note that you will need to upload each figure three times.**
+**Please note that you will need to upload each figure four times. You need to include both the figure and caption each time.**
 
 ## Mini-questions:
 
