@@ -7,7 +7,7 @@
 
 --------------
 
-You are not required to attend lab this week but are welcome and encouraged to do so to ask questions of your instructor (help is also available through office hours). If substantial issues were raised with any of your checkpoints you can also use this time to collect additional data as needed.
+You are not required to attend lab this week but we strongly recommend that you do so - attending the lab work session is a great opportunity to get direct feedback as you work on your deliverable. If issues were raised with any of your checkpoints you can also use this time to collect additional data as needed.
 
 This week we will take another look at your analysis leading to the estimated wavelength of your laser and provide advice for communicating your results through a sequence of figures.
 
