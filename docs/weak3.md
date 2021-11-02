@@ -81,7 +81,7 @@ In terms of deducing the internal structure, it would be nice to be able to 'loo
 
 The LCD has structure that looks like a two-dimensional array of windows, or two-dimensional array of slits. In other words, it has a diffraction grating-like structure. It makes sense, then, that if we shine a laser through, there ought to be some sort of diffraction pattern.
 
-Go ahead and mount the LCD on your optical rail and shine your laser through the LCD. You will see a bunch of bright dots, creating a rectangular grid, with uniform spacing between maxima. By measuring the distance between these maxima and given the laser wavelength (determined in lab this module!), one can determine the distance between the pixels, and thus deduce the resolution of the screen, by employing the same equation used to determine the wavelength of your laser. 
+Go ahead and mount the LCD on your optical rail and shine your laser through the LCD. You will see a bunch of bright dots, creating a rectangular grid, with uniform spacing between maxima. By measuring the distance between these maxima and given the laser wavelength (for the purpose of this estimate please use the value written on the laser itself not the value you measured. Make sure to take note of this value in your lab notebook), one can determine the distance between the pixels, and thus deduce the resolution of the screen, by employing the same equation used to determine the wavelength of your laser. 
 
 If we wanted to work this out very precisely we would follow the full procedure of this module, collecting a careful set of data and plotting $$x$$ v.s. $$L$$ to accurately determine the pixel spacing, d (making use of the laser wavelength to do this calculation). **We do not expect you to do this. This is just an estimate. You only need to measure $$x$$ one time at a single $$L$$ value and estimate the pixel spacing from there.** You should do take a measurement in both the horizontal and vertical direction, but only need to take one measurement in each direction. Note that pixel spacing is the separation between a repeating unit. i.e. it would be for example the distance from the center of one of the red rectangles that you see to the center of the next red rectangle. 
 
@@ -93,6 +93,7 @@ In lab this week you will need to collect the following data:
 
 + 5 measurements of $$x$$ at each of 5 different $$L$$ values (25 data points total), all measured with 1000 line/mm gratings.
 + a single measurement of $$x$$ in both the horizontal and vertical direction, each measured at a single $$L$$ value, from the LCD panel. You do not need to estimate the uncertainty.
++ It is also important that you take note of the laser wavelength as specified by the manufacturer. It is written on the laser itself. You will want this for comparison and also to use for calculating the pixel spacing.
 
 
 
@@ -113,7 +114,7 @@ You should submit the following on Gradescope:
 
 + An answer to the question: Would you feel comfortable using these two wavelength values ? If not what do you think might be going on and what are you going to do about it?
 
-+ An estimate of the pixel spacing for the LCD screen. You will need to exercise judgement in deciding what to use for the wavelength of the laser in your calculation of the pixel spacing. You do not need to estimate the uncertainty. 
++ An estimate of the pixel spacing for the LCD screen. It is only an estimate, please make use of the wavelength written on the laser itself and not your experimental value for this estimate. You do not need to estimate the uncertainty. 
 
 It may be that you have done very careful experimental work and your results still are not in agreement. We will explore this more next week.
 
