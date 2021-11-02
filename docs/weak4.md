@@ -75,7 +75,7 @@ Your module 3 deliverable will consist of 2 figures. Each of these figures must 
     - Panel (b): plot of wavelength vs. diffraction grating spacing. This plot should be prepared after resolving any issues with your initial results. Your plot should include a horizontal line fit to the two data points as well as dashed horizontal lines indicating the uncertainty of the fit. You will need to add these to the MATLAB script. Your caption should include your primary result (estimated wavelength quoted with uncertainty using appropriate significant figures).
   + In all cases make sure your figure captions include sufficient details to stand alone (while respecting the concision expected for a caption). A HMC sophomore who has not taken physics 50 should be able to look at your figure with caption and have a clear idea of what you did.
 
-**Please note that you will need to upload each figure four times. You need to include both the figure and caption each time.**
+**Please note that you will need to upload each figure three times. You need to include both the figure and caption each time.**
 
 ## Mini-questions:
 
