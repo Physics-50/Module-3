@@ -8,10 +8,10 @@
 
 
 
-This week you will continue your investigation of the wavelength of your laser. We would like you to follow an identical procedure to last week. However, instead of using the 500 lines/mm gratings you should now collect data with the 1000 lines/mm gratings. Take a moment to reflect on expectations before diving into the experiment. How will the diffraction pattern change when the 1000 lines/mm grating is used? 
+This week you will continue your investigation of the wavelength of your laser. We would like you to follow an identical procedure to last week. However, instead of using the 500 lines/mm gratings you should now collect data with the 1000 lines/mm gratings. Take a moment to reflect on expectations before diving into the experiment. How will the diffraction pattern change when the grating period is 1000 lines/mm?
 
 
-#### Miniquestion 1: Comparing diffraction patterns from differently spaced gratings
+#### Miniquestion 1: Comparing diffraction patterns from gratings with different periods
 *[Click here to open in a new tab](https://docs.google.com/forms/d/e/1FAIpQLScOvf4fEdEk5cotRGrTle0iitt7onz0DmTOdhuNL47lh2ifqA/viewform?){:target="_blank"}*
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScOvf4fEdEk5cotRGrTle0iitt7onz0DmTOdhuNL47lh2ifqA/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
@@ -19,13 +19,13 @@ This week you will continue your investigation of the wavelength of your laser. 
 
 ## Data collection
 
-With this in mind please go ahead and collect a set of data analogous to the data you collected last week but now using the 1000 line/mm grating(s). This will give you the necessary data to complete this week's checkpoint. You should expect to spend the majority of your time in lab this week on this task.
+Collect a set of data analogous to the data you collected last week but now using the 1000 line/mm gratings. This will give you the necessary data to complete this week's checkpoint. You should expect to spend the majority of your time in lab this week on this task.
 
 As a reminder (repeat of last week's instructions):
 
-To collect your complete $$x$$ vs. $$L$$ dataset, make sure to do the following:
+To collect a complete $$x$$ vs. $$L$$ dataset, make sure to do the following:
 
-+ Choose five values of $$L$$. Last week we recommended a range of $$L$$ values from about 15 cm to about 60 cm. You may find this more difficult when working with the 1000 lines/mm gratings as the $$x$$ values will be larger. You should still choose five $$L$$ values over as wide a range as you can in the space you have available. A range of $$L$$ values from 7.5 cm to 30 cm will give you a similar range of $$x$$ values to last week.
++ Choose five values of $$L$$. Last week we recommended a range of $$L$$ values from about 15 cm to about 60 cm. You may find this more difficult when working with the 1000 lines/mm gratings as the $$x$$ values will be larger. You should still choose five $$L$$ values over as wide a range as you can in the space you have available. <!-- A range of $$L$$ values from 7.5 cm to 30 cm will give you a similar range of $$x$$ values to last week. -->
 
 + Collect five measurements of $$x$$ for each $$L$$ value, being sure to reset all the parameters you determined you needed to in  [Miniquestion 3 from Week 1](https://docs.google.com/forms/d/e/1FAIpQLSe-Bcw3iqEcmblnBnsOJOqSbfHVNrXckA4mVs9VEvzOXHvZQQ/viewform){:target="_blank"} between each measurement of $$x$$. Be sure to **only use the 1000 line/mm diffraction gratings.** 
 
@@ -33,7 +33,7 @@ To collect your complete $$x$$ vs. $$L$$ dataset, make sure to do the following:
 
 + Enter your $$x\pm \delta x$$ and $$L$$ data into the MATLAB curve fitting script called "curve_fitting.m" from the [curve fitting guide](curve-fitting){:target="_blank"} and run the code to perform a best fit analysis.
 
-+ You should make use of your data, the best fit analysis and the provided theory to determine the wavelength of your laser. You will need to use the methods you have been taught in previous modules to propagate your uncertainty and determine the uncertainty in your final result. 
++ You should make use of your data, the best fit analysis and the provided theory to determine the wavelength of your laser. You will need to use the methods you have been taught in previous modules to propagate uncertainty and determine the uncertainty in your final result. 
 
 -----------------------------------
 
@@ -48,9 +48,9 @@ After you have collected and analyzed your data for the 1000 lines/mm grating we
 
 How does what we've learned in this module apply to an LCD screen? We can think of a liquid crystal display, or LCD, as being a two-dimensional diffraction grating.
 
-To get a sense of what the diffraction pattern of a two-dimensional grating would look like, mount one of the 500 line/mm gratings on the optical rail, and then mount a second grating, rotated at 90°. You do not need to collect any data, this is just to get a sense of what a diffraction pattern from a 2-dimensional grid looks like.
+To get a sense of what the diffraction pattern of a two-dimensional grating would look like, mount one of the 500 lines/mm gratings on the optical rail, and then mount a second grating, rotated at 90°. You do not need to collect any data; just describe in your lab notebook what the diffraction pattern from a 2-dimensional grid looks like.
 
-A liquid crystal display consists of a two-dimensional grid of small 'boxes' called pixels (originally short for picture elements) that, together, display an image on a screen. These pixels are themselves composed of three 'sub-pixels' with colors red, green, and blue. If you look at your computer screen through a camera, you might be able to see the pixelated nature of the screen. Some common arrangements of pixels and sub-pixels in different devices are shown in the figure below. Voltage is applied across a pixel in a particular manner that can control the colors and their relative intensities that turn on in that pixel.
+A liquid crystal display consists of a two-dimensional grid of small 'boxes' called pixels (originally short for picture elements) that, together, display an image on a screen. These pixels are themselves composed of three 'sub-pixels' with colors red, green, and blue. If you look at your computer screen through a camera, you might be able to see the pixelated nature of the screen. Some common arrangements of pixels and sub-pixels in different devices are shown in the figure below. Voltages are applied across a pixel to control the colors and their relative intensities in that pixel.
 
 
 <img class="size-full wp-image-1891" src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/10/LCD-pixels.jpg" alt="" width="224" height="224"> 
@@ -61,17 +61,17 @@ You can think of the screen as a grid of windows with either red, green or blue 
 
 Thus, you can think of the LCD as a two-dimensional grid of slits, where the distance between center of the 'slits' is the center-to-center pixel spacing, and is closely related to the resolution of the LCD screen.
 
-The diffracting nature of LCD screens is manifest when one shines a laser on them. If we set up a screen to observe the laser light reflected off an LCD screen, we observe a bunch of bright dots, creating a rectangular grid, with uniform spacing between maxima. By measuring the distance between these maxima and given the laser wavelength (determined in lab last week!), one can determine the distance between the pixels, and thus deduce the resolution of the screen, by employing the same equation you made use of to determine the wavelength of your laser with the diffraction gratings.
+When a laser beam strikes an LCD screen, the beam diffracts. If we set up a screen to observe the laser light reflected from the LCD screen, we observe a rectangular grid of bright dots, with roughly uniform spacing between maxima. By measuring the distance between these maxima and using the laser wavelength (determined in lab last week), you can determine the distance between the pixels, and thus deduce the resolution of the screen, by employing the same equation you used to determine the wavelength of your laser with the diffraction gratings.
 
 ## In Lab Instructions Diffraction from an LCD
 
-Each station should have an LCD panel in an acrylic case that is fastened to an optical post and mounted on the optical rail as shown in the figure below.
+Each station should have an LCD panel in an acrylic case that is fastened to an optical post and mounted on the optical rail, as shown in the figure below.
 
 [![LCD](images/LCD.png)](images/LCD.png){:target="_blank"}
 
-The LCD panel is mounted in a protective acrylic case. The HDMI cable that you will use to connect your computer as well as the power cable are attached. Please do not attempt to unplug either of these cables from the acrylic box. The LCD should be oriented so that the laser shines through it in a direction going from left to right in the above figure.
+The HDMI cable that you will use to connect to your computer, as well as the power cable, are attached to the LCD panel. *Please do not attempt to unplug either of these cables from the acrylic box*. The LCD should be oriented so that the laser shines through it in a direction going from left to right in the figure above. **[PNS: this is really confusing]**
 
-One of the goals for this exploration is to dissect (please do not take this literally!) the LCD panel,i.e. to deduce portions of its internal structure and to better understand how it works.
+One of the goals for this exploration is to dissect (please do not take this literally!) the LCD panel,i.e. to deduce portions of its internal structure and to better understand how it works. **[PNS: this is awful verbiage]**
 
 In terms of deducing the internal structure, it would be nice to be able to 'look' inside. This is not so easy since the features of the LCD panel are quite small. However, humanity overcame this issue years ago when Hans and Zacharias Janssen invented the microscope. Below is a photo taken of our LCD screen via the eyepiece of a microscope. You are encouraged to observe the LCD screen under the microscope (through the eyepiece) in the rear of the lab. A microscope calibration slide is available that you can use to estimate the pixel size and compare with your results. You may find this helpful when assessing if your results are reasonable for the final question on the checkpoint.
 
