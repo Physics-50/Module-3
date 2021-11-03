@@ -53,9 +53,14 @@ To get a sense of what the diffraction pattern of a two-dimensional grating woul
 A liquid crystal display consists of a two-dimensional grid of small 'boxes' called pixels (originally short for picture elements) that, together, display an image on a screen. These pixels are themselves composed of three 'sub-pixels' with colors red, green, and blue. If you look at your computer screen through a camera, you might be able to see the pixelated nature of the screen. Some common arrangements of pixels and sub-pixels in different devices are shown in the figure below. Voltages are applied across a pixel to control the colors and their relative intensities in that pixel.
 
 
-<img class="size-full wp-image-1891" src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/10/LCD-pixels.jpg" alt="" width="224" height="224"> 
+<p class='center' markdown='0'>
+  <img class="size-full wp-image-1891" src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/10/LCD-pixels.jpg" alt="" width="224" height="224"> 
+</p>
 
-LCD sub-pixel layouts for various types of screens.
+<p class='mycap' markdown='1'>
+**Figure 1** --- LCD sub-pixel layouts for various types of screens.
+</p>
+
 
 You can think of the screen as a grid of windows with either red, green or blue glass, illuminated by a bright light from behind. Some mechanism -- perhaps a person adjusting the window shade -- determines how much light passes through each individual window. If you stand far enough away, an adjacent set of red, green, and blue windows is too small for you to see each color separately; instead you see a splotch of color made up of whatever red, green, and blue light is getting through that set of windows. Again, if you stand far enough away, the individual splotches blend together and you see a color picture made up of dots the size of each individual window. Your computer screen, and any LCD screen --such as the one on your phone-- for that matter, operate in a similar way, only the "windows" or pixels are on the order of tens to hundreds of micrometers wide. The more pixels a screen has per unit area, the greater the resolution of the screen, since there is more room for 'perfecting' the image on small scales.
 
@@ -63,21 +68,33 @@ Thus, you can think of the LCD as a two-dimensional grid of slits, where the dis
 
 When a laser beam strikes an LCD screen, the beam diffracts. If we set up a screen to observe the laser light reflected from the LCD screen, we observe a rectangular grid of bright dots, with roughly uniform spacing between maxima. By measuring the distance between these maxima and using the laser wavelength (determined in lab last week), you can determine the distance between the pixels, and thus deduce the resolution of the screen, by employing the same equation you used to determine the wavelength of your laser with the diffraction gratings.
 
-## In Lab Instructions Diffraction from an LCD
+## In Lab Instructions for Diffraction from an LCD
 
 Each station should have an LCD panel in an acrylic case that is fastened to an optical post and mounted on the optical rail, as shown in the figure below.
 
 [![LCD](images/LCD.png)](images/LCD.png){:target="_blank"}
 
-The HDMI cable that you will use to connect to your computer, as well as the power cable, are attached to the LCD panel. *Please do not attempt to unplug either of these cables from the acrylic box*. The LCD should be oriented so that the laser shines through it in a direction going from left to right in the figure above. **[PNS: this is really confusing]**
+<p class='mycap' markdown='1'>
+**Figure 2** --- (left) The laser beam should travel from left to right through the LCD panel. (right) Layout of components on the optical rail. Click on the image to see a larger version.
+</p>
+
+
+The HDMI cable that you will use to connect to your computer, as well as the power cable, are attached to the LCD panel. *Please do not attempt to unplug either of these cables from the acrylic box*. The LCD should be oriented so that the laser shines through it in a direction going from left to right in the figure on the left above.
+
+
 
 One of the goals for this exploration is to dissect (please do not take this literally!) the LCD panel,i.e. to deduce portions of its internal structure and to better understand how it works. 
 
 In terms of deducing the internal structure, it would be nice to be able to 'look' inside. This is not so easy since the features of the LCD panel are quite small. However, humanity overcame this issue years ago when Hans and Zacharias Janssen invented the microscope. Below is a photo taken of our LCD screen via the eyepiece of a microscope. You are encouraged to observe the LCD screen under the microscope (through the eyepiece) in the rear of the lab. A microscope calibration slide is available that you can use to estimate the pixel size and compare with your results. You may find this helpful when assessing if your results are reasonable for the final question on the checkpoint.
 
+<p class='center' markdown='0'>
 <img class="wp-image-1953 size-medium" src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/10/LCD-microscope-300x230.jpg" alt="" width="300" height="230"> 
+</p>
+<p class='mycap' markdown='1'>
+**Figure 3** --- Microscope image of an LCD panel identical to the one you have on your optical rail. **Note: the LCD that is pre-placed in the microscope is the same as those that are on your optical rail. Please do not disassemble your own LCD or its housing, and please do not touch the LCD screen.**
+</p>
 
-**Note: the LCD that is pre-placed in the microscope is the same as those that are on your optical rail. Please do not disassemble your own LCD or its housing, and please do not touch the LCD screen.**
+
 
 The LCD has structure that looks like a two-dimensional array of windows, or two-dimensional array of slits. In other words, it has a diffraction grating-like structure. It makes sense, then, that if we shine a laser through, there ought to be some sort of diffraction pattern.
 
