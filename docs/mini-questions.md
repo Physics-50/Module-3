@@ -58,4 +58,16 @@
 
 ## Week 3
 
-Coming soon...
+#### Miniquestion 1: Comparing diffraction patterns from gratings with different periods
+*[Click here to open in a new tab](https://docs.google.com/forms/d/e/1FAIpQLScOvf4fEdEk5cotRGrTle0iitt7onz0DmTOdhuNL47lh2ifqA/viewform?){:target="_blank"}*
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScOvf4fEdEk5cotRGrTle0iitt7onz0DmTOdhuNL47lh2ifqA/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
+</iframe>
+
+
+------------------------
+<br><br>
+
+## Week 4
+
+Stay tuned...
