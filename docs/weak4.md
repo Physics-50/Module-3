@@ -71,7 +71,17 @@ You have two tasks this week:
 
 ## <a name="deliverable">Deliverable --- A Sequence of Two Figures
 
-Your Module 3 deliverable will consist of two figures. Each of these figures must include a caption following the guidelines provided for Modules 1 and 2. We encourage you to refer back to the [figure preparation guide from Module 1](https://physics-50.github.io/Module-1/week3){:target="_blank"}. Note that if the perspective of the picture of your experimental setup makes it difficult to accurately define a reasonable scale bar, you can use something in the picture to provide a length scale. For example, if the caption indicates the length of the laser or the spacing of the grid marks, this would be sufficient to convey the length scale to the reader. 
+Your Module 3 deliverable will consist of two figures. Each of these figures must include a caption following the guidelines provided for Modules 1 and 2. We encourage you to refer back to the [figure preparation guide from Module 1](https://physics-50.github.io/Module-1/week3){:target="_blank"} and feedback you received on your module 2 deliverable, including the information provided [here](https://physics-50.github.io/Module-2/deliverable). 
+
+Before preparing a figure caption you should take a moment to ask yourself: “What do I want to convey to my reader?” and to further break that down into smaller questions. It is important to us at this stage in the course that you learn to recognize what is important so we are not going to provide an exhaustive list, but here are two questions to get you started:
+
++ What was my primary result from the experiment?
++ What would a fellow student who hasn’t taken this course need to know in order to look at my data and understand key details of how it was collected
+
+This list is just the beginning of a list, can you think of more questions that might help you to focus on what might be important to convey to your reader? We would be happy to discuss your list of questions with you (in lab in week 4 or in office hours) before you begin writing your caption. After you’ve written the caption it is a good idea to look back to your list of questions and make sure you answered them.
+
+
+Note that if the perspective of the picture of your experimental setup makes it difficult to accurately define a reasonable scale bar, you can use something in the picture to provide a length scale. For example, if the caption indicates the length of the laser or the spacing of the grid marks, this would be sufficient to convey the length scale to the reader. 
 
 The following should be submitted on Gradescope:
 
