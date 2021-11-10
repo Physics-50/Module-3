@@ -92,7 +92,7 @@ The following should be submitted on Gradescope:
     - **Panel (b)** will plot of wavelength vs. grating period. This plot should be prepared after resolving any issues with your initial results. Your plot should include a horizontal line fit to the two data points as well as dashed horizontal lines indicating the uncertainty of the fit. You will need to add these to the MATLAB script. Your caption should include your primary result (estimated wavelength quoted with uncertainty using appropriate significant figures).
   + In all cases make sure your figure captions include sufficient details to stand alone (while respecting the concision expected for a caption). **An HMC sophomore who has not taken Physics 50 should be able to look at your figure with caption and have a clear idea of what you did.**
 
-+ You will be asked to upload a link to your **well-organized** spreadsheet
++ You will be asked to upload some additional information for grading quality of data including some of your results and a link to your **well-organized** spreadsheet
 
 *Please note that you will need to upload each figure three times. You need to include both the figure and caption each time.*
 
