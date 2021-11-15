@@ -78,7 +78,7 @@ Before preparing a figure caption you should take a moment to ask yourself: “W
 + What was my primary result from the experiment?
 + What would a fellow student who hasn’t taken this course need to know in order to look at my data and understand key details of how it was collected
 
-This list is just the beginning of a list, can you think of more questions that might help you to focus on what might be important to convey to your reader? We would be happy to discuss your list of questions with you (in lab in week 4 or in office hours) before you begin writing your caption. After you’ve written the caption it is a good idea to look back to your list of questions and make sure you answered them.
+This list is just the beginning of a list, can you think of more questions that might help you to focus on what might be important to convey to your reader? We would be happy to discuss your list of questions with you (in lab in week 4 or in office hours) before you begin writing your caption. After you’ve written the caption it is a good idea to look back to your list of questions and make sure you answered them. 
 
 
 Note that if the perspective of the picture of your experimental setup makes it difficult to accurately define a reasonable scale bar, you can use something in the picture to provide a length scale. For example, if the caption indicates the length of the laser or the spacing of the grid marks, this would be sufficient to convey the length scale to the reader. 
