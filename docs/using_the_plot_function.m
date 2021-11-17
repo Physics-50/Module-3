@@ -14,8 +14,11 @@ y = [13, 15.9, 14.8];
 y_err = [3, 1.2, 1.9];
 
 % going to plot two horiztonal lines, 
-thick_line_y_value = 14; % define y value of thick, solid horizontal line
-thin_line_y_value = 12; % define y value of thin, dotted horizotal line
+thick_line_y_value = 15.32; % define y value of thick, solid horizontal line
+% the above is the mean value if you fit a horizontal line to the above
+% data
+thin_line_y_value = 14.36; % define y value of thin, dotted horizotal line
+thin_line_y_value2 = 16.28;
 
 %% plotting the data
 fig1 = figure('color','w'); % create a new figure window
@@ -41,6 +44,7 @@ plot([0.5, 5.5],[thick_line_y_value,thick_line_y_value],'-k','LineWidth',2.0);
                     %           create two points
                     % line specification: '-k' Solid black line
                     % Linewidth: 2   make the line thicker
+      
 
 % plot a thin dashed horizontal line that spans across the x limits
 plot([0.5, 5.5],[thin_line_y_value,thin_line_y_value],'--k','LineWidth',1.0);
@@ -51,6 +55,7 @@ plot([0.5, 5.5],[thin_line_y_value,thin_line_y_value],'--k','LineWidth',1.0);
                     %                               hypen means dashed)
                     % Linewidth: 1  make the line thinner
 
+plot([0.5, 5.5],[thin_line_y_value2,thin_line_y_value2],'--k','LineWidth',1.0);
 exportgraphics(fig1,'example-using-plot-function.jpg','Resolution',600); % export figure 1 as "example-using-plot-function.jpg" 
                                                                            % using a resolution of 600 dots per inch (high resolution)
 
