@@ -20,7 +20,7 @@ thin_line_y_value = 12; % define y value of thin, dotted horizotal line
 %% plotting the data
 fig1 = figure('color','w'); % create a new figure window
 
-plot(x,y,'ko','MarkerFaceColor','w','MarkerSize',7); % plot the data as open circles
+errorbar(x,y,y_err,'ko','MarkerFaceColor','w','MarkerSize',7); % plot the data as open circles
                     % marker specification: 'ko' ('k'=black 'o'=circle)
                     % MarkerFaceColor = 'w' (white)
                     % MarkerSize = 7 pt, bigger data points for "salience"
