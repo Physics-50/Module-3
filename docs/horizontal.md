@@ -10,5 +10,6 @@ A sample MATLAB script making use of the above line of code to add a dashed hori
 
 [using_the_plot_function.m](using_the_plot_function.m).
 
+With more data, the horizontal lines provide helpful information for assessing your data. However, with only two data points this is just a visual representation of your uncertainty.
 
 Also as a reminder you can find the script for fitting a horiztonal line in [module 1](https://physics-50.github.io/Module-1/fit-horizontal-line).
