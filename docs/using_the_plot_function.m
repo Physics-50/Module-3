@@ -19,6 +19,9 @@ thick_line_y_value = 15.32; % define y value of thick, solid horizontal line
 % data
 thin_line_y_value = 14.36; % define y value of thin, dotted horizotal line
 thin_line_y_value2 = 16.28;
+% the y_values for the dashed horizontal lines come from taking the mean
+% value from the horizontal fit (using the module 1 script) and adding and subtracting the uncertainty
+% in the fit.
 
 %% plotting the data
 fig1 = figure('color','w'); % create a new figure window
@@ -31,11 +34,11 @@ errorbar(x,y,y_err,'ko','MarkerFaceColor','w','MarkerSize',7); % plot the data a
 hold on; % keep the data in the current plot when calling a plotting function again
 
 
-xlabel("x-axis label \eta \gamma \beta [with units!]","FontSize",14); % set x axis title
-ylabel("y-axis label \alpha \delta \epsilon [with units!]","FontSize",14); % set y axis title
+xlabel("x-axis label [with units!]","FontSize",14); % set x axis title
+ylabel("y-axis label [with units!]","FontSize",14); % set y axis title
                  
 xlim([0.5, 5.5]); % set the x-axis limits
-ylim([0 30]); % set the y-axis limits
+ylim([7 20]); % set the y-axis limits
 
 % plot a thick sold horizontal line that spans across the x limits
 plot([0.5, 5.5],[thick_line_y_value,thick_line_y_value],'-k','LineWidth',2.0); 
