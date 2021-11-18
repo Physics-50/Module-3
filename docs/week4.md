@@ -63,7 +63,7 @@ You have two tasks this week:
 
 1. If your results differ from expectations or are inconsistent, seek to determine why.
 
-2. Once you are confident in your results you should regenerate the plot of wavelength vs. grating period from last week and fit a horizontal line as we did in Module 2 to generate your best estimate of the laser wavelength and its uncertainty from the plot.
+2. Once you are confident in your results you should generate a plot of wavelength vs. grating period (this plot will have two data points) and fit a horizontal line as we did in Module 1 to generate your best estimate of the laser wavelength and its uncertainty from the plot.
 
 3. Your third task is to prepare a sequence of 2 figures with captions to submit for your deliverable. These figures will come directly from the work you have done in the preceding 3 weeks.
 
