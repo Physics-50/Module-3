@@ -8,7 +8,7 @@ The space between the two dashes in front of the 'k' is only because otherwise M
 
 You should work out the appropriate values for the y-values at which you will want to make the two horizontal dashed lines based on your horizontal fit to your two data points and its uncertainty.
 
-A sample MATLAB script making use of the above line of code to add a dashed horizontal line to a plot is provided here:
+A sample MATLAB script making use of the above line of code to add a dashed horizontal line to a plot is provided here. 
 
 [using_the_plot_function.m](using_the_plot_function.m).
 
