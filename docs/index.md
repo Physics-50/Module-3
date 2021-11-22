@@ -1,6 +1,7 @@
 [Module 3 Overview](#module-3-overview)
 
 [Weekly Plan](#weekly-plan)
+
 + [Week 1 - Exploratory Phase](week1)
 + [Week 2 - Data Collection](week2)
 + [Week 3 - Further Data Collection](week3)
@@ -33,3 +34,4 @@ Module 3 is four weeks long. Each week, except the last week, you will have a ch
     - Checkpoint: A figure that allows comparison of your results from the 500 lines/mm and 1000 lines/mm gratings.
 4. [Week 4 - Scientific Communication Phase](week4)
     - Deliverable: a sequence of figures communicating your results from the module.
+

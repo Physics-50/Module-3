@@ -76,23 +76,22 @@ Your Module 3 deliverable will consist of two figures. Each of these figures mus
 Before preparing a figure caption you should take a moment to ask yourself: “What do I want to convey to my reader?” and to further break that down into smaller questions. It is important to us at this stage in the course that you learn to recognize what is important so we are not going to provide an exhaustive list, but here are two questions to get you started:
 
 + What was my primary result from the experiment?
-+ What would a fellow student who hasn’t taken this course need to know in order to look at my data and understand key details of how it was collected
++ What would a fellow student, who hasn’t taken this course, need to know to look at my data and understand the key details of how they were collected?
 
-This list is just the beginning of a list, can you think of more questions that might help you to focus on what might be important to convey to your reader? We would be happy to discuss your list of questions with you (in lab in week 4 or in office hours) before you begin writing your caption. After you’ve written the caption it is a good idea to look back to your list of questions and make sure you answered them. 
-
+These points are just the beginning of a list; can you think of more questions that might help you to focus on what might be important to convey to your reader? We would be happy to discuss your list of questions with you (in lab in week 4 or in office hours) before you begin writing your caption. After you’ve written the caption it is a good idea to look back to your list of questions and make sure that you answered them. 
 
 Note that if the perspective of the picture of your experimental setup makes it difficult to accurately define a reasonable scale bar, you can use something in the picture to provide a length scale. For example, if the caption indicates the length of the laser or the spacing of the grid marks, this would be sufficient to convey the length scale to the reader. 
 
 The following should be submitted on Gradescope:
 
-+ **Figure 1** is equivalent to the figure you submitted for week 1, but with a caption that reports the salient details of the procedure you used. If any issues were raised with your week 1 checkpoint or even if they weren't but you feel you could present your results better (we do not use the same rubric for the checkpoints and deliverable) we encourage you to speak to us and make appropriate corrections before submitting your deliverable. 
++ **Figure 1** is equivalent to the figure you submitted for week 1, but with a caption that reports the salient details of the procedure you used. We do not use the same rubric for the checkpoints and deliverables; if any issues were raised with your week 1 checkpoint---or even if they weren't but you feel you could present your results better---we encourage you to speak to us and make appropriate corrections before submitting your deliverable. 
 
 + **Figure 2** will also be a multi-panel figure. 
-    - **Panel (a)** will showcase how you determined the wavelength. Namely, panel (a):  **Provide a single example plot of $$x$$ vs. $$L$$ for one of the diffraction grating spacings** 
-    - **Panel (b)** will plot of wavelength vs. grating period. This plot should be prepared after resolving any issues with your initial results. Your plot should include a horizontal line fit to the two data points as well as dashed horizontal lines indicating the uncertainty of the fit. You will need to add these to the MATLAB script. Your caption should include your primary result (estimated wavelength quoted with uncertainty using appropriate significant figures).
+    - **Panel (a)** will showcase how you determined the wavelength. Namely, panel (a) should  **provide a single example plot of $$x$$ vs. $$L$$ for one of the diffraction grating spacings** 
+    - **Panel (b)** will plot wavelength vs. grating period. This plot should be prepared after resolving any issues with your initial results. Your plot should include a horizontal line fit to the two data points as well as dashed horizontal lines indicating the uncertainty of the fit. You will need to add these to the MATLAB script. Your caption should include your primary result (estimated wavelength quoted with uncertainty using appropriate significant figures).
     
     
-In all cases make sure your figure captions include sufficient details to stand alone (while respecting the concision expected for a caption). **Report the number of trials that contributed to each data point.** Since resetting parameters such as the position/angle of the diffraction grating, $$L$$, or which diffraction grating was used, were an important part of the experimental procedure for this experiment, you should mention this procedure in the caption. **An HMC sophomore who has not taken Physics 50 should be able to look at your figure with caption and have a clear idea of what you did.**
+In all cases make sure your figure captions concisely include sufficient details to stand alone. **Report the number of trials that contributed to each data point.** Since resetting parameters such as the position/angle of the diffraction grating, $$L$$, or which diffraction grating was used were an important part of the experimental procedure for this experiment, you should describe this procedure in the caption. **An HMC sophomore who has not taken Physics 50 should be able to look at your figure with caption and have a clear idea of what you did.**
 
 + You will be asked to upload some additional information for grading quality of data including some of your results and a link to your **well-organized** spreadsheet
 
@@ -101,4 +100,3 @@ In all cases make sure your figure captions include sufficient details to stand 
 ## Miniquestions:
 
 And to double-check, make sure you have finished all of this week's mini-questions by [checking here](mini-questions#week-4){:target="_blank"}
-
