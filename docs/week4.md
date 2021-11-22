@@ -63,7 +63,7 @@ You have two tasks this week:
 
 1. If your results differ from expectations or are inconsistent, seek to determine why.
 
-2. Once you are confident in your results you should regenerate the plot of wavelength vs. grating period from last week and fit a horizontal line as we did in Module 2 to generate your best estimate of the laser wavelength and its uncertainty from the plot.
+2. Once you are confident in your results you should generate a plot of wavelength vs. grating period (this plot will have two data points) and fit a horizontal line as we did in Module 1 to generate your best estimate of the laser wavelength and its uncertainty from the plot.
 
 3. Your third task is to prepare a sequence of 2 figures with captions to submit for your deliverable. These figures will come directly from the work you have done in the preceding 3 weeks.
 
@@ -87,8 +87,8 @@ The following should be submitted on Gradescope:
 + **Figure 1** is equivalent to the figure you submitted for week 1, but with a caption that reports the salient details of the procedure you used. We do not use the same rubric for the checkpoints and deliverables; if any issues were raised with your week 1 checkpoint---or even if they weren't but you feel you could present your results better---we encourage you to speak to us and make appropriate corrections before submitting your deliverable. 
 
 + **Figure 2** will also be a multi-panel figure. 
-    - **Panel (a)** will showcase how you determined the wavelength. Namely, panel (a) should  **provide a single example plot of $$x$$ vs. $$L$$ for one of the diffraction grating spacings** 
-    - **Panel (b)** will plot wavelength vs. grating period. This plot should be prepared after resolving any issues with your initial results. Your plot should include a horizontal line fit to the two data points as well as dashed horizontal lines indicating the uncertainty of the fit. You will need to add these to the MATLAB script. Your caption should include your primary result (estimated wavelength quoted with uncertainty using appropriate significant figures).
+    - **Panel (a)** will showcase how you determined the wavelength. Namely, panel (a) will  **provide a single example plot of $$x$$ vs. $$L$$ for one of the diffraction grating periods (spacings).** 
+    - **Panel (b)** will plot wavelength vs. grating period. This plot should be prepared after resolving any issues with your initial results. Your plot should include a horizontal line fit to the two data points as well as dashed horizontal lines indicating the uncertainty of the fit. (A script for fitting a horizontal line was provided in Module 1.) You will need to add these to the MATLAB script. [Click here for instructions on how to add a horizontal line to a MATLAB plot.](horizontal) The caption should include your primary result (estimated wavelength quoted with uncertainty using appropriate significant figures) and should compare this value with the expected wavelength as quoted by the manufacturer (available on the sticker on the laser).
     
     
 In all cases make sure your figure captions concisely include sufficient details to stand alone. **Report the number of trials that contributed to each data point.** Since resetting parameters such as the position/angle of the diffraction grating, $$L$$, or which diffraction grating was used were an important part of the experimental procedure for this experiment, you should describe this procedure in the caption. **An HMC sophomore who has not taken Physics 50 should be able to look at your figure with caption and have a clear idea of what you did.**
