@@ -170,6 +170,25 @@ For Checkpoint 1, you will present the results of this exploration as part of a 
 
 To reduce workload for this week, you do not need to write a caption for the figure.
 
+## Review of Uncertainty Estimation
+
+Before collecting and analyzing your data this week, please make sure that you have read this [discussion about combining uncertainties](https://physics-50.github.io/Module-1/uncertainty-introduction#combining-uncertainties)
+
+And if you're confused about the rounding of the values, you might want to [read this first](https://physics-50.github.io/Module-1/uncertainty-introduction#significant-figures)
+
+To make sure you've understood these ideas, please complete the following mini-question. This is going to come up repeatedly throughout the course. If you have any uncertainty about your response please stop by office hours and talk to us or consult with your classmates through Piazza.
+
+---------------
+
+
+#### Mini-question: Combining Random and Resolution Uncertainty
+[*Click here to open in a new tab*](https://forms.gle/KMCCqJZxdkchbBvdA){:target="_blank"}
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc7wj6OMBqqybagJhwZb0-Mkk8UnW2WOf5G7v474S0ryLvJOw/viewform?embedded=true" width="640" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…
+</iframe>
+
+---------------------------------------------------
+
+
 -------------
 
 ## Checkpoint 1
