@@ -83,8 +83,8 @@ We can do a little more to simplify this expression. From Fig. 6, we can see tha
 
 We can rearrange this equation as:
 
-\begin{equation}\label{eq:sYoung} 
+\begin{equation}\label{eq:sYoung2} 
 \frac{d x/L}{\sqrt{(1 + (x/L)^2)} = n \lambda
 \end{equation}
 
-**In Module 3, we will use this relationship to determine $$\lambda$$, the wavelength of the laser, by measuring $$x$$ and $$L$$ and using the quoted value of $$d$$ for the provided diffraction grating.**
+**In Module 2, we will use this relationship to determine $$\lambda$$, the wavelength of the laser, by measuring $$x$$ and $$L$$ and using the quoted value of $$d$$ for the provided diffraction grating.**
