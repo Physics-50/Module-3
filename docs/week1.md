@@ -10,6 +10,8 @@
 
 --------------
 
+You should have received new Google Doc and Google Sheets notebooks through Google classroom. Please make use of the new notebooks for this module. 
+
 In this module you will be studying a light interference effect called <strong>diffraction</strong>. This phenomenon will allow you to measure the wavelength of visible light ($$400\text{ nm} \lesssim \lambda \lesssim 750\text{ nm}$$, where $$1\text{ nm} = 10^{-9}\text{ m}$$).
 
 ## Background Theory
