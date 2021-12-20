@@ -76,9 +76,15 @@ d \sin \theta = n \lambda
 \end{equation}
 where $$n$$ is an integer and $$\lambda$$ is the wavelength of the light.
 
-We can do a little more to simplify this expression. From Fig. 6, we can see that $$\sin \theta = x / \sqrt{(x^2 + L^2)}$$, and if we only look at the separation between the central bright spot and the first one or two bright spots around it, then $$x \ll L$$ so we can approximate that $$\sin \theta = x / L$$. Substituting this into our constructive interference condition gives us the following expression: 
+We can do a little more to simplify this expression. From Fig. 6, we can see that $$\sin \theta = x / \sqrt{(x^2 + L^2)}$$. Substituting this into our constructive interference condition gives us the following expression: 
 \begin{equation}\label{eq:sYoung} 
-\frac{xd}{L} = n \lambda
+\frac{xd}{\sqrt{(x^2 + L^2)} = n \lambda
+\end{equation}
+
+We can rearrange this equation as:
+
+\begin{equation}\label{eq:sYoung} 
+\frac{d x/L}{\sqrt{(1 + (x/L)^2)} = n \lambda
 \end{equation}
 
 **In Module 3, we will use this relationship to determine $$\lambda$$, the wavelength of the laser, by measuring $$x$$ and $$L$$ and using the quoted value of $$d$$ for the provided diffraction grating.**
