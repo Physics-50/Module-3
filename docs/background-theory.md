@@ -78,10 +78,6 @@ where $$n$$ is an integer and $$\lambda$$ is the wavelength of the light.
 
 We can do a little more to simplify this expression. From Fig. 6, we can see that $$\sin \theta = x / \sqrt{(x^2 + L^2)}$$. Substituting this into our constructive interference condition gives us the following expression: 
 
-\begin{equation}\label{eq:test}
-d \sin \theta = n \lambda
-\end{equation}
-
 \begin{equation}\label{eq:sYoung} 
 \frac{xd}{\sqrt{(x^2 + L^2)} }= n \lambda
 \end{equation}
