@@ -66,4 +66,4 @@ For this week's checkpoint you will be asked to submit the following:
 
 + Your estimate for the wavelength of the sound wave in your experiment from 5 or more distinct measurements in which you attempted to randomize parallax as a source of uncertainty and subsequent estimate for the speed of sound, with uncertainty.
 
-+ And to double-check, make sure you have finished all of this week’s miniquestions by [checking here](mini-questions#week-2){:target="_blank"}
++ And to double-check, make sure you have finished all of this week’s mini-questions by [checking here](mini-questions#week-2){:target="_blank"}
