@@ -26,7 +26,7 @@
 
 4. Communicate reasoning and results with a sequence of figures
 
-In Module 3 you will encounter an experiment designed to determine the value of a physical quantity --- in this case, the speed of sound.  You will have the challenge of considering several possible experimental errors that could contribute to your final result.  Once again we will use three phases to frame your analysis activities in Module 2:
+In Module 3 you will encounter an experiment designed to determine the value of a physical quantity --- in this case, the speed of sound.  You will have the challenge of considering several possible experimental errors that could contribute to your final result.  Once again we will use three phases to frame your analysis activities in Module 3:
 
 1. Exploratory Phase
     - this open-ended phase often involves doing some background reading, getting familiar with a measurement technique, trying to take and analyze some preliminary data, and exploring what choices you can make to improve the reliability of your results.
@@ -35,7 +35,7 @@ In Module 3 you will encounter an experiment designed to determine the value of 
     - in this phase you follow the experimental plan you developed in the "Exploratory Phase" to obtain your best values for the physical quantity of interest, and its uncertainty.
 
 3. Communication Phase
-    - after doing your measurements and calculations, you now get to think carefully about how you will communicate your results: What is the best way to visualize your data? What are the deeper conclusions that you can draw from your data? What follow-up experiment would come next? This phase often ends with a scientific paper or presentation. In Module 3, we will present our results with a single figure with a caption.
+    - after doing your measurements and calculations, you now get to think carefully about how you will communicate your results: What is the best way to visualize your data? What are the deeper conclusions that you can draw from your data? What follow-up experiment would come next? This phase often ends with a scientific paper or presentation. In Module 3, you will present your results in a sequence of two figures with captions.
 
 Although we are going to treat these phases as separate, linear progression, they aren't always like that. Things often don't go as planned; when in the final determination phase, and you might end up back in the exploratory phase. And you might want to think of how you will communicate your work, even in the exploratory phase; thinking of the possible conclusions that would result from your experiment can help you decide if your plan for measuring the physical quantity is sensible. These phases are meant to be helpful guideposts for this investigation, not a set of "rules" for how experimental work always unfolds.
 
@@ -44,7 +44,7 @@ Although we are going to treat these phases as separate, linear progression, the
 
 In this module, you will use the position at which beads can be suspended in an acoustic levitator to determine the speed of sound in air.  The theory behind this module gives you a chance to review and extend your understanding of vibrations and waves from Physics 24.  On the laboratory side, this module is an opportunity to consider the interplay between several sources of error in a final quantity, and to focus on systematic as well as random errors.  In setting up the experiment, you will make your own choices that can in turn influence the accuracy and precision of your results.
 
-Module 3 is four weeks long. You will have a checkpoint due in each of the first three weeks. These checkpoints will give us a chance to provide you feedback as you work towards the Module 3 deliverable: a series of figures with captions that convey the nature of the data and logic, leading to a final result.
+Module 3 is four weeks long. You will have a checkpoint due in each of the first three weeks. These checkpoints will give us a chance to give you feedback as you work towards the Module 3 deliverable: a series of figures with captions that convey the nature of the data and logic, leading to a final result.
 
 1. [Week 1 - Exploratory Phase](week1)
     - Checkpoint: preliminary measurement of the speed of sound from an image
