@@ -211,7 +211,7 @@ Is your result reasonable? (Go ahead and look up the speed of sound in air for c
 
 Next week we will perform a detailed investigation of a significant source of uncertainty. But first we need to do an exploratory study to determine which sources of uncertainty might be the most significant. This week we would like you to investigate 3 possible sources of systematic error. In your checkpoint you will be asked to report the following for each of the 3 sources of systematic error you investigated:
 
-1) A single screenshot from your Google docs lab notebook that shows one or two images relevant to understanding what you did as well as relevant tabulated data. There is a template on the second page of the Google docs lab notebook that you may find helpful. 
+1) A single screenshot from your Google docs lab notebook that shows one or two images relevant to understanding what you did as well as relevant tabulated data. 
 
 2) A 2--4 sentence description of your investigation and your conclusion as to whether this was a significant source of uncertainty.
 
