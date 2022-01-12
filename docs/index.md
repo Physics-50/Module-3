@@ -44,12 +44,12 @@ Although we are going to treat these phases as separate, linear progression, the
 
 In this module, you will use the position at which beads can be suspended in an acoustic levitator to determine the speed of sound in air.  The theory behind this module gives you a chance to review and extend your understanding of vibrations and waves from Physics 24.  On the laboratory side, this module is an opportunity to consider the interplay between several sources of error in a final quantity, and to focus on systematic as well as random errors.  In setting up the experiment, you will make your own choices that can in turn influence the accuracy and precision of your results.
 
-Module 3 is four weeks long. You will have a checkpoint due in each of the first three weeks. These checkpoints will give us a chance to give you feedback as you work towards the Module 3 deliverable: a series of figures with captions that convey the nature of the data and logic, leading to a final result.
+Module 3 is four weeks long. You will have a checkpoint due in each of the first three weeks. These checkpoints will give us a chance to give you feedback as you work towards the Module 3 deliverable: a sequence of 2 figures with captions that convey the nature of the data and logic, leading to a final result.
 
 1. [Week 1 - Exploratory Phase](week1)
     - Checkpoint: preliminary measurement of the speed of sound from an image
 2. [Week 2 - Investigation of a source of systematic error](week2)
-    - Checkpoint: results showing the significance of the position of the ruler used for calibration to the overall uncertainty of the measurement
+    - Checkpoint: results showing the significance of a significant source of systematic error to the overall uncertainty of the measurement
 3. [Week 3 - Final Determination of Speed of Sound](week3)
     - Checkpoint: Plot of bead position vs. antinode number, estimate of the speed of sound, and uncertainty.
 4. [Week 4 - Scientific Communication](week4)
