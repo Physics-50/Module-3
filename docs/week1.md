@@ -225,6 +225,8 @@ Next week you will perform a systematic investigation of a significant source of
 
 Once you've finished exploring sources of uncertainty, take a moment to reflect on your initial measurement. Are you now aware of sources of systematic error that may have significantly affected the accuracy of the results? You do not need to collect a full data set to estimate the speed of sound with uncertainty, we will do that in future weeks. But please collect one photo in which you make an attempt to minimize any sources of systematic error you found to be significant. Since you are only taking a single photo you will not be able to estimate the uncertainty in your result. That is okay we'll have time to do that in the coming weeks. 
 
+Nevertheless without performing a formal uncertainty analysis you should have a rough estimate of your confidence in your uncertainty from your uncerta
+
 
 ### Summary of what you need to leave lab with today
 
