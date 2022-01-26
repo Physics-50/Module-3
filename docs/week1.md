@@ -177,7 +177,7 @@ Let’s practice with a mini-question. Please download the following image of le
 
 **Click on the images below to enlarge in a new tab and download the image:**
 
-[![Image of levitated beads](images/Image_of_levitated_beads.jpg)](images/Image_of_levitated_beads.jpg){:target="_blank"}
+[![Image of levitated beads](images/image_of_levitated_beads.jpg)](images/image_of_levitated_beads.jpg){:target="_blank"}
 
 --------------------------------------------------------
 
