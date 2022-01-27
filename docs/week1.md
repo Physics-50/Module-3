@@ -209,9 +209,14 @@ Is your result reasonable? (Go ahead and look up the speed of sound in air for c
 
 ## Wiggling the parameters to explore sources of uncertainty
 
-Next week we will perform a detailed investigation of a significant source of uncertainty. But first we need to do an exploratory study to determine which sources of uncertainty might be the most significant. This week we would like you to investigate 3 possible sources of systematic error. In your checkpoint you will be asked to report the following for each of the 3 sources of systematic error you investigated:
+Next week we will perform a detailed investigation of a significant source of uncertainty. But first we need to do an exploratory study to determine which sources of uncertainty might be the most significant. This week we would like you to investigate 3 possible sources of systematic error. Before doing so set up your spreadsheet so that you can roughly estimate the effect of your source of systematic error on your results. This will not be a formal error analysis. Instead for week 1 only, we would like you estimate the speed of sound in the center of your range of exploration and at the two ends. Between measurements you should reset your source of systematic error but do not need to reset anything else. 
 
-1) A single screenshot from your Google docs lab notebook that shows one or two images relevant to understanding what you did as well as relevant tabulated data.  Your images should showcase the parameter you wiggled.
+
+In your checkpoint you will be asked to report the following for each of the 3 sources of systematic error you investigated:
+
+1) A single screenshot from your Google docs lab notebook that shows one or two images relevant to understanding what you did.  Your images should showcase the parameter you wiggled.
+
+2) Your results including the estimated speed of sound under the three conditions described above.
 
 2) A 3--6 sentence description of your investigation and your conclusion as to whether this was a significant source of uncertainty.
 
@@ -219,13 +224,15 @@ If you are having trouble working out what to investigate, please speak to your 
 
 **Make sure when you wiggle a parameter that that is the only parameter that you change---to work out which sources of uncertainty are significant you need to wiggle one parameter at a time.**
 
-Next week you will perform a systematic investigation of a significant source of systematic error (analogous to the investigation you performed in week 1 of module 2), the results of which will be used for one of the figures in your deliverable. Before moving on, make sure you have found a significant source of systematic error to focus on next week. This would be a good time to check in with your instructor. As part of this week's checkpoint you will be asked to indicate the source of systematic error you plan to focus on next week and your plan of approach.
-
 ## Photo for Estimating the Speed of Sound
 
-Once you've finished exploring sources of uncertainty, take a moment to reflect on your initial measurement. Are you now aware of sources of systematic error that may have significantly affected the accuracy of the results? You do not need to collect a full data set to estimate the speed of sound with uncertainty, we will do that in future weeks. But please collect one photo in which you make an attempt to minimize any sources of systematic error you found to be significant and make use of this photo to get a preliminary estimate of the speed of sound. Since you are only taking a single photo you will not be able to estimate the uncertainty in your result. That is okay we'll have time to do that in the coming weeks. 
+Once you've finished exploring sources of uncertainty, take a moment to reflect on your initial measurement. Are you now aware of sources of systematic error that may have significantly affected the accuracy of the results? You do not need to collect a full data set to estimate the speed of sound with uncertainty, we will do that in future weeks. But please collect one photo in which you make an attempt to minimize any sources of systematic error you found to be significant and make use of this photo to get a preliminary estimate of the speed of sound which you will report in this weeks checkpoint. 
 
-Without performing a formal uncertainty analysis you should have a rough estimate of your confidence in your result based on the variations in your measured wavelength due to the 3 parameters you wiggled.
+## Assessment of results
+Next week you will perform a systematic investigation of a significant source of systematic error (analogous to the investigation you performed in week 1 of module 2), the results of which will be used for one of the figures in your deliverable. Before moving on, make sure you have found a significant source of systematic error to focus on next week. This would be a good time to check in with your instructor. As part of this week's checkpoint you will be asked to indicate the source of systematic error you plan to focus on next week and your plan of approach.
+
+Even without a formal uncertainty analysis this is a good moment to check if you are on track. Do your estimated values from your efforts to "wiggle the parameters" bracket the expected speed of sound? If not we encourage you to make use of the remaining time in lab for further investigation. Is there a significant source of systematic error that you missed? It is possible that you may do a careful study and not get a range of results that includes the expected speed of sound, but you will be asked to reflect on the reasonableness of your results and your confidence in them as part of the checkpoint so if your results do not agree with expectations we encourage you to make the most of the available time in lab to try to understand what is going on.
+
 
 
 ### Summary of what you need to leave lab with today
@@ -259,7 +266,7 @@ For this week’s checkpoint, part 2, you will be asked to report:
 
 + The conversion factor you used for converting pixels to distance and a 1--2 sentence description of how you arrived at this conversion factor.
 
-+ An estimate of the speed of sound with uncertainty, based on your preliminary data.
++ An estimate of the speed of sound, based on your preliminary data.
 
 + A summary of what you learned from your preliminary exploration of sources of uncertainty. The assignment on Gradescope has specific instructions for what to report from this exploration.
 
