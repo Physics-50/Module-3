@@ -47,11 +47,11 @@ In this module, you will use the position at which beads can be suspended in an 
 Module 3 is four weeks long. You will have a checkpoint due in each of the first three weeks. These checkpoints will give us a chance to give you feedback as you work towards the Module 3 deliverable: a sequence of 2 figures with captions that convey the nature of the data and logic, leading to a final result.
 
 1. [Week 1 - Exploratory Phase](week1)
-    - Checkpoint: preliminary measurement of the speed of sound from an image
+    - Checkpoint: preliminary measurement of the speed of sound from an image and results from initial investigation of 3 sources of systematic error
 2. [Week 2 - Investigation of a source of systematic error](week2)
     - Checkpoint: results showing the significance of a significant source of systematic error to the overall uncertainty of the measurement
 3. [Week 3 - Final Determination of Speed of Sound](week3)
-    - Checkpoint: Plot of bead position vs. antinode number, estimate of the speed of sound, and uncertainty.
+    - Checkpoint: Plot of measured speed of sound from multiple measurements, estimate of the speed of sound, and uncertainty.
 4. [Week 4 - Scientific Communication](week4)
     - Deliverable: a sequence of figures with captions that communicate your reasoning and results.
 
