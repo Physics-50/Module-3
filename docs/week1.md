@@ -211,11 +211,11 @@ Is your result reasonable? (Go ahead and look up the speed of sound in air for c
 
 Next week we will perform a detailed investigation of a significant source of uncertainty. But first we need to do an exploratory study to determine which sources of uncertainty might be the most significant. This week we would like you to investigate 3 possible sources of systematic error. In your checkpoint you will be asked to report the following for each of the 3 sources of systematic error you investigated:
 
-1) A single screenshot from your Google docs lab notebook that shows one or two images relevant to understanding what you did as well as relevant tabulated data. 
+1) A single screenshot from your Google docs lab notebook that shows one or two images relevant to understanding what you did as well as relevant tabulated data.  Your images should showcase the parameter you wiggled.
 
-2) A 2--4 sentence description of your investigation and your conclusion as to whether this was a significant source of uncertainty.
+2) A 3--6 sentence description of your investigation and your conclusion as to whether this was a significant source of uncertainty.
 
-If you are having trouble working out what to investigate, please speak to your instructor. 
+If you are having trouble working out what to investigate, please speak to your instructor. Similarly, if your first two potential sources of systematic error do not appear to be significant it would be good to check in with your instructor. Through this week's investigation you need to determine at least one significant source of systematic error to investigate in more detail next week.
 
 **Make sure when you wiggle a parameter that that is the only parameter that you change---to work out which sources of uncertainty are significant you need to wiggle one parameter at a time.**
 
@@ -223,9 +223,9 @@ Next week you will perform a systematic investigation of a significant source of
 
 ## Photo for Estimating the Speed of Sound
 
-Once you've finished exploring sources of uncertainty, take a moment to reflect on your initial measurement. Are you now aware of sources of systematic error that may have significantly affected the accuracy of the results? You do not need to collect a full data set to estimate the speed of sound with uncertainty, we will do that in future weeks. But please collect one photo in which you make an attempt to minimize any sources of systematic error you found to be significant. Since you are only taking a single photo you will not be able to estimate the uncertainty in your result. That is okay we'll have time to do that in the coming weeks. 
+Once you've finished exploring sources of uncertainty, take a moment to reflect on your initial measurement. Are you now aware of sources of systematic error that may have significantly affected the accuracy of the results? You do not need to collect a full data set to estimate the speed of sound with uncertainty, we will do that in future weeks. But please collect one photo in which you make an attempt to minimize any sources of systematic error you found to be significant and make use of this photo to get a preliminary estimate of the speed of sound. Since you are only taking a single photo you will not be able to estimate the uncertainty in your result. That is okay we'll have time to do that in the coming weeks. 
 
-Nevertheless without performing a formal uncertainty analysis you should have a rough estimate of your confidence in your uncertainty from your uncerta
+Without performing a formal uncertainty analysis you should have a rough estimate of your confidence in your result based on the variations in your measured wavelength due to the 3 parameters you wiggled.
 
 
 ### Summary of what you need to leave lab with today
