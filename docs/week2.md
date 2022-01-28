@@ -28,8 +28,14 @@ By now you should have given serious consideration to possible sources of experi
 
 - is uncertainty in the angular alignment of the camera to the acoustic resonator sufficient to account for any discrepancies?
 
+- does it matter if the ruler is off to one side of the image rather than centering the image between the ruler and the camera?
 
-Please take ~20 min to explore any sources of systematic error you may have overlooked. In doing so please set up the experiment *using only your notes from last week* (not the lab manual). If you need to refer back to the lab manual, it is a sign that your notes are insufficiently comprehensive. *Take the time to prepare more detailed notes.*
+Many of the above concerns arise from potential issues with parallax in the measurement. Why for example might we be concerned with the height of the ruler: Each millimeter mark on the ruler that is closer to the camera spans more pixels than the equivalent markings on the ruler further from the camera (if you didn't move the camera between images you can see this from your pixel-to-mm conversion without even taking the beads into consideration.) Ideally we would position the ruler at exactly the location of the beads and our problems would be solved. Unfortunately, the ruler would then interfere with the sound waves that are levitating the beads. The best thing we can do is position the ruler at the same distance from the beads as the camera, so that the ruler's magnification in the image is identical to the beads'. Try to find a good way to position the ruler in the same plane as the beads. However, this isn't the full story. If you have positioned your camera so that it is centered on the beads with the ruler off to one side, the distance from the camera to the ruler will not exactly match the distance from the camera to the beads. Try repositioning your acoustic levitator so the camera is centered between the beads and ruler.
+
+
+Please take ~30 min to explore any sources of systematic error you may have overlooked. We are not looking for a careful systematic study of any of the above, just a quick assesment of whether or not any of these corrections are significant to explain any discrepancy between your measured speed of sound and the expected value. You may find this [website from the National Weather Service helpful for determining the expected speed of sound](https://www.weather.gov/epz/wxcalc_speedofsound). If you aren't sure what to estimate for the temperature in the lab your instructors can point you to a thermostat. 
+
+When doing experiments this week please set up the experiment *using only your notes from last week* (not the lab manual). If you need to refer back to the lab manual, it is a sign that your notes are insufficiently comprehensive. *Take the time to prepare more detailed notes.*
 
 Once you are confident that you have made a reasonable effort to explore the likely sources of systematic error in this experiment, please proceed to the following mini-question. You should not spend more than ~30 min before proceeding in order to ensure you have time to complete this week's experiments.
 
@@ -49,32 +55,52 @@ Once you are confident that you have made a reasonable effort to explore the lik
 
 ------------------------------
 
-## Parallax
+**Please do not read further until after completing the preceding mini-question (in lab)**
 
-<!--Take a picture with the ruler positioned ~1 cm above the beads. Now take one with it ~1 cm below. Estimate the speed of sound from both pictures. Is the difference significant? Hint: as a loose rule of thumb, a difference can be considered significant if it is greater than, or comparable to, the uncertainty from other sources. How does the difference between these two values compare with your uncertainty from last week?-->
-
-Last week you investigated several potential sources of systematic error, among those was the effect of repositioning the ruler relative to the camera and levitator. If you didn't already do this last week please do the following:
-
-Take a picture with the ruler positioned ~1 cm closer to the camera than the beads. Now take one with it ~1 cm further from the camera than the beads. Estimate the speed of sound from both pictures. Is the difference significant? Hint: as a loose rule of thumb, a difference can be considered significant if it is greater than, or comparable to, the uncertainty from other sources.
-
-The issue arises from **parallax**. Each millimeter mark on the ruler that is closer to the camera spans more pixels than the equivalent markings on the ruler further from the camera (if you didn't move the camera between images you can see this from your pixel-to-mm conversion without even taking the beads into consideration.) Ideally we would position the ruler at exactly the location of the beads and our problems would be solved. Unfortunately, the ruler would then interfere with the sound waves that are levitating the beads. The best thing we can do is position the ruler at the same distance from the beads as the camera, so that the ruler's magnification in the image is identical to the beads'. Try to find a good way to position the ruler in the same plane as the beads. However, this isn't the full story. If you have positioned your camera so that it is centered on the beads with the ruler off to one side, the distance from the camera to the ruler will not exactly match the distance from the camera to the beads. Try repositioning your acoustic levitator so the camera is centered between the beads and ruler.
-
-Next we would like to estimate the magnitude of this source of uncertainty. Perhaps you feel you have already done this? The pictures you took earlier probably convinced you that this is a significant source of uncertainty but if you are careful you should be able to position the ruler with much better accuracy than the $$\pm1~\mathrm{cm}$$ used to deliberately exaggerate the effect above!
-
---------------
-#### Miniquestion 1: How to Estimate the Uncertainty Due to Parallax
-[*Click here to open in a new tab*](https://forms.gle/h4SgcPH2tbY65phx9){:target="_blank"}
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfKgoZe1wKD3fN_Nqbs8JqZWxWyjyj8BLcHk5gzpmsyjvRbUg/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
-</iframe>
+.
+.
+.
+.
 
 
---------------------
 
 
-## Systematic Error
 
-Tackling systematic error is a two-step process; first you should try to reduce the source of error as much as possible. In this case that means working out how to position the ruler as well as you can. Then, as a second step, randomize the remaining uncertainty---by positioning the ruler "as well as you can" multiple different times---to account for the error appropriately within your uncertainty from repeated trials. Once you feel you've done as much as you can to minimize this source of uncertainty, you will need to do multiple measurements (5 in this course) resetting the position of the ruler each time to randomize the effect of imperfect positioning. (Note that replacing the ruler 5 times on the same support item does not count as resetting the ruler!) You will need to find a way to position the ruler that does not depend on resting it on a single fixed item that appeared to be in the plane of the beads (but is unlikely to be exactly the right position). Since we care about both the vertical and horizontal distance you will also need to reset the position of either the camera or the acoustic levitator. For this week, you may choose whether to reset both at once each time or to explore the two effects separately; the latter will give additional information about the relative effect of the two sources of uncertainty (which can be very useful if you find one of the sources of uncertainty to be insignificant). If you take this approach you should combine the uncertainties from the two sources *in quadrature* when reporting the final estimated uncertainty. However, **we recommend that you investigate both effects simultaneously**, since for today's purposes we are interested in the overall effect, so resetting both will save you time.
+
+
+## Why Am I Getting Too Large a Value for the Speed of Sound?
+
+You have surveyed a range of potential systematic errors and hopefully determined which ones appeared to be the most significant. After such a careful investigation it must have been satisfying to get a result that agreed to the expected value to within experimental error...... unless of course you didn't. 
+
+Throughout this course we have we have asked you to pay careful attention to uncertainties. Here are some sample results reported by students last semester:
+
+| Speed of Sound          | Uncertainty  | 
+| ----------------------- | ------------ | 
+| 360.5 m/s               | 1.2 m/s      | 
+| 369.1 m/s               | 1.1 m/s      |
+| 359.1 m/s               | 1.7 m/s      |
+
+If you have appropriately controlled for systematic errors and accounted for random errors, your results should differ from the mean by approximately their uncertainty. But perhaps you still feel the above results are "close enough" to the expected value (343 m/s at $$20^{o}$$C). 
+
+The above results differ from the expected value for the speed of sound by on the order 10x their uncertainty! To get a sense of how unlikely that is, for a normal distribution a $$5 \sigma$$ event, (i.e. 5 standard deviations from the mean) has a probability of 1 in $$\approx$$3.5 million, a $$6 \sigma$$ event has a probability of 1 in $$\approx$$0.5 billion. Clearly we should give some more thought to explaining the discrepancy between these results and the expected value.
+
+When experimental results don't agree with the expected value it is a good idea to:
+1. Check to make sure you trust your experimental results. Were you careful to minimize potential sources of systematic error and to appropriately randomize potential sources of uncertainty by resetting the experiment?
+2. Check to make sure you trust the "expected value". For example, 343 m/s is the accepted value of the speed of sound under a specific set of conditions. Do those match the conditions in the lab? 343 m/s is the appropriate speed at $$20^{o}$$C. While the speed of sound depends on temperature, our laboratory conditions were close enough to $$20^{\circ}$$ C that we aren't going to be able to explain the discrepancy with temperature. You might also consider pressure, but the dependence of the speed of sound on pressure is extremely weak.
+3. When all else fails it can be a good idea to check if you are confident in your theory. 
+
+The theory we have relied upon assumes the levitator produces plane waves. However, if you took the time to investigate the sound waves with dry ice last week you may have noticed significant discrepancies from plane wave behavior. We can in fact account for this! You will not be responsible for the details of the more complete theory but are encouraged to [read a summary here](gouy).
+
+Bottom line:
+
+You can correct for the 3D structure of the standing waves by applying the following correction to get the actual wavelength ($$\lambda$$) from  your measured value, $$\lambda_{\rm eff}$$:
+
+\begin{equation}
+  \lambda = \frac{\lambda_{\rm eff}}{1+\frac{1}{\pi n}}
+\end{equation}
+
+For our system the instructors have determined that $$n=4.5 \pm 0.25$$. ([see previously mentioned supplemental materials](gouy)). We will talk more in class about how to incorporate the uncertainty in $$n$$ into your final result for the speed of sound. 
+
 
 Before leaving the lab, make sure you record in your notebook which levitator you were using (they are numbered). That way when you return next week you can ensure you are using the same levitator which will be essential if you end up reusing any of the data you collected this week.
 
