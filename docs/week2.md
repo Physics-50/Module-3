@@ -10,7 +10,7 @@
 
 **We will make use of dry ice in lab this week. The only pre-lab reading for this week is to carefully review the [safety precautions at this link](dry-ice-safety).**
 
-**The rest of the instructions in this week's lab manual do not need to be read in advance. The embedded mini-questions are intended to be completed in lab this week rather than in advance. You will only receive credit for the mini-questions if they are completed during the lab period. Instead of pre-lab reading we would like you to reflect on any discrepancies between your results from last week and the expected value and possible explanations for the discrepancy.**
+**The rest of the instructions in this week's lab manual do not need to be read in advance. The embedded mini-question should be completed in lab this week rather than in advance. You will only receive credit for the mini-question if is completed during the lab period. Instead of pre-lab reading we would like you to reflect on any discrepancies between your results from last week and the expected value and possible explanations for the discrepancy.**
 
 
 ## Experimental Iteration
