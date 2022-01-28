@@ -31,7 +31,24 @@ By now you should have given serious consideration to possible sources of experi
 
 Please take ~20 min to explore any sources of systematic error you may have overlooked. In doing so please set up the experiment *using only your notes from last week* (not the lab manual). If you need to refer back to the lab manual, it is a sign that your notes are insufficiently comprehensive. *Take the time to prepare more detailed notes.*
 
-Once you are confident that you have made a reasonable effort to explore the likely sources of systematic error in this experiment, please proceed to the following mini-question.
+Once you are confident that you have made a reasonable effort to explore the likely sources of systematic error in this experiment, please proceed to the following mini-question. You should not spend more than ~30 min before proceeding in order to ensure you have time to complete this week's experiments.
+
+**If you are reading the lab manual before coming to lab please stop reading here!!!**
+
+----------------------
+
+#### Miniquestion 1: What next?
+**You will only receive credit for this mini-question if you complete it in lab - do not complete it before coming to class.**
+
+*[Click here to open in a new tab](https://forms.gle/3Asc2orUQn6B69Wt9){:target="_blank"}*
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdAfHaBHhobEU1VLJS9pzMm2SirXpQ_-7St16Cd7y0Zy22foA/viewform?embedded=true" width="640" height="699" frameborder="0" marginheight="0" marginwidth="0">Loading…
+</iframe>
+
+<br><br>
+
+------------------------------
+
 ## Parallax
 
 <!--Take a picture with the ruler positioned ~1 cm above the beads. Now take one with it ~1 cm below. Estimate the speed of sound from both pictures. Is the difference significant? Hint: as a loose rule of thumb, a difference can be considered significant if it is greater than, or comparable to, the uncertainty from other sources. How does the difference between these two values compare with your uncertainty from last week?-->
