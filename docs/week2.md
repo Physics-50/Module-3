@@ -119,29 +119,34 @@ For our system the instructors have determined that $$n=4.5 \pm 0.25$$. ([see pr
 
 Please make use of this correction to estimate the speed of sound. Do you get a more reasonable result?
 
-Now that you are hopefully in range of the expected value it is a good moment to perform a more systematic study of one of the most significant sources of systematic error. Your earlier investigation should have guided you to at least one source of systematic error that has a significant effect on the results. Choose one and perform a systematic study analogous to the study that you used to produce figure 1 for your module 2 deliverable. We are interested in the possible effect on your results if you are not sufficiently careful with this parameter. Therefore we would like you to vary this parameter over a small range representative of small, plausibly unintentional variations. you 
-Before leaving the lab, make sure you record in your notebook which levitator you were using (they are numbered). That way when you return next week you can ensure you are using the same levitator which will be essential if you end up reusing any of the data you collected this week.
+Now that you are hopefully in range of the expected value it is a good moment to perform a more systematic study of one of the most significant sources of systematic error. Your earlier investigation should have guided you to at least one source of systematic error that has a significant effect on the results. Choose one and perform a systematic study analogous to the study that you used to produce figure 1 for your module 2 deliverable. We are interested in the possible effect on your results if you are not sufficiently careful with this parameter. Therefore we would like you to vary this parameter over a small range representative of small, plausibly unintentional variations. Ideally you would collect 5 data points at each of 5 positions. However, we recognize that you will likely not have time to collect this much data. Instead focus on collecting at least 2 data points at each of 5 positions. Statistical analysis such as computing the SEM is not meaningful with only two data points. However, it is still helpful to estimate the uncertainty so that we can gauge whether our results appear reasonable. With only two data points, the best we can do is estimate our uncertainty to be the spread between the data points. (Students are sometimes tempted to use half the spread, can you think why the full spread is a better representation of the uncertainty? If unsure speak to your instructor.)
 
-**Since we are focused entirely on parallax as a source of systematic error this week, when resetting the experiment it is only necessary to reset those parameters relevant to the source of parallax. You do not need to reset the beads themselves.**
+**When resetting the experiment it is only necessary to reset those parameters relevant to the source of parallax. If this does not include the beads themselves then you do not need to reset the beads.**
 
-## Further Exploration
-If you have time you can use dry ice to get a more 3-dimensional view of the standing wave pattern. You will not be asked to report on this in the checkpoint but it is interesting to see. 
+You will plot the data from your exploratory study as figure 1 of your deliverable. Make sure you take one or more photos that showcase the parameter you varied in a way that would help a fellow student understand your study.
 
-This video gives you a sense of what to expect:
-
-[Video visualizing the standing waves with dry ice](https://drive.google.com/file/d/1kAjwFzc-ttmeFJRHg-QpZAd9PzZduhc3/view?usp=sharing){:target="_blank"}.
-
-Before making use of dry ice it is important that you carefully review the [safety precautions at this link](dry-ice-safety).
-
-**Please note the request within the safety documentation to bring your own safety glasses if you have them. If not safety glasses will be provided.**
+Before leaving the lab, make sure you record in your notebook which levitator you were using (they are numbered). That way when you return next week you can ensure you are using the same levitator.
 
 P
 ## Checkpoint Instructions
 
+Checkpoint 2 will take place in two parts:
+
+
+**Part 1: Practice calculation**
+*You may resubmit Module 2, checkpoint 2, Part 1 as many times as you like until you get the correct answer (it is auto-graded and will give you an immediate response). For this part **only** it is also okay to "save" your responses to the individual questions.*
+
+ You should do part 1 before part 2. The goal in part 1 is to determine the uncertainty in your estimate of the speed of sound, taking into consideration the uncertainty in both your measured effective wavelength and the uncertainty in the parameter "n" introduced in the Guoy correction. Remember, when you have two sources of uncertainty they should be combined in quadrature.
+
+**Part 2: Post-lab analysis**
+For part 2 our usual rules apply:
+**Reminder:** Please prepare your assignment in a separate document, enter all entries in a single sitting without using the "save" button and then make use of the "submit" button to submit your work. You may not resubmit your work once it has been submitted (and saving in Gradescope is equivalent to submitting).
+
 For this week's checkpoint you will be asked to submit the following:
 
-+ A description of what you did to minimize parallax as a source of systematic error with images showing your experimental setup. You will need to show both a top-view and side-view image to showcase your efforts to minimize parallax in both directions.
++ A calculation that shows correct propagation of errors to determine the uncertainty in the speed of sound taking into consideration both the uncertainty in the effective wavelength and the 
 
-+ Your estimate for the wavelength of the sound wave in your experiment from 5 or more distinct measurements in which you attempted to randomize parallax as a source of uncertainty and subsequent estimate for the speed of sound, with uncertainty.
++ A description of the source of systematic error you focused on. This should include one or more images that showcase your study in a way that would make sense to a fellow student (not necessarily in this course).
 
-+ And to double-check, make sure you have finished all of this week’s mini-questions by [checking here](mini-questions#week-2){:target="_blank"}
++ A plot showing your estimate for the wavelength of the sound wave in your experiment from varying the parameter you focused on over 5 or more distinct "positions". At each position you should have collected 2 data points and estimated the uncertainty from the spread between the data points. 
+
