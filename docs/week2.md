@@ -105,7 +105,7 @@ Before making use of dry ice make sure you reviewed the [safety precautions at t
 **Please note the request within the safety documentation to bring your own safety glasses if you have them. If not safety glasses will be provided.**
 
 
-Study the pattern of the sound waves with the dry ice - you should see significant deviations from plane wave behavior. We can in fact account for this! You will not be responsible for the details of the more complete theory but are encouraged to [read a summary here](gouy).
+Take a look at the pattern of the sound waves with the dry ice - you should see significant deviations from plane wave behavior. We can in fact account for this! You will not be responsible for the details of the more complete theory but are encouraged to [read a summary here](gouy).
 
 Bottom line:
 
@@ -119,7 +119,7 @@ For our system the instructors have determined that $$n=4.5 \pm 0.25$$. ([see pr
 
 Please make use of this correction to estimate the speed of sound. Do you get a more reasonable result?
 
-Now that you are hopefully in range of the expected value it is a good moment to perform a more systematic study of one of the most significant sources of systematic error. Your earlier investigation should have guided you to at least one source of systematic error that has a significant effect on the results. Choose one and perform a systematic study analogous to the study that you used to produce figure 1 for your module 2 deliverable. We are interested in the possible effect on your results if you are not sufficiently careful with this parameter. Therefore we would like you to 
+Now that you are hopefully in range of the expected value it is a good moment to perform a more systematic study of one of the most significant sources of systematic error. Your earlier investigation should have guided you to at least one source of systematic error that has a significant effect on the results. Choose one and perform a systematic study analogous to the study that you used to produce figure 1 for your module 2 deliverable. We are interested in the possible effect on your results if you are not sufficiently careful with this parameter. Therefore we would like you to vary this parameter over a small range representative of small, plausibly unintentional variations. you 
 Before leaving the lab, make sure you record in your notebook which levitator you were using (they are numbered). That way when you return next week you can ensure you are using the same levitator which will be essential if you end up reusing any of the data you collected this week.
 
 **Since we are focused entirely on parallax as a source of systematic error this week, when resetting the experiment it is only necessary to reset those parameters relevant to the source of parallax. You do not need to reset the beads themselves.**
