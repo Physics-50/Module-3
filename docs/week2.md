@@ -7,7 +7,10 @@
 5. [Further Exploration (optional)](#further-exploration)
 6. [Checkpoint Instructions](#checkpoint-instructions)
 
-**There is no pre-lab reading for this week and the embedded mini-questions are intended to be completed in lab this week rather than in advance. You will only receive credit for the mini-questions if they are completed during the lab period. Instead of pre-lab reading we would like you to reflect on any discrepancies between your results from last week and the expected value and possible explanations for the discrepancy.**
+
+**We will make use of dry ice in lab this week. The only pre-lab reading for this week is to carefully review the [safety precautions at this link](dry-ice-safety).**
+
+**The rest of the instructions in this week's lab manual do not need to be read in advance. The embedded mini-questions are intended to be completed in lab this week rather than in advance. You will only receive credit for the mini-questions if they are completed during the lab period. Instead of pre-lab reading we would like you to reflect on any discrepancies between your results from last week and the expected value and possible explanations for the discrepancy.**
 
 
 ## Experimental Iteration
@@ -89,7 +92,20 @@ When experimental results don't agree with the expected value it is a good idea 
 2. Check to make sure you trust the "expected value". For example, 343 m/s is the accepted value of the speed of sound under a specific set of conditions. Do those match the conditions in the lab? 343 m/s is the appropriate speed at $$20^{o}$$C. While the speed of sound depends on temperature, our laboratory conditions were close enough to $$20^{\circ}$$ C that we aren't going to be able to explain the discrepancy with temperature. You might also consider pressure, but the dependence of the speed of sound on pressure is extremely weak.
 3. When all else fails it can be a good idea to check if you are confident in your theory. 
 
-The theory we have relied upon assumes the levitator produces plane waves. However, if you took the time to investigate the sound waves with dry ice last week you may have noticed significant discrepancies from plane wave behavior. We can in fact account for this! You will not be responsible for the details of the more complete theory but are encouraged to [read a summary here](gouy).
+The theory we have relied upon assumes the levitator produces plane waves. Wouldn't it be nice if we could "see" the sound waves to assess if this is a reasonable assumption?  It turns out we can!
+
+This week you will make use of dry ice to get a more 3-dimensional view of the standing wave pattern. You will not be asked to report on this in the checkpoint but it is interesting to see. 
+
+This video gives you a sense of what to expect:
+
+[Video visualizing the standing waves with dry ice](https://drive.google.com/file/d/1kAjwFzc-ttmeFJRHg-QpZAd9PzZduhc3/view?usp=sharing){:target="_blank"}.
+
+Before making use of dry ice make sure you reviewed the [safety precautions at this link](dry-ice-safety) - this is the same documentation that was provided for pre-lab reading.
+
+**Please note the request within the safety documentation to bring your own safety glasses if you have them. If not safety glasses will be provided.**
+
+
+Study the pattern of the sound waves with the dry ice - you should see significant deviations from plane wave behavior. We can in fact account for this! You will not be responsible for the details of the more complete theory but are encouraged to [read a summary here](gouy).
 
 Bottom line:
 
@@ -99,9 +115,11 @@ You can correct for the 3D structure of the standing waves by applying the follo
   \lambda = \frac{\lambda_{\rm eff}}{1+\frac{1}{\pi n}}
 \end{equation}
 
-For our system the instructors have determined that $$n=4.5 \pm 0.25$$. ([see previously mentioned supplemental materials](gouy)). We will talk more in class about how to incorporate the uncertainty in $$n$$ into your final result for the speed of sound. 
+For our system the instructors have determined that $$n=4.5 \pm 0.25$$. ([see previously mentioned supplemental materials](gouy)). 
 
+Please make use of this correction to estimate the speed of sound. Do you get a more reasonable result?
 
+Now that you are hopefully in range of the expected value it is a good moment to perform a more systematic study of one of the most significant sources of systematic error. Your earlier investigation should have guided you to at least one source of systematic error that has a significant effect on the results. Choose one and perform a systematic study analogous to the study that you used to produce figure 1 for your module 2 deliverable. We are interested in the possible effect on your results if you are not sufficiently careful with this parameter. Therefore we would like you to 
 Before leaving the lab, make sure you record in your notebook which levitator you were using (they are numbered). That way when you return next week you can ensure you are using the same levitator which will be essential if you end up reusing any of the data you collected this week.
 
 **Since we are focused entirely on parallax as a source of systematic error this week, when resetting the experiment it is only necessary to reset those parameters relevant to the source of parallax. You do not need to reset the beads themselves.**
@@ -117,7 +135,7 @@ Before making use of dry ice it is important that you carefully review the [safe
 
 **Please note the request within the safety documentation to bring your own safety glasses if you have them. If not safety glasses will be provided.**
 
-
+P
 ## Checkpoint Instructions
 
 For this week's checkpoint you will be asked to submit the following:
