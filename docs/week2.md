@@ -144,7 +144,7 @@ For part 2 our usual rules apply:
 
 For this week's checkpoint you will be asked to submit the following:
 
-+ A calculation that shows correct propagation of errors to determine the uncertainty in the speed of sound taking into consideration both the uncertainty in the effective wavelength and the 
++ A calculation that shows correct propagation of errors to determine the uncertainty in the speed of sound taking into consideration both the uncertainty in the effective wavelength and the parameter "n" that appears in the correction based on the Gouy phase shift.
 
 + A description of the source of systematic error you focused on. This should include one or more images that showcase your study in a way that would make sense to a fellow student (not necessarily in this course).
 
