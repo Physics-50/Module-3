@@ -148,5 +148,5 @@ For this week's checkpoint you will be asked to submit the following:
 
 + A description of the source of systematic error you focused on. This should include one or more images that showcase your study in a way that would make sense to a fellow student (not necessarily in this course).
 
-+ A plot showing your estimate for the wavelength of the sound wave in your experiment from varying the parameter you focused on over 5 or more distinct "positions". At each position you should have collected 2 data points and estimated the uncertainty from the spread between the data points. 
++ A plot showing your estimate for the wavelength of the sound wave in your experiment from varying the parameter you focused on over 5 or more distinct "positions". At each position you should have collected 2 data points and estimated the uncertainty from the spread between the data points. You should make use of the [Physics 50 plotting script to plot your data](https://physics.hmc.edu/fitter/). 
 
