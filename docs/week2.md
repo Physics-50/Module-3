@@ -121,13 +121,24 @@ Please make use of this correction to estimate the speed of sound. Do you get a 
 
 Now that you are hopefully in range of the expected value it is a good moment to perform a more systematic study of one of the most significant sources of systematic error. Your earlier investigation should have guided you to at least one source of systematic error that has a significant effect on the results. Choose one and perform a systematic study analogous to the study that you used to produce figure 1 for your module 2 deliverable. We are interested in the possible effect on your results if you are not sufficiently careful with this parameter. Therefore we would like you to vary this parameter over a small range representative of small, plausibly unintentional variations. Ideally you would collect 5 data points at each of 5 positions. However, we recognize that you will likely not have time to collect this much data. Instead focus on collecting at least 2 data points at each of 5 positions. Statistical analysis such as computing the SEM is not meaningful with only two data points. However, it is still helpful to estimate the uncertainty so that we can gauge whether our results appear reasonable. With only two data points, the best we can do is estimate our uncertainty to be the spread between the data points. (Students are sometimes tempted to use half the spread, can you think why the full spread is a better representation of the uncertainty? If unsure speak to your instructor.)
 
+----
+
+#### Mini-question 2: Estimating the uncertainty from 2 data points
+**You will only receive credit for this mini-question if you complete it in lab - do not complete it before coming to class.**
+[*Click here to open in a new tab*](https://forms.gle/MYkieS2qvmeJzMrv8){:target="_blank"}
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScjcyLeUy89qqC5gO9NOrWYJyqoBE2POMnF4BxFvDqsy6i-iQ/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
+</iframe>
+
+-----
+
 **When resetting the experiment it is only necessary to reset those parameters relevant to the source of parallax. If this does not include the beads themselves then you do not need to reset the beads.**
 
 You will plot the data from your exploratory study as figure 1 of your deliverable. Make sure you take one or more photos that showcase the parameter you varied in a way that would help a fellow student understand your study.
 
 Before leaving the lab, make sure you record in your notebook which levitator you were using (they are numbered). That way when you return next week you can ensure you are using the same levitator.
 
-P
+
 ## Checkpoint Instructions
 
 Checkpoint 2 will take place in two parts:
