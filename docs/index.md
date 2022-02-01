@@ -8,7 +8,7 @@
 + [Week 2 - Investigation of a Source of Uncertainty](week2)
 + [Week 3 - Final Determination of Speed of Sound](week3)
 + [Week 4 - Scientific Communication](week4)
-+ [Feedback on the Grading of the Caption for the Deliverable](deliverable)
+
 
 [Background Reading](#background-reading)
 

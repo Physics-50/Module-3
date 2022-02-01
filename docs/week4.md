@@ -1,11 +1,8 @@
 ## Week 4: Preparation of your Deliverable
 
-1. [Background: Data Analysis](#data-analysis)
-2. [Deliverable](#deliverable)
+1. [Deliverable](#deliverable)
 
 There are no experiments this week but you are required to attend lab to work on your deliverable.
-
-Once you have collected this data you are ready to prepare your plot of bead position vs. node number. 
 
 ## Deliverable
 
