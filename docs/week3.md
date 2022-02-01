@@ -54,7 +54,7 @@ For checkpoint 3 our usual rules apply:
 
 + The 5 photos used for your data analysis
 
-+ You will be asked to report the measured effective wavelength, calculated wavelength after correcting for the non-planar sound waves, and measured speed of sound along with their respective uncertainties for one of your 5 images (it doesn't matter which one). 
++ You will be asked to report the measured effective wavelength, calculated wavelength after correcting for the non-planar sound waves, and measured speed of sound along with their respective uncertainties for one of your 5 images (it doesn't matter which one). You will also be asked to describe how you determined the uncertainty in wavelength for the individual images.
 
 + A plot of speed of sound v.s. image number that includes a horizontal line of best fit. Each of your data points should include an estimated uncertainty.
 
