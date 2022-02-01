@@ -1,4 +1,4 @@
-# Module 2, Week 2
+# Module 3, Week 2
 
 1. [Experimental Iteration](#experimental-iteration)
 2. [Introduction](#introduction)

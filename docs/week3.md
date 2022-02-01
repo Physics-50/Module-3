@@ -54,9 +54,13 @@ For checkpoint 3 our usual rules apply:
 
 + The 5 photos used for your data analysis
 
++ A description of how you estimated the uncertainty in the measured wavelength from an individual image.
+
 + You will be asked to report the measured effective wavelength, calculated wavelength after correcting for the non-planar sound waves, and measured speed of sound along with their respective uncertainties for one of your 5 images (it doesn't matter which one). You will also be asked to describe how you determined the uncertainty in wavelength for the individual images.
 
-+ A plot of speed of sound v.s. image number that includes a horizontal line of best fit. Each of your data points should include an estimated uncertainty.
++ A plot of speed of sound v.s. image number that includes a horizontal line of best fit. Each of your data points should include an estimated uncertainty. 
+
++ You will be asked to share your conclusions from your results. As part of your conclusion you should include your best estimate of the speed of sound with uncertainty from your data. Your answer to this question should mention your reduced $$\chi^2$$ value and any inferences you might make from it, as well as the agreement or disagreement of your results with expectations.
 
 
 
