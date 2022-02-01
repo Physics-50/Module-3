@@ -13,7 +13,7 @@
 
 Make sure you are using the same levitator as last week (you should have made note of the levitator number).
 
-Over the past two weeks you should have carefullh investigated significant sources of systematic error for this experiment. Your goal this week is to make a careful measurement of the speed of sound. 
+Over the past two weeks you should have carefully investigated significant sources of systematic error for this experiment. Your goal this week is to make a careful measurement of the speed of sound. 
 
 You will do this by analyzing at least 5 images. For each image make sure you have minimized all significant sources o systematic error. Between images make sure you reset the experiment to further randomize systematic errors. You are encouraged to check in with your instructor to confirm you are resetting all parameters of significance. This should include repositioning the ruler as well as the position of the levitator relative to the camera in between each measurement, as well as levitating a fresh set of beads for each photo.
 
