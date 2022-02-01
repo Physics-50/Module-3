@@ -1,9 +1,8 @@
 # Week 3
 
 
-1. [Background: Data Analysis](#background-reading-for-data-analysis)
-2. [Lab Instructions for Week 3](#lab-instructions-for-week-3)
-3. [What you need to leave lab with this week](#what-you-need-to-leave-lab-with-this-week)
+1. [Lab Instructions for Week 3](#lab-instructions-for-week-3)
+2. [What you need to leave lab with this week](#what-you-need-to-leave-lab-with-this-week)
 3. [Checkpoint #3](#checkpoint-3)
 
 
