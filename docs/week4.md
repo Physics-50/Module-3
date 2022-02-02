@@ -24,7 +24,7 @@ Figure 2 must include:
 
 + a plot of speed of sound v.s. image number that shows the determined speed of sound for each of the 5 images with uncertainty and includes a best fit horizontal line.
 
-+ a caption that follows the guidelines outlined for the Module 1 and 2 deliverables. Make sure to include your main result (the measured speed of sound), your procedure for collec
++ a caption that follows the guidelines outlined for the Module 1 and 2 deliverables. Make sure to include your main result (the measured speed of sound) as well as your procedure for the collection and analysis of data included in this figure.
 
 Additional note on figure captions: In this course your figure caption needs to stand alone and present your results. Your statement regarding your conclusions should include relevant supporting information. For example you might use your $$\chi_{\nu}^2$$ value to support your confidence in the result, or if you have identified a systematic error that might explain deviations from the expected value (and have checked that the correction would shift the result in an appropriate direction) you should include relevant information in your caption. But remember it is a caption, so keep all details concise. Information on how to interpret your $$\chi_\nu^2$$ value can be found in the [curve fitting guide from week 3](curve-fitting){:target="_blank"}.
 
