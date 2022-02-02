@@ -8,15 +8,23 @@ There are no experiments this week but you are required to attend lab to work on
 
 Your deliverable will consist of two multi-panel figures with  captions. Each figure should have a single caption that describes all panels. You should make use of the instructions for the module 1 and 2 deliverables as a guide.
 
-Like for module 2, figure 1 will focus on your inves
+Like for module 2, figure 1 will focus on your investigation of a significant source of systemtic error. Specifically the investigation you did in the later part of week 2.
+
 Figure 1 must include:
 
-+ one or more images showing how you collected your data
-    - Please mark the origin you used for data collection on your image and also annotate the image (neatly) to show the horizontal (or vertical) distance as measured to a sample bead. Label this distance with a parameter, e.g. "$$d$$" and define the parameter in your caption.
++ one or more images showing how you collected your data. These images should help a student not in this class to understand your investigation of a source of systematic error.
 
-+ a plot of bead position vs. node number with uncertainties on each data point and a linear regression fit weighted by the uncertainties. This plot must be prepared in MATLAB.
++ a plot showing the results of your investigation of a significant source of systematic error.
 
-+ a caption that follows the guidelines outlined in Module 1, week 3. Make sure to include your main result (the measured speed of sound with uncertainty) in your caption. Relevant fit parameters such as the $$\chi_\nu^2$$ value for the fit should be included in the caption, not shown on the plot (and defined where appropriate).
++ a caption that follows the guidelines outlined for the Module 1 and 2 deliverables. Make sure to include your main result (the significance of the source of systematic uncertainty to the measurement of the speed of sound you will present in figure 2 and how this influenced your procedure for the data you later collected for figure 2) in your caption. 
+
+Figure 2 must include:
+
++ one or more images that convey the procedure you used to extract the speed of sound from individual images. The images will depend on the procedure you used but  might include a plot (if you determined the speed of sound by plotting bead position v.s. node number) and/or a labelled sample image the clearly indicates how you determined the position of the center of each bead of interest and which beads you used for your analysis.
+
++ a plot of speed of sound v.s. image number that shows the determined speed of sound for each of the 5 images with uncertainty and includes a best fit horizontal line.
+
++ a caption that follows the guidelines outlined for the Module 1 and 2 deliverables. Make sure to include your main result (the measured speed of sound), your procedure for collec
 
 Additional note on figure captions: In this course your figure caption needs to stand alone and present your results. Your statement regarding your conclusions should include relevant supporting information. For example you might use your $$\chi_{\nu}^2$$ value to support your confidence in the result, or if you have identified a systematic error that might explain deviations from the expected value (and have checked that the correction would shift the result in an appropriate direction) you should include relevant information in your caption. But remember it is a caption, so keep all details concise. Information on how to interpret your $$\chi_\nu^2$$ value can be found in the [curve fitting guide from week 3](curve-fitting){:target="_blank"}.
 
