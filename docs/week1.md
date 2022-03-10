@@ -11,7 +11,7 @@
 --------------
 
 ### Introduction
-In this module we will be working with a rather cool piece of home-built equipment, an acoustic levitator! We will be doing far more than floating objects, however. We will continue to hone in on one of the most important skills of an experimentalist: performing accurate and precise measurements. This is an important part of experimental science. The GPS on my phone may be able to tell me my location on a map, but how useful would it be if it was only certain to a radius of 5 miles? Or what if it was consistently reporting a location that was 1 mile to the east of my actual location? Understanding how well we <em>truly</em> know the value of something, being able to increase the accuracy to be useful for our application, and being certain that we are actually measuring what we think we are measuring are fundamental to good scientific practice.
+In this module we will be working with a rather cool piece of home-built equipment, an acoustic levitator! We will be doing far more than floating objects, however. We will continue to hone in on one of the most important skills of an experimentalist: performing accurate and precise measurements. This is an important part of experimental science. The GPS on my phone may be able to tell me my location on a map, but how useful would it be if it was only certain to a radius of 5 miles? Or what if it was consistently reporting a location that was 1 mile to the east of my actual location? Understanding how well we <em>truly</em> know the value of something, being able to increase the precision to be useful for our application, and being certain that we are actually measuring what we think we are measuring are fundamental to good scientific practice.
 
 ### Background Reading
 This week in lab you will be working with a standing wave of sound to levitate small objects (cool!). Let us take a few minutes to understand how they work.
@@ -19,7 +19,7 @@ This week in lab you will be working with a standing wave of sound to levitate s
 #### A Brief Review of Standing Waves
 The acoustic levitators we will use in lab make use of standing waves of sound. Let us harken back to Physics 24 for a brief review of the basics of standing waves.
 
-As you may recall, in a transverse wave the disturbance away from equilibrium, y, in a wave traveling in the x direction can be described by the equation $$y=A \sin(k x-\omega t)=A \sin[2\pi(\frac{x}{\lambda}-\nu t)]$$ where $$ A$$ is the maximum amplitude, $$ \nu=\frac{\omega}{2\pi}$$ is the frequency (that's Greek "nu"), and $$\lambda$$ is the wavelength of the wave. The speed $$ v$$ of the wave is given by $$v=\lambda \nu.$$
+As you may recall, in a transverse wave the disturbance away from equilibrium, $$y$$, in a wave traveling in the $$x$$ direction can be described by the equation $$y=A \sin(k x-\omega t)=A \sin[2\pi(\frac{x}{\lambda}-\nu t)]$$ where $$ A$$ is the maximum amplitude, $$ \nu=\frac{\omega}{2\pi}$$ is the frequency (that's Greek "nu"), and $$\lambda$$ is the wavelength of the wave. The speed $$ v$$ of the wave is given by $$v=\lambda \nu.$$
 
 In the case of a wave on a string the wave travels along the length of the string and the disturbance $$ y $$ is the displacement of bits of string perpendicular to the length. Imagine a string tied at one end to a fixed spot on a post, held under constant tension and attached at the other end to a mechanical oscillator that jiggles the string. The oscillator creates a sine wave that propagates towards the fixed end, where it reflects, creating another sine wave that propagates back toward the oscillator in the opposite direction. We now have two waves traveling in opposite directions and what we observe will be the result of these two waves added together.
 
@@ -48,7 +48,7 @@ What happens if instead of a fixed end we have a second mechanical oscillator sh
 
 ### Acoustic Levitator Theory
 
-Air surrounds us all the time and it’s easy not to think about it at all, or to think of it as insubstantial.  But when a gust of wind blows over our beach umbrella, or a vacuum cleaner sucks up dust (or confetti, or popcorn…), it’s hard to ignore the fact that air molecules can exert force on other objects.  Specifically, these phenomena and many others involve net motion of many air molecules in response to a pressure difference.  In the case of the wind at the beach, the original pressure difference may be caused by weather patterns and by the contrasting temperature and motion of the water compared to the land.  In the case of the vacuum cleaner, the original pressure difference is caused by the vacuum action pulling air out of the canister.  Either way, air moves in response to the original disturbance, and can push solid objects as it goes.  Sound travels through air in a similar manner.  You bang on the table, and the table (and your hand) vibrates. These vibrations jiggle the nearby air, causing a pressure wave in the air that outward and eventually vibrates your eardrums, which your ‘microphones’ (i.e., eardrums) interpret as a sharp bang.
+Air surrounds us all the time and it’s easy not to think about it at all, or to think of it as insubstantial.  But when a gust of wind blows over our beach umbrella, or a vacuum cleaner sucks up dust (or confetti, or popcorn…), it’s hard to ignore the fact that air molecules can exert force on other objects.  Specifically, these phenomena and many others involve net motion of many air molecules in response to a pressure difference.  In the case of the wind at the beach, the original pressure difference may be caused by weather patterns and by the contrasting temperature and motion of the water compared to the land.  In the case of the vacuum cleaner, the original pressure difference is caused by the vacuum action pulling air out of the canister.  Either way, air moves in response to the original disturbance, and can push solid objects as it goes.  Sound travels through air in a similar manner.  You bang on the table, and the table (and your hand) vibrates. These vibrations jiggle the nearby air, causing a pressure wave in the air that travels outward and eventually vibrates your eardrums, which your ‘microphones’ (i.e., eardrums) interpret as a sharp bang.
 
 Given that sound is vibrations of the air, might sound waves push and even levitate solid objects?  Indeed, this is the phenomenon of acoustic levitation, or ‘acoustophoresis,’ in which sound floats material objects.  The forces here are a bit more complicated than in the case of the beach umbrella or vacuum cleaner.  Both of those examples involved a steady or long-lasting pressure difference causing a sustained motion of the air in one direction.  As a sound wave passes through the air, however, the pressure in any given spot oscillates between high and low many times per second, but the vibrating air can still exert an overall force called acoustic radiation pressure. We’ll discuss in more detail the various ingredients that go into acoustic levitation in a standing wave of sound.
 
@@ -73,20 +73,20 @@ The sinusoidal waves shown in the figure below represent the pattern of pressure
 
 <img class="wp-image-1520" src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/08/standing-displacement-antinode-vert-cropped-4.gif" alt="" width="600" height="416" />
 
-The above animation shows a standing pressure wave that is oscillating at its resonance frequency. In the left animation we see the air particles being driven back and forth, creating regions of high and low pressure. The middle animation shows the displacement from equilibrium of a particle as a function of position. The right animation represents the deviation from equilibrium pressure as a function of position. Note this pressure wave is oscillating about the equilibrium pressure, not zero pressure. Notice the motion of the <span style="color: #ff0000;">red particles</span> for various locations and how the displacement and pressure animations relate to that motion.
+The above animation shows a standing wave of sound in air. In the left animation we see the air particles being driven back and forth, creating regions of high and low pressure. The middle animation shows the displacement from equilibrium of a particle as a function of position. The right animation represents the deviation from equilibrium pressure as a function of position. Note this pressure wave is oscillating about the equilibrium pressure, not zero pressure. Notice the motion of the <span style="color: #ff0000;">red particles</span> for various locations and how the displacement and pressure animations relate to that motion.
 
 In the previous section the standing wave on a string was caused by a traveling wave in one direction, driven by a source, and the reflections of this original traveling wave at the ends of the string.  A standing wave of sound can be created in the same way, using a single traveling-wave source like a speaker at one end of the setup and a sound reflector, like a metal plate, at the other.  Standing waves set up in this way are called resonant standing waves.  In a given setup, they are possible only at certain frequencies because the reflected waves have to interfere in just the right way with one another – or to put it another way, an integer number of half-wavelengths must fit along the length of the setup.  However, at the right wavelengths or frequencies, resonant standing waves can be very strong even if the original driving source is relatively weak; the reason is again that resonant standing waves involve constructive interference of the original wave with the waves that have gone before it and completed one round trip, or two round trips (etc.), through the setup.
 
 Resonant standing waves of sound are very common.  (To play with some, consult a friend with just about any non-electronic musical instrument.)  However, our setup this week will involve **non-resonant standing waves** of sound.  Remember that the key ingredients for a standing wave are two traveling waves in opposite directions. In a non-resonant standing wave, we simply place one source at either end of the setup.  If the two sources are driven together---by the same signal---they will produce traveling waves in opposite directions, of equal frequencies and amplitudes, creating a standing wave.  In a non-resonant standing wave, reflections of the original traveling waves are not crucial.  Therefore, there are no specific frequency or wavelength requirements to make a standing wave “work” in the setup (i.e., no harmonics). However, since the original traveling waves don’t get “reused” in the setup through multiple reflections, a non-resonant standing wave is generally not very strong unless the driving source itself is strong. You will see both of these features of non-resonant standing waves in the apparatus you will use this week.
 
-In our acoustic levitator apparatus, the two sources are two sets of tiny speakers driven by the same electrical signal.  Each speaker set is arranged in a slightly concave bowl-like shape, and the two bowls face each other on opposite ends of a plastic frame.  The curved, concave shape of each source is a detail we haven’t yet discussed.  Its purpose is to shape the standing waves, making them focused and strongest in the middle of the apparatus.  The same thing is very commonly done for standing waves of light, with pairs of curved mirrors.  You can get a rough idea of how the curved surfaces produce curved wave patterns in the second half of <a href="https://www.youtube.com/watch?v=tVWemRbgLW4">this</a> video.
+In our acoustic levitator apparatus, the two sources are two sets of tiny speakers driven by the same electrical signal.  Each speaker set is arranged in a slightly concave bowl-like shape, and the two bowls face each other on opposite ends of a plastic frame.  The curved, concave shape of each source is a detail we haven’t yet discussed.  Its purpose is to shape the standing waves, making them focused and strongest in the middle of the apparatus.  The same thing is very commonly done for standing waves of light, with pairs of curved mirrors.  You can get a rough idea of how the curved surfaces produce curved wave patterns in the second half of [this](https://www.youtube.com/watch?v=tVWemRbgLW4){:target="_blank"} video.
 
 How does a standing wave of sound produce acoustic levitation?  Take a good look at the standing wave in the previous figure .  A standing wave of sound consists of “pressure antinodes,” fixed positions in space where the pressure <em>deviates the most from the equilibrium</em>, atmospheric value, and “pressure nodes,” fixed positions in space where the <em>pressure stays constant</em>.  You might imagine a small styrofoam bead placed in the standing wave, being pushed away from a pressure antinode when the pressure is high there, and then being pulled toward it when the pressure is low there.  This doesn’t sound like it creates stable trapping!  However, the key to acoustic radiation pressure is that the standing waves oscillate too fast for a big, heavy particle (even a styrofoam bead) to follow the cycles of push and pull in a simple way.  Instead, the air in each region pushes the particle with an effective force proportional to the time average of the square of the pressure, $$ \langle p^2 \rangle $$.  There is a well-developed theoretical foundation for this force (see Gorkov, 1961 and Marzo *et al*, 2017) but we will not go into it here.  What’s important to note for now is that $$ \langle p^2 \rangle $$ is larger at the pressure antinodes than at the pressure nodes, so particles are consistently pushed either to the pressure nodes or to the pressure antinodes.  Most solid particles are pushed to (and trapped in) the pressure nodes; the exact details depend on the density of the object compared to air and the speed of sound through the object.
 
 ### Week 1 Instructions
 By the end of the day today you will be able to successfully levitate, using sound waves, small polystyrene beads! You will make a preliminary measurement of the speed of sound in air by measuring the separations between suspended beads, and you will have performed a preliminary investigation of sources of systematic error in the experiment.
 
-Our first goal is to create a standing wave with the acoustic levitator. The speakers create sound by exerting force on the air. To create sound of a given pitch, or frequency, the speaker pushes the air back and forth in a repeating pattern at that frequency. The exact pattern — sinusoidally varying force, short bursts, or something else — influences the timbre of the sound produced. Our speakers are piezos, or piezoelectrics, meaning that applying a potential difference across the speaker will result in the speaker exerting a force on the air. If we want the speaker to create a tone, we need to give it a periodic signal. A **function generator**, shown below and abbreviated as “FG”-- is a piece of equipment that creates periodic signals.
+Our first goal is to create a standing wave with the acoustic levitator. The speakers create sound by exerting force on the air. To create sound of a given pitch, or frequency, the speaker pushes the air back and forth in a repeating pattern at that frequency. The exact pattern — sinusoidally varying force, short bursts, or something else — influences the timbre of the sound produced. Our speakers are piezos, or piezoelectrics, meaning that applying a potential difference across the speaker will result in the speaker exerting a force on the air. If we want the speaker to create a tone, we need to give it a periodic signal. A **function generator**, shown below and abbreviated as “FG," is used to create a periodic electrical signal.
 
 [![Image of FG](images/fg_and_power.jpg)](images/fg_and_power.jpg){:target="_blank"}
 
@@ -98,7 +98,7 @@ A function generator’s waveform, frequency, amplitude and offset are set in th
     + Adjust the AMPLITUDE and OFFSET settings using the F2 and F3 buttons. Again, use the number pad to type in your desired value followed by the units; press enter.
     + Press the "ON" button above the output of the function generator to make sure it is ON (illuminated).
 
-You can go ahead and turn on the function generator and set it now. For this experiment, **set the function generator (FG) to create a 40 kHz SQUARE wave with amplitude 5 V and offset 2.5 V**. “Amplitude” for the FG means peak to peak voltage variation of the signal. The speakers are designed to work best at 40 kHz, and beads will only levitate stably if you use a square wave, not a sinusoidal wave. **Don't forget to press the ON button** above the output port.
+You can go ahead and turn on the function generator and set it now. For this experiment, **set the function generator (FG) to create a 40 kHz SQUARE wave with amplitude 5 V and offset 2.5 V**. “Amplitude” for the FG means peak-to-peak voltage variation of the signal. The speakers are designed to work best at 40 kHz, and beads will levitate much more stably if you use a square wave, not a sinusoidal wave. **Don't forget to press the ON button** above the output port.
 
 #### Powering the Acoustic Levitator
 Let’s turn our electric signal into a sound wave! Ensure that the switch on the levitator is set to “AMP.” Be careful, as the switch has 3 possible positions, and you want to set it all the way to “AMP.” This sets the output from the FG to go through a digital driver. A digital driver sets the potential difference at its output to one of two things: either 0 V, or the voltage supplied by the power supply (labeled PS OUTPUT (+)). The voltage on the logic inputs determines which of these two options is outputted. In our setup, the square wave output of the function generator is connected to the logic inputs. Thus, the output of the driver will be a square wave oscillating at the same frequency as the function generator, switching between 0 V and the power supply output voltage.
@@ -107,12 +107,11 @@ Let’s turn our electric signal into a sound wave! Ensure that the switch on th
 
 The above image shows a schematic of the driver used in our circuit “L298N Motor Drive Controller Board.” This board is actually able to drive two devices with outputs A and B. We will only be using one in our circuit. “PS OUTPUT(+)” is the connection to the positive power supply output and “PS GND” is the power supply ground.
 
-Connect one end of a BNC cable to the FG output. Plug the other end into the “FG” input on the case of the levitator as shown below. Do not connect the power supply.
-
+The image below shows the back of the levitator. The inputs for both the function generator and power supply are highlighted. There should already be BNC cables attached to both of these in your apparatus.
 
 <img class="wp-image-1588 size-full" src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/09/levitator-back.png" alt="" width="469" height="327">
 
-The above image shows the back of the levitator. The inputs for both the function generator and power supply are highlighted. There should already be BNC cables attached to both of these in your apparatus.
+Identify the BNC cable connected to the “FG” input on the case of the levitator, shown above. Connect its other end to the "output" port of your function generator.  Do not connect the power supply.
 
 Safety Warning: Whenever you are connecting elements in a circuit, make sure the power supply and function generator output are off. Do not turn on the power supply until you have completed the circuit.
 
@@ -131,7 +130,7 @@ When you reach a voltage output of around 6-10 volts, the current will start to 
 ### Levitating a Bead
 Now let's try to levitate a styrofoam bead! See the following [video for instructions on how to load a bead into the levitator](https://youtu.be/YrpVdlcYu7Y){:target="_blank"}.
 
-Place a few beads on a lens wipe or dryer sheet and move them around between the speakers of the acoustic levitator until they hop into position. This should not be too difficult. If the bead doesn't stay, double check all your connections, the function generator settings (including if the output is on), and that the light on the driver is on. Ask an instructor if problems persist.
+Place a few beads on a lens wipe or dryer sheet and move them around between the speakers of the acoustic levitator until they hop into position. This should not be too difficult. If beads will not levitate, double check all your connections, the function generator settings (including if the output is on), and that the light on the driver is on. Ask an instructor if problems persist.
 
 ### Collecting data
 
@@ -145,31 +144,29 @@ The basic strategy for determining the speed of sound using your acoustic levita
 + You know the frequency $$\nu$$ of the wave, because you have set it with the function generator.
 + You can compute the speed of sound from $$v = \lambda \nu$$.
 
-You have several methods at your disposal to make your measurements. There are calipers, rulers, and cameras available in the lab. You can try directly reading the separation with the calipers:
+You have several methods at your disposal to make your measurements. There are calipers and rulers available in the lab. You can try directly reading the separation with the calipers:
 
 [Click here for instructions on using the calipers](caliper)
 
-However, you will most likely find it difficult to get a reliable reading as you cannot bring the calipers close to the beads without disturbing them. 
+However, you will most likely find it difficult to get a reliable reading as you cannot bring the calipers close to the beads without disturbing them.
 
-To combat this, you will collect your data by positioning a camera near the levitator and taking a picture. However, it is important that you have a plan to convert from a distance between beads in pixels to a measure of their separation in mm; this is much like adding the scale bar in your Module 1 deliverable. You will need a ruler in your image whose markings you can use to compute the conversion factor, and you will want to think about how best to position your ruler. 
+#### Setting up the camera to take a picture of the levitated beads
+
+To combat this, you will collect your data by taking a picture of your levitated beads, along with a ruler to determine the distance scale if your image. Use your phone camera and one of the phone mounts available in the lab.  Think carefully about how to best position your levitator, ruler, and camera so that you obtain a clear image that can be used to find the separation between beads (in pixels) and the appropriate conversion factor between pixels and actual distance.  
 
 If you think of materials around the lab that might be helpful, ask your instructor if you can use these materials. Creativity is encouraged!
 
 --------------
 
-## Setting up the camera to take a picture of the levitated beads
-
-The provided cell phone camera mount, mounted to a vertical pole, can be used to position your cell phone near the acoustic levitator to take pictures of the beads for analysis. Make sure to include a ruler in the image for calibration purposes and give some thought to the best positioning of the ruler for accurate results.
-
 ### Preliminary Data Analysis
 
-It is helpful to begin your exploratory analysis with a back-of-the-envelope estimate. Go ahead and make use of the measured spacing between beads to estimate the speed of sound. It is difficult to get a good estimate by directly measuring the distance between beads. Instead try the following:
+It is helpful to begin your exploratory analysis with a back-of-the-envelope estimate. Go ahead and make use of the measured spacing between beads to estimate the speed of sound. Use your image, since it is a good idea to test out the data acquisition and analysis method you intend to use in the future.
 
-1. Take a picture of levitated beads. Your picture should also include a ruler for calibration. 
+1. Open your image of levitated beads. Your picture should also include a ruler for calibration. 
 
-2. Determine the separation between beads in pixels.
+2. Determine the separation between beads in pixels.  Beads are located at pressure nodes of the standing wave.
 
-3. Use the ruler to determine a conversion factor from pixels to millimeters.
+3. Use the ruler to determine a conversion factor from pixels to millimeters.  (There are multiple ways to do this, and some are better than others!)
 
 4. Use the measured separation between nodes to determine the speed of sound.
 
@@ -205,11 +202,11 @@ Let’s practice with a mini-question. Please download the following image of le
 
 --------------
 
-Is your result reasonable? (Go ahead and look up the speed of sound in air for comparison). If your result does not appear to be in reasonable agreement with the expected value you should pause here and try to work out why (talk to your instructor if unsure).
+Is your result reasonable (much closer than a factor of two)? (Go ahead and look up the speed of sound in air for comparison). If your result does not appear to be in reasonable agreement with the expected value you should pause here and try to work out why (talk to your instructor if unsure).
 
 ## Wiggling the parameters to explore sources of uncertainty
 
-Next week we will perform a detailed investigation of a significant source of uncertainty. But first we need to do an exploratory study to determine which sources of uncertainty might be the most significant. This week we would like you to investigate 3 possible sources of systematic error. Before doing so set up your spreadsheet so that you can roughly estimate the effect of your source of systematic error on your results. This will not be a formal error analysis. Instead for week 1 only, we would like you estimate the speed of sound in the center of your range of exploration and at the two ends. Between measurements you should reset your source of systematic error but do not need to reset anything else. 
+Next week we will perform a detailed investigation of a significant source of uncertainty. But first we need to do an exploratory study to determine which sources of uncertainty might be the most significant. This week we would like you to investigate 3 possible sources of systematic error. Before doing so, set up your spreadsheet so that you can roughly estimate the effect of each source of systematic error on your results. This will not be a formal error analysis, but an exploration of how measured sound speed changes in response to the "wiggling" of three parameters. Pick a reasonable range over which to vary each parameter.  Then estimate the speed of sound in the center of your range of exploration and at the two ends. Between measurements, make sure you change only the parameter you are currently wiggling; this week, you do not need to reset any other parameters between trials. 
 
 
 In your checkpoint you will be asked to report the following for each of the 3 sources of systematic error you investigated:
@@ -226,18 +223,18 @@ If you are having trouble working out what to investigate, please speak to your 
 
 ## Photo for Estimating the Speed of Sound
 
-Once you've finished exploring sources of uncertainty, take a moment to reflect on your initial measurement. Are you now aware of sources of systematic error that may have significantly affected the accuracy of the results? You do not need to collect a full data set to estimate the speed of sound with uncertainty, we will do that in future weeks. But please collect one photo in which you make an attempt to minimize any sources of systematic error you found to be significant and make use of this photo to get a preliminary estimate of the speed of sound which you will report in this weeks checkpoint. 
+Once you've finished exploring sources of uncertainty, take a moment to reflect on your initial measurement. Are you now aware of sources of systematic error that may have significantly affected the accuracy of the results? You do not need to collect a full data set to estimate the speed of sound with uncertainty; we will do that in future weeks. But please collect one photo in which you make an attempt to minimize any sources of systematic error you found to be significant and make use of this photo to get a preliminary estimate of the speed of sound which you will report in this week's checkpoint. 
 
 ## Assessment of results
 Next week you will perform a systematic investigation of a significant source of systematic error (analogous to the investigation you performed in week 1 of module 2), the results of which will be used for one of the figures in your deliverable. Before moving on, make sure you have found a significant source of systematic error to focus on next week. This would be a good time to check in with your instructor. As part of this week's checkpoint you will be asked to indicate the source of systematic error you plan to focus on next week and your plan of approach.
 
-Even without a formal uncertainty analysis this is a good moment to check if you are on track. Do your estimated values from your efforts to "wiggle the parameters" bracket the expected speed of sound? If not we encourage you to make use of the remaining time in lab for further investigation. Is there a significant source of systematic error that you missed? It is possible that you may do a careful study and not get a range of results that includes the expected speed of sound, but you will be asked to reflect on the reasonableness of your results and your confidence in them as part of the checkpoint so if your results do not agree with expectations we encourage you to make the most of the available time in lab to try to understand what is going on.
+Even without a formal uncertainty analysis this is a good moment to check if you are on track. Do your estimated values from your efforts to "wiggle the parameters" bracket the expected speed of sound? If not we encourage you to make use of the remaining time in lab for further investigation. Is there a significant source of systematic error that you missed? It is possible that you may do a careful study and not get a range of results that includes the expected speed of sound, but you will be asked to reflect on the reasonableness of your results and your confidence in them as part of the checkpoint, so if your results do not agree with expectations we encourage you to make the most of the available time in lab to try to understand what is going on.
 
 
 
 ### Summary of what you need to leave lab with today
 
-+ An investigation of potential sources of uncertainty. You should have investigated 3 potential sources of uncertainty. Please take a look at the Gradescope assignment and be sure what you will need to report.
++ An investigation of potential sources of uncertainty. You should have investigated 3 potential sources of uncertainty. Please take a look at the Gradescope assignment and be sure you have everything you will need to report.
 
 + You should have a preliminary estimate of the speed of sound based on the spacing between levitated beads. This should come from the picture you took after completing your exploration of sources of uncertainty. It should include four or more levitated beads and a ruler that can be used for image calibration. You will also need to make use of the frequency of the function generator in your analysis.
 
@@ -258,7 +255,7 @@ This week's checkpoint will be submitted in two parts.
 
 **Part 2: Post-lab analysis**
 For part 2 our usual rules apply:
-**Reminder:** Please prepare your assignment in a separate document, enter all entries in a single sitting without using the "save" button and then make use of the "submit" button to submit your work. You may not resubmit your work once it has been submitted (and saving in Gradescope is equivalent to submitting).
+**Reminder:** Please prepare your assignment in a separate document, enter all entries in a single sitting without using the "save" button, and then make use of the "submit" button to submit your work. You may not resubmit your work once it has been submitted (and saving in Gradescope is equivalent to submitting).
 
 For this week’s checkpoint, part 2, you will be asked to report:
 
@@ -266,7 +263,7 @@ For this week’s checkpoint, part 2, you will be asked to report:
 
 + The conversion factor you used for converting pixels to distance and a 1--2 sentence description of how you arrived at this conversion factor.
 
-+ An estimate of the speed of sound, based on your preliminary data.
++ An estimate of the speed of sound, based on your last and most carefully taken image from this week.
 
 + A summary of what you learned from your preliminary exploration of sources of uncertainty. The assignment on Gradescope has specific instructions for what to report from this exploration.
 
