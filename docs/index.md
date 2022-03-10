@@ -37,12 +37,12 @@ In Module 3 you will encounter an experiment designed to determine the value of 
 3. Communication Phase
     - after doing your measurements and calculations, you now get to think carefully about how you will communicate your results: What is the best way to visualize your data? What are the deeper conclusions that you can draw from your data? What follow-up experiment would come next? This phase often ends with a scientific paper or presentation. In Module 3, you will present your results in a sequence of two figures with captions.
 
-Although we are going to treat these phases as separate, linear progression, they aren't always like that. Things often don't go as planned; when in the final determination phase, anomalies in your data might make you rethink the theory or procedure and you might end up back in the exploratory phase. Or you might want to think of how you will communicate your work, even in the exploratory phase; thinking of the possible conclusions that would result from your experiment can help you decide if your plan for measuring the physical quantity is sensible. These phases are meant to be helpful guideposts for this investigation, not a set of "rules" for how experimental work always unfolds.
+Although we are going to treat these phases as separate, linear progression, they aren't always like that. Things often don't go as planned; during the final determination phase, anomalies in your data might make you rethink the theory or procedure and you might end up back in the exploratory phase. Or during the exploratory phase, you might want to think of how you will communicate your work; thinking of the possible conclusions that would result from your experiment can help you decide if your plan for measuring the physical quantity is sensible. These phases are meant to be helpful guideposts for this investigation, not a set of "rules" for how experimental work always unfolds.
 
 
 ## Weekly Plan
 
-In this module, you will use the position at which beads can be suspended in an acoustic levitator to determine the speed of sound in air.  The theory behind this module gives you a chance to review and extend your understanding of vibrations and waves from Physics 24.  On the laboratory side, this module is an opportunity to consider the interplay between several sources of error in a final quantity, and to focus on systematic as well as random errors.  In setting up the experiment, you will make your own choices that can in turn influence the accuracy and precision of your results.
+In this module, you will use the positions at which beads can be suspended in an acoustic levitator to determine the speed of sound in air.  The theory behind this module gives you a chance to review and extend your understanding of vibrations and waves from Physics 24.  On the laboratory side, this module is an opportunity to consider the interplay between several sources of error in a final quantity, and to focus on systematic as well as random errors.  In setting up the experiment, you will make your own choices that can in turn influence the accuracy and precision of your results.
 
 Module 3 is four weeks long. You will have a checkpoint due in each of the first three weeks. These checkpoints will give us a chance to give you feedback as you work towards the Module 3 deliverable: a sequence of two figures with captions that convey the nature of the data and logic, leading to a final result.
 
@@ -51,7 +51,7 @@ Module 3 is four weeks long. You will have a checkpoint due in each of the first
 2. [Week 2 - Investigation of a source of systematic error](week2)
     - Checkpoint: results showing the significance of an important source of systematic error for the overall uncertainty of the measurement
 3. [Week 3 - Final Determination of Speed of Sound](week3)
-    - Checkpoint: Plot of measured speed of sound from multiple measurements, estimate of the speed of sound, and uncertainty.
+    - Checkpoint: Plot of measured speed of sound from multiple measurements, overall best determination of speed of sound and its uncertainty.
 4. [Week 4 - Scientific Communication](week4)
     - Deliverable: a sequence of figures with captions that communicate your reasoning and results.
 
