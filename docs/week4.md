@@ -6,23 +6,23 @@ There are no experiments this week but you are required to attend lab to work on
 
 ## Deliverable
 
-Your deliverable will consist of two multi-panel figures with  captions. Each figure should have a single caption that describes all panels. You should make use of the instructions for the module 1 and 2 deliverables as a guide.
+Your deliverable will consist of two multi-panel figures with  captions. Each figure should have a single caption that describes all panels. You should make use of the instructions for the Module 1 and 2 deliverables as a guide.
 
-Like for module 2, figure 1 will focus on your investigation of a significant source of systemtic error. Specifically the investigation you did in the later part of week 2.
+Just as in Module 2, Figure 1 will focus on your investigation of a significant source of systemtic error -- specifically the investigation you did at the end of week 2.
 
 Figure 1 must include:
 
-+ one or more images showing how you collected your data. These images should help a student not in this class to understand your investigation of a source of systematic error.
++ one or more images showing how you collected your data. These images should help a student not in this class to understand the whole setup and your investigation of a source of systematic error.
 
 + a plot showing the results of your investigation of a significant source of systematic error.
 
-+ a caption that follows the guidelines outlined for the Module 1 and 2 deliverables. Make sure to include your main result (the significance of the source of systematic uncertainty to the measurement of the speed of sound you will present in figure 2 and how this influenced your procedure for the data you later collected for figure 2) in your caption. 
++ a caption that follows the guidelines outlined for the Module 1 and 2 deliverables. Make sure to include your main result (the significance of the source of systematic error to the measurement of the speed of sound you will present in Figure 2, and how this influenced your procedure for the data you later collected for Figure 2) in your caption. 
 
 Figure 2 must include:
 
-+ one or more images that convey the procedure you used to extract the speed of sound from individual images. The images will depend on the procedure you used but  might include a plot (if you determined the speed of sound by plotting bead position v.s. node number) and/or a labelled sample image the clearly indicates how you determined the position of the center of each bead of interest and which beads you used for your analysis.
++ one or more images that convey the procedure you used to extract the speed of sound from individual images. The images will depend on the procedure you used but might include a plot (if you determined the speed of sound by plotting bead position vs. node number) and/or a labelled sample image the clearly indicates how you determined the position of the center of each bead of interest and which beads you used for your analysis.
 
-+ a plot of speed of sound v.s. image number that shows the determined speed of sound for each of the 5 images with uncertainty and includes a best fit horizontal line.
++ a plot of speed of sound vs. image number that shows the determined speed of sound for each of the 5 images with uncertainty, and includes a best fit horizontal line.
 
 + a caption that follows the guidelines outlined for the Module 1 and 2 deliverables. Make sure to include your main result (the measured speed of sound) as well as your procedure for the collection and analysis of data included in this figure.
 
