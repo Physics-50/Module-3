@@ -10,8 +10,7 @@
 + [Week 4 - Scientific Communication](week4)
 
 
-[Background Reading](#background-reading)
-
+<!-- [Background Reading](#background-reading) -->
 
 ## Module 3 Overview
 
