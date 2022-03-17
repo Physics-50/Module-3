@@ -89,10 +89,10 @@ But perhaps you still feel the above results are "close enough" to the expected 
 
 When experimental results don't agree with the expected value it is a good idea to:
 1. Check to make sure you trust your experimental results. Were you careful to minimize potential sources of systematic error?  Do other groups in your section see results consistent with yours, or could they point you toward a mistake you are making?
-2. Check to make sure you trust the "expected value". For example, 343 m/s is the accepted value of the speed of sound under a specific set of conditions. Do those match the conditions in the lab? 343 m/s is the appropriate speed at $$20^{o}$$C. While the speed of sound depends on temperature, our laboratory conditions were close enough to $$20^{\circ}$$ C that we aren't going to be able to explain the discrepancy with temperature. You might also consider pressure, but the dependence of the speed of sound on pressure is extremely weak.
+2. Check to make sure you trust the "expected value." For example, 343 m/s is the accepted value of the speed of sound under a specific set of conditions. Do those match the conditions in the lab? 343 m/s is the appropriate speed at $$20^{o}$$C. While the speed of sound depends on temperature, our laboratory conditions were close enough to $$20^{\circ}$$ C that we aren't going to be able to explain the discrepancy with temperature. You might also consider pressure, but the dependence of the speed of sound on pressure is extremely weak.
 3. When all else fails it can be a good idea to check if you are confident in your theory. 
 
-The theory we have relied upon assumes plane waves of sound (waves of frequency $$\nu$$ traveling at speed $$v$$ with planar wavefronts distance $$\lambda$$ apart). Wouldn't it be nice if we could "see" the sound waves to assess if this is a reasonable assumption?  It turns out we can!
+The theory we have relied upon assumes plane waves of sound (waves of frequency $$\nu$$ traveling at speed $$v$$ with planar wavefronts distance $$\lambda$$ apart). Wouldn't it be nice if we could _see_ the sound waves to assess if this is a reasonable assumption?  It turns out we can!
 
 This week you will make use of dry ice to get a more 3-dimensional view of the standing wave pattern. You will not be asked to report on this in the checkpoint but it is interesting to see. 
 
@@ -105,21 +105,21 @@ Before making use of dry ice make sure you reviewed the [safety precautions at t
 **Please note the request within the safety documentation to bring your own safety glasses if you have them. If not, safety glasses will be provided.**
 
 
-Take a look at the pattern of the sound waves using dry ice - you should see significant deviations from plane wave behavior. The curved wavefronts you see can be mathematically modeled by integrating up a distribution of plane waves propagating in slightly different directions.  By analyzing the math in detail, we can find that the effective wavelength of a focused wave like the one in our amplifier is distorted away from that of a plane wave!  Rather than the wavelength $$\lambda$$ in the simple plane-wave relationship $$\lambda\nu=v$$, what we have measured in our focused standing wave is a slightly different _effective wavelength_ $$\lambda_{\rm eff}$$. You will not be responsible for the details of the more complete theory but are encouraged to [read a summary here](gouy).
+Take a look at the pattern of the sound waves using dry ice - you should see significant deviations from plane wave behavior. The curved wavefronts you see can be mathematically modeled by integrating up a distribution of plane waves propagating in slightly different directions.  By analyzing the math in detail, we can find that the effective wavelength of a focused wave like the one in our amplifier is distorted away from that of a plane wave!  Rather than the wavelength $$\lambda$$ that appears in the simple plane-wave relationship $$\lambda\nu=v$$, what we have measured in our focused standing wave is a slightly different _effective wavelength_ $$\lambda_{\rm eff}$$. 
 
-Bottom line:
+You will not be responsible for the details of the more complete theory but are encouraged to [read a summary here](gouy).  The **bottom line** is this:
 
-You can correct for the 3D structure of the standing waves by applying the following correction to get the actual wavelength ($$\lambda$$) from  your measured value, $$\lambda_{\rm eff}$$:
+You can account for the 3D structure of the standing waves by applying the following correction to get the actual wavelength ($$\lambda$$) from  your measured value, $$\lambda_{\rm eff}$$:
 
 \begin{equation}
   \lambda = \frac{\lambda_{\rm eff}}{1+\frac{1}{\pi n}}
 \end{equation}
 
-For our system the instructors have determined that $$n=4.5 \pm 0.25$$. ([see previously mentioned supplemental materials](gouy)). 
+For our acoustic levitators, the instructors have determined that $$n=4.5 \pm 0.25$$. ([see previously mentioned supplemental materials](gouy)). 
 
 Please make use of this correction to estimate the speed of sound. Do you get a more reasonable result?
 
-Now that you are hopefully in range of the expected value it is a good moment to perform a more systematic study of one of the most significant sources of systematic error. Your earlier investigation should have guided you to at least one source of systematic error that has a significant effect on the results. Choose one and perform a careful study analogous to the study that you used to produce Figure 1 for your Module 2 deliverable. We are interested in the possible effect on your results if you are not sufficiently careful with this parameter. Therefore we would like you to vary this parameter over a small range representative of small, plausibly unintentional variations. Ordinarily you would collect at least 5 data points at each of 5 settings. However, we recognize that you will likely not have time to collect this much data. Instead focus on collecting at least 2 data points at each of 5 settings. Statistical analysis such as computing the SEM is not meaningful with only two data points. However, it is still helpful to estimate the uncertainty so that we can gauge whether our results appear reasonable. With only two data points, the best we can do is estimate our uncertainty to be the spread between the data points. (Students are sometimes tempted to use half the spread, can you think why the full spread is a better representation of the uncertainty? If unsure speak to your instructor.)
+Now that you are hopefully in range of the expected value it is a good moment to perform a more systematic study of one of the most significant sources of systematic error. Your earlier investigation should have guided you to at least one source of systematic error that has a significant effect on the results. Choose one and perform a careful study analogous to the study that you used to produce Figure 1 for your Module 2 deliverable. We are interested in the possible effect on your results if you are not sufficiently careful with this parameter. Therefore we would like you to vary this parameter over a small range representative of small, plausibly unintentional variations. Ordinarily you would collect at least 5 data points at each of 5 settings. However, we recognize that you will likely not have time to collect this much data. Instead focus on collecting at least 2 data points at each of 5 settings. Statistical analysis such as computing the SEM is not meaningful with only two data points, but it is still helpful to estimate the uncertainty so that we can gauge whether our results appear reasonable. With only two data points, the best we can do is estimate our uncertainty to be the spread between the data points. (Students are sometimes tempted to use half the spread, can you think why the full spread is a better representation of the uncertainty? If unsure speak to your instructor.)
 
 ----
 
@@ -147,7 +147,7 @@ Checkpoint 2 will take place in two parts:
 **Part 1: Practice calculation**
 *You may resubmit Module 2, checkpoint 2, Part 1 as many times as you like until you get the correct answer (it is auto-graded and will give you an immediate response). For this part **only** it is also okay to "save" your responses to the individual questions.*
 
- You should do part 1 before part 2. The goal in part 1 is to determine the uncertainty in your estimate of the speed of sound, taking into consideration the uncertainty in both your measured effective wavelength and the uncertainty in the parameter "n" introduced in the Guoy correction. Remember, when you have two independent sources of uncertainty their effects should be combined in quadrature.
+ You should do part 1 before part 2. The goal in part 1 is to determine the uncertainty in your estimate of the speed of sound, taking into consideration the uncertainty in both your measured effective wavelength and the uncertainty in the parameter $$n$$ introduced in the Guoy correction. Remember, when you have two independent sources of uncertainty their effects should be combined in quadrature.
 
 **Part 2: Post-lab analysis**
 For part 2 our usual rules apply:
