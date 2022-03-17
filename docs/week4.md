@@ -20,9 +20,9 @@ Figure 1 must include:
 
 Figure 2 must include:
 
-+ one or more images that convey the procedure you used to extract the speed of sound from individual images. The images will depend on the procedure you used but might include a plot (if you determined the speed of sound by plotting bead position vs. node number) and/or a labelled sample image the clearly indicates how you determined the position of the center of each bead of interest and which beads you used for your analysis.
++ one or more images that convey the procedure you used to extract the speed of sound from individual images. The images will depend on the procedure you used but might include a plot (if you determined the speed of sound by plotting bead position vs. node number) and/or a labelled sample image that clearly indicates which beas you used for your analysis and how you determined their center positions in millimeters (or some other unit of distance, not just pixels).
 
-+ a plot of speed of sound vs. image number that shows the determined speed of sound for each of the 5 images with uncertainty, and includes a best fit horizontal line.
++ a plot of speed of sound vs. image number that shows the determined speed of sound for each of the 5 images with uncertainty, and includes a best-fit horizontal line.
 
 + a caption that follows the guidelines outlined for the Module 1 and 2 deliverables. Make sure to include your main result (the measured speed of sound) as well as your procedure for the collection and analysis of data included in this figure.
 
