@@ -20,11 +20,11 @@ Figure 1 must include:
 
 Figure 2 must include:
 
-+ one or more images that convey the procedure you used to extract the speed of sound from individual images. The images will depend on the procedure you used but might include a plot (if you determined the speed of sound by plotting bead position vs. node number) and/or a labelled sample image that clearly indicates which beas you used for your analysis and how you determined their center positions in millimeters (or some other unit of distance, not just pixels).
++ one or more images that convey the procedure you used to extract the effective wavelength (and eventually the speed of sound) from individual images. The images will depend on the procedure you used but might include a plot (if you determined $$\lambda_{eff}$$ by plotting bead position vs. node number) and/or a labelled sample image that clearly indicates which beas you used for your analysis and how you determined their center positions in millimeters (or some other unit of distance, not just pixels).
 
-+ a plot of speed of sound vs. image number that shows the determined speed of sound for each of the 5 images with uncertainty, and includes a best-fit horizontal line.
++ a plot of $$\lambda_{eff}$$ vs. image number that shows the effective wavelength for each of the 5 images with uncertainty, and includes a best-fit horizontal line.
 
-+ a caption that follows the guidelines outlined for the Module 1 and 2 deliverables. Make sure to include your main result (the measured speed of sound) as well as your procedure for the collection and analysis of data included in this figure.
++ a caption that follows the guidelines outlined for the Module 1 and 2 deliverables. Make sure to include your main result (the measured speed of sound with uncertainty) as well as your procedure for the collection and analysis of data included in this figure.  This includes the relationship between the effective wavelength shown in the figure and the ultimate value of the speed of sound.
 
 Additional note on figure captions: In this course your figure caption needs to stand alone and present your results. Your statement regarding your conclusions should include relevant supporting information. For example you might use your $$\chi_{\nu}^2$$ value to support your confidence in the result, or if you have identified a systematic error that might explain deviations from the expected value (and have checked that the correction would shift the result in an appropriate direction) you should include relevant information in your caption. But remember it is a caption, so keep all details concise. Information on how to interpret your $$\chi_\nu^2$$ value can be found in the [curve fitting guide from week 3](curve-fitting){:target="_blank"}.
 
