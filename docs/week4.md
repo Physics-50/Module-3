@@ -12,7 +12,7 @@ Just as in Module 2, Figure 1 will focus on your investigation of a significant 
 
 Figure 1 must include:
 
-+ one or more images showing how you collected your data. These images should help a student not in this class to understand the whole setup and your investigation of a source of systematic error.
++ one or more images showing the experimental apparatus you used to collect your data with an emphasis on showcasing your invesigation of a source of systematic error. These images should help a student not in this class to understand the whole setup and your investigation of a source of systematic error.
 
 + a plot showing the results of your investigation of a significant source of systematic error.
 
@@ -20,7 +20,7 @@ Figure 1 must include:
 
 Figure 2 must include:
 
-+ one or more images that convey the procedure you used to extract the effective wavelength (and eventually the speed of sound) from individual images. The images will depend on the procedure you used but might include a plot (if you determined $$\lambda_{eff}$$ by plotting bead position vs. node number) and/or a labelled sample image that clearly indicates which beas you used for your analysis and how you determined their center positions in millimeters (or some other unit of distance, not just pixels).
++ one or more images that convey the procedure you used to extract the effective wavelength (and eventually the speed of sound) from individual images. The images will depend on the procedure you used but might include a plot (if you determined $$\lambda_{eff}$$ by plotting bead position vs. node number) and/or a labelled sample image that clearly indicates which beads you used for your analysis and how you determined their center positions in millimeters (or some other unit of distance, not just pixels).
 
 + a plot of $$\lambda_{eff}$$ vs. image number that shows the effective wavelength for each of the 5 images with uncertainty, and includes a best-fit horizontal line.
 
