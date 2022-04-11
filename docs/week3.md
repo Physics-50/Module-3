@@ -47,14 +47,14 @@ As for the previous modules, you will need an uncluttered image or images of you
 
 + From each image you will need to determine $$\lambda_{eff}$$ with uncertainty. You will then fit a horizontal line to your five values to determine your final value of $$\lambda_{eff}$$.
 
-+ Don't leave until you have used the results of this plot, along with other information given in the lab manual, to calculate a final value of the speed of sound, and its uncertainty.  **You need to make use of the correction introduced last week to account for the non-planar nature of the sound waves.**
++ Don't leave until you have used the results of this plot, along with other information given in the lab manual, to calculate a final value of the speed of sound, and its uncertainty. This calculation must be included in your week 3 Google spreadsheet. **You need to make use of the correction introduced last week to account for the non-planar nature of the sound waves.**
 
 # Checkpoint 3
 
 For checkpoint 3 our usual rules apply:
 **Reminder:** Please prepare your assignment in a separate document, enter all entries in a single sitting without using the "save" button, and then make use of the "submit" button to submit your work. You may not resubmit your work once it has been submitted (and saving in Gradescope is equivalent to submitting).
 
-+ A link to your organized spreadsheet which includes the data from your analysis of 5 different images.
++ A link to your organized spreadsheet which includes the data from your analysis of 5 different images and your calculation of the speed of sound with uncertainty based on your results.
 
 + The 5 photos used for your data analysis
 
