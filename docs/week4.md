@@ -27,10 +27,10 @@ Figure 2 must include:
 
 + a plot of $$\lambda_{eff}$$ vs. image number that shows the effective wavelength for each of the 5 images with uncertainty, and includes a best-fit horizontal line.
 
-+ a caption that follows the guidelines outlined for the Module 1 and 2 deliverables. Make sure to include your main result (the measured speed of sound with uncertainty) as well as your procedure for the collection and analysis of data included in this figure.  This includes the relationship between the effective wavelength shown in the figure and the ultimate value of the speed of sound.
++ a caption that follows the guidelines outlined for the Module 1 and 2 deliverables. Make sure to include your main result (the measured speed of sound with uncertainty) as well as your procedure for the collection and analysis of data included in this figure.  This includes the relationship between the effective wavelength shown in the figure and the ultimate value of the speed of sound with uncertainty. Make sure the caption includes sufficient information that the reader can understand how you reached this result (including the uncertainty).
 
 Additional note on figure captions: In this course your figure caption needs to stand alone and present your results. Your statement regarding your conclusions should include relevant supporting information. For example you might use your $$\chi_{\nu}^2$$ value to support your confidence in the result, or if you have identified a systematic error that might explain deviations from the expected value (and have checked that the correction would shift the result in an appropriate direction) you should include relevant information in your caption. But remember it is a caption, so keep all details concise. Information on how to interpret your $$\chi_\nu^2$$ value can be found in the [curve fitting guide from week 3](curve-fitting){:target="_blank"}.
 
 + You will also be asked to provide a link to your organized spreadsheet. This spreadsheet must include the calculations you did as part of your data analysis, entered as formulas in the Google spreadsheet.
 
-+ And to double-check, make sure you have finished all of this week’s mini-questions by [checking here](mini-questions#week-4){:target="_blank"}. 
+
