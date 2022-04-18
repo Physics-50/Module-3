@@ -12,7 +12,7 @@ Just as in Module 2, Figure 1 will focus on your investigation of a significant 
 
 Figure 1 must include:
 
-+ one or more images showing the experimental apparatus you used to collect your data with an emphasis on showcasing your investigation of a source of systematic error. These images should help a student not in this class to understand the whole setup and your investigation of a source of systematic error.
++ one or more images showing the experimental apparatus you used to collect your data with an emphasis on showcasing your investigation of a source of systematic error. These images should help a student not in this class to understand the whole setup and the procedure you used for your investigation of a source of systematic error.
 
 + a plot showing the results of your investigation of a significant source of systematic error.
 
