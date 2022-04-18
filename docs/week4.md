@@ -8,15 +8,18 @@ There are no experiments this week but you are required to attend lab to work on
 
 Your deliverable will consist of two multi-panel figures with  captions. Each figure should have a single caption that describes all panels. You should make use of the instructions for the Module 1 and 2 deliverables as a guide.
 
-Just as in Module 2, Figure 1 will focus on your investigation of a significant source of systemtic error -- specifically the investigation you did at the end of week 2.
+Just as in Module 2, Figure 1 will focus on your investigation of a significant source of systematic error -- specifically the investigation you did at the end of week 2.
 
 Figure 1 must include:
 
-+ one or more images showing the experimental apparatus you used to collect your data with an emphasis on showcasing your invesigation of a source of systematic error. These images should help a student not in this class to understand the whole setup and your investigation of a source of systematic error.
++ one or more images showing the experimental apparatus you used to collect your data with an emphasis on showcasing your investigation of a source of systematic error. These images should help a student not in this class to understand the whole setup and your investigation of a source of systematic error.
 
 + a plot showing the results of your investigation of a significant source of systematic error.
 
-+ a caption that follows the guidelines outlined for the Module 1 and 2 deliverables. Make sure to include your main result (the significance of the source of systematic error to the measurement of the speed of sound you will present in Figure 2, and how this influenced your procedure for the data you later collected for Figure 2) in your caption. 
++ a caption that follows the guidelines outlined for the Module 1 and 2 deliverables. Make sure to include:
+    - a title sentence that summarizes the main point of what is shown in the figure
+    - the procedure you used for your in your investigation of a source of systematic error
+    - your main result which should include the significance of the source of systematic error to the measurement of the speed of sound you will present in Figure 2, and how this influenced your procedure for the data you later collected for Figure 2. 
 
 Figure 2 must include:
 
