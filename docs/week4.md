@@ -23,7 +23,7 @@ Figure 1 must include:
 
 Figure 2 must include:
 
-+ one or more images that convey the procedure you used to extract the effective wavelength (and eventually the speed of sound) from individual images. The images must include at least one labelled sample image that clearly indicates which beads you used for your analysis and how you determined their center positions in millimeters (or some other unit of distance, not just pixels). You may include additional images or plots depending on the procedure you used (for example, if you determined $$\lambda_{eff}$$ by plotting bead position vs. node number it would be helpful/expected that you include the plot as part of your figure).
++ one or more images that convey the procedure you used to extract the effective wavelength (and eventually the speed of sound) from individual images. The images must include at least one labelled sample image that clearly indicates which beads you used for your analysis and how you determined their center positions in millimeters (or some other unit of distance, not just pixels). Make sure to do this in a way that is not visually distracting. Talk to your instructor if unsure. You may include additional images or plots depending on the procedure you used (for example, if you determined $$\lambda_{eff}$$ by plotting bead position vs. node number it would be helpful/expected that you include the plot as part of your figure).
 
 + a plot of $$\lambda_{eff}$$ vs. image number that shows the effective wavelength for each of the 5 images with uncertainty, and includes a best-fit horizontal line.
 
