@@ -10,7 +10,7 @@
 
 --------------
 
-In this module you will be investigating how a solar panel's electrical output depends on lighting conditions.  As you might imagine, this is an active field of research and technology development, with numerous academic labs, companies, and recent HMC Clinic projects all seeking solar cell materials and panel configurations that are more robust against variations in lighting.  Over the next few weeks you will work with one particular solar panel, and you will have the opportunity to choose your own investigation within this area in Weeks 2-3.  In Week 1, you will learn the basic vocabulary and measurement techniques, perform an exploratory measurement, and compare explorations with the rest of your class to help you all choose directions for the rest of the module.
+In this module you will be investigating how a solar panel's electrical output depends on lighting conditions.  As you might imagine, this is an active field of research and technology development, with numerous academic labs, companies, and recent HMC Clinic projects all seeking solar cell materials and panel configurations that performe robustly despite variations in lighting.  Over the next few weeks you will work with one particular solar panel, and you will have the opportunity to choose your own investigation within this area in Weeks 2-3.  In Week 1, you will learn the basic vocabulary and measurement techniques, perform an exploratory measurement, and compare explorations with the rest of your class to help you all choose directions for the rest of the module.
 
 ## Background
 
@@ -18,297 +18,118 @@ A **_solar panel_** consists of some number of individual **_solar cells_** pack
 
 When a photon is absorbed by the silicon material of a solar cell, the photon's energy can excite an electron to flow freely in the material.  In slightly more detail, silicon contains electrons in lower-energy states called the _valence band_, and there is an energy gap (_bandgap_) of about 1.1 eV between these states and the higher-energy, freely-moving states in the _conduction band_.  (Recall that 1 eV = 1 electron Volt = 1.6$$\times 10^{-19}$$ J.)  A photon with an energy above 1.1 eV can excite an electron to the conduction band and get it moving there with some kinetic energy.  Electrons that simply fall back to the valence band release their energy in the form of a photon again, or in the form of lattice vibrations in the silicon; either way, no useful work is done.  But when the solar panel is part of a complete circuit, excited electrons can flow out of the silicon into the external circuit and deliver some of their extra energy to a device or **_load_** in that circuit before returning to the solar cell and filling an available spot (called a _hole_) in the valence band again.
 
-How do we characterize the **_electrical power_**, or energy per unit time, that we can extract from a solar panel?  Here some basic circuit vocabulary will be useful.  A solar panel is used as the power source for a complete circuit, or loop, in which electrons can flow from the source through the load and then back to the source, as sketched in the figure below:
+How do we characterize the electrical **_power_, or energy per unit time**, that we can extract from a solar panel?  Here some basic circuit vocabulary will be useful.  A solar panel is used as the power source for a complete circuit, or loop, in which electrons can flow from the source through the load and then back to the source, as sketched in the figure below:
 
 <img class="size-full wp-image-1493" src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2019/08/water-pump-circuit-analogy-2019-1200x589.png" alt="" width="288" height="288" />
 
-Above we see a simple electrical circuit on the right, with a resistor of resistance $$R$$ acting as the load.  On the left is a sketch of a more tangible analogy: a water circuit in which a pump pushes water around a loop where it gives up energy getting through an obstruction before returning to be pumped again.
+Above we see a simple electrical circuit on the right, with a resistor of resistance $$R$$ acting as the load.  On the left is a sketch of a more tangible analogy: a water circuit in which a pump pushes water around a loop where the water gives up energy getting through an obstruction before returning to be pumped again.
 
 Each electron flowing through the load delivers a certain amount of energy there.  One way to calculate the power $$P$$ delivered to the load is therefore:
 \begin{equation}
 
-P = \frac{\text{energy delivered to load}}{\text{time}} = \Bigl(\frac{\text{energy delivered}}{\text{\electron}}\Bigr)\Bigl(\frac{\text{number of electrons flowing through load}}{\text{time}}\Bigr).
+P = \frac{\text{energy delivered to load}}{\text{time}} = \Bigl(\frac{\text{number of electrons flowing through load}}{\text{time}}\Bigr)\Bigl(\frac{\text{energy delivered}}{\text{\electron}}\Bigr).
 \end{equation}
 
-**The amount of electrical charge flowing past a point in a circuit per unit time is called _current_, and traditionally denoted by the variable $$I$$.**  Likewise, **the energy change per electrical charge between two points in a circuit -- in this case, before and after the load -- is called _voltage_, and traditionally denoted by the variable $$V$$.**  Thus we have
+**The amount of electrical charge flowing past a point in a circuit per unit time is called _current_, and traditionally denoted by the variable $$I$$.**  Likewise, **the energy change per electrical charge between two points in a circuit -- in this case, before and after the load -- is called _voltage_, and traditionally denoted by the variable $$V$$.**  Thus a rephrasing and generalization of Eq. 1 is:
 **\begin{equation}
 P = I\times V.
 \end{equation}**
 
-Electrons are very small, and it takes many, many electrons per second to generate useful electricity.  Instead of recording currents in units of electrons per unit time, we measure in standard units of **_Amperes_ or Amps (A)**:  $$1 \text{A} = 1 \frac{\text{Coulomb}}{\text{second}}$$, and the charge of an electron is (negative) $$1.6\times 10^{-19}$$ Coulombs.  And instead of measuring voltage in units of energy lost per electron, we measure in standard units of **_Volts_ (V)**:  $$1 \text{V} = 1\frac{\text{Joule}}{\text{Coulomb}}$$.  If current in Amps is multiplied by voltage in Volts, the result for power comes out in **Joules per second, or _Watts_ (W)$$.
+It takes many, many electrons per second to generate a useful electrical current.  Instead of recording currents in units of electrons per unit time, we measure in standard units of **_Amperes_ or Amps (A)**:  $$1 \text{A} = 1 \frac{\text{Coulomb}}{\text{second}}$$, and the charge of an electron is (negative) $$1.6\times 10^{-19}$$ Coulombs.  And instead of measuring voltage in units of energy given up per electron, we measure in standard units of **_Volts_ (V)**:  $$1 \text{V} = 1\frac{\text{Joule}}{\text{Coulomb}}$$.  If current in Amps is multiplied by voltage in Volts, the result for power comes out in **Joules per second, or _Watts_ (W)**.
 
-**PICK UP WORK HERE -- HOW MUCH IS BACKGROUND VS. DATA COLLECTION?**
+In the electrical circuit above, the load is characterized by its electrical **_resistance_, denoted by the variable $$R$$ and measured in standard units of Ohms ($$\Omega$$).** The resistance of the load connected to a solar panel influences the panel's output power through both the current and the voltage.  A small load resistance means that the load does little to obstruct the flow of electrons, so in this situation current will be large, up to the maximum imposed by the fact that photons are only exciting electrons in the solar panel at a certain rate.  However, if electrons don't need to do much work to get through the small load resistance, they will deposit very little energy in the load, meaning that the voltage will to go zero as the load resistance goes to zero.  Conversely, a large load resistance will restrict the flow of electrons and make $$I$$ tend toward zero, but $$V$$ will be larger -- up to a maximum imposed by the fact that electrons are only leaving the solar panel with a certain amount of energy available for them to deposit in the load.
 
-Current is electrons/time, voltage is energy/electron, load is the thing using energy, if there's no voltage there's no power.
+#### Miniquestion 1: Solar Panel Output Power
+[*Click here to open in a new tab*](https://docs.google.com/forms/d/e/1FAIpQLSdX1krN3TJAwMoh1fR7crGfd_KjEQd7TzvwIvOrWTnCQv0nQQ/viewform){:target="_blank"}
 
-How do we up the voltage?  We up the load resistance!
-
-But if we up the resistance too much, there's no more current, and that's bad too.
-
-We are looking for maximum power.  In order to find max power we need to take an IV curve
-
-What is an IV curve?  Vary the resistance.  Take data points.  Plot the resulting curve, I vs. V.  Find max power (I times V).
-
-Once you do that, investigate the effect lighting conditions have on max power, have some paper, go nuts.
-
-#### A Brief Review of Standing Waves
-The acoustic levitators we will use in lab make use of standing waves of sound. Let us harken back to Physics 24 for a brief review of the basics of standing waves.
-
-As you may recall, in a transverse wave the disturbance away from equilibrium, $$y$$, in a wave traveling in the $$x$$ direction can be described by the equation $$y=A \sin(k x-\omega t)=A \sin[2\pi(\frac{x}{\lambda}-\nu t)]$$ where $$ A$$ is the maximum amplitude, $$ \nu=\frac{\omega}{2\pi}$$ is the frequency (that's Greek "nu"), and $$\lambda$$ is the wavelength of the wave. The speed $$ v$$ of the wave is given by $$v=\lambda \nu.$$
-
-In the case of a wave on a string the wave travels along the length of the string and the disturbance $$ y $$ is the displacement of bits of string perpendicular to the length. Imagine a string tied at one end to a fixed spot on a post, held under constant tension and attached at the other end to a mechanical oscillator that jiggles the string. The oscillator creates a sine wave that propagates towards the fixed end, where it reflects, creating another sine wave that propagates back toward the oscillator in the opposite direction. We now have two waves traveling in opposite directions and what we observe will be the result of these two waves added together.
-
-Recall that the superposition of two waves traveling in opposite directions can be represented by
-\begin{equation}
- y_{\rm total}(x,t)=A \sin(k x-\omega t) + A \sin(k x+\omega t +\phi)
-\end{equation}
-where the reflected wave has the same maximum amplitude as the incident wave but has picked up a phase $$ \phi$$. Reflection off a fixed end as described above causes a phase shift of $$\phi=\pi$$.  Our combined wave can now be represented as
-\begin{equation}
-  y_{\rm total}(x,t)=A \sin(k x-\omega t) - A \sin(k x+\omega t )
-\end{equation}
-where we have made use of the fact that $$ \sin(\theta+\pi) = -\sin(\theta)$$. By using the trig identity $$ \sin(A + B)=\sin(A)\cos(B)+\sin(B)\cos(A)$$ and a little bit of algebra, you can show that this simplifies to $$y_{\rm total}(x,t)=-2A \sin(\omega t)\cos(kx)$$.
-
-The takeaway from this is that the position and time dependence are now separate! It is as though the wave is fixed in space along the $$ x $$ axis while the effective "maximum amplitude" oscillates in time as $$ 2 A \sin(\omega t)$$. This is known as a **standing wave** and is shown in the figure below.
-
-<img class="size-full wp-image-1493" src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/08/standing-waves.gif" alt="" width="288" height="288" />
-
-Above is a  standing wave formed by counter-propagating sine waves. The blue standing wave is the sum of the upper two traveling waves. Animation courtesy of D. Russell.
-
-If both ends of the string are fixed (picture a plucked guitar string), then the standing wave must have **nodes** at each end of the string, where the string stays put and doesn't oscillate up and down. In between the nodes, there must be an integer number of **antinodes** where the string oscillates with maximum amplitude. That means that there must be an integer number of half-wavelengths that fit within the length $$L$$ of the string. Thus, only certain wavelengths (and therefore frequencies) will produce stable standing waves. These special frequencies are called **resonant** frequencies. At other frequencies, the vibrations on the string will be unstable and tend to die out.
-<!--- If both ends of the string are fixed (or nearly so), this puts restrictions on the wavelengths and therefore the frequencies that will produce stable standing waves on a given string. In this example, our string can be thought of as having two fixed ends **—nodes—**a distance $$ L $$ apart.  The places where the string doesn’t move ($$ y_{\rm total}=0$$) are called **nodes**, whereas places where the string oscillates with maximum amplitude are called **antinodes**. Only particular wavelengths will allow both ends of the string to be nodes; the wavelengths and frequencies that produce this type of stable standing waves are called **resonant.** (Note:  We have arrived at this condition by considering the boundary conditions for the disturbance at the ends of the string.  An equivalent method would be to require that the twice-reflected wave after one round trip is perfectly in phase with the brand new wave just now being emitted by the oscillator.  This second method offers some insight into what happens when the oscillator frequency is <em>not</em> resonant:  the vibrations on the string will be unstable and tend to die out.)--->
-
-What happens if instead of a fixed end we have a second mechanical oscillator shaking the string at the same frequency? We will end up with a standing wave but the ends will not be nodes and it will not be defined by a resonant condition, meaning we are free to pick any frequency. This is the situation we have in the acoustic resonator.
-
-<!--If you wish to revisit the above concepts, consult Appendix D of <a href="https://edge.edx.org/courses/HarveyMuddX/PHYS024x/2015_Spring/" target="_blank" rel="noopener"><em>Motion II</em></a> by Prof. Helliwell.-->
-
-### Acoustic Levitator Theory
-
-Air surrounds us all the time and it’s easy not to think about it at all, or to think of it as insubstantial.  But when a gust of wind blows over our beach umbrella, or a vacuum cleaner sucks up dust (or confetti, or popcorn…), it’s hard to ignore the fact that air molecules can exert force on other objects.  Specifically, these phenomena and many others involve net motion of many air molecules in response to a pressure difference.  In the case of the wind at the beach, the original pressure difference may be caused by weather patterns and by the contrasting temperature and motion of the water compared to the land.  In the case of the vacuum cleaner, the original pressure difference is caused by the vacuum action pulling air out of the canister.  Either way, air moves in response to the original disturbance, and can push solid objects as it goes.  Sound travels through air in a similar manner.  You bang on the table, and the table (and your hand) vibrates. These vibrations jiggle the nearby air, causing a pressure wave in the air that travels outward and eventually vibrates your eardrums, which your ‘microphones’ (i.e., eardrums) interpret as a sharp bang.
-
-Given that sound is vibrations of the air, might sound waves push and even levitate solid objects?  Indeed, this is the phenomenon of acoustic levitation, or ‘acoustophoresis,’ in which sound floats material objects.  The forces here are a bit more complicated than in the case of the beach umbrella or vacuum cleaner.  Both of those examples involved a steady or long-lasting pressure difference causing a sustained motion of the air in one direction.  As a sound wave passes through the air, however, the pressure in any given spot oscillates between high and low many times per second, but the vibrating air can still exert an overall force called acoustic radiation pressure. We’ll discuss in more detail the various ingredients that go into acoustic levitation in a standing wave of sound.
-
-Consider a speaker placed on a table, so that sound projects from the speaker to the ceiling. Suppose the speaker is attached to a function generator, and so outputs a noise with a constant frequency. The speaker operates by vibrating a “plate” up and down at the frequency set by the function generator, thus creating regular disturbances in the air, which your eardrums interpret as sound. These disturbances are longitudinal waves, unlike the transverse waves we imagined on a string earlier. Whereas a transverse wave vibrates in the direction perpendicular to the direction along which the wave is moving, longitudinal waves vibrate in the direction along the direction of motion of the wave. These distinctions are hopefully made clear by the following two animations. The left is a transverse wave while the right is a longitudinal wave like sound:
-
-<img class="wp-image-1517" src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/08/transverse-longitudinal-waves2.gif" alt="" width="529" height="320" />
-
-Above are animations of transverse (left) and longitudinal (right) travelling waves. Note the difference in the behavior of individual particles in each wave type. Sound waves are longitudinal and look like the right-hand picture. Animation credit D. Russell.
-
-Electromagnetic waves are transverse, as are tsunamis in the open ocean. However, tsunami waves at the shore and slinky compression waves are longitudinal, as are sound waves.
-
-<img class="wp-image-561" src="http://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/07/Water-2016.gif" alt="Water waves GIF" width="300" height="130" />
-
-Fun fact! The waves you see at the surface of the water in the ocean, those which “break” at the beach, are called surface or circular waves since particles in them effectively move in circles, and are neither longitudinal nor transverse, but rather a combination of the two as illustrated above.
-
-Now, the longitudinal waves created above the speaker have a regular pressure pattern. When the plate in the speaker is forced downwards, the air directly above the speaker is “pulled” apart, creating a low pressure, or “rarefaction,” region.<span style="color: #800080;"> </span>But when the plate is accelerated upwards, the air above is “squeezed” together, forming a high pressure, or “compression,” region. As individual air molecules move and collide, the pressure variations propagate upward as a traveling wave of sound.
-
-We learned in the previous section that traveling waves of the same frequency, moving through the same material in opposite directions, can form a standing wave. This can happen for sound as well.
-
-The sinusoidal waves shown in the figure below represent the pattern of pressure variations in the air; they also look exactly like the geometric shape of the string in our thought experiment above. However, because sound waves are longitudinal, the actual motion of the air molecules looks geometrically a little different as shown in the figure below.
-
-
-<img class="wp-image-1520" src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/08/standing-displacement-antinode-vert-cropped-4.gif" alt="" width="600" height="416" />
-
-The above animation shows a standing wave of sound in air. In the left animation we see the air particles being driven back and forth, creating regions of high and low pressure. The middle animation shows the displacement from equilibrium of a particle as a function of position. The right animation represents the deviation from equilibrium pressure as a function of position. Note this pressure wave is oscillating about the equilibrium pressure, not zero pressure. Notice the motion of the <span style="color: #ff0000;">red particles</span> for various locations and how the displacement and pressure animations relate to that motion.
-
-In the previous section the standing wave on a string was caused by a traveling wave in one direction, driven by a source, and the reflections of this original traveling wave at the ends of the string.  A standing wave of sound can be created in the same way, using a single traveling-wave source like a speaker at one end of the setup and a sound reflector, like a metal plate, at the other.  Standing waves set up in this way are called resonant standing waves.  In a given setup, they are possible only at certain frequencies because the reflected waves have to interfere in just the right way with one another – or to put it another way, an integer number of half-wavelengths must fit along the length of the setup.  However, at the right wavelengths or frequencies, resonant standing waves can be very strong even if the original driving source is relatively weak; the reason is again that resonant standing waves involve constructive interference of the original wave with the waves that have gone before it and completed one round trip, or two round trips (etc.), through the setup.
-
-Resonant standing waves of sound are very common.  (To play with some, consult a friend with just about any non-electronic musical instrument.)  However, our setup this week will involve **non-resonant standing waves** of sound.  Remember that the key ingredients for a standing wave are two traveling waves in opposite directions. In a non-resonant standing wave, we simply place one source at either end of the setup.  If the two sources are driven together---by the same signal---they will produce traveling waves in opposite directions, of equal frequencies and amplitudes, creating a standing wave.  In a non-resonant standing wave, reflections of the original traveling waves are not crucial.  Therefore, there are no specific frequency or wavelength requirements to make a standing wave “work” in the setup (i.e., no harmonics). However, since the original traveling waves don’t get “reused” in the setup through multiple reflections, a non-resonant standing wave is generally not very strong unless the driving source itself is strong. You will see both of these features of non-resonant standing waves in the apparatus you will use this week.
-
-In our acoustic levitator apparatus, the two sources are two sets of tiny speakers driven by the same electrical signal.  Each speaker set is arranged in a slightly concave bowl-like shape, and the two bowls face each other on opposite ends of a plastic frame.  The curved, concave shape of each source is a detail we haven’t yet discussed.  Its purpose is to shape the standing waves, making them focused and strongest in the middle of the apparatus.  The same thing is very commonly done for standing waves of light, with pairs of curved mirrors.  You can get a rough idea of how the curved surfaces produce curved wave patterns in the second half of [this](https://www.youtube.com/watch?v=tVWemRbgLW4){:target="_blank"} video.
-
-How does a standing wave of sound produce acoustic levitation?  Take a good look at the standing wave in the previous figure .  A standing wave of sound consists of “pressure antinodes,” fixed positions in space where the pressure <em>deviates the most from the equilibrium</em>, atmospheric value, and “pressure nodes,” fixed positions in space where the <em>pressure stays constant</em>.  You might imagine a small styrofoam bead placed in the standing wave, being pushed away from a pressure antinode when the pressure is high there, and then being pulled toward it when the pressure is low there.  This doesn’t sound like it creates stable trapping!  However, the key to acoustic radiation pressure is that the standing waves oscillate too fast for a big, heavy particle (even a styrofoam bead) to follow the cycles of push and pull in a simple way.  Instead, the air in each region pushes the particle with an effective force proportional to the time average of the square of the pressure, $$ \langle p^2 \rangle $$.  There is a well-developed theoretical foundation for this force (see Gorkov, 1961 and Marzo *et al*, 2017) but we will not go into it here.  What’s important to note for now is that $$ \langle p^2 \rangle $$ is larger at the pressure antinodes than at the pressure nodes, so particles are consistently pushed either to the pressure nodes or to the pressure antinodes.  Most solid particles are pushed to (and trapped in) the pressure nodes; the exact details depend on the density of the object compared to air and the speed of sound through the object.
-
-### Week 1 Instructions
-By the end of the day today you will be able to successfully levitate, using sound waves, small polystyrene beads! You will make a preliminary measurement of the speed of sound in air by measuring the separations between suspended beads, and you will have performed a preliminary investigation of sources of systematic error in the experiment.
-
-Our first goal is to create a standing wave with the acoustic levitator. The speakers create sound by exerting force on the air. To create sound of a given pitch, or frequency, the speaker pushes the air back and forth in a repeating pattern at that frequency. The exact pattern — sinusoidally varying force, short bursts, or something else — influences the timbre of the sound produced. Our speakers are piezos, or piezoelectrics, meaning that applying a potential difference across the speaker will result in the speaker exerting a force on the air. If we want the speaker to create a tone, we need to give it a periodic signal. A **function generator**, shown below and abbreviated as “FG," is used to create a periodic electrical signal.
-
-[![Image of FG](images/fg_and_power.jpg)](images/fg_and_power.jpg){:target="_blank"}
-
-A function generator’s waveform, frequency, amplitude and offset are set in the following manner:
-
-+ Turn on the function generator
-+ Select the waveform using the buttons to the right of the display
-    + Adjust the FREQUENCY using the F1 button on the function generator. Use the number pad to type in the numerical frequency desired followed by pressing the button with the appropriate units (Hz, kHz, MHz) to the right of the numbers; press enter when done. Note: If you would only like to adjust the frequency a bit from its present value you can also use the dial.
-    + Adjust the AMPLITUDE and OFFSET settings using the F2 and F3 buttons. Again, use the number pad to type in your desired value followed by the units; press enter.
-    + Press the "ON" button above the output of the function generator to make sure it is ON (illuminated).
-
-You can go ahead and turn on the function generator and set it now. For this experiment, **set the function generator (FG) to create a 40 kHz SQUARE wave with amplitude 5 V and offset 2.5 V**. “Amplitude” for the FG means peak-to-peak voltage variation of the signal. The speakers are designed to work best at 40 kHz, and beads will levitate much more stably if you use a square wave, not a sinusoidal wave. **Don't forget to press the ON button** above the output port.
-
-#### Powering the Acoustic Levitator
-Let’s turn our electric signal into a sound wave! Ensure that the switch on the levitator is set to “AMP.” Be careful, as the switch has 3 possible positions, and you want to set it all the way to “AMP.” This sets the output from the FG to go through a digital driver. A digital driver sets the potential difference at its output to one of two things: either 0 V, or the voltage supplied by the power supply (labeled PS OUTPUT (+)). The voltage on the logic inputs determines which of these two options is outputted. In our setup, the square wave output of the function generator is connected to the logic inputs. Thus, the output of the driver will be a square wave oscillating at the same frequency as the function generator, switching between 0 V and the power supply output voltage.
-
-<img class="wp-image-1413" src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/08/digital-driver.png" alt="" width="400" height="400">
-
-The above image shows a schematic of the driver used in our circuit “L298N Motor Drive Controller Board.” This board is actually able to drive two devices with outputs A and B. We will only be using one in our circuit. “PS OUTPUT(+)” is the connection to the positive power supply output and “PS GND” is the power supply ground.
-
-The image below shows the back of the levitator. The inputs for both the function generator and power supply are highlighted. There should already be BNC cables attached to both of these in your apparatus.
-
-<img class="wp-image-1588 size-full" src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/09/levitator-back.png" alt="" width="469" height="327">
-
-Identify the BNC cable connected to the “FG” input on the case of the levitator, shown above. Connect its other end to the "output" port of your function generator.  Do not connect the power supply.
-
-Safety Warning: Whenever you are connecting elements in a circuit, make sure the power supply and function generator output are off. Do not turn on the power supply until you have completed the circuit.
-
-With the power supply turned off ensure that the negative (–, black) terminal on the power supply is connected to the ground (GND, green) terminal. This simple connection ensures that the levitator apparatus, power supply and function generator all have a common ground. If there is no metal clip connecting the black and green terminals, notify your instructor and together you can make this connection with a small piece of wire.
-
-Using a BNC/banana adapter, connect the red banana connector to the red positive (+) output on the power supply and the black banana connector to the ground (green) output of the power supply. Connect the output of this adapter to the BNC cable already plugged in to the “PS” input on the levitator case.
-
-Safety Tip: Never touch the leads of the power supply together! This will short circuit the power supply and could damage it. The power supply will click if it has been short circuited. The voltage has to be constant throughout a wire — there’s nothing to change it. The power supply has internal electronics to create a voltage difference across its two terminals. If you connect the two terminals with a wire, you force the terminals to be the same potential, so something must change inside the power supply to allow this to happen.
-
-The L298N Motor Drive Controller Board has on-board logic that needs to be powered at 5V. This is separate from the power supply voltage that will pass through the PS terminal. The 5V logic supply input is connected to a USB connector. You should plug the USB terminal in to one of the wall outlets on your bench. A red light on the L298N board will turn on.
-
-Before turning on the power supply, double check all connections, and turn all the knobs on the power supply to zero (all the way counterclockwise). Now turn on the power supply. The light labeled C.V. (coarse voltage) should be green, meaning that the output of the power supply is limited by the voltage dial settings. Make sure the function generator is turned on and the output light is on. Turn the coarse dial for the voltage slowly up (clockwise). Observe that the voltage reading on the front panel of the power supply rises, but the current stays at zero. The power supply might make clicking sounds - this is okay. 
-
-When you reach a voltage output of around 6-10 volts, the current will start to rise, the green C.V. light will go off and the red C.C. light will go on. At this point both the current and the voltage will stop rising in response to further increases of the coarse voltage dial. The red C.C. light indicates that the power supply output is now being limited by the current dial settings. Turn the coarse current dial up until the green C.V. light comes back on. Alternate between increasing the voltage setting and the current setting as necessary until you have reached an output voltage between 12 V--14 V. Do not exceed 15 V. Keep an eye on how much current the power supply is providing. **If it goes above 225 mA (0.225 A) turn the power supply off** and check your circuit or ask an instructor. 
-
-### Levitating a Bead
-Now let's try to levitate a styrofoam bead! See the following [video for instructions on how to load a bead into the levitator](https://youtu.be/YrpVdlcYu7Y){:target="_blank"}.
-
-Place a few beads on a lens wipe or dryer sheet and move them around between the speakers of the acoustic levitator until they hop into position. This should not be too difficult. If beads will not levitate, double check all your connections, the function generator settings (including if the output is on), and that the light on the driver is on. Ask an instructor if problems persist.
-
-### Collecting data
-
-You have two main goals this week: first, you will practice levitating beads and reach a point where both partners can comfortably levitate beads for data collection. Second, you will collect sufficient exploratory data to make a preliminary estimate of the speed of sound.
-
-The basic strategy for determining the speed of sound using your acoustic levitator is as follows:
-
-+ Place beads in the levitator. Using the provided materials and recommended parameters, you can trap one bead at each node position.
-+ Each node is separated from the neighboring node by one half wavelength.
-+ You will take a photo of the beads and digitally measure the distance between the nodes to compute the wavelength $$\lambda$$. This requires knowing the size of each pixel in the camera image, so you will need to include a ruler or something similar to calibrate the camera pixel size in the image you take.
-+ You know the frequency $$\nu$$ of the wave, because you have set it with the function generator.
-+ You can compute the speed of sound from $$v = \lambda \nu$$.
-
-You have several methods at your disposal to make your measurements. There are calipers and rulers available in the lab. You can try directly reading the separation with the calipers:
-
-[Click here for instructions on using the calipers](caliper)
-
-However, you will most likely find it difficult to get a reliable reading as you cannot bring the calipers close to the beads without disturbing them.
-
-#### Setting up the camera to take a picture of the levitated beads
-
-To combat this, you will collect your data by taking a picture of your levitated beads, along with a ruler to determine the distance scale if your image. Use your phone camera and one of the phone mounts available in the lab.  Think carefully about how to best position your levitator, ruler, and camera so that you obtain a clear image that can be used to find the separation between beads (in pixels) and the appropriate conversion factor between pixels and actual distance.  
-
-If you think of materials around the lab that might be helpful, ask your instructor if you can use these materials. Creativity is encouraged!
-
---------------
-
-### Preliminary Data Analysis
-
-It is helpful to begin your exploratory analysis with a back-of-the-envelope estimate. Go ahead and make use of the measured spacing between beads to estimate the speed of sound. Use your image, since it is a good idea to test out the data acquisition and analysis method you intend to use in the future.
-
-1. Open your image of levitated beads. Your picture should also include a ruler for calibration. 
-
-2. Determine the separation between beads in pixels.  Beads are located at pressure nodes of the standing wave.
-
-3. Use the ruler to determine a conversion factor from pixels to millimeters.  (There are multiple ways to do this, and some are better than others!)
-
-4. Use the measured separation between nodes to determine the speed of sound.
-
-Let’s practice with a mini-question. Please download the following image of levitated beads and use it to answer the mini-question. Make sure to download it at full resolution.
-
-**Click on the images below to enlarge in a new tab and download the image:**
-
-[![Image of levitated beads](images/image_of_levitated_beads.jpg)](images/image_of_levitated_beads.jpg){:target="_blank"}
-
---------------------------------------------------------
-
-<!--#### Miniquestion 1: Image Calibration
-[*Click here to open in a new tab*](https://docs.google.com/forms/d/e/1FAIpQLSeGfXJTqX8XZ1wKmUYtHE1oWlXGIhBalvSH6U20WFP1P6jCMg/viewform?usp=sf_link){:target="_blank"}
-
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeGfXJTqX8XZ1wKmUYtHE1oWlXGIhBalvSH6U20WFP1P6jCMg/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
-</iframe>
-
----------------------->
-
-#### Miniquestion 1: Practice Calculation - Bead Separation
-[*Click here to open in a new tab*](https://docs.google.com/forms/d/e/1FAIpQLSfcHYM0EXRutwU9snAkMcDvZ4mAs_osQWJDzQbT2q6VGvlNgg/viewform?usp=sf_link){:target="_blank"}
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfcHYM0EXRutwU9snAkMcDvZ4mAs_osQWJDzQbT2q6VGvlNgg/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdX1krN3TJAwMoh1fR7crGfd_KjEQd7TzvwIvOrWTnCQv0nQQ/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
 ---------
-#### Miniquestion 2: Practice Calculation - Speed of Sound
-[*Click here to open in a new tab*](https://docs.google.com/forms/d/e/1FAIpQLSci324tKy0cSjFai2_doq3CFVgnK8_hwKeITrPGGVYvgSBB1A/viewform?usp=sf_link){:target="_blank"}
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSci324tKy0cSjFai2_doq3CFVgnK8_hwKeITrPGGVYvgSBB1A/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
+In evaluating the performance of a solar panel connected to a load resistance, there are three quantities of particular interest.  One is the maximum current referred to above, produced when the load resistance is very small.  A small or zero load resistance is called a _short circuit_, so the maximum current output of a solar panel is called its **_short-circuit current_, or $$I_{sc}$$**.  The second quantity of interest is the maximum voltage output discussed above, produced when the load resistance is very large.  A large or infinite load resistance is called an _open circuit_, so the maximum voltage output of a solar panel is called its **_open-circuit voltage_, or $$V_{oc}$$**.  Finally, the quantity that is probably most important in the end is the panel's **_maximum power output_, $$P_{max}$$**, which must be found by mapping out the values of $$I$$ and $$V$$ (and thus $$P$$) for different values of $$R$$.  
+
+Really, all three quantities of interest can be found by varying the load resistance and measuring $$(V, I)$$ at each value of $$R$$.  A graph of $$I$$ vs. $$V$$, known as an $$I-V$$ curve, should show something like the following: current decreasing as voltage increases, which happens as the load resistance is increased; current approaching $$I_{sc}$$ as $$V$$ approaches zero; voltage approaching $$V_{sc}$$ as $$I$$ approaches zero; and a "corner" in the graph between the horizontal and vertical asymptotes, where the power is maximized.  A solar cell performing well shows these features clearly on its $$I-V$$ curve, while one whose performance is compromised might have a distorted curve shape.  You will be measuring $$I-V$$ curves for your solar panel under different conditions this week and throughout the module.
+
+## Goals for This Week
+
+Your goals this week are to become familiar with a solar panel circuit and the data-taking process, characterize the solar panel's performance under good lighting conditions, and get ideas for what kind of systematic investigation in Weeks 2-3 could be interesting and informative.
+
+First you will set up a circuit to connect your solar panel to a variable load resistance, while including multimeters to measure the current through the load and voltage across the load.  You will collect data by varying load resistance and plot an $$I-V$$ curve for your panel when it is fully illuminated by the grow light at your station.  You will determine $$I_{sc}$$, $$V_{oc}$$, and $$P_{max}$$ from your data.  This process will give you an idea of how to efficiently collect the relevant data, as well as what factors cause the most uncertainty in your determination of the three key quantities.
+
+Next, you will vary the lighting conditions in some (single) way, and characterize the performance of your solar panel under the new conditions.  You will share results with the rest of your class, and from there begin to design a systematic investigation to undertake in Weeks 2-3.
+
+## Instrumentation
+
+Using cables available at your station, you will connect your solar panel to a variable load along with an _ammeter_ to measure current and a _voltmeter_ to measure voltage.  The circuit you should create is shown schematically below, but we will also go one-by-one through the circuit symbols and the actual pieces of equipment they represent.
+
+<img src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/10/solar-panel-Rmp.png" alt="" width="400" height="400">
+
+The figure above shows the circuit schematic for measuring the $$I-V$$ curve of a solar panel, shown as a gray rectangle.  A variable resistor provides the load, a voltmeter measure the voltage across the load, and an ammeter measures the current flowing through the load.
+
+The solar panel you will work with consists of a 4 x 9 array of individual solar cells, as pictured below, front and back:
+
+<img src="images/solar panel front and back.jpg" height="400">
+
+Manufacturer performance specifications are printed on the back of your panel, but these apply to operation in direct sunlight and will not match the performance you find in the lab with a grow light.  The electrical leads on the back of your panel have been connected to cables emerging from panel's side frame, so you can place your panel with its back flat on the table and still access the connections. 
+
+To operate your panel, slide the solar panel into the gap at the bottom of the black plastic light box, with solar cells facing up, and turn on the grow light in the top of the box:
+
+<img src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/09/light-box-small.png" alt="" height="400">
+
+In the image on the right above, the solar panel still needs to be pushed a few more inches so that it fits entirely within the light box.  The grow light provides a standardized source of illumination, and the black box isolates the panel from variations in external room lighting.   
+
+By convention red and black denote places current will flow from and to, respectively, so you should connect the red lead of the solar panel output to the load resistor, following the circuit schematic at the beginning of this section.
+
+A load with variable resistance will be provided by a decade resistance box, shown in the figure below:
+
+<img src="http://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/08/resistors-2.png" alt="" height="400">
+
+Part (a) above shows the circuit schematic symbol for a resistor.  Part (b) shows the symbol for a variable resistor, and part (c) shows the actual resistor box you will use in the lab.  You may have learned in the the past that it is dangerous to coonect a circuit with a load resistance of zero.  This is true for many power sources, which may try -- and fail -- to produce infinite current when presented with zero resistance.  Because our solar panels have another factor (number of photons absorbed per second) limiting their maximum current output, **it is not dangerous to set the load resistance to zero in this particular circuit**.
+
+For the voltmeter and ammeter in your circuit, you will use two different _digital multimeters_, instruments that can be set to measure a variety of electrical properties of a circuit or individual device.  
+
+To measure current, you will use the desktop multimeter pictured below:
+
+<img src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2019/09/ammeter-3-1200x525.png" alt="" height="400">
+
+Part (a) above shows the circuit schematic symbol for an ammeter, while part (b) shows the instrument you will use.  Power on the multimeter and press the "Shift" and "DC V" buttons to set it to measure DC current (see blue "DC I" above the "DC V" button).  There are two red current ports labeled with the max amount of current they can measure:  500 mA and 20 A.  You can start out by using the 20A port, but switch to the 500 mA port for greater sensitivity if the currents you observe are low enough.  Current coming from the load should be connected to the appropriate red current input of the ammeter.  Current will then flow through the ammeter and out the black COM port, which should be connected to the black lead of the solar panel to complete your circuit.
+
+This is a good time to set up your circuit the with solar panel, load, and ammeter all in a single loop, or _in series_ with each other, so current flows through each in turn.  Make sure the ammeter is reading a current (in units of A or mA).
+
+The last component you will add is your voltmeter.  For this purpose you will use a handheld multimeter like the one pictured below:
+
+<img src="images/voltmeter.jpg" alt="" width="400">
+
+Part (a) above shows the circuit schematic symbol for a voltmeter, while part (b) shows the instrument you will use.  Power on the voltmeter by turning the dial to measure DC voltage, as indicated in the picture.  Since voltage is the energy change per unit charge in going from one point in a circuit to another, a voltmeter must be connected to two different points on the outside of an already complete circuit loop.  This is called connecting it _in parallel_ with the rest of the circuit.  You will connect your voltmeter leads to the two sides of your load as shown below:  
+
+<img src="images/voltmeter_in_circuit.jpg" alt="" height="400">
+
+Make sure your voltmeter is reading a voltage (in units of V or mV).  Be aware that either of your meters may autoscale as the current and voltage values change; make sure to pay attention to the units on the displays so that you are recording current and voltage accurately.  After it has been powered on for a long time, the voltmeter might beep and possibly turn itself off, but you can always just turn the dial to off and then back to DC volts.
+
+#### Miniquestion 2: Connecting Meters
+[*Click here to open in a new tab*](https://docs.google.com/forms/d/e/1FAIpQLSd0F9HvzPeN8DesaHQR9SAzImbfuHdTnrh4B9SctGmGe5qkfw/viewform){:target="_blank"}
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd0F9HvzPeN8DesaHQR9SAzImbfuHdTnrh4B9SctGmGe5qkfw/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
---------------
+---------
 
-Is your result reasonable (much closer than a factor of two)? (Go ahead and look up the speed of sound in air for comparison). If your result does not appear to be in reasonable agreement with the expected value you should pause here and try to work out why (talk to your instructor if unsure).
+## Data Collection
 
-## Wiggling the parameters to explore sources of uncertainty
+With your circuit complete, both meters powered on and set correctly, and your grow light fully illuminating your solar panel, vary the load resistance and record current and voltage values at different load resistances.  To make the best use of your time, you may want to start by increasing or decreasing your load resistance by a factor of ten at a time, until you have an idea of roughly what resistance is "very large" for this solar panel -- i.e., large enough to make the current start nosediving toward zero.  You can then take a modest number of data points at "very large" and "very small" resistance values, but focus on intermediate resistances in order to find $$P_{max}$$.  
 
-Next week we will perform a detailed investigation of a significant source of uncertainty. But first we need to do an exploratory study to determine which sources of uncertainty might be the most significant. This week we would like you to investigate 3 possible sources of systematic error. Before doing so, set up your spreadsheet so that you can roughly estimate the effect of each source of systematic error on your results. This will not be a formal error analysis, but an exploration of how measured sound speed changes in response to the "wiggling" of three parameters. Pick a reasonable range over which to vary each parameter.  Then estimate the speed of sound in the center of your range of exploration and at the two ends. Between measurements, make sure you change only the parameter you are currently wiggling; this week, you do not need to reset any other parameters between trials. 
+To help guide your data taking, set up your Google Sheet to make a scatter chart of $$I$$ vs. $$V$$ values as you enter data.  For instructions on how to do this, see [here](https://support.google.com/docs/answer/9143294){:target="_blank"} and [here](https://support.google.com/docs/answer/63824){:target="_blank"}, or talk to a classmate or instructor.
 
+Your data collection for this fully-illuminated solar panel should be complete by the end of the first hour of lab.  After that, you will move on to an exploration of what happens when part of the solar panel is shaded, or the light illuminating it is dimmed.  We have provided you with black cardboard, scissors, and tape.  Use them to cover portions of your solar panel and/or grow light, and record what you have done using the template images in your lab notebook Google Doc.  Repeat your data collection to find an $$I$$ vs. $$V$$ curve and key performance metrics for this new lighting situation.  
 
-In your checkpoint you will be asked to report the following for each of the 3 sources of systematic error you investigated:
+At the end of lab this week, all lab groups will share your explorations and results with each other.  As you consider your own results and those of your classmates, think about what systematic investigation you might undertake in Weeks 2-3.  In your systematic investigation, you will adjust some feature of the lighting/shading situation for your solar panel while holding other factors constant.  Your goal will be to study how your solar panel's performance -- characterized by $$P_{max}$$ or perhaps one of the other metrics you have learned about this week -- varies as a function of the quantity you changed.
 
-1) A single screenshot from your Google docs lab notebook that shows one or two images relevant to understanding what you did.  Your images should showcase the parameter you wiggled.
+## Things to Turn In
 
-2) Your results including the estimated speed of sound under the three conditions described above.
-
-2) A 3--6 sentence description of your investigation and your conclusion as to whether this was a significant source of uncertainty.
-
-If you are having trouble working out what to investigate, please speak to your instructor. Similarly, if your first two potential sources of systematic error do not appear to be significant it would be good to check in with your instructor. Through this week's investigation you need to determine at least one significant source of systematic error to investigate in more detail next week.
-
-**Make sure when you wiggle a parameter that that is the only parameter that you change---to work out which sources of uncertainty are significant you need to wiggle one parameter at a time.**
-
-## Photo for Estimating the Speed of Sound
-
-Once you've finished exploring sources of uncertainty, take a moment to reflect on your initial measurement. Are you now aware of sources of systematic error that may have significantly affected the accuracy of the results? You do not need to collect a full data set to estimate the speed of sound with uncertainty; we will do that in future weeks. But please collect one photo in which you make an attempt to minimize any sources of systematic error you found to be significant and make use of this photo to get a preliminary estimate of the speed of sound which you will report in this week's checkpoint. 
-
-## Assessment of results
-Next week you will perform a systematic investigation of a significant source of systematic error (analogous to the investigation you performed in week 1 of module 2), the results of which will be used for one of the figures in your deliverable. Before moving on, make sure you have found a significant source of systematic error to focus on next week. This would be a good time to check in with your instructor. As part of this week's checkpoint you will be asked to indicate the source of systematic error you plan to focus on next week and your plan of approach.
-
-Even without a formal uncertainty analysis this is a good moment to check if you are on track. Do your estimated values from your efforts to "wiggle the parameters" bracket the expected speed of sound? If not we encourage you to make use of the remaining time in lab for further investigation. Is there a significant source of systematic error that you missed? It is possible that you may do a careful study and not get a range of results that includes the expected speed of sound, but you will be asked to reflect on the reasonableness of your results and your confidence in them as part of the checkpoint, so if your results do not agree with expectations we encourage you to make the most of the available time in lab to try to understand what is going on.
-
-
-
-### Summary of what you need to leave lab with today
-
-+ An investigation of potential sources of uncertainty. You should have investigated 3 potential sources of uncertainty. Please take a look at the Gradescope assignment and be sure you have everything you will need to report.
-
-+ You should have a preliminary estimate of the speed of sound based on the spacing between levitated beads. This should come from the picture you took after completing your exploration of sources of uncertainty. It should include four or more levitated beads and a ruler that can be used for image calibration. You will also need to make use of the frequency of the function generator in your analysis.
-
-
-----------------
-
-### Module 2, Checkpoint 1
-
-This week's checkpoint will be submitted in two parts. 
-
-**Part 1: Practice calculation**
-*You may resubmit Module 2, checkpoint 1, Part 1 as many times as you like until you get the correct answer (it is auto-graded and will give you an immediate response). For this part **only** it is also okay to "save" your responses to the individual questions.*
-
- You should do part 1 before part 2. **You may find it helpful to attempt part 1 before your time in lab.** You should make use of the image below when completing part 1 of the checkpoint (it is also included in the assignment on Gradescope):
-
-[![Practice image](images/Checkpoint1_practice.png)](images/Checkpoint1_practice.png){:target="_blank"}
-
-
-**Part 2: Post-lab analysis**
-For part 2 our usual rules apply:
-**Reminder:** Please prepare your assignment in a separate document, enter all entries in a single sitting without using the "save" button, and then make use of the "submit" button to submit your work. You may not resubmit your work once it has been submitted (and saving in Gradescope is equivalent to submitting).
-
-For this week’s checkpoint, part 2, you will be asked to report:
-
-+ An image of the levitated beads you used in your analysis.
-
-+ The conversion factor you used for converting pixels to distance and a 1--2 sentence description of how you arrived at this conversion factor.
-
-+ An estimate of the speed of sound, based on your last and most carefully taken image from this week.
-
-+ A summary of what you learned from your preliminary exploration of sources of uncertainty. The assignment on Gradescope has specific instructions for what to report from this exploration.
-
+Since this week is an intermediate week in lab, you will have a checkpoint due on Gradescope three days before the next lab meeting (see syllabus).
 
 ----------------
 
 + And to double-check, make sure you have finished all of this week’s miniquestions by [checking here](mini-questions#week-1){:target="_blank"}
 
-### References
-
-1. Gorkov, L. P., “Forces acting on a small particle in an acoustic field within an ideal fluid,” Dokl. Akad. Nauk SSSR 140(1), 88 (1961).
-
-2. A. Marzo, A. Barnes, and B. W. Drinkwater, “<span class="NLM_article-title">Tinylev: A multi-emitter single-axis acoustic levitator</span>,” Rev. Sci. Instrum. <b>88</b>(8), 085105 (2017).
