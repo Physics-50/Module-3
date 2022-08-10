@@ -26,7 +26,7 @@ Above we see a simple electrical circuit on the right, with a resistor of resist
 
 Each electron flowing through the load delivers a certain amount of energy there.  One way to calculate the power $$P$$ delivered to the load is therefore:
 \begin{equation}
-P = \frac{\text{energy delivered to load}}{\text{time}} = \Bigl(\frac{\text{# electrons through load}}{\text{time}}\Bigr)\Bigl(\frac{\text{energy delivered}}{\text{electron}}\Bigr).
+P = \frac{\text{energy delivered to load}}{\text{time}} = \Bigl(\frac{\text{# electrons}}{\text{time}}\Bigr)\Bigl(\frac{\text{energy delivered}}{\text{electron}}\Bigr).
 \end{equation}
 
 The amount of **electrical charge flowing past a point in a circuit per unit time is called _current_, and traditionally denoted by the variable $$I$$.**  Likewise, **the energy change per electrical charge between two points in a circuit -- in this case, before and after the load -- is called _voltage_, and traditionally denoted by the variable $$V$$.**  Thus a rephrasing and generalization of Eq. 1 is:
