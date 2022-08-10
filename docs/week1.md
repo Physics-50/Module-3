@@ -1,4 +1,4 @@
-# Week 1: Exploration of Solar Panel Output under Different Lighting Conditions
+# Week 1: Explore Solar Panel Output under Different Lighting Conditions
 
 --------------
 
