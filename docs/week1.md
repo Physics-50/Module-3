@@ -63,7 +63,7 @@ Next, you will vary the lighting conditions in some (single) way, and characteri
 
 Using cables available at your station, you will connect your solar panel to a variable load along with an _ammeter_ to measure current and a _voltmeter_ to measure voltage.  The circuit you should create is shown schematically below, but we will also go one-by-one through the circuit symbols and the actual pieces of equipment they represent.
 
-<img src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/10/solar-panel-Rmp.png" alt="" height="400">
+<img src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/10/solar-panel-Rmp.png" alt="" height="300">
 
 The figure above shows the circuit schematic for measuring the $$I-V$$ curve of a solar panel, shown as a gray rectangle.  A variable resistor provides the load, a voltmeter measure the voltage across the load, and an ammeter measures the current flowing through the load.
 
@@ -83,7 +83,7 @@ By convention red and black denote places current will flow from and to, respect
 
 A load with variable resistance will be provided by a decade resistance box, shown in the figure below:
 
-<img src="http://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/08/resistors-2.png" alt="" height="400">
+<img src="http://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/08/resistors-2.png" alt="" height="300">
 
 Part (a) above shows the circuit schematic symbol for a resistor.  Part (b) shows the symbol for a variable resistor, and part (c) shows the actual resistor box you will use in the lab.  You may have learned in the the past that it is dangerous to coonect a circuit with a load resistance of zero.  This is true for many power sources, which may try -- and fail -- to produce infinite current when presented with zero resistance.  Because our solar panels have another factor (number of photons absorbed per second) limiting their maximum current output, **it is not dangerous to set the load resistance to zero in this particular circuit**.
 
