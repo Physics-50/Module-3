@@ -1,20 +1,55 @@
-# Week 1: Exploratory Phase
-
---------------
-1. [Introduction](#introduction)
-2. [Background Reading](#background-reading)
-3. [Week 1 Instructions](#week-1-instructions)
-4. [Summary: What you need to leave lab with today](#summary-of-what-you-need-to-leave-lab-with-today)
-5. [Checkpoint Instructions](#module-2-checkpoint-1)
-6. [References](#references)
+# Week 1: Exploration of Solar Panel Output under Different Lighting Conditions
 
 --------------
 
-### Introduction
-In this module we will be working with a rather cool piece of home-built equipment, an acoustic levitator! We will be doing far more than floating objects, however. We will continue to hone in on one of the most important skills of an experimentalist: performing accurate and precise measurements. This is an important part of experimental science. The GPS on my phone may be able to tell me my location on a map, but how useful would it be if it was only certain to a radius of 5 miles? Or what if it was consistently reporting a location that was 1 mile to the east of my actual location? Understanding how well we <em>truly</em> know the value of something, being able to increase the precision to be useful for our application, and being certain that we are actually measuring what we think we are measuring are fundamental to good scientific practice.
+1. [Background](#background)
+2. [Goals for This Week](#goals-for-this-week)
+3. [Instrumentation](#instrumentation)
+4. [Collecting Data](#collecting-data)
+5. [Things to Turn In](#things-to-turn-in)
 
-### Background Reading
-This week in lab you will be working with a standing wave of sound to levitate small objects (cool!). Let us take a few minutes to understand how they work.
+--------------
+
+In this module you will be investigating how a solar panel's electrical output depends on lighting conditions.  As you might imagine, this is an active field of research and technology development, with numerous academic labs, companies, and recent HMC Clinic projects all seeking solar cell materials and panel configurations that are more robust against variations in lighting.  Over the next few weeks you will work with one particular solar panel, and you will have the opportunity to choose your own investigation within this area in Weeks 2-3.  In Week 1, you will learn the basic vocabulary and measurement techniques, perform an exploratory measurement, and compare explorations with the rest of your class to help you all choose directions for the rest of the module.
+
+## Background
+
+A **_solar panel_** consists of some number of individual **_solar cells_** packaged together for durability and practicality, and wired together to produce a single electrical output.  A solar cell, also called a _photovoltaic cell_, produces electrical power by absorbing energy from sunlight.  You can find extensive information on photovoltaics [here](https://www.pveducation.org/){:target="_blank"} and in many other places, but in this manual we will present the bare bones you will need to understand and carry out an original investigation.
+
+When a photon is absorbed by the silicon material of a solar cell, the photon's energy can excite an electron to flow freely in the material.  In slightly more detail, silicon contains electrons in lower-energy states called the _valence band_, and there is an energy gap (_bandgap_) of about 1.1 eV between these states and the higher-energy, freely-moving states in the _conduction band_.  (Recall that 1 eV = 1 electron Volt = 1.6$$\times 10^{-19}$$ J.)  A photon with an energy above 1.1 eV can excite an electron to the conduction band and get it moving there with some kinetic energy.  Electrons that simply fall back to the valence band release their energy in the form of a photon again, or in the form of lattice vibrations in the silicon; either way, no useful work is done.  But when the solar panel is part of a complete circuit, excited electrons can flow out of the silicon into the external circuit and deliver some of their extra energy to a device or **_load_** in that circuit before returning to the solar cell and filling an available spot (called a _hole_) in the valence band again.
+
+How do we characterize the **_electrical power_**, or energy per unit time, that we can extract from a solar panel?  Here some basic circuit vocabulary will be useful.  A solar panel is used as the power source for a complete circuit, or loop, in which electrons can flow from the source through the load and then back to the source, as sketched in the figure below:
+
+<img class="size-full wp-image-1493" src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2019/08/water-pump-circuit-analogy-2019-1200x589.png" alt="" width="288" height="288" />
+
+Above we see a simple electrical circuit on the right, with a resistor of resistance $$R$$ acting as the load.  On the left is a sketch of a more tangible analogy: a water circuit in which a pump pushes water around a loop where it gives up energy getting through an obstruction before returning to be pumped again.
+
+Each electron flowing through the load delivers a certain amount of energy there.  One way to calculate the power $$P$$ delivered to the load is therefore:
+\begin{equation}
+
+P = \frac{\text{energy delivered to load}}{\text{time}} = \Bigl(\frac{\text{energy delivered}}{\text{\electron}}\Bigr)\Bigl(\frac{\text{number of electrons flowing through load}}{\text{time}}\Bigr).
+\end{equation}
+
+**The amount of electrical charge flowing past a point in a circuit per unit time is called _current_, and traditionally denoted by the variable $$I$$.**  Likewise, **the energy change per electrical charge between two points in a circuit -- in this case, before and after the load -- is called _voltage_, and traditionally denoted by the variable $$V$$.**  Thus we have
+**\begin{equation}
+P = I\times V.
+\end{equation}**
+
+Electrons are very small, and it takes many, many electrons per second to generate useful electricity.  Instead of recording currents in units of electrons per unit time, we measure in standard units of **_Amperes_ or Amps (A)**:  $$1 \text{A} = 1 \frac{\text{Coulomb}}{\text{second}}$$, and the charge of an electron is (negative) $$1.6\times 10^{-19}$$ Coulombs.  And instead of measuring voltage in units of energy lost per electron, we measure in standard units of **_Volts_ (V)**:  $$1 \text{V} = 1\frac{\text{Joule}}{\text{Coulomb}}$$.  If current in Amps is multiplied by voltage in Volts, the result for power comes out in **Joules per second, or _Watts_ (W)$$.
+
+**PICK UP WORK HERE -- HOW MUCH IS BACKGROUND VS. DATA COLLECTION?**
+
+Current is electrons/time, voltage is energy/electron, load is the thing using energy, if there's no voltage there's no power.
+
+How do we up the voltage?  We up the load resistance!
+
+But if we up the resistance too much, there's no more current, and that's bad too.
+
+We are looking for maximum power.  In order to find max power we need to take an IV curve
+
+What is an IV curve?  Vary the resistance.  Take data points.  Plot the resulting curve, I vs. V.  Find max power (I times V).
+
+Once you do that, investigate the effect lighting conditions have on max power, have some paper, go nuts.
 
 #### A Brief Review of Standing Waves
 The acoustic levitators we will use in lab make use of standing waves of sound. Let us harken back to Physics 24 for a brief review of the basics of standing waves.
