@@ -20,17 +20,16 @@ When a photon is absorbed by the silicon material of a solar cell, the photon's 
 
 How do we characterize the electrical **_power_, or energy per unit time**, that we can extract from a solar panel?  Here some basic circuit vocabulary will be useful.  A solar panel is used as the power source for a complete circuit, or loop, in which electrons can flow from the source through the load and then back to the source, as sketched in the figure below:
 
-<img class="size-full wp-image-1493" src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2019/08/water-pump-circuit-analogy-2019-1200x589.png" alt=""  height="288">
+<img class="size-full wp-image-1493" src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2019/08/water-pump-circuit-analogy-2019-1200x589.png" alt="">
 
 Above we see a simple electrical circuit on the right, with a resistor of resistance $$R$$ acting as the load.  On the left is a sketch of a more tangible analogy: a water circuit in which a pump pushes water around a loop where the water gives up energy getting through an obstruction before returning to be pumped again.
 
 Each electron flowing through the load delivers a certain amount of energy there.  One way to calculate the power $$P$$ delivered to the load is therefore:
 \begin{equation}
-
 P = \frac{\text{energy delivered to load}}{\text{time}} = \Bigl(\frac{\text{number of electrons flowing through load}}{\text{time}}\Bigr)\Bigl(\frac{\text{energy delivered}}{\text{\electron}}\Bigr).
 \end{equation}
 
-**The amount of electrical charge flowing past a point in a circuit per unit time is called _current_, and traditionally denoted by the variable $$I$$.**  Likewise, **the energy change per electrical charge between two points in a circuit -- in this case, before and after the load -- is called _voltage_, and traditionally denoted by the variable $$V$$.**  Thus a rephrasing and generalization of Eq. 1 is:
+The amount of **electrical charge flowing past a point in a circuit per unit time is called _current_, and traditionally denoted by the variable $$I$$.**  Likewise, **the energy change per electrical charge between two points in a circuit -- in this case, before and after the load -- is called _voltage_, and traditionally denoted by the variable $$V$$.**  Thus a rephrasing and generalization of Eq. 1 is:
 **\begin{equation}
 P = I\times V.
 \end{equation}**
@@ -63,19 +62,19 @@ Next, you will vary the lighting conditions in some (single) way, and characteri
 
 Using cables available at your station, you will connect your solar panel to a variable load along with an _ammeter_ to measure current and a _voltmeter_ to measure voltage.  The circuit you should create is shown schematically below, but we will also go one-by-one through the circuit symbols and the actual pieces of equipment they represent.
 
-<img src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/10/solar-panel-Rmp.png" alt="" height="250">
+<img src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/10/solar-panel-Rmp.png" alt="">
 
 The figure above shows the circuit schematic for measuring the $$I-V$$ curve of a solar panel, shown as a gray rectangle.  A variable resistor provides the load, a voltmeter measure the voltage across the load, and an ammeter measures the current flowing through the load.
 
 The solar panel you will work with consists of a 4 x 9 array of individual solar cells, as pictured below, front and back:
 
-<img src="images/solar panel front and back.jpg" height="400">
+<img src="images/solar panel front and back.jpg" alt="">
 
 Manufacturer performance specifications are printed on the back of your panel, but these apply to operation in direct sunlight and will not match the performance you find in the lab with a grow light.  The electrical leads on the back of your panel have been connected to cables emerging from panel's side frame, so you can place your panel with its back flat on the table and still access the connections. 
 
 To operate your panel, slide the solar panel into the gap at the bottom of the black plastic light box, with solar cells facing up, and turn on the grow light in the top of the box:
 
-<img src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/09/light-box-small.png" alt="" height="400">
+<img src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/09/light-box-small.png" alt="">
 
 In the image on the right above, the solar panel still needs to be pushed a few more inches so that it fits entirely within the light box.  The grow light provides a standardized source of illumination, and the black box isolates the panel from variations in external room lighting.   
 
@@ -83,7 +82,7 @@ By convention red and black denote places current will flow from and to, respect
 
 A load with variable resistance will be provided by a decade resistance box, shown in the figure below:
 
-<img src="http://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/08/resistors-2.png" alt="" height="250">
+<img src="http://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/08/resistors-2.png" alt="">
 
 Part (a) above shows the circuit schematic symbol for a resistor.  Part (b) shows the symbol for a variable resistor, and part (c) shows the actual resistor box you will use in the lab.  You may have learned in the the past that it is dangerous to coonect a circuit with a load resistance of zero.  This is true for many power sources, which may try -- and fail -- to produce infinite current when presented with zero resistance.  Because our solar panels have another factor (number of photons absorbed per second) limiting their maximum current output, **it is not dangerous to set the load resistance to zero in this particular circuit**.
 
@@ -91,7 +90,7 @@ For the voltmeter and ammeter in your circuit, you will use two different _digit
 
 To measure current, you will use the desktop multimeter pictured below:
 
-<img src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2019/09/ammeter-3-1200x525.png" alt="" height="400">
+<img src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2019/09/ammeter-3-1200x525.png" alt="">
 
 Part (a) above shows the circuit schematic symbol for an ammeter, while part (b) shows the instrument you will use.  Power on the multimeter and press the "Shift" and "DC V" buttons to set it to measure DC current (see blue "DC I" above the "DC V" button).  There are two red current ports labeled with the max amount of current they can measure:  500 mA and 20 A.  You can start out by using the 20A port, but switch to the 500 mA port for greater sensitivity if the currents you observe are low enough.  Current coming from the load should be connected to the appropriate red current input of the ammeter.  Current will then flow through the ammeter and out the black COM port, which should be connected to the black lead of the solar panel to complete your circuit.
 
@@ -99,7 +98,7 @@ This is a good time to set up your circuit the with solar panel, load, and ammet
 
 The last component you will add is your voltmeter.  For this purpose you will use a handheld multimeter like the one pictured below:
 
-<img src="images/voltmeter.jpg" alt="" height="400">
+<img src="images/voltmeter.jpg" alt="">
 
 Part (a) above shows the circuit schematic symbol for a voltmeter, while part (b) shows the instrument you will use.  Power on the voltmeter by turning the dial to measure DC voltage, as indicated in the picture.  Since voltage is the energy change per unit charge in going from one point in a circuit to another, a voltmeter must be connected to two different points on the outside of an already complete circuit loop.  This is called connecting it _in parallel_ with the rest of the circuit.  You will connect your voltmeter leads to the two sides of your load as shown below:  
 
