@@ -20,7 +20,7 @@ When a photon is absorbed by the silicon material of a solar cell, the photon's 
 
 How do we characterize the electrical **_power_, or energy per unit time**, that we can extract from a solar panel?  Here some basic circuit vocabulary will be useful.  A solar panel is used as the power source for a complete circuit, or loop, in which electrons can flow from the source through the load and then back to the source, as sketched in the figure below:
 
-<img class="size-full wp-image-1493" src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2019/08/water-pump-circuit-analogy-2019-1200x589.png" alt="" width="288" height="288" />
+<img class="size-full wp-image-1493" src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2019/08/water-pump-circuit-analogy-2019-1200x589.png" alt=""  height="288">
 
 Above we see a simple electrical circuit on the right, with a resistor of resistance $$R$$ acting as the load.  On the left is a sketch of a more tangible analogy: a water circuit in which a pump pushes water around a loop where the water gives up energy getting through an obstruction before returning to be pumped again.
 
@@ -63,7 +63,7 @@ Next, you will vary the lighting conditions in some (single) way, and characteri
 
 Using cables available at your station, you will connect your solar panel to a variable load along with an _ammeter_ to measure current and a _voltmeter_ to measure voltage.  The circuit you should create is shown schematically below, but we will also go one-by-one through the circuit symbols and the actual pieces of equipment they represent.
 
-<img src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/10/solar-panel-Rmp.png" alt="" width="400" height="400">
+<img src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/10/solar-panel-Rmp.png" alt="" height="400">
 
 The figure above shows the circuit schematic for measuring the $$I-V$$ curve of a solar panel, shown as a gray rectangle.  A variable resistor provides the load, a voltmeter measure the voltage across the load, and an ammeter measures the current flowing through the load.
 
@@ -99,11 +99,11 @@ This is a good time to set up your circuit the with solar panel, load, and ammet
 
 The last component you will add is your voltmeter.  For this purpose you will use a handheld multimeter like the one pictured below:
 
-<img src="images/voltmeter.jpg" alt="" width="400">
+<img src="images/voltmeter.jpg" alt="" height="400">
 
 Part (a) above shows the circuit schematic symbol for a voltmeter, while part (b) shows the instrument you will use.  Power on the voltmeter by turning the dial to measure DC voltage, as indicated in the picture.  Since voltage is the energy change per unit charge in going from one point in a circuit to another, a voltmeter must be connected to two different points on the outside of an already complete circuit loop.  This is called connecting it _in parallel_ with the rest of the circuit.  You will connect your voltmeter leads to the two sides of your load as shown below:  
 
-<img src="images/voltmeter_in_circuit.jpg" alt="" height="400">
+<img src="images/voltmeter_in_circuit.jpg" alt="">
 
 Make sure your voltmeter is reading a voltage (in units of V or mV).  Be aware that either of your meters may autoscale as the current and voltage values change; make sure to pay attention to the units on the displays so that you are recording current and voltage accurately.  After it has been powered on for a long time, the voltmeter might beep and possibly turn itself off, but you can always just turn the dial to off and then back to DC volts.
 
