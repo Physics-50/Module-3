@@ -2,7 +2,7 @@
 
 -----------------------------------
 1. [Experimental Design](#experimental-design)
-2. [Data Collection](#data collection)
+2. [Data Collection](#data-collection)
 3. [Things to Turn In](#things-to-turn-in)
 
 ------------------------------------
@@ -23,6 +23,7 @@ To drive home the point, here are a few example conclusions that (if supported b
 + Incident angle of sunlight on a solar panel has no measurable effect on the panel's maximum output power.
 + If a solar panel is shaded over its entire width but for different lengths $$y$$, output power decreases slowly as $$y$$ increases until $$y$$ reaches half the length of the panel, when output power drops dramatically.
 + As the wavelength of light illuminating the solar panel is increased, $$V_{oc}$$ increases steadily as a roughly linear function of the wavelength.
+
 Just to say this one more time:  **the hypothetical conclusions above may or may not be true for our solar panels!**
 
 Here are a few example conclusions that **would not represent successful investigations**, even if supported by data:
@@ -36,7 +37,7 @@ During Weeks 2 and 3, you and your partner will agree on an investigation, carry
 
 Try to understand and mitigate the most significant sources of uncertainty in your determination of $$P_{max}$$ (or $$I_{sc}$$ or $$V_{oc}$$ if you focus on one of those), but do not get bogged down in repeated trials for their own sake.  Perhaps something else is really the limiting factor in your accuracy or precision, and you should be focusing there instead!  Or perhaps the changes in your solar panel's performance are so dramatic that they are clear even with your relatively large uncertainties -- and the best use of your time is to explore more different settings instead of gathering more data on just a few.
 
-Experimental design, data collection, and data analysis and interpretation is often presented as a linear sequence of activities.  In practice, they are much more cyclic, with preliminary data collection and interpretation giving feedback on the viability or usefulness of the original plan.  Especially in an investigation that only spans a few hours of lab time overall, reviewing preliminary results to adjust your next steps is almost certainly more useful than adhering to a strict standard of results-blind data-taking and separate analysis. 
+Experimental design, data collection, and data analysis and interpretation are often presented as a linear sequence of activities.  In practice, they are much more cyclic, with preliminary data collection and interpretation giving feedback on the viability or usefulness of the original plan.  Especially in an investigation that only spans a few hours of lab time overall, reviewing preliminary results to adjust your next steps is almost certainly more useful than adhering to a strict standard of results-blind data-taking and separate analysis. 
 
 ## Things to Turn In
 
