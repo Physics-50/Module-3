@@ -1,4 +1,4 @@
-# Module 3, Week 2:  Design and Begin Investigation
+# Week 2:  Design and Begin Investigation
 
 -----------------------------------
 1. [Experimental Design](#experimental-design)
