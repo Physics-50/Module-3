@@ -2,7 +2,7 @@
 
 This page provides an overview of the Module 3 content.  You should use the links below to find the relevant instructions specific to each week.
 
-+ [Week 1 - Exploration of Solar Panel Output under Different Lighting Conditions](week1)
++ [Week 1 - Explore Solar Panel Output under Different Lighting Conditions](week1)
 + [Week 2 - Design and Begin Investigation](week2)
 + [Week 3 - Complete Investigation](week3)
 
