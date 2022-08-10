@@ -1,4 +1,4 @@
-# Week 3
+# Week 3:  Complete Investigation
 
 -------------------------------------------
 1. [Goals for This Week](#goals-for-this-week)
