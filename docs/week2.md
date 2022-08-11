@@ -17,7 +17,7 @@ Your investigation will be a success if it leads to meaningful conclusions about
 + You can phrase the conclusions in a way that allows others to understand what they mean.
 + These conclusions are a reliable foundation for predicting behavior of these solar panels in the future.
 
-Notice that a meaningful conclusion -- and thus a successful investigation -- does _not_ require you to:  (a) demonstrate a dramatic (or even nonzero) effect of the quantity you are changing; (b) find an exact function that describes the way your measured quantity depends on the thing you changed; or (c) explain a theoretical reason for the dependence you found in your measurements.
+Notice that a meaningful conclusion -- and thus a successful investigation -- does _not_ require you to:  (a) demonstrate a dramatic (or even nonzero) effect of the quantity you are changing; find an exact function that describes the way your measured quantity depends on the thing you changed; or (c) explain a theoretical reason for the dependence you found in your measurements.  It also does not require you to state a hypothesis before the start of the investigation, in the sense of "we expect X to happen."  Formulating a hypothesis is one possible way -- but not the only one -- of making sure that your experiment is capable of distinguishing  between several different situations you care about distinguishing.
 
 To drive home the point, here are a few example conclusions that (if supported by data!) **could represent successful investigations**:
 + Incident angle of sunlight on a solar panel has no measurable effect on the panel's maximum output power.
