@@ -5,6 +5,7 @@ This page provides an overview of the Module 3 content.  You should use the link
 + [Week 1 - Explore Solar Panel Output under Different Lighting Conditions](week1)
 + [Week 2 - Design and Begin Investigation](week2)
 + [Week 3 - Complete Investigation](week3)
++ [Mini-questions](mini-questions):  all the Module 3 mini-questions in one location
 
 
 <!-- [Background Reading](#background-reading) -->
