@@ -130,5 +130,5 @@ Since this week is an intermediate week in lab, you will have a checkpoint due o
 
 ----------------
 
-+ And to double-check, make sure you have finished all of this week’s miniquestions by [checking here](mini-questions#week-1){:target="_blank"}
++ And to double-check, make sure you have finished all of this week’s mini-questions by [checking here](mini-questions#week-1){:target="_blank"}
 
