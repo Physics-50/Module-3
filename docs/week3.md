@@ -28,10 +28,10 @@ The tech report will take up the remaining lab weeks after this one.  For the te
 ## Things to Turn In
 
 + Your Module 3 lab report will be due after this week (no rough draft week), three days before the next module begins.  As a reminder, the report due dates are:
-    + Monday sections:  report due Friday 11/18 at 10p.m.
-    + Wednesday sections:  report due Sunday 11/13 at 10p.m.
-    + Thursday sections:  report due Monday 11/14 at 10p.m.
-    + Friday sections:  report due Tuesday 11/15 at 10p.m.
+    + Monday sections:  report due Friday at 10p.m.
+    + Wednesday sections:  report due Sunday at 10p.m.
+    + Thursday sections:  report due Monday at 10p.m.
+    + Friday sections:  report due Tuesday at 10p.m.
 
 + Make sure you have completed [this week's mini-question](mini-questions#week-3){:target="_blank"} before the end of lab.
 
