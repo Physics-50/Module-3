@@ -5,6 +5,7 @@
 ## Things to Turn In
 
 + Your Module 3 lab report will be due after this week (no rough draft week), three days before the next module begins.  As a reminder, the report due dates are:
+
     + Monday sections:  report due Friday at 10 p.m.
     + Wednesday sections:  report due Sunday at 10 p.m.
     + Thursday sections:  report due Monday at 10 p.m.
