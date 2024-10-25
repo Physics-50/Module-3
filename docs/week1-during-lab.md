@@ -5,7 +5,7 @@
 
 Your goals this week are to become familiar with a solar panel circuit and the data-taking process, characterize the solar panel's performance under good lighting conditions, and get ideas for what kind of systematic investigation in Weeks 2-3 could be interesting and informative.
 
-First you will set up a circuit to connect your solar panel to a variable load resistance, while including multimeters to measure the current through the load and voltage across the load.  You will collect data by varying load resistance and plot an I-V curve for your panel when it is fully illuminated by the grow light at your station.  You will determine $$I_{sc}$$, $$V_{oc}$$, and $$P_{max}$$ from your data.  This process will give you an idea of how to efficiently collect the relevant data, as well as what factors cause the most uncertainty in your determination of the three key quantities.
+First you will set up a circuit to connect your solar panel to a variable load resistance, while including multimeters to measure the current through the load and voltage across the load.  You will collect data by varying load resistance and plot an I-V curve for your panel when it is fully illuminated by the grow light at your station.  You will determine $$I_{\rm sc}$$, $$V_{\rm oc}$$, and $$P_{\rm max}$$ from your data.  This process will give you an idea of how to efficiently collect the relevant data, as well as what factors cause the most uncertainty in your determination of the three key quantities.
 
 Next, you will vary the lighting conditions in some (single) way, and characterize the performance of your solar panel under the new conditions.  You will share results with the rest of your class, and from there begin to design a systematic investigation to undertake in Weeks 2-3.
 
@@ -40,7 +40,7 @@ To measure current, you will use the desktop multimeter pictured below:
 
 Part (a) above shows the circuit schematic symbol for an ammeter, while part (b) shows the instrument you will use.  Power on the multimeter and press the "Shift" and "DC V" buttons to set it to measure DC current (see blue "DC I" above the "DC V" button).  There are two red current ports labeled with the max amount of current they can measure:  500 mA and 20 A.  You can start out by using the 20A port, but switch to the 500 mA port for greater sensitivity if the currents you observe are low enough.  Current coming from the load should be connected to the appropriate red current input of the ammeter.  Current will then flow through the ammeter and out the black COM port, which should be connected to the black lead of the solar panel to complete your circuit.
 
-This is a good time to set up your circuit the with solar panel, load, and ammeter all in a single loop, or _in series_ with each other, so current flows through each in turn.  Make sure the ammeter is reading a current (in units of A or mA).
+This is a good time to set up your circuit with the solar panel, load, and ammeter all in a single loop (_in series_ with each other) so current flows through each in turn.  Make sure the ammeter is reading a current (in units of A or mA).
 
 The last component you will add is your voltmeter.  For this purpose you will use a handheld multimeter like the one pictured below:
 
@@ -55,7 +55,7 @@ Make sure your voltmeter is reading a voltage (in units of V or mV).  Be aware t
 
 ## Data Collection
 
-With your circuit complete, both meters powered on and set correctly, and your grow light fully illuminating your solar panel, now you will measure the I-V curve of your solar panel. To do measure the I-V curve, vary the load resistance and record current and voltage values at different load resistances.  To make the best use of your time, you may want to start by increasing or decreasing your load resistance by a factor of ten at a time, until you have an idea of roughly what resistance is "very large" for this solar panel -- i.e., large enough to make the current start nosediving toward zero.  You can then take a modest number of data points at "very large" and "very small" resistance values, but focus on intermediate resistances in order to find $$P_{max}$$.  
+With your circuit complete, both meters powered on and set correctly, and your grow light fully illuminating your solar panel, now you will measure the I-V curve of your solar panel. To do measure the I-V curve, vary the load resistance and record current and voltage values at different load resistances.  To make the best use of your time, you may want to start by increasing or decreasing your load resistance by a factor of ten at a time, until you have an idea of roughly what resistance is "very large" for this solar panel -- i.e., large enough to make the current start nosediving toward zero.  You can then take a modest number of data points at "very large" and "very small" resistance values, but focus on intermediate resistances in order to find $$P_{\rm max}$$.  
 
 To help guide your data taking, set up your Google Sheet to make a scatter chart of $$I$$ vs. $$V$$ values as you enter data.  For instructions on how to do this, see [here](https://support.google.com/docs/answer/9143294){:target="_blank"} and [here](https://support.google.com/docs/answer/63824){:target="_blank"}, or talk to a classmate or instructor.
 
