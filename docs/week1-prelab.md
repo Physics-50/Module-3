@@ -17,7 +17,7 @@ Above we see a simple electrical circuit on the right, with a resistor of resist
 
 Each electron flowing through the load delivers a certain amount of energy there.  One way to calculate the power $$P$$ delivered to the load is therefore:
 \begin{equation}
-P = \frac{\text{energy delivered to load}}{\text{time}} = \Bigl(\frac{\text{# electrons}}{\text{time}}\Bigr)\Bigl(\frac{\text{energy delivered}}{\text{electron}}\Bigr).
+P = \frac{\text{energy delivered to load}}{\text{time}} = \Bigl(\frac{\text{num. electrons}}{\text{time}}\Bigr)\Bigl(\frac{\text{energy delivered}}{\text{electron}}\Bigr).
 \end{equation}
 
 The amount of **electrical charge flowing past a point in a circuit per unit time is called _current_, and traditionally denoted by the variable $$I$$.**  Likewise, **the energy change per electrical charge between two points in a circuit -- in this case, before and after the load -- is called _voltage_, and traditionally denoted by the variable $$V$$.**  Thus a rephrasing and generalization of Eq. 1 is:
@@ -37,9 +37,9 @@ In the electrical circuit above, the load is characterized by its electrical **_
 
 ---------
 
-In evaluating the performance of a solar panel connected to a load resistance, there are three quantities of particular interest.  One is the maximum current referred to above, produced when the load resistance is very small.  A small or zero load resistance is called a _short circuit_, so the maximum current output of a solar panel is called its **_short-circuit current_, or $$I_{sc}$$**.  The second quantity of interest is the maximum voltage output discussed above, produced when the load resistance is very large.  A large or infinite load resistance is called an _open circuit_, so the maximum voltage output of a solar panel is called its **_open-circuit voltage_, or $$V_{oc}$$**.  Finally, the quantity that is probably most important in the end is the panel's **_maximum power output_, $$P_{max}$$**, which must be found by mapping out the values of $$I$$ and $$V$$ (and thus $$P$$) for different values of $$R$$.  
+In evaluating the performance of a solar panel connected to a load resistance, there are three quantities of particular interest.  One is the maximum current referred to above, produced when the load resistance is very small.  A small or zero load resistance is called a _short circuit_, so the maximum current output of a solar panel is called its **_short-circuit current_, or $$I_{\rm sc}$$**.  The second quantity of interest is the maximum voltage output discussed above, produced when the load resistance is very large.  A large or infinite load resistance is called an _open circuit_, so the maximum voltage output of a solar panel is called its **_open-circuit voltage_, or $$V_{\rm oc}$$**.  Finally, the quantity that is probably most important in the end is the panel's **_maximum power output_, $$P_{\rm max}$$**, which must be found by mapping out the values of $$I$$ and $$V$$ (and thus $$P$$) for different values of $$R$$.  
 
-Really, all three quantities of interest can be found by varying the load resistance and measuring $$(V, I)$$ at each value of $$R$$.  A graph of $$I$$ vs. $$V$$, known as an I-V curve, should show something like the following: current decreasing as voltage increases, which happens as the load resistance is increased; current approaching $$I_{sc}$$ as $$V$$ approaches zero; voltage approaching $$V_{sc}$$ as $$I$$ approaches zero; and a "corner" in the graph between the horizontal and vertical asymptotes, where the power is maximized.  A solar cell performing well shows these features clearly on its I-V curve, while one whose performance is compromised might have a distorted curve shape.  You will be measuring I-V curves for your solar panel under different conditions this week and throughout the module.
+Really, all three quantities of interest can be found by varying the load resistance and measuring $$(V, I)$$ at each value of $$R$$.  A graph of $$I$$ vs. $$V$$, known as an I-V curve, should show something like the following: current decreasing as voltage increases, which happens as the load resistance is increased; current approaching $$I_{\rm sc}$$ as $$V$$ approaches zero; voltage approaching $$V_{\rm oc}$$ as $$I$$ approaches zero; and a "corner" in the graph between the horizontal and vertical asymptotes, where the power is maximized.  A solar cell performing well shows these features clearly on its I-V curve, while one whose performance is compromised might have a distorted curve shape.  You will be measuring I-V curves for your solar panel under different conditions this week and throughout the module.
 
 ## Instrumentation
 
@@ -49,7 +49,7 @@ To measure the I-V curve of your solar panel, you will connect your solar panel 
 
 The figure above shows the circuit schematic for measuring the $$I-V$$ curve of a solar panel, shown as a gray rectangle.  A variable resistor provides the load, a voltmeter measure the voltage across the load, and an ammeter measures the current flowing through the load.
 
-The solar panel you will work with consists of a 4 x 9 array of individual solar cells, as pictured below, front and back:
+The solar panel you will work with consists of a 4 $$\times$$ 9 array of individual solar cells, as pictured below, front and back:
 
 <img src="images/solar panel front and back.jpg" alt="">
 
