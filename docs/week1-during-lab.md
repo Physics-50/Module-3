@@ -3,11 +3,13 @@
 
 ## Goals for This Week
 
-Your goals this week are to become familiar with a solar panel circuit and the data-taking process, characterize the solar panel's performance under good lighting conditions, and get ideas for what kind of systematic investigation in Weeks 2-3 could be interesting and informative.
+Your goals for today are to become familiar with a solar panel circuit and the data-taking process, characterize the solar panel's performance under good lighting conditions, and get ideas for what kind of systematic investigation could be interesting and informative if you choose this experiment for your Tech Report.
+<!-- Original (Module 3 was a 3-week module): Your goals this week are to become familiar with a solar panel circuit and the data-taking process, characterize the solar panel's performance under good lighting conditions, and get ideas for what kind of systematic investigation in Weeks 2-3 could be interesting and informative. -->
 
 First you will set up a circuit to connect your solar panel to a variable load resistance, while including multimeters to measure the current through the load and voltage across the load.  You will collect data by varying load resistance and plot an I-V curve for your panel when it is fully illuminated by the grow light at your station.  You will determine $$I_{\rm sc}$$, $$V_{\rm oc}$$, and $$P_{\rm max}$$ from your data.  This process will give you an idea of how to efficiently collect the relevant data, as well as what factors cause the most uncertainty in your determination of the three key quantities.
 
-Next, you will vary the lighting conditions in some (single) way, and characterize the performance of your solar panel under the new conditions.  You will share results with the rest of your class, and from there begin to design a systematic investigation to undertake in Weeks 2-3.
+Next, you will vary the lighting conditions in some (single) way, and characterize the performance of your solar panel under the new conditions.  You will share results with the rest of your class, and from there begin to think about how you might design a systematic investigation using this apparatus, in case you choose it for your Tech Report.
+<!-- Original (Module 3 was a 3-week module): Next, you will vary the lighting conditions in some (single) way, and characterize the performance of your solar panel under the new conditions.  You will share results with the rest of your class, and from there begin to design a systematic investigation to undertake in Weeks 2-3. -->
 
 
 ## Instrumentation
@@ -16,7 +18,7 @@ Using cables available at your station, connect your solar panel to a variable l
 
 <img src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/10/solar-panel-Rmp.png" alt="" width="300">
 
-The figure above shows the circuit schematic for measuring the $$I-V$$ curve of a solar panel, shown as a gray rectangle.  A variable resistor provides the load, a voltmeter measure the voltage across the load, and an ammeter measures the current flowing through the load.
+The figure above shows the circuit schematic for measuring the $$I-V$$ curve of a solar panel, shown as a gray rectangle.  A variable resistor provides the load, a voltmeter measures the voltage across the load, and an ammeter measures the current flowing through the load.
 
 To operate your panel, slide the solar panel into the gap at the bottom of the black plastic light box, with solar cells facing up, and turn on the grow light in the top of the box:
 
@@ -30,7 +32,7 @@ A load with variable resistance will be provided by a decade resistance box, sho
 
 <img src="http://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/08/resistors-2.png" alt="">
 
-Part (a) above shows the circuit schematic symbol for a resistor.  Part (b) shows the symbol for a variable resistor, and part (c) shows the actual resistor box you will use in the lab.  You may have learned in the the past that it is dangerous to connect a circuit with a load resistance of zero.  This is true for many power sources, which may try -- and fail -- to produce infinite current when presented with zero resistance.  Because our solar panels have another factor (number of photons absorbed per second) limiting their maximum current output, **it is not dangerous to set the load resistance to zero in this particular circuit**.
+Part (a) above shows the circuit schematic symbol for a resistor.  Part (b) shows the symbol for a variable resistor, and part (c) shows the actual resistor box you will use in the lab.  You may have learned in the past that it is dangerous to connect a circuit with a load resistance of zero.  This is true for many power sources, which may try -- and fail -- to produce infinite current when presented with zero resistance.  Because our solar panels have another factor (number of photons absorbed per second) limiting their maximum current output, **it is not dangerous to set the load resistance to zero in this particular circuit**.
 
 For the voltmeter and ammeter in your circuit, you will use two different _digital multimeters_, instruments that can be set to measure a variety of electrical properties of a circuit or individual device.  
 
@@ -61,4 +63,5 @@ To help guide your data taking, set up your Google Sheet to make a scatter plot 
 
 Your data collection for this fully-illuminated solar panel should be complete by the end of the first hour of lab.  After that, you will move on to an exploration of what happens when part of the solar panel is shaded, or the light illuminating it is dimmed.  We have provided you with black cardboard, scissors, and tape.  Use them to cover portions of your solar panel and/or grow light, and record what you have done using the template images in your lab notebook Google Doc.  Repeat your data collection to find an I-V curve and key performance metrics for this new lighting situation.  
 
-At the end of lab this week, all lab groups will share your explorations and results with each other.  As you consider your own results and those of your classmates, think about what systematic investigation you might undertake in Weeks 2-3.  In your systematic investigation, you will adjust some feature of the lighting/shading situation for your solar panel while holding other factors constant.  Your goal will be to study how your solar panel's performance -- characterized by $$I_{sc}$$, $$V_{oc}$$, or $$P_{max}$$ -- varies as a function of the quantity you changed.
+At the end of lab today, all lab groups will share their explorations and results with each other.  As you consider your own results and those of your classmates, think about what systematic investigation you might design using this apparatus, in case you choose it for your Tech Report.  In such a systematic investigation, you would adjust some feature of the lighting/shading situation for your solar panel while holding other factors constant, to study how your solar panel's performance -- characterized by $$I_{sc}$$, $$V_{oc}$$, or $$P_{max}$$ -- varies as a function of the quantity you changed.
+<!-- Original (Module 3 was a 3-week module): At the end of lab this week, all lab groups will share their explorations and results with each other.  As you consider your own results and those of your classmates, think about what systematic investigation you might undertake in Weeks 2-3.  In your systematic investigation, you will adjust some feature of the lighting/shading situation for your solar panel while holding other factors constant.  Your goal will be to study how your solar panel's performance -- characterized by $$I_{sc}$$, $$V_{oc}$$, or $$P_{max}$$ -- varies as a function of the quantity you changed. -->

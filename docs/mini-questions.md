@@ -1,10 +1,8 @@
-# Mini-questions for Module 2
+# Mini-questions for Module 3, Week 1
 
-On this page you will find all of the mini-questions for Module 2. Although each question appears in context as you go through the module reading, you can use this page to verify that you have submitted all the mini-questions for each week.
+On this page you will find the mini-questions for Module 3 Week 1, which is used in the [Experimental Design Lesson](https://physics-50.github.io/General/data_analysis_guides#experimental-design-lesson-before-tech-report). Although each question appears in context as you go through the reading, you can use this page to verify that you have submitted both mini-questions.
 
 + [Week 1](#week-1)
-+ [Week 2](#week-2)
-+ [Week 3](#week-3)
 
 
 ## Week 1
@@ -27,6 +25,12 @@ On this page you will find all of the mini-questions for Module 2. Although each
 
 ---------
 
+<!-- The Week 2 and Week 3 content below is retained for reference but is no longer part of the course, since Module 3 is not taught as a standalone module (only Week 1 is used, in the Experimental Design Lesson).
+
+# Mini-questions for Module 2
+
+On this page you will find all of the mini-questions for Module 2. Although each question appears in context as you go through the module reading, you can use this page to verify that you have submitted all the mini-questions for each week.
+
 ## Week 2
 
 ---------------------------------------------------------------
@@ -47,3 +51,5 @@ See information on the technical report above (in Week 2) and additional informa
 </iframe>
 
 ---------
+
+-->
