@@ -1,10 +1,10 @@
 # Module 3 Week 1 During Lab
 
 Outline
-[Background](week1-during-lab#Background)
-[Goals for This Week](week1-during-lab#Goals-for-This-Week)
-[Instrumentation](week1-during-lab#Instrumentation)
-[Data Collection](week1-during-lab#Data-Collection)
++ [Background](week1-during-lab#Background)
++ [Goals for This Week](week1-during-lab#Goals-for-This-Week)
++ [Instrumentation](week1-during-lab#Instrumentation)
++ [Data Collection](week1-during-lab#Data-Collection)
 
 
 ## Background
