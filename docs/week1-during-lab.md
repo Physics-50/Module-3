@@ -1,4 +1,4 @@
-# Module 3 Week 1 During Lab
+# Experimental Design Lesson During Lab
 
 Outline
 + [Background](week1-during-lab#background)
